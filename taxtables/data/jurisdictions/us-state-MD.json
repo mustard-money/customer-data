@@ -1,0 +1,2641 @@
+{
+  "id": "us-state-MD",
+  "kind": "state",
+  "region": "Maryland",
+  "state": "MD",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $800 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Exemption $800 per DLS history (set 1955, next change 1987). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $1,000 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $1,000 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1100,
+        "marriedJoint": 2200
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $1,100 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1200,
+        "marriedJoint": 2400
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $1,200 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1200,
+        "marriedJoint": 2400
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $1,200 personal exemption per person. Same brackets for joint returns (married couples could instead file combined separate returns, not modelled). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 150000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1200,
+        "marriedJoint": 2400
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "Temporary 6% rate over $100,000 (single) / $150,000 (joint), tax years 1992-94. 2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $1,200 personal exemption per person. Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 150000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1200,
+        "marriedJoint": 2400
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "Temporary 6% rate over $100,000 (single) / $150,000 (joint), tax years 1992-94. 2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $1,200 personal exemption per person. Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 150000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1200,
+        "marriedJoint": 2400
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "Temporary 6% rate over $100,000 (single) / $150,000 (joint), tax years 1992-94. 2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $1,200 personal exemption per person. Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1200,
+        "marriedJoint": 2400
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $1,200 personal exemption per person. Same brackets for joint returns. Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1200,
+        "marriedJoint": 2400
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $1,200 personal exemption per person. Same brackets for joint returns. Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1200,
+        "marriedJoint": 2400
+      },
+      "source": "https://mgaleg.maryland.gov/1998rs/bills/sb/sb0628f.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 5% above (rate structure from 1967). Deduction = $1,200 personal exemption per person. Same brackets for joint returns. Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included. Brackets as quoted from the 1997 code (Tax-General 10-105) in 1998 SB 628."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.04875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1750,
+        "marriedJoint": 3500
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 4.875% above (rate structure from 1967). Deduction = $1,750 personal exemption per person. Same brackets for joint returns. 1997 Tax Reduction Act phase-in, accelerated for 1998-99 (Ch. 4 of 1998). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0485
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1850,
+        "marriedJoint": 3700
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 4.85% above (rate structure from 1967). Deduction = $1,850 personal exemption per person. Same brackets for joint returns. 1997 Tax Reduction Act phase-in, accelerated for 1998-99 (Ch. 4 of 1998). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0485
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1850,
+        "marriedJoint": 3700
+      },
+      "source": "https://mgaleg.maryland.gov/2000rs/fnotes/bil_0006/hb1186.PDF",
+      "notes": "2% / 3% / 4% on the first $3,000, 4.85% above (rate structure from 1967). Deduction = $1,850 personal exemption per person. Same brackets for joint returns. 1997 Tax Reduction Act phase-in, accelerated for 1998-99 (Ch. 4 of 1998). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.048
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2100,
+        "marriedJoint": 4200
+      },
+      "source": "https://mgaleg.maryland.gov/2000rs/fnotes/bil_0006/hb1186.PDF",
+      "notes": "2% / 3% / 4% on the first $3,000, 4.8% above (rate structure from 1967). Deduction = $2,100 personal exemption per person. Same brackets for joint returns. 1997 Tax Reduction Act phase-in, accelerated for 1998-99 (Ch. 4 of 1998). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2400,
+        "marriedJoint": 4800
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 4.75% above (rate structure from 1967). Deduction = $2,400 personal exemption per person. Same brackets for joint returns. 1997 Tax Reduction Act phase-in, accelerated for 1998-99 (Ch. 4 of 1998). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2400,
+        "marriedJoint": 4800
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 4.75% above (rate structure from 1967). Deduction = $2,400 personal exemption per person. Same brackets for joint returns. Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2400,
+        "marriedJoint": 4800
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 4.75% above (rate structure from 1967). Deduction = $2,400 personal exemption per person. Same brackets for joint returns. Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2400,
+        "marriedJoint": 4800
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 4.75% above (rate structure from 1967). Deduction = $2,400 personal exemption per person. Same brackets for joint returns. Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2400,
+        "marriedJoint": 4800
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 4.75% above (rate structure from 1967). Deduction = $2,400 personal exemption per person. Same brackets for joint returns. Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2400,
+        "marriedJoint": 4800
+      },
+      "source": "https://dls.maryland.gov/pubs/prod/RecurRpt/Handbook_Volume_3_MDs_Revenue_Structure.pdf",
+      "notes": "2% / 3% / 4% on the first $3,000, 4.75% above (rate structure from 1967). Deduction = $2,400 personal exemption per person. Same brackets for joint returns. Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 300000,
+            "rate": 0.0525
+          },
+          {
+            "from": 500000,
+            "rate": 0.055
+          },
+          {
+            "from": 1000000,
+            "rate": 0.0625
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 200000,
+            "rate": 0.05
+          },
+          {
+            "from": 350000,
+            "rate": 0.0525
+          },
+          {
+            "from": 500000,
+            "rate": 0.055
+          },
+          {
+            "from": 1000000,
+            "rate": 0.0625
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2009/Resident_booklet.pdf",
+      "notes": "Includes the temporary 6.25% rate over $1 million (2008-10). Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included. No 2008 booklet available; schedule taken from the 2009 booklet, consistent with the DLS history (2007 law effective 2008)."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 300000,
+            "rate": 0.0525
+          },
+          {
+            "from": 500000,
+            "rate": 0.055
+          },
+          {
+            "from": 1000000,
+            "rate": 0.0625
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 200000,
+            "rate": 0.05
+          },
+          {
+            "from": 350000,
+            "rate": 0.0525
+          },
+          {
+            "from": 500000,
+            "rate": 0.055
+          },
+          {
+            "from": 1000000,
+            "rate": 0.0625
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2009/Resident_booklet.pdf",
+      "notes": "Includes the temporary 6.25% rate over $1 million (2008-10). Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 300000,
+            "rate": 0.0525
+          },
+          {
+            "from": 500000,
+            "rate": 0.055
+          },
+          {
+            "from": 1000000,
+            "rate": 0.0625
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 200000,
+            "rate": 0.05
+          },
+          {
+            "from": 350000,
+            "rate": 0.0525
+          },
+          {
+            "from": 500000,
+            "rate": 0.055
+          },
+          {
+            "from": 1000000,
+            "rate": 0.0625
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2010/Resident_booklet.pdf",
+      "notes": "Includes the temporary 6.25% rate over $1 million (2008-10). Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 300000,
+            "rate": 0.0525
+          },
+          {
+            "from": 500000,
+            "rate": 0.055
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 200000,
+            "rate": 0.05
+          },
+          {
+            "from": 350000,
+            "rate": 0.0525
+          },
+          {
+            "from": 500000,
+            "rate": 0.055
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2011/Resident_booklet.pdf",
+      "notes": "Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 100000,
+            "rate": 0.05
+          },
+          {
+            "from": 125000,
+            "rate": 0.0525
+          },
+          {
+            "from": 150000,
+            "rate": 0.055
+          },
+          {
+            "from": 250000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 175000,
+            "rate": 0.0525
+          },
+          {
+            "from": 225000,
+            "rate": 0.055
+          },
+          {
+            "from": 300000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2012/resident_booklet.pdf",
+      "notes": "Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 100000,
+            "rate": 0.05
+          },
+          {
+            "from": 125000,
+            "rate": 0.0525
+          },
+          {
+            "from": 150000,
+            "rate": 0.055
+          },
+          {
+            "from": 250000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 175000,
+            "rate": 0.0525
+          },
+          {
+            "from": 225000,
+            "rate": 0.055
+          },
+          {
+            "from": 300000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2013/resident_booklet.pdf",
+      "notes": "Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 100000,
+            "rate": 0.05
+          },
+          {
+            "from": 125000,
+            "rate": 0.0525
+          },
+          {
+            "from": 150000,
+            "rate": 0.055
+          },
+          {
+            "from": 250000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 175000,
+            "rate": 0.0525
+          },
+          {
+            "from": 225000,
+            "rate": 0.055
+          },
+          {
+            "from": 300000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2014/Resident_Booklet.pdf",
+      "notes": "Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 100000,
+            "rate": 0.05
+          },
+          {
+            "from": 125000,
+            "rate": 0.0525
+          },
+          {
+            "from": 150000,
+            "rate": 0.055
+          },
+          {
+            "from": 250000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 175000,
+            "rate": 0.0525
+          },
+          {
+            "from": 225000,
+            "rate": 0.055
+          },
+          {
+            "from": 300000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2015/resident_booklet.pdf",
+      "notes": "Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 100000,
+            "rate": 0.05
+          },
+          {
+            "from": 125000,
+            "rate": 0.0525
+          },
+          {
+            "from": 150000,
+            "rate": 0.055
+          },
+          {
+            "from": 250000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 175000,
+            "rate": 0.0525
+          },
+          {
+            "from": 225000,
+            "rate": 0.055
+          },
+          {
+            "from": 300000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2016/Resident_Booklet.pdf",
+      "notes": "Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 100000,
+            "rate": 0.05
+          },
+          {
+            "from": 125000,
+            "rate": 0.0525
+          },
+          {
+            "from": 150000,
+            "rate": 0.055
+          },
+          {
+            "from": 250000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 175000,
+            "rate": 0.0525
+          },
+          {
+            "from": 225000,
+            "rate": 0.055
+          },
+          {
+            "from": 300000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2017/Resident_Booklet.pdf",
+      "notes": "Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 100000,
+            "rate": 0.05
+          },
+          {
+            "from": 125000,
+            "rate": 0.0525
+          },
+          {
+            "from": 150000,
+            "rate": 0.055
+          },
+          {
+            "from": 250000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 175000,
+            "rate": 0.0525
+          },
+          {
+            "from": 225000,
+            "rate": 0.055
+          },
+          {
+            "from": 300000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2018/Resident_Booklet.pdf",
+      "notes": "Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 100000,
+            "rate": 0.05
+          },
+          {
+            "from": 125000,
+            "rate": 0.0525
+          },
+          {
+            "from": 150000,
+            "rate": 0.055
+          },
+          {
+            "from": 250000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 175000,
+            "rate": 0.0525
+          },
+          {
+            "from": 225000,
+            "rate": 0.055
+          },
+          {
+            "from": 300000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2019/Resident_Booklet.pdf",
+      "notes": "Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 100000,
+            "rate": 0.05
+          },
+          {
+            "from": 125000,
+            "rate": 0.0525
+          },
+          {
+            "from": 150000,
+            "rate": 0.055
+          },
+          {
+            "from": 250000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 175000,
+            "rate": 0.0525
+          },
+          {
+            "from": 225000,
+            "rate": 0.055
+          },
+          {
+            "from": 300000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2020/Resident_Booklet.pdf",
+      "notes": "Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 100000,
+            "rate": 0.05
+          },
+          {
+            "from": 125000,
+            "rate": 0.0525
+          },
+          {
+            "from": 150000,
+            "rate": 0.055
+          },
+          {
+            "from": 250000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 175000,
+            "rate": 0.0525
+          },
+          {
+            "from": 225000,
+            "rate": 0.055
+          },
+          {
+            "from": 300000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2021/Resident_Booklet.pdf",
+      "notes": "Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 100000,
+            "rate": 0.05
+          },
+          {
+            "from": 125000,
+            "rate": 0.0525
+          },
+          {
+            "from": 150000,
+            "rate": 0.055
+          },
+          {
+            "from": 250000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 175000,
+            "rate": 0.0525
+          },
+          {
+            "from": 225000,
+            "rate": 0.055
+          },
+          {
+            "from": 300000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2022/Resident_Booklet.pdf",
+      "notes": "Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 100000,
+            "rate": 0.05
+          },
+          {
+            "from": 125000,
+            "rate": 0.0525
+          },
+          {
+            "from": 150000,
+            "rate": 0.055
+          },
+          {
+            "from": 250000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 175000,
+            "rate": 0.0525
+          },
+          {
+            "from": 225000,
+            "rate": 0.055
+          },
+          {
+            "from": 300000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2023/Resident-Booklet.pdf",
+      "notes": "Personal exemption ($3,200 per person at lower incomes from 2008) phases down with income, so not recorded (as in 2024). Standard deduction is a percentage of income with a min/max, so not recorded. State tax only; county piggyback income tax not included."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 100000,
+            "rate": 0.05
+          },
+          {
+            "from": 125000,
+            "rate": 0.0525
+          },
+          {
+            "from": 150000,
+            "rate": 0.055
+          },
+          {
+            "from": 250000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 175000,
+            "rate": 0.0525
+          },
+          {
+            "from": 225000,
+            "rate": 0.055
+          },
+          {
+            "from": 300000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "source": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/instructions/2024/Resident-Booklet.pdf",
+      "notes": "The standard deduction is 15% of income within limits and the $3,200 exemption phases out, so neither is included."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 100000,
+            "rate": 0.05
+          },
+          {
+            "from": 125000,
+            "rate": 0.0525
+          },
+          {
+            "from": 150000,
+            "rate": 0.055
+          },
+          {
+            "from": 250000,
+            "rate": 0.0575
+          },
+          {
+            "from": 500000,
+            "rate": 0.0625
+          },
+          {
+            "from": 1000000,
+            "rate": 0.065
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 175000,
+            "rate": 0.0525
+          },
+          {
+            "from": 225000,
+            "rate": 0.055
+          },
+          {
+            "from": 300000,
+            "rate": 0.0575
+          },
+          {
+            "from": 600000,
+            "rate": 0.0625
+          },
+          {
+            "from": 1200000,
+            "rate": 0.065
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3350,
+        "marriedJoint": 6700
+      },
+      "source": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/instructions/2025/resident-booklet.pdf",
+      "notes": "Chapter 604 of 2025 (HB 352) added the 6.25% and 6.5% brackets and a flat $3,350 / $6,700 standard deduction from 2025. The $3,200 exemption phases out and is left out."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 100000,
+            "rate": 0.05
+          },
+          {
+            "from": 125000,
+            "rate": 0.0525
+          },
+          {
+            "from": 150000,
+            "rate": 0.055
+          },
+          {
+            "from": 250000,
+            "rate": 0.0575
+          },
+          {
+            "from": 500000,
+            "rate": 0.0625
+          },
+          {
+            "from": 1000000,
+            "rate": 0.065
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 150000,
+            "rate": 0.05
+          },
+          {
+            "from": 175000,
+            "rate": 0.0525
+          },
+          {
+            "from": 225000,
+            "rate": 0.055
+          },
+          {
+            "from": 300000,
+            "rate": 0.0575
+          },
+          {
+            "from": 600000,
+            "rate": 0.0625
+          },
+          {
+            "from": 1200000,
+            "rate": 0.065
+          }
+        ]
+      },
+      "source": "https://www.marylandcomptroller.gov/content/dam/mdcomp/md/state-payroll/memos/2026/2026-maryland-state-and-local-withholding-information.pdf",
+      "notes": "Official 2026 documents disagree on the standard deduction ($3,400 vs $3,350) and the $3,200 exemption phases out, so neither is included."
+    }
+  }
+}

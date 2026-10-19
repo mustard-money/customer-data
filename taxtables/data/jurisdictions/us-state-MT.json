@@ -1,0 +1,2731 @@
+{
+  "id": "us-state-MT",
+  "kind": "state",
+  "region": "Montana",
+  "state": "MT",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.033
+          },
+          {
+            "from": 2000,
+            "rate": 0.044
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.066
+          },
+          {
+            "from": 8000,
+            "rate": 0.077
+          },
+          {
+            "from": 10000,
+            "rate": 0.088
+          },
+          {
+            "from": 14000,
+            "rate": 0.099
+          },
+          {
+            "from": 20000,
+            "rate": 0.11
+          },
+          {
+            "from": 35000,
+            "rate": 0.121
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://archive.org/details/reportofgeneralf00montrich",
+      "notes": "Rates and 10% surtax per Oct. 1969 Dept. of Administration report (RCM 84-4902, 84-4902.1 as enacted Ex. L. 1969). Exemption $600 per DOR 1974-76 report (raised to $650 for 1974). Rates include the 10% surtax on tax (statutory rates x 1.1). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.028
+          },
+          {
+            "from": 1000,
+            "rate": 0.042
+          },
+          {
+            "from": 2000,
+            "rate": 0.056
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.084
+          },
+          {
+            "from": 8000,
+            "rate": 0.098
+          },
+          {
+            "from": 10000,
+            "rate": 0.112
+          },
+          {
+            "from": 14000,
+            "rate": 0.126
+          },
+          {
+            "from": 20000,
+            "rate": 0.14
+          },
+          {
+            "from": 35000,
+            "rate": 0.154
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://archive.org/details/reportofstatedep00montrich",
+      "notes": "RCM 84-4902.1 (as printed in DOR 1972-74 report): 40% surtax for taxable years beginning after Dec. 31, 1970 and before Dec. 31, 1972; 10% thereafter. Exemption $600 (raised to $650 by Ch. 363 L. 1974 for years after 1973). Rates include the 40% surtax on tax (statutory rates x 1.4). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.028
+          },
+          {
+            "from": 1000,
+            "rate": 0.042
+          },
+          {
+            "from": 2000,
+            "rate": 0.056
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.084
+          },
+          {
+            "from": 8000,
+            "rate": 0.098
+          },
+          {
+            "from": 10000,
+            "rate": 0.112
+          },
+          {
+            "from": 14000,
+            "rate": 0.126
+          },
+          {
+            "from": 20000,
+            "rate": 0.14
+          },
+          {
+            "from": 35000,
+            "rate": 0.154
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://archive.org/details/reportofstatedep00montrich",
+      "notes": "40% surtax years (RCM 84-4902.1). Exemption $600. Rates include the 40% surtax on tax (statutory rates x 1.4). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.033
+          },
+          {
+            "from": 2000,
+            "rate": 0.044
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.066
+          },
+          {
+            "from": 8000,
+            "rate": 0.077
+          },
+          {
+            "from": 10000,
+            "rate": 0.088
+          },
+          {
+            "from": 14000,
+            "rate": 0.099
+          },
+          {
+            "from": 20000,
+            "rate": 0.11
+          },
+          {
+            "from": 35000,
+            "rate": 0.121
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://archive.org/details/reportofstatedep00montrich",
+      "notes": "10% surtax (RCM 84-4902.1). Exemption $600 (Ch. 363 L. 1974 raised it to $650 for taxable years beginning after Dec. 31, 1973). Rates include the 10% surtax on tax (statutory rates x 1.1). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.033
+          },
+          {
+            "from": 2000,
+            "rate": 0.044
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.066
+          },
+          {
+            "from": 8000,
+            "rate": 0.077
+          },
+          {
+            "from": 10000,
+            "rate": 0.088
+          },
+          {
+            "from": 14000,
+            "rate": 0.099
+          },
+          {
+            "from": 20000,
+            "rate": 0.11
+          },
+          {
+            "from": 35000,
+            "rate": 0.121
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 1300
+      },
+      "source": "https://archive.org/details/mt-session-laws-1974-43rd-2nd-regular",
+      "notes": "Exemption $650 per Ch. 363 L. 1974; rates/10% surtax per RCM 84-4902/84-4902.1 (DOR 1972-74 report) and 1975 Taxpayers Digest. Rates include the 10% surtax on tax (statutory rates x 1.1). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.033
+          },
+          {
+            "from": 2000,
+            "rate": 0.044
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.066
+          },
+          {
+            "from": 8000,
+            "rate": 0.077
+          },
+          {
+            "from": 10000,
+            "rate": 0.088
+          },
+          {
+            "from": 14000,
+            "rate": 0.099
+          },
+          {
+            "from": 20000,
+            "rate": 0.11
+          },
+          {
+            "from": 35000,
+            "rate": 0.121
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 1300
+      },
+      "source": "https://archive.org/details/montanataxpayers1975montrich",
+      "notes": "Rate schedule, 10% surtax and $650 exemption per Montana Taxpayers Digest (1975). Rates include the 10% surtax on tax (statutory rates x 1.1). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.033
+          },
+          {
+            "from": 2000,
+            "rate": 0.044
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.066
+          },
+          {
+            "from": 8000,
+            "rate": 0.077
+          },
+          {
+            "from": 10000,
+            "rate": 0.088
+          },
+          {
+            "from": 14000,
+            "rate": 0.099
+          },
+          {
+            "from": 20000,
+            "rate": 0.11
+          },
+          {
+            "from": 35000,
+            "rate": 0.121
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 1300
+      },
+      "source": "https://archive.org/details/montanataxpayers1977montrich",
+      "notes": "Rate schedule, 10% surtax and $650 exemption per Montana Taxpayers Digest (1977). Rates include the 10% surtax on tax (statutory rates x 1.1). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.033
+          },
+          {
+            "from": 2000,
+            "rate": 0.044
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.066
+          },
+          {
+            "from": 8000,
+            "rate": 0.077
+          },
+          {
+            "from": 10000,
+            "rate": 0.088
+          },
+          {
+            "from": 14000,
+            "rate": 0.099
+          },
+          {
+            "from": 20000,
+            "rate": 0.11
+          },
+          {
+            "from": 35000,
+            "rate": 0.121
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 1300
+      },
+      "source": "https://archive.org/details/montanataxpayers1977montrich",
+      "notes": "Rate schedule, 10% surtax and $650 exemption per Montana Taxpayers Digest (1977). Rates include the 10% surtax on tax (statutory rates x 1.1). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.033
+          },
+          {
+            "from": 2000,
+            "rate": 0.044
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.066
+          },
+          {
+            "from": 8000,
+            "rate": 0.077
+          },
+          {
+            "from": 10000,
+            "rate": 0.088
+          },
+          {
+            "from": 14000,
+            "rate": 0.099
+          },
+          {
+            "from": 20000,
+            "rate": 0.11
+          },
+          {
+            "from": 35000,
+            "rate": 0.121
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 1300
+      },
+      "source": "https://archive.org/details/montanataxpayers1977montrich",
+      "notes": "Same schedule, 10% surtax and $650 exemption as 1977 Digest; exemption raised to $800 only for years beginning after Dec. 31, 1978 (Ch. 698 L. 1979). Rates include the 10% surtax on tax (statutory rates x 1.1). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.033
+          },
+          {
+            "from": 2000,
+            "rate": 0.044
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.066
+          },
+          {
+            "from": 8000,
+            "rate": 0.077
+          },
+          {
+            "from": 10000,
+            "rate": 0.088
+          },
+          {
+            "from": 14000,
+            "rate": 0.099
+          },
+          {
+            "from": 20000,
+            "rate": 0.11
+          },
+          {
+            "from": 35000,
+            "rate": 0.121
+          }
+        ]
+      },
+      "source": "https://archive.org/details/montanataxpayers1979montrich",
+      "notes": "Schedule and 10% surtax per 1979 Taxpayers Digest. Deduction not recorded: Ch. 698 L. 1979 set the exemption at $800 but increased it for 1979 by $50 per $2.5M of general fund balance above $14M (amount not found). Rates include the 10% surtax on tax (statutory rates x 1.1). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.033
+          },
+          {
+            "from": 2000,
+            "rate": 0.044
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.066
+          },
+          {
+            "from": 8000,
+            "rate": 0.077
+          },
+          {
+            "from": 10000,
+            "rate": 0.088
+          },
+          {
+            "from": 14000,
+            "rate": 0.099
+          },
+          {
+            "from": 20000,
+            "rate": 0.11
+          },
+          {
+            "from": 35000,
+            "rate": 0.121
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://archive.org/details/montanataxpayers1979montrich",
+      "notes": "Schedule and 10% surtax per 1979 Taxpayers Digest; surtax repealed (Ch. 422 L. 1981) for years after 1980. $800 exemption = 1980 base-year value in DOR 1990-92 biennial report. Rates include the 10% surtax on tax (statutory rates x 1.1). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1100,
+            "rate": 0.03
+          },
+          {
+            "from": 2200,
+            "rate": 0.04
+          },
+          {
+            "from": 4400,
+            "rate": 0.05
+          },
+          {
+            "from": 6600,
+            "rate": 0.06
+          },
+          {
+            "from": 8800,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 15300,
+            "rate": 0.09
+          },
+          {
+            "from": 21900,
+            "rate": 0.1
+          },
+          {
+            "from": 38400,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 880,
+        "marriedJoint": 1760
+      },
+      "source": "https://mca.legmt.gov/bills/1997/mca/15/30/15-30-103.htm",
+      "notes": "Indexed schedule for tax year 1981. Computed from the statute: 15-30-103(2) MCA has the Department of Revenue multiply the base brackets of 15-30-103(1) ($1,000, $2,000, $4,000, $6,000, $8,000, $10,000, $14,000, $20,000, $35,000; rates 2%-11%) by the inflation factor for the taxable year and round the cumulative brackets to the nearest $100; 15-30-112(6) does the same for the $800 personal exemption, rounded to the nearest $10; 15-30-101(8) defines the inflation factor as the consumer price index for June of the taxable year divided by the CPI for June 1980 (MCA 1997 text, mca.legmt.gov; indexing enacted by Initiative 86, approved November 4, 1980, and 15-30-103 not amended again until Ch. 634, L. 1993). CPI-U, U.S. city average, all items, 1967=100, not seasonally adjusted (BLS series CUUR0000AA0): June 1980 247.6. Check against published years: the same computation reproduces every bracket and the exemption printed for 1982 and 1984 (Montana Taxpayers Digest), 1986, 1988, 1990 (ACIR) and 1991-1992; for 1983 it gives $16,900, $24,100 and $42,100 for the top three brackets where the 1983 entry has $16,800, $24,000 and $42,000 (a factor of 1.20 rather than 1.204), and the 1987 Digest reprints the 1984 brackets. June 1981 CPI 271.3, inflation factor 1.0957: brackets $1,100, $2,200, $4,400, $6,600, $8,800, $11,000, $15,300, $21,900, $38,400; exemption $880. No surtax: the 10% surtax was repealed for taxable years after 1980 (Ch. 422, L. 1981; see this file's 1980 entry). 1981 is the first indexed year; the Montana Taxpayers Digest 1981 states that indexing starts with tax year 1981 but prints only the 1980 base schedule. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1200,
+            "rate": 0.03
+          },
+          {
+            "from": 2300,
+            "rate": 0.04
+          },
+          {
+            "from": 4700,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9400,
+            "rate": 0.07
+          },
+          {
+            "from": 11700,
+            "rate": 0.08
+          },
+          {
+            "from": 16400,
+            "rate": 0.09
+          },
+          {
+            "from": 23500,
+            "rate": 0.1
+          },
+          {
+            "from": 41100,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 940,
+        "marriedJoint": 1880
+      },
+      "source": "https://archive.org/details/montanataxpayers1983montrich",
+      "notes": "Indexed schedule and $940 exemption for tax year 1982 per Montana Taxpayers Digest (1983). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1200,
+            "rate": 0.03
+          },
+          {
+            "from": 2400,
+            "rate": 0.04
+          },
+          {
+            "from": 4800,
+            "rate": 0.05
+          },
+          {
+            "from": 7200,
+            "rate": 0.06
+          },
+          {
+            "from": 9600,
+            "rate": 0.07
+          },
+          {
+            "from": 12000,
+            "rate": 0.08
+          },
+          {
+            "from": 16800,
+            "rate": 0.09
+          },
+          {
+            "from": 24000,
+            "rate": 0.1
+          },
+          {
+            "from": 42000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 960,
+        "marriedJoint": 1920
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1982-1983.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1982-83 ed., Table 48 (State Individual Income Tax Rates for 1983, as of December 1983) and Table 47 (summary of exemptions and standard deductions, as of October 1, 1983). Brackets adjusted for the 1983 inflation factor, as printed; $960 personal exemption ($1,920 married joint) from Table 47 (standard deduction 20%, max $1,800 / $3,600, not recorded). No surtax mentioned. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1300,
+            "rate": 0.03
+          },
+          {
+            "from": 2500,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          },
+          {
+            "from": 12500,
+            "rate": 0.08
+          },
+          {
+            "from": 17600,
+            "rate": 0.09
+          },
+          {
+            "from": 25100,
+            "rate": 0.1
+          },
+          {
+            "from": 43900,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://archive.org/details/montanataxpayers1985montrich",
+      "notes": "Indexed schedule and $1,000 exemption for tax year 1984 per Montana Taxpayers Digest (1985). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1300,
+            "rate": 0.03
+          },
+          {
+            "from": 2600,
+            "rate": 0.04
+          },
+          {
+            "from": 5200,
+            "rate": 0.05
+          },
+          {
+            "from": 7800,
+            "rate": 0.06
+          },
+          {
+            "from": 10400,
+            "rate": 0.07
+          },
+          {
+            "from": 13000,
+            "rate": 0.08
+          },
+          {
+            "from": 18200,
+            "rate": 0.09
+          },
+          {
+            "from": 26000,
+            "rate": 0.1
+          },
+          {
+            "from": 45600,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1040,
+        "marriedJoint": 2080
+      },
+      "source": "https://mca.legmt.gov/bills/1997/mca/15/30/15-30-103.htm",
+      "notes": "Indexed schedule for tax year 1985. Computed from the statute: 15-30-103(2) MCA has the Department of Revenue multiply the base brackets of 15-30-103(1) ($1,000, $2,000, $4,000, $6,000, $8,000, $10,000, $14,000, $20,000, $35,000; rates 2%-11%) by the inflation factor for the taxable year and round the cumulative brackets to the nearest $100; 15-30-112(6) does the same for the $800 personal exemption, rounded to the nearest $10; 15-30-101(8) defines the inflation factor as the consumer price index for June of the taxable year divided by the CPI for June 1980 (MCA 1997 text, mca.legmt.gov; indexing enacted by Initiative 86, approved November 4, 1980, and 15-30-103 not amended again until Ch. 634, L. 1993). CPI-U, U.S. city average, all items, 1967=100, not seasonally adjusted (BLS series CUUR0000AA0): June 1980 247.6. Check against published years: the same computation reproduces every bracket and the exemption printed for 1982 and 1984 (Montana Taxpayers Digest), 1986, 1988, 1990 (ACIR) and 1991-1992; for 1983 it gives $16,900, $24,100 and $42,100 for the top three brackets where the 1983 entry has $16,800, $24,000 and $42,000 (a factor of 1.20 rather than 1.204), and the 1987 Digest reprints the 1984 brackets. June 1985 CPI 322.3, inflation factor 1.3017: brackets $1,300, $2,600, $5,200, $7,800, $10,400, $13,000, $18,200, $26,000, $45,600; exemption $1,040. No surtax: the Department of Revenue's Biennial Report for July 1, 1984 to June 30, 1986 (archive.org biennialreportfo00montrich, Montana State Library) gives the individual income tax rates as 2% to 11% with no surtax, while its 1986-1988 report notes the 10% surtax for 1987 and 1988 only. ACIR's 1985-86 edition reprints the 1984 indexed brackets and was not used. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1300,
+            "rate": 0.03
+          },
+          {
+            "from": 2600,
+            "rate": 0.04
+          },
+          {
+            "from": 5300,
+            "rate": 0.05
+          },
+          {
+            "from": 7900,
+            "rate": 0.06
+          },
+          {
+            "from": 10600,
+            "rate": 0.07
+          },
+          {
+            "from": 13200,
+            "rate": 0.08
+          },
+          {
+            "from": 18500,
+            "rate": 0.09
+          },
+          {
+            "from": 26500,
+            "rate": 0.1
+          },
+          {
+            "from": 46400,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1060,
+        "marriedJoint": 2120
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1987 ed., Table 51 (State Individual Income Tax Rates for Tax Year 1986, compiled October 1986; rates for single individuals or married filing separately) and Table 50 (summary of exemptions and standard deductions, tax year 1986). Brackets reflect the 1986 inflation adjustment, as printed; $1,060 personal exemption ($2,120 married joint) from Table 50 (standard deduction 20%, max $1,990 / $3,980, not recorded). No surtax mentioned for 1986. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 1300,
+            "rate": 0.033
+          },
+          {
+            "from": 2500,
+            "rate": 0.044
+          },
+          {
+            "from": 5000,
+            "rate": 0.055
+          },
+          {
+            "from": 7500,
+            "rate": 0.066
+          },
+          {
+            "from": 10000,
+            "rate": 0.077
+          },
+          {
+            "from": 12500,
+            "rate": 0.088
+          },
+          {
+            "from": 17600,
+            "rate": 0.099
+          },
+          {
+            "from": 25100,
+            "rate": 0.11
+          },
+          {
+            "from": 43900,
+            "rate": 0.121
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1100,
+        "marriedJoint": 2200
+      },
+      "source": "https://archive.org/details/montanataxpayers198788montrich",
+      "notes": "Rate schedule and $1,100 exemption 'for taxable year 1987' per Montana Taxpayers Digest 1987-88 (DOR Research Bureau), which also states a 10% surtax on tax liability for tax years 1987 and 1988. Rates include the 10% surtax (statutory rates x 1.1). Note the printed bracket edges are identical to the 1984 indexed schedule. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 1400,
+            "rate": 0.033
+          },
+          {
+            "from": 2900,
+            "rate": 0.044
+          },
+          {
+            "from": 5700,
+            "rate": 0.055
+          },
+          {
+            "from": 8600,
+            "rate": 0.066
+          },
+          {
+            "from": 11400,
+            "rate": 0.077
+          },
+          {
+            "from": 14300,
+            "rate": 0.088
+          },
+          {
+            "from": 20000,
+            "rate": 0.099
+          },
+          {
+            "from": 28600,
+            "rate": 0.11
+          },
+          {
+            "from": 50000,
+            "rate": 0.121
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1140,
+        "marriedJoint": 2280
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1989-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1989 ed. Vol. 1, Table 19 (State Individual Income Tax Rates for Tax Year 1988, compiled October 1988; rates for single individuals or married filing separately) and Table 18 (summary of exemptions and standard deductions, as of October 1988). Brackets reflect the 1988 inflation adjustment, as printed (statutory rates 2%-11%); the table states that until 1990 a 10% surtax is in effect, so rates include the surtax (statutory rates x 1.1), as in this file's 1987 entry. $1,140 personal exemption ($2,280 married joint) from Table 18 (standard deduction 20%, max $2,140 / $4,280, not recorded). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1500,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          },
+          {
+            "from": 12000,
+            "rate": 0.07
+          },
+          {
+            "from": 15000,
+            "rate": 0.08
+          },
+          {
+            "from": 21000,
+            "rate": 0.09
+          },
+          {
+            "from": 30000,
+            "rate": 0.1
+          },
+          {
+            "from": 52500,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1200,
+        "marriedJoint": 2400
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1990-Vol-1.pdf",
+      "notes": "Indexed schedule for tax year 1989. Computed from the statute: 15-30-103(2) MCA has the Department of Revenue multiply the base brackets of 15-30-103(1) ($1,000, $2,000, $4,000, $6,000, $8,000, $10,000, $14,000, $20,000, $35,000; rates 2%-11%) by the inflation factor for the taxable year and round the cumulative brackets to the nearest $100; 15-30-112(6) does the same for the $800 personal exemption, rounded to the nearest $10; 15-30-101(8) defines the inflation factor as the consumer price index for June of the taxable year divided by the CPI for June 1980 (MCA 1997 text, mca.legmt.gov; indexing enacted by Initiative 86, approved November 4, 1980, and 15-30-103 not amended again until Ch. 634, L. 1993). CPI-U, U.S. city average, all items, 1967=100, not seasonally adjusted (BLS series CUUR0000AA0): June 1980 247.6. Check against published years: the same computation reproduces every bracket and the exemption printed for 1982 and 1984 (Montana Taxpayers Digest), 1986, 1988, 1990 (ACIR) and 1991-1992; for 1983 it gives $16,900, $24,100 and $42,100 for the top three brackets where the 1983 entry has $16,800, $24,000 and $42,000 (a factor of 1.20 rather than 1.204), and the 1987 Digest reprints the 1984 brackets. June 1989 CPI 371.7, inflation factor 1.5012: brackets $1,500, $3,000, $6,000, $9,000, $12,000, $15,000, $21,000, $30,000, $52,500; exemption $1,200. Corroborated by ACIR Significant Features of Fiscal Federalism 1990 ed. Vol. 1, Table 19 (rates for tax year 1989, compiled October 1989; 'tax brackets reflect 1989 inflation adjustments'), which prints $1,500, $3,000, $6,000, $9,000, $12,000, $21,000, $30,000 and $52,500 as computed, and Table 16's $1,200 exemption; its seventh bracket, printed '12,001-19,000' at 7% followed by '19,001-21,000' at 8%, is the computed $15,000 misprinted. No surtax: the Department of Revenue's 1986-1988 Biennial Report (archive.org biennialreportfomontrich) gives the 10% surtax for tax years 1987 and 1988, and its 1988-1990 report (biennialreportof00montrich) gives a 5% surtax for tax year 1990 only. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1600,
+            "rate": 0.03
+          },
+          {
+            "from": 3100,
+            "rate": 0.04
+          },
+          {
+            "from": 6300,
+            "rate": 0.05
+          },
+          {
+            "from": 9400,
+            "rate": 0.06
+          },
+          {
+            "from": 12600,
+            "rate": 0.07
+          },
+          {
+            "from": 15700,
+            "rate": 0.08
+          },
+          {
+            "from": 22000,
+            "rate": 0.09
+          },
+          {
+            "from": 31400,
+            "rate": 0.1
+          },
+          {
+            "from": 55000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1260,
+        "marriedJoint": 2520
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1991-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1991 ed. Vol. 1, Table 22 (State Individual Income Tax Rates for Tax Year 1990, compiled October 1990; rates for single individuals or married filing separately) and Table 18 (summary of exemptions and standard deductions, as of October 1990). Brackets reflect the 1990 inflation adjustment, as printed; statutory rates 2%-11%. CAUTION: ACIR mentions no surtax for 1990, but the Montana Taxpayers Digest 1991-92 cited in this file's 1991 entry reports a 5% education surtax for 1990 that terminated January 1, 1991; it is NOT included in these rates. $1,260 personal exemption ($2,520 married joint) from Table 18 (standard deduction 20%, max $2,360 / $4,720, not recorded). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1600,
+            "rate": 0.03
+          },
+          {
+            "from": 3300,
+            "rate": 0.04
+          },
+          {
+            "from": 6600,
+            "rate": 0.05
+          },
+          {
+            "from": 9900,
+            "rate": 0.06
+          },
+          {
+            "from": 13200,
+            "rate": 0.07
+          },
+          {
+            "from": 16400,
+            "rate": 0.08
+          },
+          {
+            "from": 23000,
+            "rate": 0.09
+          },
+          {
+            "from": 32900,
+            "rate": 0.1
+          },
+          {
+            "from": 57600,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1320,
+        "marriedJoint": 2640
+      },
+      "source": "https://archive.org/details/montanataxpayers199192montrich",
+      "notes": "Indexed schedule and $1,320 exemption for tax year 1991 per Montana Taxpayers Digest 1991-92; no surtax mentioned (1990 5% education surtax terminated Jan. 1, 1991). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02046
+          },
+          {
+            "from": 1700,
+            "rate": 0.03069
+          },
+          {
+            "from": 3400,
+            "rate": 0.04092
+          },
+          {
+            "from": 6800,
+            "rate": 0.05115
+          },
+          {
+            "from": 10200,
+            "rate": 0.06138
+          },
+          {
+            "from": 13600,
+            "rate": 0.07161
+          },
+          {
+            "from": 17000,
+            "rate": 0.08184
+          },
+          {
+            "from": 23700,
+            "rate": 0.09207
+          },
+          {
+            "from": 33900,
+            "rate": 0.1023
+          },
+          {
+            "from": 59400,
+            "rate": 0.11253
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1360,
+        "marriedJoint": 2720
+      },
+      "source": "https://web.archive.org/web/19980704024557/http://www.mt.gov:80/revenue/forms92/92_2.pdf",
+      "notes": "1992 Form 2 tax table; line 41 surtax 2.3% of tax; exemption $1,360. Rates include the 2.3% surtax on tax (statutory rates x 1.023). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02094
+          },
+          {
+            "from": 1700,
+            "rate": 0.03141
+          },
+          {
+            "from": 3500,
+            "rate": 0.04188
+          },
+          {
+            "from": 7000,
+            "rate": 0.05235
+          },
+          {
+            "from": 10500,
+            "rate": 0.06282
+          },
+          {
+            "from": 14000,
+            "rate": 0.07329
+          },
+          {
+            "from": 17500,
+            "rate": 0.08376
+          },
+          {
+            "from": 24400,
+            "rate": 0.09423
+          },
+          {
+            "from": 34900,
+            "rate": 0.1047
+          },
+          {
+            "from": 61100,
+            "rate": 0.11517
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1400,
+        "marriedJoint": 2800
+      },
+      "source": "https://web.archive.org/web/19980704024705/http://www.mt.gov:80/revenue/Forms93/93_2.pdf",
+      "notes": "1993 Form 2 tax table; line 41 surtax 4.7% of tax; exemption $1,400. Rates include the 4.7% surtax on tax (statutory rates x 1.047). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1800,
+            "rate": 0.03
+          },
+          {
+            "from": 3600,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          },
+          {
+            "from": 10700,
+            "rate": 0.06
+          },
+          {
+            "from": 14300,
+            "rate": 0.07
+          },
+          {
+            "from": 17900,
+            "rate": 0.08
+          },
+          {
+            "from": 25100,
+            "rate": 0.09
+          },
+          {
+            "from": 35800,
+            "rate": 0.1
+          },
+          {
+            "from": 62700,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1430,
+        "marriedJoint": 2860
+      },
+      "source": "https://web.archive.org/web/19980704024830/http://www.mt.gov:80/revenue/forms94/94_2.pdf",
+      "notes": "1994 Form 2 tax table (no surtax line); exemption $1,430. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1800,
+            "rate": 0.03
+          },
+          {
+            "from": 3700,
+            "rate": 0.04
+          },
+          {
+            "from": 7400,
+            "rate": 0.05
+          },
+          {
+            "from": 11100,
+            "rate": 0.06
+          },
+          {
+            "from": 14800,
+            "rate": 0.07
+          },
+          {
+            "from": 18400,
+            "rate": 0.08
+          },
+          {
+            "from": 25800,
+            "rate": 0.09
+          },
+          {
+            "from": 36900,
+            "rate": 0.1
+          },
+          {
+            "from": 64600,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1480,
+        "marriedJoint": 2960
+      },
+      "source": "https://web.archive.org/web/19980704024928/http://www.mt.gov:80/revenue/forms95/95_2.pdf",
+      "notes": "1995 Form 2 tax table; exemption $1,480. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1900,
+            "rate": 0.03
+          },
+          {
+            "from": 3800,
+            "rate": 0.04
+          },
+          {
+            "from": 7600,
+            "rate": 0.05
+          },
+          {
+            "from": 11400,
+            "rate": 0.06
+          },
+          {
+            "from": 15200,
+            "rate": 0.07
+          },
+          {
+            "from": 19000,
+            "rate": 0.08
+          },
+          {
+            "from": 26500,
+            "rate": 0.09
+          },
+          {
+            "from": 37900,
+            "rate": 0.1
+          },
+          {
+            "from": 66400,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1520,
+        "marriedJoint": 3040
+      },
+      "source": "https://web.archive.org/web/19970521213412/http://www.mt.gov:80/revenue/forms96/Form2.pdf",
+      "notes": "1996 Form 2 tax table; exemption $1,520 (instructions). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1900,
+            "rate": 0.03
+          },
+          {
+            "from": 3900,
+            "rate": 0.04
+          },
+          {
+            "from": 7800,
+            "rate": 0.05
+          },
+          {
+            "from": 11600,
+            "rate": 0.06
+          },
+          {
+            "from": 15500,
+            "rate": 0.07
+          },
+          {
+            "from": 19400,
+            "rate": 0.08
+          },
+          {
+            "from": 27200,
+            "rate": 0.09
+          },
+          {
+            "from": 38800,
+            "rate": 0.1
+          },
+          {
+            "from": 67900,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1550,
+        "marriedJoint": 3100
+      },
+      "source": "https://web.archive.org/web/20030613143637/http://state.mt.us:80/revenue/content/2forindividuals/06forms/1997forms/97_instructions.pdf",
+      "notes": "Exemption $1,550. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 3900,
+            "rate": 0.04
+          },
+          {
+            "from": 7900,
+            "rate": 0.05
+          },
+          {
+            "from": 11800,
+            "rate": 0.06
+          },
+          {
+            "from": 15800,
+            "rate": 0.07
+          },
+          {
+            "from": 19700,
+            "rate": 0.08
+          },
+          {
+            "from": 27600,
+            "rate": 0.09
+          },
+          {
+            "from": 39400,
+            "rate": 0.1
+          },
+          {
+            "from": 69000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1580,
+        "marriedJoint": 3160
+      },
+      "source": "https://web.archive.org/web/20030308222036/http://www.state.mt.us:80/revenue/content/2forindividuals/06forms/1998forms/98_instructions.pdf",
+      "notes": "Exemption $1,580. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.05
+          },
+          {
+            "from": 12100,
+            "rate": 0.06
+          },
+          {
+            "from": 16100,
+            "rate": 0.07
+          },
+          {
+            "from": 20100,
+            "rate": 0.08
+          },
+          {
+            "from": 28200,
+            "rate": 0.09
+          },
+          {
+            "from": 40200,
+            "rate": 0.1
+          },
+          {
+            "from": 70400,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1610,
+        "marriedJoint": 3220
+      },
+      "source": "https://web.archive.org/web/20030309134820/http://www.state.mt.us:80/revenue/content/2forindividuals/06forms/1999forms/99_instructions.pdf",
+      "notes": "Exemption $1,610. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2100,
+            "rate": 0.03
+          },
+          {
+            "from": 4200,
+            "rate": 0.04
+          },
+          {
+            "from": 8300,
+            "rate": 0.05
+          },
+          {
+            "from": 12500,
+            "rate": 0.06
+          },
+          {
+            "from": 16700,
+            "rate": 0.07
+          },
+          {
+            "from": 20800,
+            "rate": 0.08
+          },
+          {
+            "from": 29200,
+            "rate": 0.09
+          },
+          {
+            "from": 41700,
+            "rate": 0.1
+          },
+          {
+            "from": 73000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1670,
+        "marriedJoint": 3340
+      },
+      "source": "https://web.archive.org/web/20060602044212/http://mt.gov/revenue/formsandresources/00forms/00-LONGBK.pdf",
+      "notes": "Exemption $1,670. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2200,
+            "rate": 0.03
+          },
+          {
+            "from": 4300,
+            "rate": 0.04
+          },
+          {
+            "from": 8600,
+            "rate": 0.05
+          },
+          {
+            "from": 12900,
+            "rate": 0.06
+          },
+          {
+            "from": 17200,
+            "rate": 0.07
+          },
+          {
+            "from": 21500,
+            "rate": 0.08
+          },
+          {
+            "from": 30200,
+            "rate": 0.09
+          },
+          {
+            "from": 43100,
+            "rate": 0.1
+          },
+          {
+            "from": 75400,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1720,
+        "marriedJoint": 3440
+      },
+      "source": "https://web.archive.org/web/20060602043316/http://mt.gov/revenue/formsandresources/01forms/01-LONGBK.pdf",
+      "notes": "Exemption $1,720. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2200,
+            "rate": 0.03
+          },
+          {
+            "from": 4400,
+            "rate": 0.04
+          },
+          {
+            "from": 8700,
+            "rate": 0.05
+          },
+          {
+            "from": 13100,
+            "rate": 0.06
+          },
+          {
+            "from": 17400,
+            "rate": 0.07
+          },
+          {
+            "from": 21800,
+            "rate": 0.08
+          },
+          {
+            "from": 30500,
+            "rate": 0.09
+          },
+          {
+            "from": 43500,
+            "rate": 0.1
+          },
+          {
+            "from": 76200,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1740,
+        "marriedJoint": 3480
+      },
+      "source": "https://web.archive.org/web/20060602040821/http://mt.gov/revenue/formsandresources/02forms/02-LONGBK.pdf",
+      "notes": "Exemption $1,740. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2200,
+            "rate": 0.03
+          },
+          {
+            "from": 4400,
+            "rate": 0.04
+          },
+          {
+            "from": 8900,
+            "rate": 0.05
+          },
+          {
+            "from": 13300,
+            "rate": 0.06
+          },
+          {
+            "from": 17800,
+            "rate": 0.07
+          },
+          {
+            "from": 22200,
+            "rate": 0.08
+          },
+          {
+            "from": 31100,
+            "rate": 0.09
+          },
+          {
+            "from": 44500,
+            "rate": 0.1
+          },
+          {
+            "from": 77800,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1780,
+        "marriedJoint": 3560
+      },
+      "source": "https://web.archive.org/web/20060602040835/http://mt.gov/revenue/formsandresources/03forms/03-LONGBK.pdf",
+      "notes": "Exemption $1,780. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2300,
+            "rate": 0.03
+          },
+          {
+            "from": 4600,
+            "rate": 0.04
+          },
+          {
+            "from": 9200,
+            "rate": 0.05
+          },
+          {
+            "from": 13800,
+            "rate": 0.06
+          },
+          {
+            "from": 18400,
+            "rate": 0.07
+          },
+          {
+            "from": 22900,
+            "rate": 0.08
+          },
+          {
+            "from": 32100,
+            "rate": 0.09
+          },
+          {
+            "from": 45900,
+            "rate": 0.1
+          },
+          {
+            "from": 80300,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1840,
+        "marriedJoint": 3680
+      },
+      "source": "https://web.archive.org/web/20060602050238/http://mt.gov/revenue/formsandresources/04forms/Individual%20Income%20Tax/04_form2_calc.pdf",
+      "notes": "2004 Form 2 tax table (page 2 of the form); exemption $1,840 (line 41). No surtax. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2300,
+            "rate": 0.02
+          },
+          {
+            "from": 4100,
+            "rate": 0.03
+          },
+          {
+            "from": 6200,
+            "rate": 0.04
+          },
+          {
+            "from": 8400,
+            "rate": 0.05
+          },
+          {
+            "from": 10800,
+            "rate": 0.06
+          },
+          {
+            "from": 13900,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1900,
+        "marriedJoint": 3800
+      },
+      "source": "https://web.archive.org/web/20060125005350/http://mt.gov:80/revenue/formsandresources/05forms/Individual%20Income%20Tax/2005_Individual_Income_Tax_Booklet.pdf",
+      "notes": "SB 407 (2003): 7 brackets 1%-6.9% from 2005. Exemption $1,900. Federal income tax itemized deduction capped $5,000/$10,000 from 2005. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2400,
+            "rate": 0.02
+          },
+          {
+            "from": 4300,
+            "rate": 0.03
+          },
+          {
+            "from": 6500,
+            "rate": 0.04
+          },
+          {
+            "from": 8800,
+            "rate": 0.05
+          },
+          {
+            "from": 11300,
+            "rate": 0.06
+          },
+          {
+            "from": 14500,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1980,
+        "marriedJoint": 3960
+      },
+      "source": "https://web.archive.org/web/20070105225542/http://mt.gov/revenue/formsandresources/06forms/2006_IIT_booklet.pdf",
+      "notes": "Exemption $1,980. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 4400,
+            "rate": 0.03
+          },
+          {
+            "from": 6600,
+            "rate": 0.04
+          },
+          {
+            "from": 9000,
+            "rate": 0.05
+          },
+          {
+            "from": 11600,
+            "rate": 0.06
+          },
+          {
+            "from": 14900,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2040,
+        "marriedJoint": 4080
+      },
+      "source": "https://web.archive.org/web/20080123014725/http://mt.gov/revenue/formsandresources/07forms/2007_2_Booklet.pdf",
+      "notes": "Exemption $2,040. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2600,
+            "rate": 0.02
+          },
+          {
+            "from": 4600,
+            "rate": 0.03
+          },
+          {
+            "from": 7000,
+            "rate": 0.04
+          },
+          {
+            "from": 9500,
+            "rate": 0.05
+          },
+          {
+            "from": 12200,
+            "rate": 0.06
+          },
+          {
+            "from": 15600,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2140,
+        "marriedJoint": 4280
+      },
+      "source": "https://web.archive.org/web/20090117203433/http://www.mt.gov/revenue/formsandresources/08forms/2008_Form_2_Booklet_FINAL.pdf",
+      "notes": "Exemption $2,140. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2600,
+            "rate": 0.02
+          },
+          {
+            "from": 4500,
+            "rate": 0.03
+          },
+          {
+            "from": 6900,
+            "rate": 0.04
+          },
+          {
+            "from": 9300,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.06
+          },
+          {
+            "from": 15400,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2110,
+        "marriedJoint": 4220
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MT/2009/2009_IIT_Tables.pdf",
+      "notes": "Exemption $2,110; std deduction 20% of AGI, min $1,750/$3,500, max $3,950/$7,900. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2600,
+            "rate": 0.02
+          },
+          {
+            "from": 4600,
+            "rate": 0.03
+          },
+          {
+            "from": 6900,
+            "rate": 0.04
+          },
+          {
+            "from": 9400,
+            "rate": 0.05
+          },
+          {
+            "from": 12100,
+            "rate": 0.06
+          },
+          {
+            "from": 15600,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2130,
+        "marriedJoint": 4260
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MT/2010/2010-2-Booklet.pdf",
+      "notes": "Exemption $2,130. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2700,
+            "rate": 0.02
+          },
+          {
+            "from": 4700,
+            "rate": 0.03
+          },
+          {
+            "from": 7200,
+            "rate": 0.04
+          },
+          {
+            "from": 9700,
+            "rate": 0.05
+          },
+          {
+            "from": 12500,
+            "rate": 0.06
+          },
+          {
+            "from": 16000,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2190,
+        "marriedJoint": 4380
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MT/2011/2011_IIT_Tables.pdf-1.pdf",
+      "notes": "Exemption $2,190; std deduction 20% of AGI, min $1,820/$3,640, max $4,110/$8,220. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2700,
+            "rate": 0.02
+          },
+          {
+            "from": 4800,
+            "rate": 0.03
+          },
+          {
+            "from": 7300,
+            "rate": 0.04
+          },
+          {
+            "from": 9900,
+            "rate": 0.05
+          },
+          {
+            "from": 12700,
+            "rate": 0.06
+          },
+          {
+            "from": 16400,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2240,
+        "marriedJoint": 4480
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MT/2012/Form_2_Booklet_2012.pdf-2.pdf",
+      "notes": "Exemption $2,240. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2800,
+            "rate": 0.02
+          },
+          {
+            "from": 4900,
+            "rate": 0.03
+          },
+          {
+            "from": 7400,
+            "rate": 0.04
+          },
+          {
+            "from": 10100,
+            "rate": 0.05
+          },
+          {
+            "from": 13000,
+            "rate": 0.06
+          },
+          {
+            "from": 16700,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2280,
+        "marriedJoint": 4560
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MT/2013/2013_IndividualIncomeTaxRates.pdf",
+      "notes": "Exemption $2,280; std deduction 20% of AGI, min $1,900/$3,800, max $4,270/$8,540. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2800,
+            "rate": 0.02
+          },
+          {
+            "from": 5000,
+            "rate": 0.03
+          },
+          {
+            "from": 7600,
+            "rate": 0.04
+          },
+          {
+            "from": 10300,
+            "rate": 0.05
+          },
+          {
+            "from": 13300,
+            "rate": 0.06
+          },
+          {
+            "from": 17100,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2330,
+        "marriedJoint": 4660
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MT/2014/2014_IITRates.pdf",
+      "notes": "Exemption $2,330; std deduction 20% of AGI, min $1,940/$3,880, max $4,370/$8,740. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2800,
+            "rate": 0.02
+          },
+          {
+            "from": 5000,
+            "rate": 0.03
+          },
+          {
+            "from": 7600,
+            "rate": 0.04
+          },
+          {
+            "from": 10300,
+            "rate": 0.05
+          },
+          {
+            "from": 13300,
+            "rate": 0.06
+          },
+          {
+            "from": 17100,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2330,
+        "marriedJoint": 4660
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MT/2015/Form_2_booklet_2015.pdf",
+      "notes": "Brackets and $2,330 exemption unchanged from 2014 (booklet and DOR parameter sheet agree). Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2900,
+            "rate": 0.02
+          },
+          {
+            "from": 5100,
+            "rate": 0.03
+          },
+          {
+            "from": 7800,
+            "rate": 0.04
+          },
+          {
+            "from": 10500,
+            "rate": 0.05
+          },
+          {
+            "from": 13500,
+            "rate": 0.06
+          },
+          {
+            "from": 17400,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2380,
+        "marriedJoint": 4760
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MT/2016/2016_IITRates.pdf",
+      "notes": "Exemption $2,380; std deduction 20% of AGI, min $1,980/$3,960, max $4,460/$8,920. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2900,
+            "rate": 0.02
+          },
+          {
+            "from": 5200,
+            "rate": 0.03
+          },
+          {
+            "from": 7900,
+            "rate": 0.04
+          },
+          {
+            "from": 10600,
+            "rate": 0.05
+          },
+          {
+            "from": 13600,
+            "rate": 0.06
+          },
+          {
+            "from": 17600,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2400,
+        "marriedJoint": 4800
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MT/2017/2017-Individual-Rates.pdf",
+      "notes": "Exemption $2,400; std deduction 20% of AGI, min $2,000/$4,000, max $4,510/$9,020. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.02
+          },
+          {
+            "from": 5200,
+            "rate": 0.03
+          },
+          {
+            "from": 8000,
+            "rate": 0.04
+          },
+          {
+            "from": 10800,
+            "rate": 0.05
+          },
+          {
+            "from": 13900,
+            "rate": 0.06
+          },
+          {
+            "from": 17900,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2440,
+        "marriedJoint": 4880
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MT/2018/2018-Individual-Rates.pdf",
+      "notes": "Exemption $2,440; std deduction 20% of AGI, min $2,030/$4,060, max $4,580/$9,160. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3100,
+            "rate": 0.02
+          },
+          {
+            "from": 5400,
+            "rate": 0.03
+          },
+          {
+            "from": 8200,
+            "rate": 0.04
+          },
+          {
+            "from": 11100,
+            "rate": 0.05
+          },
+          {
+            "from": 14300,
+            "rate": 0.06
+          },
+          {
+            "from": 18400,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2510,
+        "marriedJoint": 5020
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MT/2019/2019-Montana-Individual-Income-Tax-Rates.pdf",
+      "notes": "Exemption $2,510; std deduction 20% of AGI, min $2,090/$4,180, max $4,710/$9,420. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3100,
+            "rate": 0.02
+          },
+          {
+            "from": 5500,
+            "rate": 0.03
+          },
+          {
+            "from": 8400,
+            "rate": 0.04
+          },
+          {
+            "from": 11300,
+            "rate": 0.05
+          },
+          {
+            "from": 14500,
+            "rate": 0.06
+          },
+          {
+            "from": 18700,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2560,
+        "marriedJoint": 5120
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MT/2020/MTDOR%20Tax%20Rates%202020.pdf",
+      "notes": "Exemption $2,560; std deduction 20% of AGI, min $2,130/$4,260, max $4,790/$9,580. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3100,
+            "rate": 0.02
+          },
+          {
+            "from": 5500,
+            "rate": 0.03
+          },
+          {
+            "from": 8400,
+            "rate": 0.04
+          },
+          {
+            "from": 11400,
+            "rate": 0.05
+          },
+          {
+            "from": 14600,
+            "rate": 0.06
+          },
+          {
+            "from": 18800,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2580,
+        "marriedJoint": 5160
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MT/2021/2021-Individual-Tax-Table.pdf",
+      "notes": "Exemption $2,580; std deduction 20% of AGI, min $2,140/$4,280, max $4,830/$9,660. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3300,
+            "rate": 0.02
+          },
+          {
+            "from": 5800,
+            "rate": 0.03
+          },
+          {
+            "from": 8900,
+            "rate": 0.04
+          },
+          {
+            "from": 12000,
+            "rate": 0.05
+          },
+          {
+            "from": 15400,
+            "rate": 0.06
+          },
+          {
+            "from": 19800,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2710,
+        "marriedJoint": 5420
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MT/2022/Form-2-2022-Instructions.pdf",
+      "notes": "Top rate 6.75%. Exemption $2,710. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3600,
+            "rate": 0.02
+          },
+          {
+            "from": 6300,
+            "rate": 0.03
+          },
+          {
+            "from": 9700,
+            "rate": 0.04
+          },
+          {
+            "from": 13000,
+            "rate": 0.05
+          },
+          {
+            "from": 16800,
+            "rate": 0.06
+          },
+          {
+            "from": 21600,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2960,
+        "marriedJoint": 5920
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MT/2023/Form_2_2023_Instructions.pdf",
+      "notes": "Top rate 6.75%. Exemption $2,960. Single rate table for all filing statuses (married couples filing jointly use the same table on combined income; most file separately on the same form), so no joint schedule. Deduction = personal exemptions only (1 single / 2 MFJ); Montana standard deduction is a percentage of AGI with min/max, not recorded. Deduction for federal income tax paid (itemizers) not modelled."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.047
+          },
+          {
+            "from": 20500,
+            "rate": 0.059
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.047
+          },
+          {
+            "from": 41000,
+            "rate": 0.059
+          }
+        ]
+      },
+      "deduction": {
+        "single": 14600,
+        "marriedJoint": 29200
+      },
+      "source": "https://revenuefiles.mt.gov/files/Forms/Montana-Individual-Income-Tax-Return-Form-2-Instructions/2024_Montana_Individual_Income_Tax_Return_Form_2_Instructions.pdf",
+      "notes": "Starts from federal taxable income."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.047
+          },
+          {
+            "from": 21100,
+            "rate": 0.059
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.047
+          },
+          {
+            "from": 42200,
+            "rate": 0.059
+          }
+        ]
+      },
+      "deduction": {
+        "single": 15750,
+        "marriedJoint": 31500
+      },
+      "source": "https://revenuefiles.mt.gov/files/Forms/Montana-Individual-Income-Tax-Return-Form-2-Instructions/2025_Montana_Individual_Income_Tax_Return_Form_2_Instructions.pdf",
+      "notes": "Starts from federal taxable income, including the One Big Beautiful Bill Act standard deduction."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.047
+          },
+          {
+            "from": 47500,
+            "rate": 0.0565
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.047
+          },
+          {
+            "from": 95000,
+            "rate": 0.0565
+          }
+        ]
+      },
+      "deduction": {
+        "single": 16100,
+        "marriedJoint": 32200
+      },
+      "source": "https://revenue.mt.gov/news/recent-news/HB-337",
+      "notes": "Starts from federal taxable income."
+    }
+  }
+}

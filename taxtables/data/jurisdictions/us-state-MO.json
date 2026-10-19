@@ -1,0 +1,2966 @@
+{
+  "id": "us-state-MO",
+  "kind": "state",
+  "region": "Missouri",
+  "state": "MO",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 5000,
+            "rate": 0.03
+          },
+          {
+            "from": 7000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "source": "https://cdm16795.contentdm.oclc.org/digital/collection/p16795coll26/id/73751",
+      "notes": "RSMo 1969 sec. 143.010 (Missouri State Archives / Missouri Digital Heritage scan of the Revised Statutes of Missouri 1969, vol. 2, p. 1190; RSMo 1939 sec. 11343 as last amended by L. 1959 H.B. 395), in force until replaced by L. 1972 S.B. 549 (RSMo 143.011, effective 1-1-1973); the 1971 Cumulative Supplement contains no amendment. The statute states the tax as one rate on the whole net income 'less' a fixed dollar amount per bracket (e.g. $1,000-$2,000: 1.5% less $5), which equals the marginal schedule recorded. Same schedule for every taxpayer (spouses could file separately). Deduction not recorded: personal exemptions (RSMo 1969 sec. 143.150) and the standard deduction (sec. 143.165) not transcribed. Federal income tax deductible (not modelled)."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 5000,
+            "rate": 0.03
+          },
+          {
+            "from": 7000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "source": "https://cdm16795.contentdm.oclc.org/digital/collection/p16795coll26/id/73751",
+      "notes": "RSMo 1969 sec. 143.010 (Missouri State Archives / Missouri Digital Heritage scan of the Revised Statutes of Missouri 1969, vol. 2, p. 1190; RSMo 1939 sec. 11343 as last amended by L. 1959 H.B. 395), in force until replaced by L. 1972 S.B. 549 (RSMo 143.011, effective 1-1-1973); the 1971 Cumulative Supplement contains no amendment. The statute states the tax as one rate on the whole net income 'less' a fixed dollar amount per bracket (e.g. $1,000-$2,000: 1.5% less $5), which equals the marginal schedule recorded. Same schedule for every taxpayer (spouses could file separately). Deduction not recorded: personal exemptions (RSMo 1969 sec. 143.150) and the standard deduction (sec. 143.165) not transcribed. Federal income tax deductible (not modelled)."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 5000,
+            "rate": 0.03
+          },
+          {
+            "from": 7000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "source": "https://cdm16795.contentdm.oclc.org/digital/collection/p16795coll26/id/73751",
+      "notes": "RSMo 1969 sec. 143.010 (Missouri State Archives / Missouri Digital Heritage scan of the Revised Statutes of Missouri 1969, vol. 2, p. 1190; RSMo 1939 sec. 11343 as last amended by L. 1959 H.B. 395), in force until replaced by L. 1972 S.B. 549 (RSMo 143.011, effective 1-1-1973); the 1971 Cumulative Supplement contains no amendment. The statute states the tax as one rate on the whole net income 'less' a fixed dollar amount per bracket (e.g. $1,000-$2,000: 1.5% less $5), which equals the marginal schedule recorded. Same schedule for every taxpayer (spouses could file separately). Deduction not recorded: personal exemptions (RSMo 1969 sec. 143.150) and the standard deduction (sec. 143.165) not transcribed. Federal income tax deductible (not modelled)."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Rates per RSMo 143.011 as enacted by L.1972 S.B.549 (eff. 1-1-1973, unchanged to 2014). Deduction not recorded: personal exemption was $1,200 per taxpayer/spouse (RSMo 143.151), but the pre-1990 Missouri standard deduction rules (L.1972 SB549, amended 1977 SB451) were not found in an allowed source. Federal income tax deduction not modelled."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4450,
+        "marriedJoint": 7850
+      },
+      "source": "https://revisor.mo.gov/main/OneSection.aspx?section=143.131",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $1,200 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled. Rates per RSMo 143.011 (L.1972 SB549, unchanged 1973-2014); 1995 form checked."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4600,
+        "marriedJoint": 8100
+      },
+      "source": "https://revisor.mo.gov/main/OneSection.aspx?section=143.131",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $1,200 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled. Rates per RSMo 143.011 (L.1972 SB549, unchanged 1973-2014); 1995 form checked."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4800,
+        "marriedJoint": 8400
+      },
+      "source": "https://revisor.mo.gov/main/OneSection.aspx?section=143.131",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $1,200 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled. Rates per RSMo 143.011 (L.1972 SB549, unchanged 1973-2014); 1995 form checked."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4900,
+        "marriedJoint": 8600
+      },
+      "source": "https://revisor.mo.gov/main/OneSection.aspx?section=143.131",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $1,200 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled. Rates per RSMo 143.011 (L.1972 SB549, unchanged 1973-2014); 1995 form checked."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 8750
+      },
+      "source": "https://revisor.mo.gov/main/OneSection.aspx?section=143.131",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $1,200 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled. Rates per RSMo 143.011 (L.1972 SB549, unchanged 1973-2014); 1995 form checked."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5100,
+        "marriedJoint": 8950
+      },
+      "source": "https://web.archive.org/web/2000/http://dor.state.mo.us/tax/forms/individ/95m1040.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $1,200 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5200,
+        "marriedJoint": 9100
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $1,200 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled. Rates/exemption per RSMo 143.011/143.151 (unchanged); 1995 and 1998 forms checked."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5350,
+        "marriedJoint": 9300
+      },
+      "source": "https://revisor.mo.gov/main/PageSelect.aspx?section=143.011&bid=57925",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $1,200 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled. Rates/exemption per RSMo 143.011/143.151 (unchanged); 1995 and 1998 forms checked."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5450,
+        "marriedJoint": 9500
+      },
+      "source": "https://web.archive.org/web/2000/http://dor.state.mo.us/tax/forms/individ/98m1040.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $1,200 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6400,
+        "marriedJoint": 11400
+      },
+      "source": "https://web.archive.org/web/2000/http://dor.state.mo.us/tax/forms/individ/99m1040.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6500,
+        "marriedJoint": 11550
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040_Instructions_2000.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6650,
+        "marriedJoint": 11800
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040_Instructions_2001.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6800,
+        "marriedJoint": 12050
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040_Instructions_2002.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6850,
+        "marriedJoint": 13700
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040_Instructions_2003.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6950,
+        "marriedJoint": 13900
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040_Instructions_2004.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7100,
+        "marriedJoint": 14200
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040_Instructions_2005.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7250,
+        "marriedJoint": 14500
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040_Instructions_2006.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7450,
+        "marriedJoint": 14900
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040_Instructions_2007.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7550,
+        "marriedJoint": 15100
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2008.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7800,
+        "marriedJoint": 15600
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2009.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7800,
+        "marriedJoint": 15600
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2010.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7900,
+        "marriedJoint": 15800
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2011.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8050,
+        "marriedJoint": 16100
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2012.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8200,
+        "marriedJoint": 16400
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2013.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2014.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8400,
+        "marriedJoint": 16800
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2015.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8400,
+        "marriedJoint": 16800
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2016.pdf",
+      "notes": "Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1008,
+            "rate": 0.02
+          },
+          {
+            "from": 2016,
+            "rate": 0.025
+          },
+          {
+            "from": 3024,
+            "rate": 0.03
+          },
+          {
+            "from": 4032,
+            "rate": 0.035
+          },
+          {
+            "from": 5040,
+            "rate": 0.04
+          },
+          {
+            "from": 6048,
+            "rate": 0.045
+          },
+          {
+            "from": 7056,
+            "rate": 0.05
+          },
+          {
+            "from": 8064,
+            "rate": 0.055
+          },
+          {
+            "from": 9072,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8450,
+        "marriedJoint": 16900
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2017.pdf",
+      "notes": "Brackets indexed (RSMo 143.011.5); tax chart shows $0 tax below $101 of taxable income (de minimis, not modelled). Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction (RSMo 143.131, federal std deduction since 1990) + Missouri exemption $2,100 per taxpayer/spouse (RSMo 143.151). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled. Additional $500 exemption for MAGI under $20,000 (2017) not modelled."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1028,
+            "rate": 0.02
+          },
+          {
+            "from": 2056,
+            "rate": 0.025
+          },
+          {
+            "from": 3084,
+            "rate": 0.03
+          },
+          {
+            "from": 4113,
+            "rate": 0.035
+          },
+          {
+            "from": 5141,
+            "rate": 0.04
+          },
+          {
+            "from": 6169,
+            "rate": 0.045
+          },
+          {
+            "from": 7197,
+            "rate": 0.05
+          },
+          {
+            "from": 8225,
+            "rate": 0.055
+          },
+          {
+            "from": 9253,
+            "rate": 0.059
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12000,
+        "marriedJoint": 24000
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2018.pdf",
+      "notes": "Brackets indexed (RSMo 143.011.5); tax chart shows $0 tax below $103 of taxable income (de minimis, not modelled). Top rate cut to 5.9% under SB 509 (2014)/later acts. Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction; Missouri personal exemption is zero from 2018 (tied to federal exemption). Deduction for federal income tax paid (capped at $5,000 single / $10,000 combined) not modelled."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1053,
+            "rate": 0.02
+          },
+          {
+            "from": 2106,
+            "rate": 0.025
+          },
+          {
+            "from": 3159,
+            "rate": 0.03
+          },
+          {
+            "from": 4212,
+            "rate": 0.035
+          },
+          {
+            "from": 5265,
+            "rate": 0.04
+          },
+          {
+            "from": 6318,
+            "rate": 0.045
+          },
+          {
+            "from": 7371,
+            "rate": 0.05
+          },
+          {
+            "from": 8424,
+            "rate": 0.054
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12200,
+        "marriedJoint": 24400
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2019.pdf",
+      "notes": "Brackets indexed (RSMo 143.011.5); tax chart shows $0 tax below $105 of taxable income (de minimis, not modelled). Top rate cut to 5.4% under SB 509 (2014)/later acts. Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction; Missouri personal exemption is zero from 2018 (tied to federal exemption). Federal income tax deduction (percentage of federal tax by AGI, capped $5,000/$10,000) not modelled."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1073,
+            "rate": 0.02
+          },
+          {
+            "from": 2146,
+            "rate": 0.025
+          },
+          {
+            "from": 3219,
+            "rate": 0.03
+          },
+          {
+            "from": 4292,
+            "rate": 0.035
+          },
+          {
+            "from": 5365,
+            "rate": 0.04
+          },
+          {
+            "from": 6438,
+            "rate": 0.045
+          },
+          {
+            "from": 7511,
+            "rate": 0.05
+          },
+          {
+            "from": 8584,
+            "rate": 0.054
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12400,
+        "marriedJoint": 24800
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2020.pdf",
+      "notes": "Brackets indexed (RSMo 143.011.5); tax chart shows $0 tax below $107 of taxable income (de minimis, not modelled). Top rate cut to 5.4% under SB 509 (2014)/later acts. Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction; Missouri personal exemption is zero from 2018 (tied to federal exemption). Federal income tax deduction (percentage of federal tax by AGI, capped $5,000/$10,000) not modelled."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1088,
+            "rate": 0.02
+          },
+          {
+            "from": 2176,
+            "rate": 0.025
+          },
+          {
+            "from": 3264,
+            "rate": 0.03
+          },
+          {
+            "from": 4352,
+            "rate": 0.035
+          },
+          {
+            "from": 5440,
+            "rate": 0.04
+          },
+          {
+            "from": 6528,
+            "rate": 0.045
+          },
+          {
+            "from": 7616,
+            "rate": 0.05
+          },
+          {
+            "from": 8704,
+            "rate": 0.054
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12550,
+        "marriedJoint": 25100
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2021.pdf",
+      "notes": "Brackets indexed (RSMo 143.011.5); tax chart shows $0 tax below $109 of taxable income (de minimis, not modelled). Top rate cut to 5.4% under SB 509 (2014)/later acts. Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction; Missouri personal exemption is zero from 2018 (tied to federal exemption). Federal income tax deduction (percentage of federal tax by AGI, capped $5,000/$10,000) not modelled."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1121,
+            "rate": 0.02
+          },
+          {
+            "from": 2242,
+            "rate": 0.025
+          },
+          {
+            "from": 3363,
+            "rate": 0.03
+          },
+          {
+            "from": 4484,
+            "rate": 0.035
+          },
+          {
+            "from": 5605,
+            "rate": 0.04
+          },
+          {
+            "from": 6726,
+            "rate": 0.045
+          },
+          {
+            "from": 7847,
+            "rate": 0.05
+          },
+          {
+            "from": 8968,
+            "rate": 0.053
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12950,
+        "marriedJoint": 25900
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2022.pdf",
+      "notes": "Brackets indexed (RSMo 143.011.5); tax chart shows $0 tax below $112 of taxable income (de minimis, not modelled). Top rate cut to 5.3% under SB 509 (2014)/later acts. Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction; Missouri personal exemption is zero from 2018 (tied to federal exemption). Federal income tax deduction (percentage of federal tax by AGI, capped $5,000/$10,000) not modelled."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1207,
+            "rate": 0.02
+          },
+          {
+            "from": 2414,
+            "rate": 0.025
+          },
+          {
+            "from": 3621,
+            "rate": 0.03
+          },
+          {
+            "from": 4828,
+            "rate": 0.035
+          },
+          {
+            "from": 6035,
+            "rate": 0.04
+          },
+          {
+            "from": 7242,
+            "rate": 0.045
+          },
+          {
+            "from": 8449,
+            "rate": 0.0495
+          }
+        ]
+      },
+      "deduction": {
+        "single": 13850,
+        "marriedJoint": 27700
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2023.pdf",
+      "notes": "Top rate 4.95% under 2022 1st Ex. Sess. SB 3; 0% band up to $1,207. Married filing combined: each spouse's tax is computed separately on his/her share of Missouri taxable income using the same schedule (no joint schedule), so only one schedule is recorded. Deduction = federal standard deduction; Missouri personal exemption is zero from 2018 (tied to federal exemption). Federal income tax deduction (percentage of federal tax by AGI, capped $5,000/$10,000) not modelled."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1273,
+            "rate": 0.02
+          },
+          {
+            "from": 2546,
+            "rate": 0.025
+          },
+          {
+            "from": 3819,
+            "rate": 0.03
+          },
+          {
+            "from": 5092,
+            "rate": 0.035
+          },
+          {
+            "from": 6365,
+            "rate": 0.04
+          },
+          {
+            "from": 7638,
+            "rate": 0.045
+          },
+          {
+            "from": 8911,
+            "rate": 0.048
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1273,
+            "rate": 0.02
+          },
+          {
+            "from": 2546,
+            "rate": 0.025
+          },
+          {
+            "from": 3819,
+            "rate": 0.03
+          },
+          {
+            "from": 5092,
+            "rate": 0.035
+          },
+          {
+            "from": 6365,
+            "rate": 0.04
+          },
+          {
+            "from": 7638,
+            "rate": 0.045
+          },
+          {
+            "from": 8911,
+            "rate": 0.048
+          }
+        ]
+      },
+      "deduction": {
+        "single": 14600,
+        "marriedJoint": 29200
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2024.pdf",
+      "notes": "Uses the federal standard deduction."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1313,
+            "rate": 0.02
+          },
+          {
+            "from": 2626,
+            "rate": 0.025
+          },
+          {
+            "from": 3939,
+            "rate": 0.03
+          },
+          {
+            "from": 5252,
+            "rate": 0.035
+          },
+          {
+            "from": 6565,
+            "rate": 0.04
+          },
+          {
+            "from": 7878,
+            "rate": 0.045
+          },
+          {
+            "from": 9191,
+            "rate": 0.047
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1313,
+            "rate": 0.02
+          },
+          {
+            "from": 2626,
+            "rate": 0.025
+          },
+          {
+            "from": 3939,
+            "rate": 0.03
+          },
+          {
+            "from": 5252,
+            "rate": 0.035
+          },
+          {
+            "from": 6565,
+            "rate": 0.04
+          },
+          {
+            "from": 7878,
+            "rate": 0.045
+          },
+          {
+            "from": 9191,
+            "rate": 0.047
+          }
+        ]
+      },
+      "deduction": {
+        "single": 15750,
+        "marriedJoint": 31500
+      },
+      "source": "https://dor.mo.gov/forms/MO-1040%20Instructions_2025.pdf",
+      "notes": "Uses the federal standard deduction as amended by the One Big Beautiful Bill Act."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1348,
+            "rate": 0.02
+          },
+          {
+            "from": 2696,
+            "rate": 0.025
+          },
+          {
+            "from": 4044,
+            "rate": 0.03
+          },
+          {
+            "from": 5392,
+            "rate": 0.035
+          },
+          {
+            "from": 6740,
+            "rate": 0.04
+          },
+          {
+            "from": 8088,
+            "rate": 0.045
+          },
+          {
+            "from": 9436,
+            "rate": 0.047
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1348,
+            "rate": 0.02
+          },
+          {
+            "from": 2696,
+            "rate": 0.025
+          },
+          {
+            "from": 4044,
+            "rate": 0.03
+          },
+          {
+            "from": 5392,
+            "rate": 0.035
+          },
+          {
+            "from": 6740,
+            "rate": 0.04
+          },
+          {
+            "from": 8088,
+            "rate": 0.045
+          },
+          {
+            "from": 9436,
+            "rate": 0.047
+          }
+        ]
+      },
+      "deduction": {
+        "single": 16100,
+        "marriedJoint": 32200
+      },
+      "source": "https://dor.mo.gov/forms/Withholding%20Formula_2026.pdf"
+    }
+  }
+}

@@ -1,0 +1,2599 @@
+{
+  "id": "us-state-ME",
+  "kind": "state",
+  "region": "Maine",
+  "state": "ME",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 5000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.05
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.03
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.05
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1970-71 ed. (M-57), Table 36 (State Individual Income Taxes: Rates, December 31, 1970), Table 37 (personal exemptions) and Table 38 (standard deduction). Table 36: for joint returns the rates apply to income classes twice as large (joint schedule doubled accordingly). Deduction = $1,000 / $2,000 personal exemption (36 M.R.S. §5126 as enacted by P&SL 1969 c. 154); standard deduction 10% of income, max $1,000 single or joint ($500 separate return) (§5124 as enacted 1969). The 1969 §5111 table was the only one until P.L. 1975 c. 660/661 replaced it for tax years from 1976 (the §5111 history on legislature.maine.gov lists no amendment between P&SL 1969 c. 154 and P.L. 1975 c. 660/661; §5124 was next changed by P.L. 1975 c. 660 §7 and §5126 by P.L. 1977 c. 686). Maine did not index its brackets before 1982."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 5000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.05
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.03
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.05
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1972 ed. (M-74), Table 91 (State Individual Income Taxes: Rates, December 31, 1971), Table 92 (personal exemptions) and Table 93 (standard deduction). Table 91: for joint returns the rates apply to income classes twice as large (joint schedule doubled accordingly). Deduction = $1,000 / $2,000 personal exemption (36 M.R.S. §5126 as enacted by P&SL 1969 c. 154); standard deduction 10% of income, max $1,000 single or joint ($500 separate return) (§5124 as enacted 1969). The 1969 §5111 table was the only one until P.L. 1975 c. 660/661 replaced it for tax years from 1976 (the §5111 history on legislature.maine.gov lists no amendment between P&SL 1969 c. 154 and P.L. 1975 c. 660/661; §5124 was next changed by P.L. 1975 c. 660 §7 and §5126 by P.L. 1977 c. 686). Maine did not index its brackets before 1982."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 5000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.05
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.03
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.05
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://lldc.mainelegislature.org/Open/Laws/1975/1975_PL_c661.pdf",
+      "notes": "P.L. 1975 c. 661 (Laws of Maine, Maine State Law and Legislative Reference Library scan) repealed and replaced 36 M.R.S. §5111 but re-enacted the 1969 table (1% to 6% on $2,000/$5,000/$10,000/$25,000/$50,000) and provides that the change to the next table takes effect January 1, 1976, so this schedule applied to 1972. Bridged between the Dec. 31, 1971 and July 1, 1973 ACIR tables, which print the same schedule and deduction; the §5111 history on legislature.maine.gov shows no amendment between P&SL 1969 c. 154 and P.L. 1975 c. 660/661. Joint returns: rates apply to income classes twice as large (ACIR Dec. 1971 and July 1973 tables; joint schedule doubled accordingly). Deduction = $1,000 / $2,000 personal exemption (36 M.R.S. §5126 as enacted by P&SL 1969 c. 154); standard deduction 10% of income, max $1,000 single or joint ($500 separate return) (§5124 as enacted 1969). The 1969 §5111 table was the only one until P.L. 1975 c. 660/661 replaced it for tax years from 1976 (the §5111 history on legislature.maine.gov lists no amendment between P&SL 1969 c. 154 and P.L. 1975 c. 660/661; §5124 was next changed by P.L. 1975 c. 660 §7 and §5126 by P.L. 1977 c. 686). Maine did not index its brackets before 1982."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 5000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.05
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.03
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.05
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1973-74 ed. (M-79), Table 141 (State Individual Income Taxes: Rates, July 1, 1973), Table 142 (personal exemptions) and Table 143 (standard deduction). Table 141: for joint returns the rates apply to income classes twice as large (joint schedule doubled accordingly). Deduction = $1,000 / $2,000 personal exemption (36 M.R.S. §5126 as enacted by P&SL 1969 c. 154); standard deduction 10% of income, max $1,000 single or joint ($500 separate return) (§5124 as enacted 1969). The 1969 §5111 table was the only one until P.L. 1975 c. 660/661 replaced it for tax years from 1976 (the §5111 history on legislature.maine.gov lists no amendment between P&SL 1969 c. 154 and P.L. 1975 c. 660/661; §5124 was next changed by P.L. 1975 c. 660 §7 and §5126 by P.L. 1977 c. 686). Maine did not index its brackets before 1982."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 5000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.05
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.03
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.05
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://lldc.mainelegislature.org/Open/Laws/1975/1975_PL_c661.pdf",
+      "notes": "P.L. 1975 c. 661 (Laws of Maine, Maine State Law and Legislative Reference Library scan) repealed and replaced 36 M.R.S. §5111 but re-enacted the 1969 table (1% to 6% on $2,000/$5,000/$10,000/$25,000/$50,000) and provides that the change to the next table takes effect January 1, 1976, so this schedule applied to 1974. Bridged between the July 1, 1973 ACIR table and P.L. 1975 c. 661 itself, which print the same schedule and deduction; the §5111 history on legislature.maine.gov shows no amendment between P&SL 1969 c. 154 and P.L. 1975 c. 660/661. Joint returns: rates apply to income classes twice as large (ACIR Dec. 1971 and July 1973 tables; joint schedule doubled accordingly). Deduction = $1,000 / $2,000 personal exemption (36 M.R.S. §5126 as enacted by P&SL 1969 c. 154); standard deduction 10% of income, max $1,000 single or joint ($500 separate return) (§5124 as enacted 1969). The 1969 §5111 table was the only one until P.L. 1975 c. 660/661 replaced it for tax years from 1976 (the §5111 history on legislature.maine.gov lists no amendment between P&SL 1969 c. 154 and P.L. 1975 c. 660/661; §5124 was next changed by P.L. 1975 c. 660 §7 and §5126 by P.L. 1977 c. 686). Maine did not index its brackets before 1982."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 5000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.05
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.03
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.05
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://lldc.mainelegislature.org/Open/Laws/1975/1975_PL_c661.pdf",
+      "notes": "P.L. 1975 c. 661 (Laws of Maine, Maine State Law and Legislative Reference Library scan) repealed and replaced 36 M.R.S. §5111 but re-enacted the 1969 table (1% to 6% on $2,000/$5,000/$10,000/$25,000/$50,000) and provides that the change to the next table takes effect January 1, 1976, so this schedule applied to 1975. Bridged between the July 1, 1973 ACIR table and P.L. 1975 c. 661 itself, which print the same schedule and deduction; the §5111 history on legislature.maine.gov shows no amendment between P&SL 1969 c. 154 and P.L. 1975 c. 660/661. Joint returns: rates apply to income classes twice as large (ACIR Dec. 1971 and July 1973 tables; joint schedule doubled accordingly). Deduction = $1,000 / $2,000 personal exemption (36 M.R.S. §5126 as enacted by P&SL 1969 c. 154); standard deduction 10% of income, max $1,000 single or joint ($500 separate return) (§5124 as enacted 1969). The 1969 §5111 table was the only one until P.L. 1975 c. 660/661 replaced it for tax years from 1976 (the §5111 history on legislature.maine.gov lists no amendment between P&SL 1969 c. 154 and P.L. 1975 c. 660/661; §5124 was next changed by P.L. 1975 c. 660 §7 and §5126 by P.L. 1977 c. 686). Maine did not index its brackets before 1982."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 8000,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 15000,
+            "rate": 0.065
+          },
+          {
+            "from": 25000,
+            "rate": 0.075
+          },
+          {
+            "from": 50000,
+            "rate": 0.08
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 8000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.035
+          },
+          {
+            "from": 12000,
+            "rate": 0.045
+          },
+          {
+            "from": 16000,
+            "rate": 0.05
+          },
+          {
+            "from": 20000,
+            "rate": 0.06
+          },
+          {
+            "from": 30000,
+            "rate": 0.065
+          },
+          {
+            "from": 50000,
+            "rate": 0.075
+          },
+          {
+            "from": 100000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.16,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 2400,
+          "marriedJoint": 2800
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1976-77 ed. Vol. II, Table 106 (State Individual Income Taxes: Rates, July 1, 1976), Table 107 (personal exemptions, July 1, 1976) and Table 108 (standard deduction, July 1, 1976). Table 106 says that for a joint return, surviving spouse and head of household the rates apply to income classes twice as large (joint schedule doubled accordingly). Effective January 1, 1977 the rates were raised to range from 1% to 10% over $25,000, so this schedule is for 1976 only. Deduction = $1,000 / $2,000 personal exemption; standard deduction 16% of income, max $2,400 single / $2,800 joint. $10 filing fee per return and charitable-contribution credit not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 15000,
+            "rate": 0.09
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 8000,
+            "rate": 0.04
+          },
+          {
+            "from": 12000,
+            "rate": 0.06
+          },
+          {
+            "from": 16000,
+            "rate": 0.07
+          },
+          {
+            "from": 20000,
+            "rate": 0.08
+          },
+          {
+            "from": 30000,
+            "rate": 0.09
+          },
+          {
+            "from": 50000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.16,
+        "minimum": {
+          "single": 1700,
+          "marriedJoint": 2100
+        },
+        "maximum": {
+          "single": 2400,
+          "marriedJoint": 2800
+        }
+      },
+      "source": "https://lldc.mainelegislature.org/Open/Laws/1975/1975_PL_c661.pdf",
+      "notes": "P.L. 1975 c. 661 (36 M.R.S. §5111 as repealed and replaced): third rate table, 'for any taxable year or portion thereof on or after January 1, 1977' (1% to 10% on $2,000/$4,000/$6,000/$8,000/$10,000/$15,000/$25,000); matches the ACIR July 1976 note that rates from 1977 range from 1% to 10% over $25,000. P.L. 1977 c. 686 §7 inserted the next table effective July 1, 1978, so 1977 used this table all year. Joint returns: rates apply to income classes twice as large (ACIR July 1976 and July 1980 tables; joint schedule doubled accordingly). Deduction = $1,000 personal exemption per federal exemption (§5126; P.L. 1977 c. 686 §10 kept $1,000 except for 1978) and the §5124-A standard deduction enacted by P.L. 1977 c. 477 §17 (effective Oct. 24, 1977): the higher of a low-income allowance of $1,700 / $2,100 or 16% of Maine AGI up to $2,400 / $2,800. 1978 is not transcribed: two rate tables applied (prorated by days under §5234) and the 1978 exemption was conditionally $1,200."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.034959
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 15000,
+            "rate": 0.091008
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 8000,
+            "rate": 0.034959
+          },
+          {
+            "from": 12000,
+            "rate": 0.06
+          },
+          {
+            "from": 16000,
+            "rate": 0.07
+          },
+          {
+            "from": 20000,
+            "rate": 0.08
+          },
+          {
+            "from": 30000,
+            "rate": 0.091008
+          },
+          {
+            "from": 50000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1200,
+        "marriedJoint": 2400
+      },
+      "percentStandardDeduction": {
+        "rate": 0.16,
+        "minimum": {
+          "single": 1700,
+          "marriedJoint": 2100
+        },
+        "maximum": {
+          "single": 2400,
+          "marriedJoint": 2800
+        }
+      },
+      "source": "https://lldc.mainelegislature.org/Open/Laws/1977/1977_PL_c686.pdf",
+      "notes": "Two statutory tables applied in 1978, blended by days: P.L. 1977 c. 686 s. 7 (Laws of Maine scan) inserted into 36 M.R.S. s. 5111 a table 'for any taxable year or portion thereof on or after July 1, 1978' (1%, 2%, 3%, 6%, 7%, 8%, 9.2%, 10% on $2,000/$4,000/$6,000/$8,000/$10,000/$15,000/$25,000), replacing the P.L. 1975 c. 661 table in force from January 1, 1977 (same brackets; 4% on $4,000-$6,000 and 9% on $15,000-$25,000). Under s. 5234 (enacted by P.L. 1975 c. 660 s. 9: when a rate changes during a taxable year the tax is the tax for the whole year at the old rate times the proportion of the year, in days, at the old rate plus the tax at the new rate times the proportion at the new rate) a calendar-year 1978 taxpayer owed 181/365 of the tax under the first table plus 184/365 under the second, which with identical brackets equals this schedule: the two brackets whose rate changed are recorded at the day-weighted rates (181 x 4% + 184 x 3%)/365 = 3.4959% and (181 x 9% + 184 x 9.2%)/365 = 9.1008%; the other rates were the same in both tables. The s. 5111 history on legislature.maine.gov lists no other amendment between P.L. 1975 c. 661 and I.B. 1981 c. 2. Joint returns: rates apply to income classes twice as large (ACIR July 1976 and July 1980 tables; joint schedule doubled accordingly). Deduction = $1,200 personal exemption per federal exemption for a taxable year ending during 1978 (s. 5126 as amended by P.L. 1977 c. 686 s. 10, conditional on first-half FY 1978-79 General Fund revenues meeting the revised estimates; P.L. 1979 c. 615 s. 4, https://lldc.mainelegislature.org/Open/Laws/1979/1979_PL_c615.pdf, re-enacted the $1,200 for a taxable year ending on or after December 31, 1978 and on or before November 30, 1979, for one taxable year only) and the s. 5124-A standard deduction enacted by P.L. 1977 c. 477 s. 17 (next amended by I.B. 1981 c. 2): the higher of a low-income allowance of $1,700 / $2,100 or 16% of Maine AGI up to $2,400 / $2,800. Maine did not index its brackets before 1982."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.03
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 15000,
+            "rate": 0.092
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 8000,
+            "rate": 0.03
+          },
+          {
+            "from": 12000,
+            "rate": 0.06
+          },
+          {
+            "from": 16000,
+            "rate": 0.07
+          },
+          {
+            "from": 20000,
+            "rate": 0.08
+          },
+          {
+            "from": 30000,
+            "rate": 0.092
+          },
+          {
+            "from": 50000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.16,
+        "minimum": {
+          "single": 1700,
+          "marriedJoint": 2100
+        },
+        "maximum": {
+          "single": 2400,
+          "marriedJoint": 2800
+        }
+      },
+      "source": "https://lldc.mainelegislature.org/Open/Laws/1977/1977_PL_c686.pdf",
+      "notes": "P.L. 1977 c. 686 §7 (Laws of Maine scan): rate table 'for any taxable year or portion thereof on or after July 1, 1978' (1% to 10% on $2,000/$4,000/$6,000/$8,000/$10,000/$15,000/$25,000, 9.2% on $15,000-$25,000), the same schedule the ACIR July 1, 1980 table prints for 1980 and that P.L. 1983 c. 3 restates for 1981 and 1982; the §5111 history on legislature.maine.gov shows no other amendment between c. 686 and I.B. 1981 c. 2 (indexing, which P.L. 1983 c. 3 undid for 1981-82). Joint returns: rates apply to income classes twice as large (ACIR July 1980 table; joint schedule doubled accordingly). Deduction = $1,000 personal exemption per federal exemption (§5126 as amended by P.L. 1979 c. 615 §4, which limits the $1,200 exemption to the taxable year ending Dec. 31, 1978) and the §5124-A standard deduction (P.L. 1977 c. 477 §17): the higher of a low-income allowance of $1,700 / $2,100 or 16% of Maine AGI up to $2,400 / $2,800 (the 1980 entry, taken from ACIR, omits the low-income allowance)."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.03
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 15000,
+            "rate": 0.092
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 8000,
+            "rate": 0.03
+          },
+          {
+            "from": 12000,
+            "rate": 0.06
+          },
+          {
+            "from": 16000,
+            "rate": 0.07
+          },
+          {
+            "from": 20000,
+            "rate": 0.08
+          },
+          {
+            "from": 30000,
+            "rate": 0.092
+          },
+          {
+            "from": 50000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.16,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 2400,
+          "marriedJoint": 2800
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1979-80 ed., Table 82 (State Individual Income Taxes: Rates, July 1, 1980), Table 83 (personal exemptions) and Table 84 (standard deduction). Joint returns, surviving spouses and heads of household use income classes twice as large (joint schedule doubled accordingly). Deduction = $1,000 / $2,000 personal exemption; standard deduction 16% of income, max $2,400 single / $2,800 joint. Additional tax of 15% of the federal minimum tax not modelled."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.03
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 15000,
+            "rate": 0.092
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 8000,
+            "rate": 0.03
+          },
+          {
+            "from": 12000,
+            "rate": 0.06
+          },
+          {
+            "from": 16000,
+            "rate": 0.07
+          },
+          {
+            "from": 20000,
+            "rate": 0.08
+          },
+          {
+            "from": 30000,
+            "rate": 0.092
+          },
+          {
+            "from": 50000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.16,
+        "minimum": {
+          "single": 1700,
+          "marriedJoint": 2100
+        },
+        "maximum": {
+          "single": 2400,
+          "marriedJoint": 2800
+        }
+      },
+      "source": "https://lldc.mainelegislature.org/Open/Laws/1983/1983_PL_c003.pdf",
+      "notes": "P.L. 1983 c. 3 (Laws of Maine scan; emergency, effective Jan. 14, 1983), 'An Act to Remove the Retroactive Provisions of the Income Tax Indexing Law': §1 replaces the indexed §5111 tables for tax years beginning in 1981 and in 1982 with this table (1% to 10% on $2,000/$4,000/$6,000/$8,000/$10,000/$15,000/$25,000, 9.2% on $15,000-$25,000, the P.L. 1977 c. 686 table); §2 sets the §5124-A standard deduction for 1981 and 1982 at the higher of a low-income allowance of $1,700 / $2,100 or 16% of Maine AGI up to $2,400 / $2,800; §3 sets the §5126 personal exemption for 1981 and 1982 at $1,000 per federal exemption. Joint returns: rates apply to income classes twice as large (ACIR July 1980 table; §5403 sub-§3 as enacted by I.B. 1981 c. 2 describes the joint schedule's $30,000 bracket, twice the single $15,000 bracket; joint schedule doubled accordingly). Indexing under §5403 applies from tax years beginning in 1983."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.03
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 15000,
+            "rate": 0.092
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 8000,
+            "rate": 0.03
+          },
+          {
+            "from": 12000,
+            "rate": 0.06
+          },
+          {
+            "from": 16000,
+            "rate": 0.07
+          },
+          {
+            "from": 20000,
+            "rate": 0.08
+          },
+          {
+            "from": 30000,
+            "rate": 0.092
+          },
+          {
+            "from": 50000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.16,
+        "minimum": {
+          "single": 1700,
+          "marriedJoint": 2100
+        },
+        "maximum": {
+          "single": 2400,
+          "marriedJoint": 2800
+        }
+      },
+      "source": "https://lldc.mainelegislature.org/Open/Laws/1983/1983_PL_c003.pdf",
+      "notes": "P.L. 1983 c. 3 (Laws of Maine scan; emergency, effective Jan. 14, 1983), 'An Act to Remove the Retroactive Provisions of the Income Tax Indexing Law': §1 replaces the indexed §5111 tables for tax years beginning in 1981 and in 1982 with this table (1% to 10% on $2,000/$4,000/$6,000/$8,000/$10,000/$15,000/$25,000, 9.2% on $15,000-$25,000, the P.L. 1977 c. 686 table); §2 sets the §5124-A standard deduction for 1981 and 1982 at the higher of a low-income allowance of $1,700 / $2,100 or 16% of Maine AGI up to $2,400 / $2,800; §3 sets the §5126 personal exemption for 1981 and 1982 at $1,000 per federal exemption. Joint returns: rates apply to income classes twice as large (ACIR July 1980 table; §5403 sub-§3 as enacted by I.B. 1981 c. 2 describes the joint schedule's $30,000 bracket, twice the single $15,000 bracket; joint schedule doubled accordingly). Indexing under §5403 applies from tax years beginning in 1983."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 16250,
+            "rate": 0.08
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 13000,
+            "rate": 0.04
+          },
+          {
+            "from": 20000,
+            "rate": 0.06
+          },
+          {
+            "from": 30000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://lldc.mainelegislature.org/Open/Laws/1987/1987_PL_c819.pdf",
+      "notes": "P.L. 1987 c. 819 (Laws of Maine scan; s. 15 applies the Act to taxable years beginning on or after January 1, 1988): s. 2 repealed and replaced 36 M.R.S. s. 5111 with these tables for single individuals and married persons filing separately (sub-s. 1) and for married joint returns and surviving spouses (sub-s. 3), on Maine taxable income; s. 14 replaced s. 5403 so that 'for tax years beginning in 1988, no annual adjustment is applicable', so the statutory amounts are the 1988 amounts. No deduction recorded: under s. 5121 as replaced by c. 819 s. 4, Maine taxable income is Maine adjusted gross income less only excess itemized deductions (federal itemized deductions, adjusted, minus the federal standard deduction), and the standard deduction and personal exemptions were replaced for 1988 by tax credits (s. 5124-A standard deduction tax credit $60 single / $100 joint / $88 head of household / $50 married separate; s. 5126 personal exemption tax credit $40 per federal exemption), which are not modelled. Head-of-household table (2% to 8% on $10,000/$15,000/$22,000) not modelled. The s. 5111 history on legislature.maine.gov lists no other amendment between c. 819 and P.L. 1989 c. 495 (which replaced the tables for tax years from 1989)."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 16000,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 16000,
+            "rate": 0.07
+          },
+          {
+            "from": 32000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5100,
+        "marriedJoint": 9200
+      },
+      "source": "https://lldc.mainelegislature.org/Open/Laws/1989/1989_PL_c495.pdf",
+      "notes": "P.L. 1989 c. 495 (Laws of Maine scan), 'An Act to Amend the Maine Income Tax Laws': s. 1 repealed and replaced 36 M.R.S. s. 5111 with these tables 'for each taxable year beginning on or after January 1, 1989' (sub-s. 1 single and married filing separately; sub-s. 3 married joint and surviving spouses), and s. 7 amended s. 5403 so that 'for tax years beginning in 1989, no annual adjustment is applicable' (indexing, with $50 rounding, resumes for 1990), so the statutory amounts are the 1989 amounts. P.L. 1989 c. 596 Part J (first special session) only added the nonresident apportionment subsection, repealed the former nonresident paragraph and (s. J-7) enacted c. 495 s. 9, making c. 495 ss. 1-4 effective for tax years beginning on or after January 1, 1989; the s. 5111 history on legislature.maine.gov lists no other amendment before P.L. 1991 c. 528/591. Deduction = standard deduction, which s. 5124-A as replaced by c. 495 s. 2 makes 'conform to the allowable federal standard deduction of the taxpayer' ($3,100 single / $5,200 joint for 1989, from this file's federal entry), plus the s. 5126 personal exemption of $2,000 per federal exemption as replaced by c. 495 s. 3 (and re-enacted unchanged by P.L. 1989 c. 878 Pt. D s. 12), one for single and two for joint; the exemption's nominal amount is subject to s. 5403 adjustment, which did not apply for 1989. Head-of-household table (2% to 8.5% on $6,000/$12,000/$24,000) not modelled."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4150,
+            "rate": 0.045
+          },
+          {
+            "from": 8250,
+            "rate": 0.07
+          },
+          {
+            "from": 16500,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 8250,
+            "rate": 0.045
+          },
+          {
+            "from": 16500,
+            "rate": 0.07
+          },
+          {
+            "from": 33000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5900,
+        "marriedJoint": 10550
+      },
+      "source": "https://digitalmaine.com/cgi/viewcontent.cgi?article=1085&context=ofpr_docs",
+      "notes": "No document prints this year's schedule; recorded from three government documents: (1) the Maine Legislature Office of Fiscal and Program Review, State of Maine Compendium of State Fiscal Information through fiscal year ending June 30, 1997 (Digital Maine; 'Income Taxes' history, p. 13) states that the individual tax rate brackets and personal exemption were not adjusted for inflation for tax years 1992 through 1997 because the inflation factor was less than 1.000, and that the standard deduction is the same as the federal one; (2) the September 1996 Maine Tax Alert (this file's 1996 entry) prints this 2%/4.5%/7%/8.5% schedule (single $4,150/$8,250/$16,500; joint $8,250/$16,500/$33,000) and the $2,100 exemption, unadjusted for 1996; (3) 36 M.R.S. s. 5111's history (legislature.maine.gov) lists no amendment between P.L. 1991 c. 824 Pt. A ss. 76-78 and P.L. 1999 c. 521, and the temporary 1991-1993 tables with an 8.6% top bracket (P.L. 1991 c. 591 Pt. YY, extended by c. 824) and the 1991-1992 surcharge (c. 591 Pt. ZZ) were repealed January 1, 1994, leaving the permanent tables of s. 5111 sub-ss. 1-A and 3-A (enacted by c. 591 Pt. YY ss. 2 and 6 for tax years from 1993, as indexed). So the 1994 brackets and exemption equal 1996's. Indexed year carried back on the strength of the Compendium's statement that no adjustment was made; drop it if that statement is not accepted. Deduction = standard deduction equal to the federal one (s. 5124-A as replaced by P.L. 1989 c. 495, not amended again until 2003; federal 1994: $3,800 single / $6,350 joint) + $2,100 personal exemption each (s. 5126, not amended between P.L. 1989 c. 878 and P.L. 1997 c. 24). Head-of-household schedule and the additional standard deduction for age or blindness not modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4150,
+            "rate": 0.045
+          },
+          {
+            "from": 8250,
+            "rate": 0.07
+          },
+          {
+            "from": 16500,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 8250,
+            "rate": 0.045
+          },
+          {
+            "from": 16500,
+            "rate": 0.07
+          },
+          {
+            "from": 33000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 10750
+      },
+      "source": "https://digitalmaine.com/cgi/viewcontent.cgi?article=1085&context=ofpr_docs",
+      "notes": "No document prints this year's schedule; recorded from three government documents: (1) the Maine Legislature Office of Fiscal and Program Review, State of Maine Compendium of State Fiscal Information through fiscal year ending June 30, 1997 (Digital Maine; 'Income Taxes' history, p. 13) states that the individual tax rate brackets and personal exemption were not adjusted for inflation for tax years 1992 through 1997 because the inflation factor was less than 1.000, and that the standard deduction is the same as the federal one; (2) the September 1996 Maine Tax Alert (this file's 1996 entry) prints this 2%/4.5%/7%/8.5% schedule (single $4,150/$8,250/$16,500; joint $8,250/$16,500/$33,000) and the $2,100 exemption, unadjusted for 1996; (3) 36 M.R.S. s. 5111's history (legislature.maine.gov) lists no amendment between P.L. 1991 c. 824 Pt. A ss. 76-78 and P.L. 1999 c. 521, and the temporary 1991-1993 tables with an 8.6% top bracket (P.L. 1991 c. 591 Pt. YY, extended by c. 824) and the 1991-1992 surcharge (c. 591 Pt. ZZ) were repealed January 1, 1994, leaving the permanent tables of s. 5111 sub-ss. 1-A and 3-A (enacted by c. 591 Pt. YY ss. 2 and 6 for tax years from 1993, as indexed). So the 1995 brackets and exemption equal 1996's. Indexed year carried back on the strength of the Compendium's statement that no adjustment was made; drop it if that statement is not accepted. Deduction = standard deduction equal to the federal one (s. 5124-A as replaced by P.L. 1989 c. 495, not amended again until 2003; federal 1995: $3,900 single / $6,550 joint) + $2,100 personal exemption each (s. 5126, not amended between P.L. 1989 c. 878 and P.L. 1997 c. 24). Head-of-household schedule and the additional standard deduction for age or blindness not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4150,
+            "rate": 0.045
+          },
+          {
+            "from": 8250,
+            "rate": 0.07
+          },
+          {
+            "from": 16500,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 8250,
+            "rate": 0.045
+          },
+          {
+            "from": 16500,
+            "rate": 0.07
+          },
+          {
+            "from": 33000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6100,
+        "marriedJoint": 10900
+      },
+      "source": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/1996sep.pdf",
+      "notes": "Maine Bureau of Taxation / Maine Revenue Services, Maine Tax Alert, September 1996 ('1996 Tax Rates', reprinted on maine.gov): Tax Rate Schedule #1 (single and married filing separately) and #3 (married filing jointly and surviving spouses); the 1996 inflation factor was .992, so no inflation adjustment was made to the bracket amounts (36 M.R.S. s. 5403). Deduction = Maine standard deduction $4,000 single / $6,700 joint + $2,100 personal exemption each (not inflation-adjusted for 1996). Head-of-household schedule #2 and the additional standard deduction for age or blindness not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4150,
+            "rate": 0.045
+          },
+          {
+            "from": 8250,
+            "rate": 0.07
+          },
+          {
+            "from": 16500,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 8250,
+            "rate": 0.045
+          },
+          {
+            "from": 16500,
+            "rate": 0.07
+          },
+          {
+            "from": 33000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6300,
+        "marriedJoint": 11200
+      },
+      "source": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/1997sep.pdf",
+      "notes": "Maine Bureau of Taxation / Maine Revenue Services, Maine Tax Alert, September 1997 ('1997 Tax Rates', reprinted on maine.gov): Tax Rate Schedule #1 (single and married filing separately) and #3 (married filing jointly and surviving spouses); the 1997 inflation factor was .994, so no inflation adjustment was made to the bracket amounts (36 M.R.S. s. 5403). Deduction = Maine standard deduction $4,150 single / $6,900 joint + $2,150 personal exemption each. Head-of-household schedule #2 and the additional standard deduction for age or blindness not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4150,
+            "rate": 0.045
+          },
+          {
+            "from": 8250,
+            "rate": 0.07
+          },
+          {
+            "from": 16500,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 8250,
+            "rate": 0.045
+          },
+          {
+            "from": 16500,
+            "rate": 0.07
+          },
+          {
+            "from": 33000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6650,
+        "marriedJoint": 11900
+      },
+      "source": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/1998sep.pdf",
+      "notes": "Maine Bureau of Taxation / Maine Revenue Services, Maine Tax Alert, September 1998 ('1998 Tax Rates', reprinted on maine.gov): Tax Rate Schedule #1 (single and married filing separately) and #3 (married filing jointly and surviving spouses); the 1998 inflation factor was .982, so no inflation adjustment was made to the bracket amounts (36 M.R.S. s. 5403). Deduction = Maine standard deduction $4,250 single / $7,100 joint + $2,400 personal exemption each (the exemption was increased by legislation and not inflation-adjusted for 1998). Head-of-household schedule #2 and the additional standard deduction for age or blindness not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4150,
+            "rate": 0.045
+          },
+          {
+            "from": 8250,
+            "rate": 0.07
+          },
+          {
+            "from": 16500,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 8250,
+            "rate": 0.045
+          },
+          {
+            "from": 16500,
+            "rate": 0.07
+          },
+          {
+            "from": 33000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7050,
+        "marriedJoint": 12700
+      },
+      "source": "https://web.archive.org/web/20000119121658/http://janus.state.me.us/Revenue/forms/rateschedule.pdf",
+      "notes": "Maine Revenue Services 'State of Maine - Individual Income Tax 1999 Rates' (Wayback copy of the Bureau's rate schedule page, captured January 2000): Tax Rate Schedule #1 (single and married filing separately) and #3 (married filing jointly and surviving spouses); the 1999 inflation factor was .982, so no inflation adjustment was made to the bracket amounts (36 M.R.S. s. 5403). The $100,000-and-over rows of the 1999 tax table in the 1040ME long-form instructions (https://web.archive.org/web/20000819091614/http://janus.state.me.us/revenue/forms/1040linst.PDF) agree with these schedules ($7,944 single, $7,386 joint at $100,000 plus 8.5% of the excess). Deduction = Maine standard deduction $4,300 single / $7,200 joint + $2,750 personal exemption each (the exemption, set by legislation, was not inflation-adjusted for 1999). Head-of-household schedule #2 and the additional standard deduction for age or blindness not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4150,
+            "rate": 0.045
+          },
+          {
+            "from": 8250,
+            "rate": 0.07
+          },
+          {
+            "from": 16500,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 8250,
+            "rate": 0.045
+          },
+          {
+            "from": 16500,
+            "rate": 0.07
+          },
+          {
+            "from": 33000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7250,
+        "marriedJoint": 13050
+      },
+      "source": "https://web.archive.org/web/20081008023247/http://www.maine.gov/revenue/forms/1040/2000/rateschedule00.pdf",
+      "notes": "MRS rate schedule (36 M.R.S. §5111 sub-§§1-B/3-B as enacted by P.L. 1999 c. 731 Part T; brackets and personal exemption not subject to the cost-of-living adjustment for 2000). Deduction = Maine standard deduction $4,400 / $7,350 + $2,850 personal exemption each (exemption not indexed 2000). Additional standard deduction for age or blindness not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4150,
+            "rate": 0.045
+          },
+          {
+            "from": 8250,
+            "rate": 0.07
+          },
+          {
+            "from": 16500,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 8250,
+            "rate": 0.045
+          },
+          {
+            "from": 16500,
+            "rate": 0.07
+          },
+          {
+            "from": 33000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7400,
+        "marriedJoint": 13300
+      },
+      "source": "https://web.archive.org/web/20080725230606/http://www.maine.gov/revenue/forms/1040/2001/ratesched01.pdf",
+      "notes": "MRS rate schedule (36 M.R.S. §5111 sub-§§1-B/3-B as enacted by P.L. 1999 c. 731 Part T; brackets and personal exemption not subject to the cost-of-living adjustment for 2001). Deduction = Maine standard deduction $4,550 / $7,600 + $2,850 personal exemption each (exemption not indexed 2001). Additional standard deduction for age or blindness not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4200,
+            "rate": 0.045
+          },
+          {
+            "from": 8350,
+            "rate": 0.07
+          },
+          {
+            "from": 16700,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 8400,
+            "rate": 0.045
+          },
+          {
+            "from": 16700,
+            "rate": 0.07
+          },
+          {
+            "from": 33400,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7550,
+        "marriedJoint": 13550
+      },
+      "source": "https://web.archive.org/web/20080830023849/http://maine.gov/revenue/forms/1040/2002/ratesched02.pdf",
+      "notes": "MRS rate schedule (36 M.R.S. §5111 sub-§§1-B/3-B as enacted by P.L. 1999 c. 731 Part T; brackets and personal exemption not subject to the cost-of-living adjustment for 2002). Deduction = Maine standard deduction $4,700 / $7,850 + $2,850 personal exemption each (exemption not indexed 2002). Additional standard deduction for age or blindness not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4250,
+            "rate": 0.045
+          },
+          {
+            "from": 8450,
+            "rate": 0.07
+          },
+          {
+            "from": 16950,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 8500,
+            "rate": 0.045
+          },
+          {
+            "from": 16950,
+            "rate": 0.07
+          },
+          {
+            "from": 33950,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7600,
+        "marriedJoint": 13650
+      },
+      "source": "https://web.archive.org/web/20080829113129/http://maine.gov/revenue/forms/1040/2003/ratesched03.pdf",
+      "notes": "MRS rate schedule (36 M.R.S. §5111 sub-§§1-B/3-B x cost-of-living adjustment 1.0177 (stated as 1.77%)). Deduction = Maine standard deduction $4,750 / $7,950 + $2,850 personal exemption each (exemption not indexed 2003). Additional standard deduction for age or blindness not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4350,
+            "rate": 0.045
+          },
+          {
+            "from": 8650,
+            "rate": 0.07
+          },
+          {
+            "from": 17350,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 8700,
+            "rate": 0.045
+          },
+          {
+            "from": 17350,
+            "rate": 0.07
+          },
+          {
+            "from": 34700,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7700,
+        "marriedJoint": 13850
+      },
+      "source": "https://web.archive.org/web/20080725021204/http://www.maine.gov/revenue/forms/1040/2004/RateSched04.pdf",
+      "notes": "MRS rate schedule (36 M.R.S. §5111 sub-§§1-B/3-B x cost-of-living adjustment 1.0401). Deduction = Maine standard deduction $4,850 / $8,150 + $2,850 personal exemption each (exemption not indexed 2004). Additional standard deduction for age or blindness not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4450,
+            "rate": 0.045
+          },
+          {
+            "from": 8850,
+            "rate": 0.07
+          },
+          {
+            "from": 17700,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 8900,
+            "rate": 0.045
+          },
+          {
+            "from": 17700,
+            "rate": 0.07
+          },
+          {
+            "from": 35450,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7850,
+        "marriedJoint": 14000
+      },
+      "source": "https://web.archive.org/web/20060925195306/http://www.maine.gov/revenue/forms/1040/2005/RateSched05.pdf",
+      "notes": "MRS rate schedule (36 M.R.S. §5111 sub-§§1-B/3-B x cost-of-living adjustment 1.0628). Deduction = Maine standard deduction $5,000 / $8,300 + $2,850 personal exemption each (exemption not indexed 2005). Additional standard deduction for age or blindness not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4550,
+            "rate": 0.045
+          },
+          {
+            "from": 9100,
+            "rate": 0.07
+          },
+          {
+            "from": 18250,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 9150,
+            "rate": 0.045
+          },
+          {
+            "from": 18250,
+            "rate": 0.07
+          },
+          {
+            "from": 36550,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 14300
+      },
+      "source": "https://web.archive.org/web/20061210204742/http://www.maine.gov/revenue/forms/1040/2006/RateSched06.pdf",
+      "notes": "MRS rate schedule (36 M.R.S. §5111 sub-§§1-B/3-B x cost-of-living adjustment 1.0948). Deduction = Maine standard deduction $5,150 / $8,600 + $2,850 personal exemption each (exemption not indexed 2006). Additional standard deduction for age or blindness not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4750,
+            "rate": 0.045
+          },
+          {
+            "from": 9450,
+            "rate": 0.07
+          },
+          {
+            "from": 18950,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 9500,
+            "rate": 0.045
+          },
+          {
+            "from": 18950,
+            "rate": 0.07
+          },
+          {
+            "from": 37950,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8200,
+        "marriedJoint": 14600
+      },
+      "source": "https://web.archive.org/web/20081007130555/http://www.maine.gov/revenue/forms/1040/2007/RateSched07.pdf",
+      "notes": "MRS rate schedule (36 M.R.S. §5111 sub-§§1-B/3-B x cost-of-living adjustment 1.1365). Deduction = Maine standard deduction $5,350 / $8,900 + $2,850 personal exemption each (exemption not indexed 2007). Additional standard deduction for age or blindness not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4850,
+            "rate": 0.045
+          },
+          {
+            "from": 9700,
+            "rate": 0.07
+          },
+          {
+            "from": 19450,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 9750,
+            "rate": 0.045
+          },
+          {
+            "from": 19450,
+            "rate": 0.07
+          },
+          {
+            "from": 38900,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 14800
+      },
+      "source": "https://web.archive.org/web/20081013134848/http://www.maine.gov/revenue/forms/1040/2008/RateSched08.pdf",
+      "notes": "MRS rate schedule (36 M.R.S. §5111 sub-§§1-B/3-B x cost-of-living adjustment 1.166). Deduction = Maine standard deduction $5,450 / $9,100 + $2,850 personal exemption each (exemption not indexed 2008). Additional standard deduction for age or blindness not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 5050,
+            "rate": 0.045
+          },
+          {
+            "from": 10050,
+            "rate": 0.07
+          },
+          {
+            "from": 20150,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10150,
+            "rate": 0.045
+          },
+          {
+            "from": 20150,
+            "rate": 0.07
+          },
+          {
+            "from": 40350,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8550,
+        "marriedJoint": 15200
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ME/2009/RateSched09.pdf",
+      "notes": "MRS rate schedule (36 M.R.S. §5111 sub-§§1-B/3-B x cost-of-living adjustment 1.209). Deduction = Maine standard deduction $5,700 / $9,500 + $2,850 personal exemption each (exemption not indexed 2009)."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4950,
+            "rate": 0.045
+          },
+          {
+            "from": 9850,
+            "rate": 0.07
+          },
+          {
+            "from": 19750,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 9950,
+            "rate": 0.045
+          },
+          {
+            "from": 19750,
+            "rate": 0.07
+          },
+          {
+            "from": 39550,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8550,
+        "marriedJoint": 15250
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ME/2010/RateSched_10_NoReform.pdf",
+      "notes": "MRS rate schedule (36 M.R.S. §5111 sub-§§1-B/3-B x cost-of-living adjustment 1.185). Deduction = Maine standard deduction $5,700 / $9,550 + $2,850 personal exemption each (exemption not indexed 2010)."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 5000,
+            "rate": 0.045
+          },
+          {
+            "from": 9950,
+            "rate": 0.07
+          },
+          {
+            "from": 19950,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.045
+          },
+          {
+            "from": 19950,
+            "rate": 0.07
+          },
+          {
+            "from": 39900,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8650,
+        "marriedJoint": 15350
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ME/2011/RateSched_11.pdf",
+      "notes": "MRS rate schedule (36 M.R.S. §5111 sub-§§1-B/3-B x cost-of-living adjustment 1.195). Deduction = Maine standard deduction $5,800 / $9,650 + $2,850 personal exemption each (exemption not indexed 2011)."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 5100,
+            "rate": 0.045
+          },
+          {
+            "from": 10150,
+            "rate": 0.07
+          },
+          {
+            "from": 20350,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10200,
+            "rate": 0.045
+          },
+          {
+            "from": 20350,
+            "rate": 0.07
+          },
+          {
+            "from": 40700,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8800,
+        "marriedJoint": 17600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ME/2012/RateSched_12.doc%20-%20RateSched_12.pdf",
+      "notes": "MRS rate schedule (36 M.R.S. §5111 sub-§§1-B/3-B x cost-of-living adjustment 1.219). Deduction = Maine standard deduction $5,950 / $11,900 + $2,850 personal exemption each (exemption not indexed 2012)."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 5200,
+            "rate": 0.065
+          },
+          {
+            "from": 20900,
+            "rate": 0.0795
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 10450,
+            "rate": 0.065
+          },
+          {
+            "from": 41850,
+            "rate": 0.0795
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10000,
+        "marriedJoint": 17950
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ME/2013/1040RateSched_13RevJan13.pdf",
+      "notes": "0% bracket below $5,200 / $10,450 (2013 COLA 1.0499; indexing suspended 2014-2015). Deduction = standard deduction $6,100 / $10,150 + $3,900 personal exemption each."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 5200,
+            "rate": 0.065
+          },
+          {
+            "from": 20900,
+            "rate": 0.0795
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 10450,
+            "rate": 0.065
+          },
+          {
+            "from": 41850,
+            "rate": 0.0795
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10150,
+        "marriedJoint": 20300
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ME/2014/1040_rate_sched_14.pdf",
+      "notes": "0% bracket below $5,200 / $10,450 (2013 COLA 1.0499; indexing suspended 2014-2015). Deduction = standard deduction $6,200 / $12,400 + $3,950 personal exemption each."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 5200,
+            "rate": 0.065
+          },
+          {
+            "from": 20900,
+            "rate": 0.0795
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 10450,
+            "rate": 0.065
+          },
+          {
+            "from": 41850,
+            "rate": 0.0795
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10300,
+        "marriedJoint": 20600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ME/2015/1040_rate_sched_2015.pdf",
+      "notes": "0% bracket below $5,200 / $10,450 (2013 COLA 1.0499; indexing suspended 2014-2015). Deduction = standard deduction $6,300 / $12,600 + $4,000 personal exemption each."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 21050,
+            "rate": 0.0675
+          },
+          {
+            "from": 37500,
+            "rate": 0.0715
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 42100,
+            "rate": 0.0675
+          },
+          {
+            "from": 75000,
+            "rate": 0.0715
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ME/2016/1040%20rate%20sched%202016.pdf",
+      "deduction": {
+        "single": 4050,
+        "marriedJoint": 8100
+      },
+      "notes": "Standard deduction ($11,600 / $23,200) phases out above Maine AGI $70,000 single / $140,000 joint from 2016, so it is left out; deduction = $4,050 personal exemption each (equal to federal exemption)."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 21100,
+            "rate": 0.0675
+          },
+          {
+            "from": 50000,
+            "rate": 0.0715
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 42250,
+            "rate": 0.0675
+          },
+          {
+            "from": 100000,
+            "rate": 0.0715
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ME/2017/RateSched_2017_no%20surcharge.pdf",
+      "deduction": {
+        "single": 4050,
+        "marriedJoint": 8100
+      },
+      "notes": "Standard deduction ($11,600 / $23,200) phases out above Maine AGI $70,000 single / $140,000 joint from 2016, so it is left out; deduction = $4,050 personal exemption each (equal to federal exemption)."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 21450,
+            "rate": 0.0675
+          },
+          {
+            "from": 50750,
+            "rate": 0.0715
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 42900,
+            "rate": 0.0675
+          },
+          {
+            "from": 101550,
+            "rate": 0.0715
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ME/2018/rate_sched_2018_rev_sept18.pdf",
+      "notes": "The standard deduction ($12,000 / $24,000) and exemption ($4,150 each) phase out with income, so they are left out."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 21850,
+            "rate": 0.0675
+          },
+          {
+            "from": 51700,
+            "rate": 0.0715
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 43700,
+            "rate": 0.0675
+          },
+          {
+            "from": 103400,
+            "rate": 0.0715
+          }
+        ]
+      },
+      "source": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/RateSched_2019.pdf",
+      "notes": "The standard deduction ($12,200 / $24,400) and exemption ($4,200 each) phase out with income, so they are left out."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 22200,
+            "rate": 0.0675
+          },
+          {
+            "from": 52600,
+            "rate": 0.0715
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 44450,
+            "rate": 0.0675
+          },
+          {
+            "from": 105200,
+            "rate": 0.0715
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ME/2020/RateSched_2020.pdf",
+      "notes": "The standard deduction ($12,400 / $24,800) and exemption ($4,300 each) phase out with income, so they are left out."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 22450,
+            "rate": 0.0675
+          },
+          {
+            "from": 53150,
+            "rate": 0.0715
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 44950,
+            "rate": 0.0675
+          },
+          {
+            "from": 106350,
+            "rate": 0.0715
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ME/2021/ind_tax_rate_sched_2021.pdf",
+      "notes": "The standard deduction ($12,550 / $25,100) and exemption ($4,300 each) phase out with income, so they are left out."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 23000,
+            "rate": 0.0675
+          },
+          {
+            "from": 54450,
+            "rate": 0.0715
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 46000,
+            "rate": 0.0675
+          },
+          {
+            "from": 108900,
+            "rate": 0.0715
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ME/2022/ind_tax_rate_sched_2022.pdf",
+      "notes": "The standard deduction ($12,950 / $25,900) and exemption ($4,450 each) phase out with income, so they are left out."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 24500,
+            "rate": 0.0675
+          },
+          {
+            "from": 58050,
+            "rate": 0.0715
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 49050,
+            "rate": 0.0675
+          },
+          {
+            "from": 116100,
+            "rate": 0.0715
+          }
+        ]
+      },
+      "source": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/ind_tax_rate_sched_2023.pdf",
+      "notes": "The standard deduction ($13,850 / $27,700) and exemption ($4,700 each) phase out with income, so they are left out."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 26050,
+            "rate": 0.0675
+          },
+          {
+            "from": 61600,
+            "rate": 0.0715
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 52100,
+            "rate": 0.0675
+          },
+          {
+            "from": 123250,
+            "rate": 0.0715
+          }
+        ]
+      },
+      "source": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/ind_tax_rate_sched_2024.pdf",
+      "notes": "The standard deduction ($14,600 / $29,200) and exemption ($5,000 each) phase out with income."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 26800,
+            "rate": 0.0675
+          },
+          {
+            "from": 63450,
+            "rate": 0.0715
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 53600,
+            "rate": 0.0675
+          },
+          {
+            "from": 126900,
+            "rate": 0.0715
+          }
+        ]
+      },
+      "source": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/ind_tax_rate_sched_2025.pdf",
+      "notes": "Maine did not adopt the One Big Beautiful Bill Act deduction for 2025: its standard deduction ($15,000 / $30,000) and exemption ($5,150 each) phase out with income."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 27400,
+            "rate": 0.0675
+          },
+          {
+            "from": 64850,
+            "rate": 0.0715
+          },
+          {
+            "from": 1000000,
+            "rate": 0.0915
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.058
+          },
+          {
+            "from": 54850,
+            "rate": 0.0675
+          },
+          {
+            "from": 129750,
+            "rate": 0.0715
+          },
+          {
+            "from": 1500000,
+            "rate": 0.0915
+          }
+        ]
+      },
+      "source": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/2026-05/ind_tax_rate_sched_2026_rev.pdf",
+      "notes": "Top bracket folds in the new 2% surcharge over $1M / $1.5M. The standard deduction ($15,700 / $31,400) and exemption ($5,300 each) phase out with income."
+    }
+  }
+}

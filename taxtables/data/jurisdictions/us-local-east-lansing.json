@@ -1,0 +1,54 @@
+{
+  "id": "us-local-east-lansing",
+  "kind": "local",
+  "region": "East Lansing, MI",
+  "state": "MI",
+  "since": 2019,
+  "years": {
+    "2019": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.cityofeastlansing.com/Faq.aspx?QID=405",
+      "notes": "The East Lansing income tax took effect January 1, 2019 (12-year levy); 1% residents, 0.5% nonresidents."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.cityofeastlansing.com/Faq.aspx?QID=405",
+      "notes": "The East Lansing income tax took effect January 1, 2019 (12-year levy); 1% residents, 0.5% nonresidents."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.cityofeastlansing.com/Faq.aspx?QID=405",
+      "notes": "The East Lansing income tax took effect January 1, 2019 (12-year levy); 1% residents, 0.5% nonresidents."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.cityofeastlansing.com/Faq.aspx?QID=405",
+      "notes": "The East Lansing income tax took effect January 1, 2019 (12-year levy); 1% residents, 0.5% nonresidents."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.cityofeastlansing.com/Faq.aspx?QID=405",
+      "notes": "The East Lansing income tax took effect January 1, 2019 (12-year levy); 1% residents, 0.5% nonresidents."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.cityofeastlansing.com/Faq.aspx?QID=405"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.cityofeastlansing.com/Faq.aspx?QID=405"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.cityofeastlansing.com/Faq.aspx?QID=405"
+    }
+  }
+}

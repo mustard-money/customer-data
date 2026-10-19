@@ -1,0 +1,1986 @@
+{
+  "id": "us-state-NC",
+  "kind": "state",
+  "region": "North Carolina",
+  "state": "NC",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 500
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1970-71 ed. (M-57), Table 36 (State Individual Income Taxes: Rates, December 31, 1970), Table 37 (personal exemptions) and Table 38 (standard deduction). Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted (ACIR standard deduction table footnote), so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,000 single; $2,000 married, ACIR exemption table) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of income up to $500 (an additional $500 was allowed a married woman with separate income). Dependent exemptions not modelled. The 3%-7% schedule is printed unchanged in the ACIR tables at Dec. 31, 1969, Dec. 31, 1970, Dec. 31, 1971, July 1, 1973 and July 1, 1976."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 500
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1972 ed. (M-74), Table 91 (State Individual Income Taxes: Rates, December 31, 1971), Table 92 (personal exemptions) and Table 93 (standard deduction). Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted (ACIR standard deduction table footnote), so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,000 single; $2,000 married, ACIR exemption table) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of income up to $500 (an additional $500 was allowed a married woman with separate income). Dependent exemptions not modelled. The 3%-7% schedule is printed unchanged in the ACIR tables at Dec. 31, 1969, Dec. 31, 1970, Dec. 31, 1971, July 1, 1973 and July 1, 1976."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 500
+        }
+      },
+      "source": "https://www.ncleg.gov/Laws/SessionLaws/1971",
+      "notes": "Bridged under the statute-history rule: the Dec. 31, 1971 and July 1, 1973 ACIR tables (this file's adjacent entries) print the same schedule, exemption and standard deduction, and the ncleg.gov session-law index for the 1971-1972 General Assembly lists no act amending G.S. 105-136 (the acts touching the individual income tax that session - S.L. 1971-1087 exemptions, S.L. 1973-1287 and S.L. 1975-275 technical revisions to Chapter 105, retirement-income and deduction acts - amend G.S. 105-141 to 105-157 only). North Carolina did not index its brackets. Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted (ACIR standard deduction table footnote), so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,000 single; $2,000 married, ACIR exemption table) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of income up to $500 (an additional $500 was allowed a married woman with separate income). Dependent exemptions not modelled. The 3%-7% schedule is printed unchanged in the ACIR tables at Dec. 31, 1969, Dec. 31, 1970, Dec. 31, 1971, July 1, 1973 and July 1, 1976."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 500
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1973-74 ed. (M-79), Table 141 (State Individual Income Taxes: Rates, July 1, 1973), Table 142 (personal exemptions) and Table 143 (standard deduction). Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted (ACIR standard deduction table footnote), so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,000 single; $2,000 married, ACIR exemption table) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of income up to $500 (an additional $500 was allowed a married woman with separate income). Dependent exemptions not modelled. The 3%-7% schedule is printed unchanged in the ACIR tables at Dec. 31, 1969, Dec. 31, 1970, Dec. 31, 1971, July 1, 1973 and July 1, 1976. S.L. 1971-1087 (effective for income years from Jan. 1, 1972) lets a wife claim her husband's $2,000 exemption by agreement."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 500
+        }
+      },
+      "source": "https://www.ncleg.gov/Laws/SessionLaws/1973",
+      "notes": "Bridged under the statute-history rule: the July 1, 1973 and July 1, 1976 ACIR tables (this file's adjacent entries) print the same schedule, exemption and standard deduction, and the ncleg.gov session-law index for the 1973-1974 General Assembly lists no act amending G.S. 105-136 (the acts touching the individual income tax that session - S.L. 1971-1087 exemptions, S.L. 1973-1287 and S.L. 1975-275 technical revisions to Chapter 105, retirement-income and deduction acts - amend G.S. 105-141 to 105-157 only). North Carolina did not index its brackets. Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted (ACIR standard deduction table footnote), so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,000 single; $2,000 married, ACIR exemption table) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of income up to $500 (an additional $500 was allowed a married woman with separate income). Dependent exemptions not modelled. The 3%-7% schedule is printed unchanged in the ACIR tables at Dec. 31, 1969, Dec. 31, 1970, Dec. 31, 1971, July 1, 1973 and July 1, 1976."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 500
+        }
+      },
+      "source": "https://www.ncleg.gov/Laws/SessionLaws/1975",
+      "notes": "Bridged under the statute-history rule: the July 1, 1973 and July 1, 1976 ACIR tables (this file's adjacent entries) print the same schedule, exemption and standard deduction, and the ncleg.gov session-law index for the 1975-1976 General Assembly lists no act amending G.S. 105-136 (the acts touching the individual income tax that session - S.L. 1971-1087 exemptions, S.L. 1973-1287 and S.L. 1975-275 technical revisions to Chapter 105, retirement-income and deduction acts - amend G.S. 105-141 to 105-157 only). North Carolina did not index its brackets. Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted (ACIR standard deduction table footnote), so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,000 single; $2,000 married, ACIR exemption table) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of income up to $500 (an additional $500 was allowed a married woman with separate income). Dependent exemptions not modelled. The 3%-7% schedule is printed unchanged in the ACIR tables at Dec. 31, 1969, Dec. 31, 1970, Dec. 31, 1971, July 1, 1973 and July 1, 1976."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 500
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted, so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,000 single; $2,000 to the spouse with the larger income, per S.L. 1977-309) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of income up to $500 (ACIR 1976; S.L. 1981-13 quotes the pre-1980 $500 cap). The Revenue Act of 1979 (S.L. 1979-801) raised these to $1,100 / $2,200 and $550 for taxable years beginning on or after Jan 1, 1980. Dependent exemptions not modelled. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the 3%-7% schedule; the July 1980 ACIR table shows it unchanged and the Revenue Act of 1979 did not amend G.S. 105-136."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 500
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted, so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,000 single; $2,000 to the spouse with the larger income, per S.L. 1977-309) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of income up to $500 (ACIR 1976; S.L. 1981-13 quotes the pre-1980 $500 cap). The Revenue Act of 1979 (S.L. 1979-801) raised these to $1,100 / $2,200 and $550 for taxable years beginning on or after Jan 1, 1980. Dependent exemptions not modelled. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the 3%-7% schedule; the July 1980 ACIR table shows it unchanged and the Revenue Act of 1979 did not amend G.S. 105-136."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 500
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted, so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,000 single; $2,000 to the spouse with the larger income, per S.L. 1977-309) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of income up to $500 (ACIR 1976; S.L. 1981-13 quotes the pre-1980 $500 cap). The Revenue Act of 1979 (S.L. 1979-801) raised these to $1,100 / $2,200 and $550 for taxable years beginning on or after Jan 1, 1980. Dependent exemptions not modelled. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the 3%-7% schedule; the July 1980 ACIR table shows it unchanged and the Revenue Act of 1979 did not amend G.S. 105-136."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 500
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted, so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,000 single; $2,000 to the spouse with the larger income, per S.L. 1977-309) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of income up to $500 (ACIR 1976; S.L. 1981-13 quotes the pre-1980 $500 cap). The Revenue Act of 1979 (S.L. 1979-801) raised these to $1,100 / $2,200 and $550 for taxable years beginning on or after Jan 1, 1980. Dependent exemptions not modelled. ACIR Significant Features of Fiscal Federalism, Table 82 (rates, July 1, 1980) shows the 3%-7% schedule, unchanged from the July 1976 table; the Revenue Act of 1979 did not amend G.S. 105-136."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1100,
+        "marriedJoint": 2200
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 550,
+          "marriedJoint": 550
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted, so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,100 single; $2,200 to the spouse with the larger income, the other spouse's $1,100 unusable without income) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of adjusted gross income up to $550 per taxpayer, both as set by the Revenue Act of 1979 (S.L. 1979-801) for taxable years beginning on or after Jan 1, 1980 and still in force in 1989 (S.L. 1989-671). Dependent exemptions ($800) not modelled. ACIR Significant Features of Fiscal Federalism, Table 82 (rates, July 1, 1980)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1100,
+        "marriedJoint": 2200
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 550,
+          "marriedJoint": 550
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1982-1983.pdf",
+      "notes": "Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted, so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,100 single; $2,200 to the spouse with the larger income, the other spouse's $1,100 unusable without income) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of adjusted gross income up to $550 per taxpayer, both as set by the Revenue Act of 1979 (S.L. 1979-801) for taxable years beginning on or after Jan 1, 1980 and still in force in 1989 (S.L. 1989-671). Dependent exemptions ($800) not modelled. ACIR Significant Features of Fiscal Federalism, Table 48 (rates for 1983) shows the 3%-7% schedule, unchanged from the July 1980 table."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1100,
+        "marriedJoint": 2200
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 550,
+          "marriedJoint": 550
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1982-1983.pdf",
+      "notes": "Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted, so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,100 single; $2,200 to the spouse with the larger income, the other spouse's $1,100 unusable without income) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of adjusted gross income up to $550 per taxpayer, both as set by the Revenue Act of 1979 (S.L. 1979-801) for taxable years beginning on or after Jan 1, 1980 and still in force in 1989 (S.L. 1989-671). Dependent exemptions ($800) not modelled. ACIR Significant Features of Fiscal Federalism, Table 48 (rates for 1983) shows the 3%-7% schedule, unchanged from the July 1980 table."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1100,
+        "marriedJoint": 2200
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 550,
+          "marriedJoint": 550
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1982-1983.pdf",
+      "notes": "Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted, so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,100 single; $2,200 to the spouse with the larger income, the other spouse's $1,100 unusable without income) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of adjusted gross income up to $550 per taxpayer, both as set by the Revenue Act of 1979 (S.L. 1979-801) for taxable years beginning on or after Jan 1, 1980 and still in force in 1989 (S.L. 1989-671). Dependent exemptions ($800) not modelled. ACIR Significant Features of Fiscal Federalism, Table 48 (rates for 1983)."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1100,
+        "marriedJoint": 2200
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 550,
+          "marriedJoint": 550
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1984.pdf",
+      "notes": "Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted, so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,100 single; $2,200 to the spouse with the larger income, the other spouse's $1,100 unusable without income) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of adjusted gross income up to $550 per taxpayer, both as set by the Revenue Act of 1979 (S.L. 1979-801) for taxable years beginning on or after Jan 1, 1980 and still in force in 1989 (S.L. 1989-671). Dependent exemptions ($800) not modelled. ACIR Significant Features of Fiscal Federalism, Table 53 (rates for 1984)."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1100,
+        "marriedJoint": 2200
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 550,
+          "marriedJoint": 550
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1985-1986.pdf",
+      "notes": "Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted, so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,100 single; $2,200 to the spouse with the larger income, the other spouse's $1,100 unusable without income) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of adjusted gross income up to $550 per taxpayer, both as set by the Revenue Act of 1979 (S.L. 1979-801) for taxable years beginning on or after Jan 1, 1980 and still in force in 1989 (S.L. 1989-671). Dependent exemptions ($800) not modelled. ACIR Significant Features of Fiscal Federalism, Table 56 (rates for 1985)."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1100,
+        "marriedJoint": 2200
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 550,
+          "marriedJoint": 550
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted, so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,100 single; $2,200 to the spouse with the larger income, the other spouse's $1,100 unusable without income) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of adjusted gross income up to $550 per taxpayer, both as set by the Revenue Act of 1979 (S.L. 1979-801) for taxable years beginning on or after Jan 1, 1980 and still in force in 1989 (S.L. 1989-671). Dependent exemptions ($800) not modelled. ACIR Significant Features of Fiscal Federalism, Table 51 (rates for tax year 1986)."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1100,
+        "marriedJoint": 2200
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 550,
+          "marriedJoint": 550
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1988-Vol-1.pdf",
+      "notes": "Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted, so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,100 single; $2,200 to the spouse with the larger income, the other spouse's $1,100 unusable without income) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of adjusted gross income up to $550 per taxpayer, both as set by the Revenue Act of 1979 (S.L. 1979-801) for taxable years beginning on or after Jan 1, 1980 and still in force in 1989 (S.L. 1989-671). Dependent exemptions ($800) not modelled. ACIR Significant Features of Fiscal Federalism, Table 16 (rates for tax year 1987)."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1100,
+        "marriedJoint": 2200
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 550,
+          "marriedJoint": 550
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1989-Vol-1.pdf",
+      "notes": "Rates (former G.S. 105-136, repealed by S.L. 1989-728) applied to each individual's net income after exemptions; joint returns were not permitted, so a two-earner couple paid tax on each spouse's income separately and the married figures here are for a one-earner couple. Deduction is the G.S. 105-149 personal exemption ($1,100 single; $2,200 to the spouse with the larger income, the other spouse's $1,100 unusable without income) and percentStandardDeduction the G.S. 105-147(22) optional standard deduction of 10% of adjusted gross income up to $550 per taxpayer, both as set by the Revenue Act of 1979 (S.L. 1979-801) for taxable years beginning on or after Jan 1, 1980 and still in force in 1989 (S.L. 1989-671). Dependent exemptions ($800) not modelled. ACIR Significant Features of Fiscal Federalism, Table 19 (rates for tax year 1988)."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2004/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$5,000 joint) plus a $2,000 personal exemption per person. 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2004/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$5,000 joint) plus a $2,000 personal exemption per person. 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2004/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$5,000 joint) plus a $2,000 personal exemption per person. 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2004/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$5,000 joint) plus a $2,000 personal exemption per person. 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2004/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$5,000 joint) plus a $2,000 personal exemption per person. 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2004/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$5,000 joint) plus a $2,000 personal exemption per person. 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2004/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$5,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,250 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2004/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$5,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2004/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$5,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2004/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$5,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2004/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$5,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2004/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$5,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          },
+          {
+            "from": 120000,
+            "rate": 0.0825
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          },
+          {
+            "from": 200000,
+            "rate": 0.0825
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2015/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$5,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          },
+          {
+            "from": 120000,
+            "rate": 0.0825
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          },
+          {
+            "from": 200000,
+            "rate": 0.0825
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2015/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$5,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          },
+          {
+            "from": 120000,
+            "rate": 0.0825
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          },
+          {
+            "from": 200000,
+            "rate": 0.0825
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2004/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$5,500 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          },
+          {
+            "from": 120000,
+            "rate": 0.0825
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          },
+          {
+            "from": 200000,
+            "rate": 0.0825
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 10000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2015/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$6,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          },
+          {
+            "from": 120000,
+            "rate": 0.0825
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          },
+          {
+            "from": 200000,
+            "rate": 0.0825
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 10000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2015/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$6,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          },
+          {
+            "from": 120000,
+            "rate": 0.0825
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          },
+          {
+            "from": 200000,
+            "rate": 0.0825
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 10000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2015/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$6,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          },
+          {
+            "from": 120000,
+            "rate": 0.08
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          },
+          {
+            "from": 200000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 10000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2015/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$6,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 10000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2015/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$6,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 10000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NC/2009/D401.pdf",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$6,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Temporary income tax surtax of 2% of tax (3% at higher incomes) not modelled. Child credit not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 10000
+      },
+      "source": "https://www.ncdor.gov/documents/reports/statistical-abstract-north-carolina-taxes-2015/open",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$6,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Temporary income tax surtax of 2% of tax (3% at higher incomes) not modelled. Child credit not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 10000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NC/2011/D401.pdf",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$6,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 10000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NC/2012/D401.pdf",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$6,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 12750,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21250,
+            "rate": 0.07
+          },
+          {
+            "from": 100000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 10000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NC/2013/D401.pdf",
+      "notes": "Deduction is the N.C. standard deduction ($3,000 single/$6,000 joint) plus a $2,000 personal exemption per person. The exemption was $2,500 for filers below an AGI threshold (income-dependent; not modelled). 1989-2011 the base was federal taxable income with the federal standard deduction/exemptions replaced by the N.C. amounts. Child credit not modelled."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.058,
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NC/2014/D401.pdf",
+      "notes": "Deduction is the N.C. standard deduction (no personal exemption from 2014). Child deduction/credit not modelled."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.0575,
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NC/2015/D401.pdf",
+      "notes": "Deduction is the N.C. standard deduction (no personal exemption from 2014). Child deduction/credit not modelled."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.0575,
+      "deduction": {
+        "single": 8250,
+        "marriedJoint": 16500
+      },
+      "source": "https://sites.ncleg.gov/frd/wp-content/uploads/sites/7/2024/03/2024_History_of_State_Tax_Rates-2.pdf",
+      "notes": "Deduction is the N.C. standard deduction (no personal exemption from 2014). Child deduction/credit not modelled."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.05499,
+      "deduction": {
+        "single": 8750,
+        "marriedJoint": 17500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NC/2017/2017_d-401.pdf",
+      "notes": "Deduction is the N.C. standard deduction (no personal exemption from 2014). Child deduction/credit not modelled."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.05499,
+      "deduction": {
+        "single": 8750,
+        "marriedJoint": 17500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NC/2018/2018_d-401_instruction_booklet.pdf",
+      "notes": "Deduction is the N.C. standard deduction (no personal exemption from 2014). Child deduction/credit not modelled."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.0525,
+      "deduction": {
+        "single": 10000,
+        "marriedJoint": 20000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NC/2019/2019-D-401-Instructions_0.pdf",
+      "notes": "Deduction is the N.C. standard deduction (no personal exemption from 2014). Child deduction/credit not modelled."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.0525,
+      "deduction": {
+        "single": 10750,
+        "marriedJoint": 21500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NC/2020/2020-D-401-Instruction-Booklet.pdf",
+      "notes": "Deduction is the N.C. standard deduction (no personal exemption from 2014). Child deduction/credit not modelled."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.0525,
+      "deduction": {
+        "single": 12750,
+        "marriedJoint": 25500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NC/2021/2021%20D-401%20Instruction%20Booklet.pdf",
+      "notes": "Deduction is the N.C. standard deduction (no personal exemption from 2014). Child deduction/credit not modelled."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.0499,
+      "deduction": {
+        "single": 12750,
+        "marriedJoint": 25500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NC/2022/2022%20D-401%20Instruction%20Booklet.pdf",
+      "notes": "Deduction is the N.C. standard deduction (no personal exemption from 2014). Child deduction/credit not modelled."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.0475,
+      "deduction": {
+        "single": 12750,
+        "marriedJoint": 25500
+      },
+      "source": "https://sites.ncleg.gov/frd/wp-content/uploads/sites/7/2024/03/2024_History_of_State_Tax_Rates-2.pdf",
+      "notes": "Deduction is the N.C. standard deduction (no personal exemption from 2014). Child deduction/credit not modelled."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.045,
+      "deduction": {
+        "single": 12750,
+        "marriedJoint": 25500
+      },
+      "source": "https://www.ncdor.gov/2024-d-401-individual-income-tax-instructions/open"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.0425,
+      "deduction": {
+        "single": 12750,
+        "marriedJoint": 25500
+      },
+      "source": "https://www.ncdor.gov/taxes-forms/individual-income-tax/tax-rate-schedules"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.0399,
+      "deduction": {
+        "single": 12750,
+        "marriedJoint": 25500
+      },
+      "source": "https://www.ncdor.gov/taxes-forms/individual-income-tax/tax-rate-schedules"
+    }
+  }
+}

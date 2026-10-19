@@ -1,0 +1,10 @@
+# Keep the image's build context to the source: no binaries, database dumps
+# (customers' data) or local settings.
+bin
+db/dumps
+customer-data
+.git
+.idea
+**/*.test
+.env
+.env.*

@@ -1,0 +1,4883 @@
+{
+  "id": "us-state-CA",
+  "kind": "state",
+  "region": "California",
+  "state": "CA",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 3500,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6500,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 9500,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 12500,
+            "rate": 0.09
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 13000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 19000,
+            "rate": 0.07
+          },
+          {
+            "from": 22000,
+            "rate": 0.08
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://publish.data.ca.gov/dataset/0ef87466-abf7-4489-8a23-ace3d836ebc7/resource/5b5bab05-5575-4d1d-8694-062f4c211816/download/2025_pit_annual_report_combined.pdf",
+      "notes": "FTB tax rate schedules for single and joint filers from FTB Annual Report Tables A-1B/A-1A (1967-72 column; brackets were not indexed before 1978); standard deduction $1,000/$2,000 (Table A-2). Personal exemption credit $25 per person ($50 joint) is a tax credit, not modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 3500,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6500,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 9500,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 12500,
+            "rate": 0.09
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 13000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 19000,
+            "rate": 0.07
+          },
+          {
+            "from": 22000,
+            "rate": 0.08
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://publish.data.ca.gov/dataset/0ef87466-abf7-4489-8a23-ace3d836ebc7/resource/5b5bab05-5575-4d1d-8694-062f4c211816/download/2025_pit_annual_report_combined.pdf",
+      "notes": "FTB tax rate schedules for single and joint filers from FTB Annual Report Tables A-1B/A-1A (1967-72 column; brackets were not indexed before 1978); standard deduction $1,000/$2,000 (Table A-2). Personal exemption credit $25 per person ($50 joint) is a tax credit, not modelled. A 20% forgiveness credit applied to 1971 tax (Table A-1 footnote d(3)); not modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 3500,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6500,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 9500,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 12500,
+            "rate": 0.09
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 13000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 19000,
+            "rate": 0.07
+          },
+          {
+            "from": 22000,
+            "rate": 0.08
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://publish.data.ca.gov/dataset/0ef87466-abf7-4489-8a23-ace3d836ebc7/resource/5b5bab05-5575-4d1d-8694-062f4c211816/download/2025_pit_annual_report_combined.pdf",
+      "notes": "FTB tax rate schedules for single and joint filers from FTB Annual Report Tables A-1B/A-1A (1967-72 column; brackets were not indexed before 1978); standard deduction $1,000/$2,000 (Table A-2). Personal exemption credit $25 per person ($50 joint) is a tax credit, not modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 3500,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6500,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 9500,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 12500,
+            "rate": 0.09
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 15500,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 13000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 19000,
+            "rate": 0.07
+          },
+          {
+            "from": 22000,
+            "rate": 0.08
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 31000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://publish.data.ca.gov/dataset/0ef87466-abf7-4489-8a23-ace3d836ebc7/resource/5b5bab05-5575-4d1d-8694-062f4c211816/download/2025_pit_annual_report_combined.pdf",
+      "notes": "FTB tax rate schedules for single and joint filers from FTB Annual Report Tables A-1B/A-1A (1973-85 column; brackets were not indexed before 1978); standard deduction $1,000/$2,000 (Table A-2). Personal exemption credit $25 per person ($50 joint) is a tax credit, not modelled. A one-time credit of 20%-100% of tax liability applied for 1973 (Table A-1 footnote e); not modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 3500,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6500,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 9500,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 12500,
+            "rate": 0.09
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 15500,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 13000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 19000,
+            "rate": 0.07
+          },
+          {
+            "from": 22000,
+            "rate": 0.08
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 31000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://publish.data.ca.gov/dataset/0ef87466-abf7-4489-8a23-ace3d836ebc7/resource/5b5bab05-5575-4d1d-8694-062f4c211816/download/2025_pit_annual_report_combined.pdf",
+      "notes": "FTB tax rate schedules for single and joint filers from FTB Annual Report Tables A-1B/A-1A (1973-85 column; brackets were not indexed before 1978); standard deduction $1,000/$2,000 (Table A-2). Personal exemption credit $25 per person ($50 joint) is a tax credit, not modelled."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 3500,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6500,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 9500,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 12500,
+            "rate": 0.09
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 15500,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 13000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 19000,
+            "rate": 0.07
+          },
+          {
+            "from": 22000,
+            "rate": 0.08
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 31000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://publish.data.ca.gov/dataset/0ef87466-abf7-4489-8a23-ace3d836ebc7/resource/5b5bab05-5575-4d1d-8694-062f4c211816/download/2025_pit_annual_report_combined.pdf",
+      "notes": "FTB tax rate schedules for single and joint filers from FTB Annual Report Tables A-1B/A-1A (1973-85 column; brackets were not indexed before 1978); standard deduction $1,000/$2,000 (Table A-2). Personal exemption credit $25 per person ($50 joint) is a tax credit, not modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 3500,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6500,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 9500,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 12500,
+            "rate": 0.09
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 15500,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 13000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 19000,
+            "rate": 0.07
+          },
+          {
+            "from": 22000,
+            "rate": 0.08
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 31000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://publish.data.ca.gov/dataset/0ef87466-abf7-4489-8a23-ace3d836ebc7/resource/5b5bab05-5575-4d1d-8694-062f4c211816/download/2025_pit_annual_report_combined.pdf",
+      "notes": "FTB tax rate schedules for single and joint filers from FTB Annual Report Tables A-1B/A-1A (1973-85 column; brackets were not indexed before 1978); standard deduction $1,000/$2,000 (Table A-2). Personal exemption credit $25 per person ($50 joint) is a tax credit, not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2000,
+            "rate": 0.02
+          },
+          {
+            "from": 3500,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6500,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 9500,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 12500,
+            "rate": 0.09
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 15500,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 13000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 19000,
+            "rate": 0.07
+          },
+          {
+            "from": 22000,
+            "rate": 0.08
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 31000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://publish.data.ca.gov/dataset/0ef87466-abf7-4489-8a23-ace3d836ebc7/resource/5b5bab05-5575-4d1d-8694-062f4c211816/download/2025_pit_annual_report_combined.pdf",
+      "notes": "FTB tax rate schedules for single and joint filers from FTB Annual Report Tables A-1B/A-1A (1973-85 column; brackets were not indexed before 1978); standard deduction $1,000/$2,000 (Table A-2). Personal exemption credit $25 per person ($50 joint) is a tax credit, not modelled."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2100,
+            "rate": 0.02
+          },
+          {
+            "from": 3680,
+            "rate": 0.03
+          },
+          {
+            "from": 5260,
+            "rate": 0.04
+          },
+          {
+            "from": 6840,
+            "rate": 0.05
+          },
+          {
+            "from": 8420,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          },
+          {
+            "from": 11570,
+            "rate": 0.08
+          },
+          {
+            "from": 13150,
+            "rate": 0.09
+          },
+          {
+            "from": 14730,
+            "rate": 0.1
+          },
+          {
+            "from": 16310,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4200,
+            "rate": 0.02
+          },
+          {
+            "from": 7360,
+            "rate": 0.03
+          },
+          {
+            "from": 10520,
+            "rate": 0.04
+          },
+          {
+            "from": 13680,
+            "rate": 0.05
+          },
+          {
+            "from": 16840,
+            "rate": 0.06
+          },
+          {
+            "from": 20000,
+            "rate": 0.07
+          },
+          {
+            "from": 23140,
+            "rate": 0.08
+          },
+          {
+            "from": 26300,
+            "rate": 0.09
+          },
+          {
+            "from": 29460,
+            "rate": 0.1
+          },
+          {
+            "from": 32620,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://archive.org/details/micro_IA40706916_0013",
+      "notes": "Computed from the statute's indexing (Stats. 1978, ch. 569) as the California Franchise Tax Board's annual reports describe it (microfilm scans on archive.org): the 1977 schedule (FTB Table 1B; joint brackets twice the single ones, income splitting) with every bracket widened each year by that year's index factor, 5.222% for 1978, 6.88% for 1979, 17.33% for 1980, 8.26% for 1981 and 9.32% for 1982 (FTB 1982 Annual Report, Table 1A footnote 7; the 1982 factor from the 1983 Annual Report, micro_IA40706918_0345), and rounded to the nearest $10 each year. The standard deduction was indexed from 1979 by the full June-to-June California CPI change (the bracket factor plus the 3% threshold removed: 9.88% for 1979; FTB 1980 and 1981 reports), also rounded to $10. Checks against amounts the reports print: the top (11%) joint bracket starts at $44,280 for 1981 (FTB 1982 report, 'Indexing') and $48,400 for 1982 (1983 report); the joint standard deduction is $2,800 for 1981 (1982 report) and $1,530 single / $3,060 joint for 1982 (1983 report, 'Deductions'); every computed value matches. The lower brackets weren't printed for these years, so they rest on the same indexing rule. Personal and dependent exemption credits (indexed too; quadrupled one time for 1978) are tax credits, not modelled."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2240,
+            "rate": 0.02
+          },
+          {
+            "from": 3930,
+            "rate": 0.03
+          },
+          {
+            "from": 5620,
+            "rate": 0.04
+          },
+          {
+            "from": 7310,
+            "rate": 0.05
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          },
+          {
+            "from": 10690,
+            "rate": 0.07
+          },
+          {
+            "from": 12370,
+            "rate": 0.08
+          },
+          {
+            "from": 14050,
+            "rate": 0.09
+          },
+          {
+            "from": 15740,
+            "rate": 0.1
+          },
+          {
+            "from": 17430,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4480,
+            "rate": 0.02
+          },
+          {
+            "from": 7860,
+            "rate": 0.03
+          },
+          {
+            "from": 11240,
+            "rate": 0.04
+          },
+          {
+            "from": 14620,
+            "rate": 0.05
+          },
+          {
+            "from": 18000,
+            "rate": 0.06
+          },
+          {
+            "from": 21380,
+            "rate": 0.07
+          },
+          {
+            "from": 24740,
+            "rate": 0.08
+          },
+          {
+            "from": 28100,
+            "rate": 0.09
+          },
+          {
+            "from": 31480,
+            "rate": 0.1
+          },
+          {
+            "from": 34860,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1100,
+        "marriedJoint": 2200
+      },
+      "source": "https://archive.org/details/micro_IA40706916_0013",
+      "notes": "Computed from the statute's indexing (Stats. 1978, ch. 569) as the California Franchise Tax Board's annual reports describe it (microfilm scans on archive.org): the 1977 schedule (FTB Table 1B; joint brackets twice the single ones, income splitting) with every bracket widened each year by that year's index factor, 5.222% for 1978, 6.88% for 1979, 17.33% for 1980, 8.26% for 1981 and 9.32% for 1982 (FTB 1982 Annual Report, Table 1A footnote 7; the 1982 factor from the 1983 Annual Report, micro_IA40706918_0345), and rounded to the nearest $10 each year. The standard deduction was indexed from 1979 by the full June-to-June California CPI change (the bracket factor plus the 3% threshold removed: 9.88% for 1979; FTB 1980 and 1981 reports), also rounded to $10. Checks against amounts the reports print: the top (11%) joint bracket starts at $44,280 for 1981 (FTB 1982 report, 'Indexing') and $48,400 for 1982 (1983 report); the joint standard deduction is $2,800 for 1981 (1982 report) and $1,530 single / $3,060 joint for 1982 (1983 report, 'Deductions'); every computed value matches. The lower brackets weren't printed for these years, so they rest on the same indexing rule. Personal and dependent exemption credits (indexed too; quadrupled one time for 1978) are tax credits, not modelled."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2630,
+            "rate": 0.02
+          },
+          {
+            "from": 4610,
+            "rate": 0.03
+          },
+          {
+            "from": 6590,
+            "rate": 0.04
+          },
+          {
+            "from": 8580,
+            "rate": 0.05
+          },
+          {
+            "from": 10560,
+            "rate": 0.06
+          },
+          {
+            "from": 12540,
+            "rate": 0.07
+          },
+          {
+            "from": 14510,
+            "rate": 0.08
+          },
+          {
+            "from": 16480,
+            "rate": 0.09
+          },
+          {
+            "from": 18470,
+            "rate": 0.1
+          },
+          {
+            "from": 20450,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 5260,
+            "rate": 0.02
+          },
+          {
+            "from": 9220,
+            "rate": 0.03
+          },
+          {
+            "from": 13180,
+            "rate": 0.04
+          },
+          {
+            "from": 17160,
+            "rate": 0.05
+          },
+          {
+            "from": 21120,
+            "rate": 0.06
+          },
+          {
+            "from": 25080,
+            "rate": 0.07
+          },
+          {
+            "from": 29020,
+            "rate": 0.08
+          },
+          {
+            "from": 32960,
+            "rate": 0.09
+          },
+          {
+            "from": 36940,
+            "rate": 0.1
+          },
+          {
+            "from": 40900,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1290,
+        "marriedJoint": 2580
+      },
+      "source": "https://archive.org/details/micro_IA40706916_0013",
+      "notes": "Computed from the statute's indexing (Stats. 1978, ch. 569) as the California Franchise Tax Board's annual reports describe it (microfilm scans on archive.org): the 1977 schedule (FTB Table 1B; joint brackets twice the single ones, income splitting) with every bracket widened each year by that year's index factor, 5.222% for 1978, 6.88% for 1979, 17.33% for 1980, 8.26% for 1981 and 9.32% for 1982 (FTB 1982 Annual Report, Table 1A footnote 7; the 1982 factor from the 1983 Annual Report, micro_IA40706918_0345), and rounded to the nearest $10 each year. The standard deduction was indexed from 1979 by the full June-to-June California CPI change (the bracket factor plus the 3% threshold removed: 9.88% for 1979; FTB 1980 and 1981 reports), also rounded to $10. Checks against amounts the reports print: the top (11%) joint bracket starts at $44,280 for 1981 (FTB 1982 report, 'Indexing') and $48,400 for 1982 (1983 report); the joint standard deduction is $2,800 for 1981 (1982 report) and $1,530 single / $3,060 joint for 1982 (1983 report, 'Deductions'); every computed value matches. The lower brackets weren't printed for these years, so they rest on the same indexing rule. Personal and dependent exemption credits (indexed too; quadrupled one time for 1978) are tax credits, not modelled."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 2850,
+            "rate": 0.02
+          },
+          {
+            "from": 4990,
+            "rate": 0.03
+          },
+          {
+            "from": 7130,
+            "rate": 0.04
+          },
+          {
+            "from": 9290,
+            "rate": 0.05
+          },
+          {
+            "from": 11430,
+            "rate": 0.06
+          },
+          {
+            "from": 13580,
+            "rate": 0.07
+          },
+          {
+            "from": 15710,
+            "rate": 0.08
+          },
+          {
+            "from": 17840,
+            "rate": 0.09
+          },
+          {
+            "from": 20000,
+            "rate": 0.1
+          },
+          {
+            "from": 22140,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 5700,
+            "rate": 0.02
+          },
+          {
+            "from": 9980,
+            "rate": 0.03
+          },
+          {
+            "from": 14260,
+            "rate": 0.04
+          },
+          {
+            "from": 18580,
+            "rate": 0.05
+          },
+          {
+            "from": 22860,
+            "rate": 0.06
+          },
+          {
+            "from": 27160,
+            "rate": 0.07
+          },
+          {
+            "from": 31420,
+            "rate": 0.08
+          },
+          {
+            "from": 35680,
+            "rate": 0.09
+          },
+          {
+            "from": 40000,
+            "rate": 0.1
+          },
+          {
+            "from": 44280,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1400,
+        "marriedJoint": 2800
+      },
+      "source": "https://archive.org/details/micro_IA40706916_0013",
+      "notes": "Computed from the statute's indexing (Stats. 1978, ch. 569) as the California Franchise Tax Board's annual reports describe it (microfilm scans on archive.org): the 1977 schedule (FTB Table 1B; joint brackets twice the single ones, income splitting) with every bracket widened each year by that year's index factor, 5.222% for 1978, 6.88% for 1979, 17.33% for 1980, 8.26% for 1981 and 9.32% for 1982 (FTB 1982 Annual Report, Table 1A footnote 7; the 1982 factor from the 1983 Annual Report, micro_IA40706918_0345), and rounded to the nearest $10 each year. The standard deduction was indexed from 1979 by the full June-to-June California CPI change (the bracket factor plus the 3% threshold removed: 9.88% for 1979; FTB 1980 and 1981 reports), also rounded to $10. Checks against amounts the reports print: the top (11%) joint bracket starts at $44,280 for 1981 (FTB 1982 report, 'Indexing') and $48,400 for 1982 (1983 report); the joint standard deduction is $2,800 for 1981 (1982 report) and $1,530 single / $3,060 joint for 1982 (1983 report, 'Deductions'); every computed value matches. The lower brackets weren't printed for these years, so they rest on the same indexing rule. Personal and dependent exemption credits (indexed too; quadrupled one time for 1978) are tax credits, not modelled."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3120,
+            "rate": 0.02
+          },
+          {
+            "from": 5460,
+            "rate": 0.03
+          },
+          {
+            "from": 7790,
+            "rate": 0.04
+          },
+          {
+            "from": 10160,
+            "rate": 0.05
+          },
+          {
+            "from": 12500,
+            "rate": 0.06
+          },
+          {
+            "from": 14850,
+            "rate": 0.07
+          },
+          {
+            "from": 17170,
+            "rate": 0.08
+          },
+          {
+            "from": 19500,
+            "rate": 0.09
+          },
+          {
+            "from": 21860,
+            "rate": 0.1
+          },
+          {
+            "from": 24200,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 6240,
+            "rate": 0.02
+          },
+          {
+            "from": 10920,
+            "rate": 0.03
+          },
+          {
+            "from": 15580,
+            "rate": 0.04
+          },
+          {
+            "from": 20320,
+            "rate": 0.05
+          },
+          {
+            "from": 25000,
+            "rate": 0.06
+          },
+          {
+            "from": 29700,
+            "rate": 0.07
+          },
+          {
+            "from": 34340,
+            "rate": 0.08
+          },
+          {
+            "from": 39000,
+            "rate": 0.09
+          },
+          {
+            "from": 43720,
+            "rate": 0.1
+          },
+          {
+            "from": 48400,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1530,
+        "marriedJoint": 3060
+      },
+      "source": "https://archive.org/details/micro_IA40706918_0345",
+      "notes": "Computed from the statute's indexing (Stats. 1978, ch. 569) as the California Franchise Tax Board's annual reports describe it (microfilm scans on archive.org): the 1977 schedule (FTB Table 1B; joint brackets twice the single ones, income splitting) with every bracket widened each year by that year's index factor, 5.222% for 1978, 6.88% for 1979, 17.33% for 1980, 8.26% for 1981 and 9.32% for 1982 (FTB 1982 Annual Report, Table 1A footnote 7; the 1982 factor from the 1983 Annual Report, micro_IA40706918_0345), and rounded to the nearest $10 each year. The standard deduction was indexed from 1979 by the full June-to-June California CPI change (the bracket factor plus the 3% threshold removed: 9.88% for 1979; FTB 1980 and 1981 reports), also rounded to $10. Checks against amounts the reports print: the top (11%) joint bracket starts at $44,280 for 1981 (FTB 1982 report, 'Indexing') and $48,400 for 1982 (1983 report); the joint standard deduction is $2,800 for 1981 (1982 report) and $1,530 single / $3,060 joint for 1982 (1983 report, 'Deductions'); every computed value matches. The lower brackets weren't printed for these years, so they rest on the same indexing rule. Personal and dependent exemption credits (indexed too; quadrupled one time for 1978) are tax credits, not modelled."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1510,
+            "rate": 0.01
+          },
+          {
+            "from": 4600,
+            "rate": 0.02
+          },
+          {
+            "from": 6900,
+            "rate": 0.03
+          },
+          {
+            "from": 9210,
+            "rate": 0.04
+          },
+          {
+            "from": 11550,
+            "rate": 0.05
+          },
+          {
+            "from": 13870,
+            "rate": 0.06
+          },
+          {
+            "from": 16190,
+            "rate": 0.07
+          },
+          {
+            "from": 18480,
+            "rate": 0.08
+          },
+          {
+            "from": 20800,
+            "rate": 0.09
+          },
+          {
+            "from": 23120,
+            "rate": 0.1
+          },
+          {
+            "from": 25430,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3020,
+            "rate": 0.01
+          },
+          {
+            "from": 9200,
+            "rate": 0.02
+          },
+          {
+            "from": 13800,
+            "rate": 0.03
+          },
+          {
+            "from": 18420,
+            "rate": 0.04
+          },
+          {
+            "from": 23100,
+            "rate": 0.05
+          },
+          {
+            "from": 27740,
+            "rate": 0.06
+          },
+          {
+            "from": 32380,
+            "rate": 0.07
+          },
+          {
+            "from": 36960,
+            "rate": 0.08
+          },
+          {
+            "from": 41600,
+            "rate": 0.09
+          },
+          {
+            "from": 46240,
+            "rate": 0.1
+          },
+          {
+            "from": 50860,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1982-1983.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism, Table 48 (State Individual Income Tax Rates for 1983, as of December 1983; printed p. 62) prints the California schedule for joint taxpayers and surviving spouses as indexed for 1983 ($0-$3,020 no tax, 1% to $9,200 ... 11% over $50,860) and says single taxpayers and married persons filing separately pay 1% on taxable income between $1,511 and $4,600 and 11% over $25,431; Table 47 (as of October 1, 1983; p. 60) gives the single brackets as $4,600 lowest / $25,430 highest and the zero bracket amount as $1,510 single / $3,020 joint. The single schedule recorded here is the printed joint schedule halved (joint tax is twice the tax on half the income, R&TC 17045, as the FTB annual reports' synopsis footnote states; every halved amount is a multiple of 10), with its printed endpoints $1,510, $4,600 and $25,430 matching; the intermediate single edges are not printed anywhere. FTB 1984 Annual Report (archive.org micro_IA40706922_0001) confirms the 1983 zero bracket amount $1,510/$3,020, the 1983 index factor -1.2% and the joint 11% threshold $50,860. Zero bracket amount is modelled as the 0% first bracket, so no deduction is recorded (itemizers deducted only the excess). Personal exemption credits ($38 per person / $76 joint) are tax credits, not modelled."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1580,
+            "rate": 0.01
+          },
+          {
+            "from": 4810,
+            "rate": 0.02
+          },
+          {
+            "from": 7220,
+            "rate": 0.03
+          },
+          {
+            "from": 9630,
+            "rate": 0.04
+          },
+          {
+            "from": 12080,
+            "rate": 0.05
+          },
+          {
+            "from": 14510,
+            "rate": 0.06
+          },
+          {
+            "from": 16930,
+            "rate": 0.07
+          },
+          {
+            "from": 19330,
+            "rate": 0.08
+          },
+          {
+            "from": 21760,
+            "rate": 0.09
+          },
+          {
+            "from": 24180,
+            "rate": 0.1
+          },
+          {
+            "from": 26600,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3160,
+            "rate": 0.01
+          },
+          {
+            "from": 9620,
+            "rate": 0.02
+          },
+          {
+            "from": 14440,
+            "rate": 0.03
+          },
+          {
+            "from": 19260,
+            "rate": 0.04
+          },
+          {
+            "from": 24160,
+            "rate": 0.05
+          },
+          {
+            "from": 29020,
+            "rate": 0.06
+          },
+          {
+            "from": 33860,
+            "rate": 0.07
+          },
+          {
+            "from": 38660,
+            "rate": 0.08
+          },
+          {
+            "from": 43520,
+            "rate": 0.09
+          },
+          {
+            "from": 48360,
+            "rate": 0.1
+          },
+          {
+            "from": 53200,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1984.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism, Table 53 (State Individual Income Tax Rates for 1984, as of December 1984; printed p. 75): California single and married-filing-separately schedule as indexed for 1984 ($0-$1,580 no tax, 1% $1,581-$4,810 ... 11% over $26,600); the table says that for joint returns the tax is twice the amount it would be if taxable income were cut in half, so the joint schedule is recorded as double the single one. Table 52 (as of November 1984; p. 73) gives the zero bracket amount as $1,580 single / $3,160 joint. FTB 1985 Annual Report (archive.org micro_IA40706925_0099) confirms: 1984 inflation factor 4.6%, zero bracket amount $1,580/$3,160, joint maximum-rate threshold $53,200 (= 2 x $26,600). Zero bracket amount is modelled as the 0% first bracket, so no deduction is recorded. Personal exemption credits ($40 per person / $80 joint) are tax credits, not modelled."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1650,
+            "rate": 0.01
+          },
+          {
+            "from": 5030,
+            "rate": 0.02
+          },
+          {
+            "from": 7550,
+            "rate": 0.03
+          },
+          {
+            "from": 10070,
+            "rate": 0.04
+          },
+          {
+            "from": 12640,
+            "rate": 0.05
+          },
+          {
+            "from": 15180,
+            "rate": 0.06
+          },
+          {
+            "from": 17710,
+            "rate": 0.07
+          },
+          {
+            "from": 20220,
+            "rate": 0.08
+          },
+          {
+            "from": 22760,
+            "rate": 0.09
+          },
+          {
+            "from": 25290,
+            "rate": 0.1
+          },
+          {
+            "from": 27820,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3300,
+            "rate": 0.01
+          },
+          {
+            "from": 10060,
+            "rate": 0.02
+          },
+          {
+            "from": 15100,
+            "rate": 0.03
+          },
+          {
+            "from": 20140,
+            "rate": 0.04
+          },
+          {
+            "from": 25280,
+            "rate": 0.05
+          },
+          {
+            "from": 30360,
+            "rate": 0.06
+          },
+          {
+            "from": 35420,
+            "rate": 0.07
+          },
+          {
+            "from": 40440,
+            "rate": 0.08
+          },
+          {
+            "from": 45520,
+            "rate": 0.09
+          },
+          {
+            "from": 50580,
+            "rate": 0.1
+          },
+          {
+            "from": 55640,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://archive.org/details/micro_IA40706931_0296",
+      "notes": "Computed: the 1984 indexed schedule (this file's 1984 entry: ACIR 1984 ed. Table 53, confirmed by the FTB 1985 Annual Report) multiplied by 1.046 and rounded to the nearest $10. The California Franchise Tax Board 1987 Annual Report (archive.org micro_IA40706931_0296; history-of-rates table footnote) gives the bracket indexing rates as 4.6% for 1984, 4.6% for 1985 and 3.5% for 1986, and its narrative gives the 1986 inflation factor as 3.5% with a $1,710 zero bracket amount. Check: these 1985 brackets multiplied by 1.035 and rounded to the nearest $10 reproduce all eleven published 1986 brackets (this file's 1986 entry, FTB 1992 Annual Report tables) exactly, while a 3.5% factor for 1985 reproduces none. The FTB 1986 Annual Report (micro_IA40706928_0205) states a 3.5% factor, a $1,710 zero bracket amount, $86 joint personal credits and a $57,580 joint maximum-rate threshold 'for the 1985 taxable year'; those are the 1986 amounts given by the 1987 report and the 1986 schedule ($1,710 is 8.2% above the 1984 $1,580, not 3.5%), and its own footnote lists 3.5% as the last factor, so they were not used. Zero bracket amount (0% first bracket) $1,650 single; joint schedule = double the single one, as in the 1984 and 1986 entries (joint maximum-rate threshold $55,640). Personal exemption credits are tax credits, not modelled."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1710,
+            "rate": 0.01
+          },
+          {
+            "from": 5210,
+            "rate": 0.02
+          },
+          {
+            "from": 7810,
+            "rate": 0.03
+          },
+          {
+            "from": 10420,
+            "rate": 0.04
+          },
+          {
+            "from": 13080,
+            "rate": 0.05
+          },
+          {
+            "from": 15710,
+            "rate": 0.06
+          },
+          {
+            "from": 18330,
+            "rate": 0.07
+          },
+          {
+            "from": 20930,
+            "rate": 0.08
+          },
+          {
+            "from": 23560,
+            "rate": 0.09
+          },
+          {
+            "from": 26180,
+            "rate": 0.1
+          },
+          {
+            "from": 28790,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3420,
+            "rate": 0.01
+          },
+          {
+            "from": 10420,
+            "rate": 0.02
+          },
+          {
+            "from": 15620,
+            "rate": 0.03
+          },
+          {
+            "from": 20840,
+            "rate": 0.04
+          },
+          {
+            "from": 26160,
+            "rate": 0.05
+          },
+          {
+            "from": 31420,
+            "rate": 0.06
+          },
+          {
+            "from": 36660,
+            "rate": 0.07
+          },
+          {
+            "from": 41860,
+            "rate": 0.08
+          },
+          {
+            "from": 47120,
+            "rate": 0.09
+          },
+          {
+            "from": 52360,
+            "rate": 0.1
+          },
+          {
+            "from": 57580,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://archive.org/details/micro_IA40706948_0261",
+      "notes": "FTB tax rate schedules for taxable year 1986 from the California Franchise Tax Board 1992 Annual Report (microfilm scan on archive.org), Personal Income Tax Synopsis of Tax Rates, Table 1A (married filing jointly) and Table 1B (single and married filing separately), \"Taxable Year 1986\" column (page 44 of the report; the same column is printed in the 1988, 1989, 1990 and 1991 annual reports). Indexed amounts as printed; in 1984-1986 the standard deduction was a zero bracket amount built into the schedule as the 0% first bracket ($1,710 single / $3,420 joint, confirmed by the FTB 1987 Annual Report, which also says the 1986 inflation factor was 3.5%), so no deduction is recorded (itemizers deducted only the excess over the zero bracket amount). The 1987 Annual Report narrative gives the 1986 joint maximum-rate threshold as $57,590, $10 more than the $57,580 printed in the tables; the table figure is used. Personal exemption credits ($43 per person / $86 joint in 1986) are tax credits, not modelled."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3650,
+            "rate": 0.02
+          },
+          {
+            "from": 8650,
+            "rate": 0.04
+          },
+          {
+            "from": 13650,
+            "rate": 0.06
+          },
+          {
+            "from": 18950,
+            "rate": 0.08
+          },
+          {
+            "from": 23950,
+            "rate": 0.093
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 7300,
+            "rate": 0.02
+          },
+          {
+            "from": 17300,
+            "rate": 0.04
+          },
+          {
+            "from": 27300,
+            "rate": 0.06
+          },
+          {
+            "from": 37900,
+            "rate": 0.08
+          },
+          {
+            "from": 47900,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1880,
+        "marriedJoint": 3760
+      },
+      "source": "https://publish.data.ca.gov/dataset/0ef87466-abf7-4489-8a23-ace3d836ebc7/resource/5b5bab05-5575-4d1d-8694-062f4c211816/download/2025_pit_annual_report_combined.pdf",
+      "notes": "FTB tax rate schedules for single and joint filers from FTB Annual Report Tables A-1B/A-1A (1987-90 column; indexing was suspended for 1987, so the statutory amounts applied); standard deduction $1,880/$3,760 (Table A-2, Stats. 1987 Ch. 1138). Personal exemption credit $51 per person ($102 joint) is a tax credit, not modelled."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3818,
+            "rate": 0.02
+          },
+          {
+            "from": 9048,
+            "rate": 0.04
+          },
+          {
+            "from": 14278,
+            "rate": 0.06
+          },
+          {
+            "from": 19822,
+            "rate": 0.08
+          },
+          {
+            "from": 25052,
+            "rate": 0.093
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 7636,
+            "rate": 0.02
+          },
+          {
+            "from": 18096,
+            "rate": 0.04
+          },
+          {
+            "from": 28556,
+            "rate": 0.06
+          },
+          {
+            "from": 39644,
+            "rate": 0.08
+          },
+          {
+            "from": 50104,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1966,
+        "marriedJoint": 3932
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1989-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1989 ed. vol. 1, Table 19 (State Individual Income Tax Rates for Tax Year 1988, compiled October 1988; printed p. 34): California single / married filing separately $0-$3,818 1%, $3,819-$9,048 2%, $9,049-$14,278 4%, $14,279-$19,822 6%, $19,823-$25,052 8%, over $25,052 9.3%, 'tax brackets annually indexed by California consumer price index'. Standard deduction $1,966 single / $3,932 joint from Table 18 (as of October 1988; p. 31), confirmed by the FTB 1989 Annual Report (archive.org micro_IA40706941_0355), which also gives the 1988 index factor 4.6%. Joint schedule recorded as double the single one: joint tax is twice the tax on half the income (R&TC 17045; stated in the FTB annual reports' synopsis footnote, and the FTB synopsis tables print the 1987 statutory joint brackets as exactly double the single ones). Personal exemption credit $52 per person ($104 joint) is a tax credit, not modelled."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4020,
+            "rate": 0.02
+          },
+          {
+            "from": 9528,
+            "rate": 0.04
+          },
+          {
+            "from": 15035,
+            "rate": 0.06
+          },
+          {
+            "from": 20873,
+            "rate": 0.08
+          },
+          {
+            "from": 26380,
+            "rate": 0.093
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 8040,
+            "rate": 0.02
+          },
+          {
+            "from": 19056,
+            "rate": 0.04
+          },
+          {
+            "from": 30070,
+            "rate": 0.06
+          },
+          {
+            "from": 41746,
+            "rate": 0.08
+          },
+          {
+            "from": 52760,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2070,
+        "marriedJoint": 4140
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1990-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1990 ed. vol. 1, Table 19 (State Individual Income Tax Rates for Tax Year 1989, compiled October 1989; printed p. 52): California single / married filing separately $0-$4,020 1%, $4,021-$9,528 2%, $9,529-$15,035 4%, $15,036-$20,873 6%, $20,874-$26,380 8%, over $26,380 9.3%. Standard deduction $2,070 single / $4,140 joint from the FTB 1990 Annual Report (archive.org micro_IA40706945_0189, 'The standard deduction for 1989 was $2,070 for single or married filing separate filers ... $4,140'), which also gives the 1989 index factor 5.3%. Joint schedule recorded as double the single one (joint tax is twice the tax on half the income, R&TC 17045, as stated in the FTB annual reports' synopsis footnote). Personal exemption credit $55 per person ($110 joint) is a tax credit, not modelled."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4213,
+            "rate": 0.02
+          },
+          {
+            "from": 9985,
+            "rate": 0.04
+          },
+          {
+            "from": 15757,
+            "rate": 0.06
+          },
+          {
+            "from": 21875,
+            "rate": 0.08
+          },
+          {
+            "from": 27646,
+            "rate": 0.093
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 8426,
+            "rate": 0.02
+          },
+          {
+            "from": 19970,
+            "rate": 0.04
+          },
+          {
+            "from": 31514,
+            "rate": 0.06
+          },
+          {
+            "from": 43750,
+            "rate": 0.08
+          },
+          {
+            "from": 55292,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2169,
+        "marriedJoint": 4339
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1991-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1991 ed. vol. 1, Table 22 (State Individual Income Tax Rates for Tax Year 1990, compiled October 1990; printed p. 64): California single / married filing separately $0-$4,213 1%, $4,214-$9,985 2%, $9,986-$15,757 4%, $15,758-$21,875 6%, $21,876-$27,646 8%, over $27,646 9.3%. Standard deduction $2,169 single / $4,339 joint from Table 18 (as of October 1990; p. 48), confirmed by the FTB 1991 Annual Report (archive.org micro_IA40706945_0189), which also gives the 1990 index factor 4.8%. Joint schedule recorded as double the single one (joint tax is twice the tax on half the income, R&TC 17045, as stated in the FTB annual reports' synopsis footnote; the ACIR 1992 edition says the same for 1991). Personal exemption credit $58 per person ($116 joint) is a tax credit, not modelled."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4394,
+            "rate": 0.02
+          },
+          {
+            "from": 10414,
+            "rate": 0.04
+          },
+          {
+            "from": 16435,
+            "rate": 0.06
+          },
+          {
+            "from": 22816,
+            "rate": 0.08
+          },
+          {
+            "from": 28835,
+            "rate": 0.093
+          },
+          {
+            "from": 100000,
+            "rate": 0.1
+          },
+          {
+            "from": 200000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 8788,
+            "rate": 0.02
+          },
+          {
+            "from": 20828,
+            "rate": 0.04
+          },
+          {
+            "from": 32870,
+            "rate": 0.06
+          },
+          {
+            "from": 45632,
+            "rate": 0.08
+          },
+          {
+            "from": 57670,
+            "rate": 0.093
+          },
+          {
+            "from": 200000,
+            "rate": 0.1
+          },
+          {
+            "from": 400000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2262,
+        "marriedJoint": 4524
+      },
+      "source": "https://archive.org/details/micro_IA40706948_0261",
+      "notes": "FTB tax rate schedules for taxable year 1991 from the California Franchise Tax Board 1992 Annual Report (microfilm scan on archive.org), Personal Income Tax Synopsis of Tax Rates, Table 1A (married filing jointly) and Table 1B (single and married filing separately), \"Taxable Year 1991\" column (page 44); indexed amounts as printed (1991 inflation adjustment factor 4.3%). Standard deduction $2,262 single / $4,524 joint per the same report (Personal Income Tax, Indexing). Personal exemption credit $60 per person ($120 joint) is a tax credit, not modelled. 10% and 11% top brackets were temporary (1991-1995)."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4552,
+            "rate": 0.02
+          },
+          {
+            "from": 10789,
+            "rate": 0.04
+          },
+          {
+            "from": 17027,
+            "rate": 0.06
+          },
+          {
+            "from": 23637,
+            "rate": 0.08
+          },
+          {
+            "from": 29873,
+            "rate": 0.093
+          },
+          {
+            "from": 103600,
+            "rate": 0.1
+          },
+          {
+            "from": 207200,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 9104,
+            "rate": 0.02
+          },
+          {
+            "from": 21578,
+            "rate": 0.04
+          },
+          {
+            "from": 34054,
+            "rate": 0.06
+          },
+          {
+            "from": 47274,
+            "rate": 0.08
+          },
+          {
+            "from": 59746,
+            "rate": 0.093
+          },
+          {
+            "from": 207200,
+            "rate": 0.1
+          },
+          {
+            "from": 414400,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2343,
+        "marriedJoint": 4686
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CA/1992/1992CA.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $2,343/$4,686. Personal exemption credit $62 per person ($124 joint) is a tax credit, not modelled. Scanned 1992 Personal Income Tax Booklet (page 46); 10% and 11% top brackets were temporary (1991-1995)."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4666,
+            "rate": 0.02
+          },
+          {
+            "from": 11059,
+            "rate": 0.04
+          },
+          {
+            "from": 17453,
+            "rate": 0.06
+          },
+          {
+            "from": 24228,
+            "rate": 0.08
+          },
+          {
+            "from": 30620,
+            "rate": 0.093
+          },
+          {
+            "from": 106190,
+            "rate": 0.1
+          },
+          {
+            "from": 212380,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 9332,
+            "rate": 0.02
+          },
+          {
+            "from": 22118,
+            "rate": 0.04
+          },
+          {
+            "from": 34906,
+            "rate": 0.06
+          },
+          {
+            "from": 48456,
+            "rate": 0.08
+          },
+          {
+            "from": 61240,
+            "rate": 0.093
+          },
+          {
+            "from": 212380,
+            "rate": 0.1
+          },
+          {
+            "from": 424760,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2402,
+        "marriedJoint": 4804
+      },
+      "source": "https://web.archive.org/web/20060923062919/http://www.ftb.ca.gov/forms/93_forms/93_540.pdf",
+      "notes": "FTB 1993 Tax Rate Schedules X (single or married filing separate) and Y (married filing joint or qualifying widow(er)) from the archived 1993 Form 540 / Personal Income Tax Booklet page 46 (Wayback copy of ftb.ca.gov); the 1994 ACIR edition (Table 20, rates 1993) prints the same single schedule. Standard deduction $2,402 single / $4,804 joint from ACIR Significant Features of Fiscal Federalism 1994 ed. vol. 1, Table 16 (as of November 1993; p. 54); the archived booklet pages do not include the standard-deduction instruction. Personal exemption credit $64 per person ($128 joint) is a tax credit, not modelled. 10% and 11% top brackets were temporary (1991-1995)."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4722,
+            "rate": 0.02
+          },
+          {
+            "from": 11192,
+            "rate": 0.04
+          },
+          {
+            "from": 17662,
+            "rate": 0.06
+          },
+          {
+            "from": 24519,
+            "rate": 0.08
+          },
+          {
+            "from": 30987,
+            "rate": 0.093
+          },
+          {
+            "from": 107464,
+            "rate": 0.1
+          },
+          {
+            "from": 214929,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 9444,
+            "rate": 0.02
+          },
+          {
+            "from": 22384,
+            "rate": 0.04
+          },
+          {
+            "from": 35324,
+            "rate": 0.06
+          },
+          {
+            "from": 49038,
+            "rate": 0.08
+          },
+          {
+            "from": 61974,
+            "rate": 0.093
+          },
+          {
+            "from": 214928,
+            "rate": 0.1
+          },
+          {
+            "from": 429858,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2431,
+        "marriedJoint": 4862
+      },
+      "source": "https://web.archive.org/web/19961018/http://www.ftb.ca.gov/forms/94_forms/94_res.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $2,431/$4,862. Personal exemption credit $65 per person ($130 joint) is a tax credit, not modelled. Archived 1994 Personal Income Tax Booklet (page 46); 10% and 11% top brackets were temporary (1991-1995)."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4831,
+            "rate": 0.02
+          },
+          {
+            "from": 11449,
+            "rate": 0.04
+          },
+          {
+            "from": 18068,
+            "rate": 0.06
+          },
+          {
+            "from": 25083,
+            "rate": 0.08
+          },
+          {
+            "from": 31700,
+            "rate": 0.093
+          },
+          {
+            "from": 109936,
+            "rate": 0.1
+          },
+          {
+            "from": 219872,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 9662,
+            "rate": 0.02
+          },
+          {
+            "from": 22898,
+            "rate": 0.04
+          },
+          {
+            "from": 36136,
+            "rate": 0.06
+          },
+          {
+            "from": 50166,
+            "rate": 0.08
+          },
+          {
+            "from": 63400,
+            "rate": 0.093
+          },
+          {
+            "from": 219872,
+            "rate": 0.1
+          },
+          {
+            "from": 439744,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2487,
+        "marriedJoint": 4974
+      },
+      "source": "https://web.archive.org/web/19970706/http://www.ftb.ca.gov/forms/95_forms/95_res.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $2,487/$4,974. Personal exemption credit $66 per person ($132 joint) is a tax credit, not modelled. Archived 1995 Personal Income Tax Booklet (page 46); 10% and 11% top brackets were temporary (1991-1995)."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4908,
+            "rate": 0.02
+          },
+          {
+            "from": 11632,
+            "rate": 0.04
+          },
+          {
+            "from": 18357,
+            "rate": 0.06
+          },
+          {
+            "from": 25484,
+            "rate": 0.08
+          },
+          {
+            "from": 32207,
+            "rate": 0.093
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 9816,
+            "rate": 0.02
+          },
+          {
+            "from": 23264,
+            "rate": 0.04
+          },
+          {
+            "from": 36714,
+            "rate": 0.06
+          },
+          {
+            "from": 50968,
+            "rate": 0.08
+          },
+          {
+            "from": 64414,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2527,
+        "marriedJoint": 5054
+      },
+      "source": "https://web.archive.org/web/19970706/http://www.ftb.ca.gov/forms/96_forms/96_resbk.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $2,527/$5,054. Personal exemption credit $67 per person ($134 joint) is a tax credit, not modelled. Archived 1996 Personal Income Tax Booklet (page 46); the temporary 10%/11% brackets expired after 1995."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 5016,
+            "rate": 0.02
+          },
+          {
+            "from": 11888,
+            "rate": 0.04
+          },
+          {
+            "from": 18761,
+            "rate": 0.06
+          },
+          {
+            "from": 26045,
+            "rate": 0.08
+          },
+          {
+            "from": 32916,
+            "rate": 0.093
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 10032,
+            "rate": 0.02
+          },
+          {
+            "from": 23776,
+            "rate": 0.04
+          },
+          {
+            "from": 37522,
+            "rate": 0.06
+          },
+          {
+            "from": 52090,
+            "rate": 0.08
+          },
+          {
+            "from": 65832,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2583,
+        "marriedJoint": 5166
+      },
+      "source": "https://web.archive.org/web/20000817033549/http://www.ftb.ca.gov/forms/97_forms/97_resbk.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $2,583/$5,166. Personal exemption credit $68 per person ($136 joint) is a tax credit, not modelled. Archived 1997 Personal Income Tax Booklet (page 54)."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 5131,
+            "rate": 0.02
+          },
+          {
+            "from": 12161,
+            "rate": 0.04
+          },
+          {
+            "from": 19193,
+            "rate": 0.06
+          },
+          {
+            "from": 26644,
+            "rate": 0.08
+          },
+          {
+            "from": 33673,
+            "rate": 0.093
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 10262,
+            "rate": 0.02
+          },
+          {
+            "from": 24322,
+            "rate": 0.04
+          },
+          {
+            "from": 38386,
+            "rate": 0.06
+          },
+          {
+            "from": 53288,
+            "rate": 0.08
+          },
+          {
+            "from": 67346,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2642,
+        "marriedJoint": 5284
+      },
+      "source": "https://web.archive.org/web/19990601/http://www.ftb.ca.gov/forms/98_forms/98_rate.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint) from the archived 1998 Tax Table and Tax Rate Schedules (page 4); standard deduction $2,642/$5,284. Personal exemption credit $70 per person ($140 joint) is a tax credit, not modelled. Standard deduction and exemption credit from FTB Annual Report Table A-2 (the archived rate-schedule file has no deduction amounts)."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 5264,
+            "rate": 0.02
+          },
+          {
+            "from": 12477,
+            "rate": 0.04
+          },
+          {
+            "from": 19692,
+            "rate": 0.06
+          },
+          {
+            "from": 27337,
+            "rate": 0.08
+          },
+          {
+            "from": 34548,
+            "rate": 0.093
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 10528,
+            "rate": 0.02
+          },
+          {
+            "from": 24954,
+            "rate": 0.04
+          },
+          {
+            "from": 39384,
+            "rate": 0.06
+          },
+          {
+            "from": 54674,
+            "rate": 0.08
+          },
+          {
+            "from": 69096,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2711,
+        "marriedJoint": 5422
+      },
+      "source": "https://web.archive.org/web/20000601/http://www.ftb.ca.gov/forms/99_forms/99_rate.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint) from the archived 1999 Tax Table and Tax Rate Schedules (page 6); standard deduction $2,711/$5,422. Personal exemption credit $72 per person ($144 joint) is a tax credit, not modelled. Standard deduction and exemption credit from FTB Annual Report Table A-2 (the archived rate-schedule file has no deduction amounts)."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 5459,
+            "rate": 0.02
+          },
+          {
+            "from": 12939,
+            "rate": 0.04
+          },
+          {
+            "from": 20421,
+            "rate": 0.06
+          },
+          {
+            "from": 28348,
+            "rate": 0.08
+          },
+          {
+            "from": 35826,
+            "rate": 0.093
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 10918,
+            "rate": 0.02
+          },
+          {
+            "from": 25878,
+            "rate": 0.04
+          },
+          {
+            "from": 40842,
+            "rate": 0.06
+          },
+          {
+            "from": 56696,
+            "rate": 0.08
+          },
+          {
+            "from": 71652,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2811,
+        "marriedJoint": 5622
+      },
+      "source": "https://web.archive.org/web/20010605/http://www.ftb.ca.gov/forms/00_forms/00_rate.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint) from the archived 2000 Tax Table and Tax Rate Schedules (page 6); standard deduction $2,811/$5,622. Personal exemption credit $75 per person ($150 joint) is a tax credit, not modelled. Standard deduction and exemption credit from FTB Annual Report Table A-2 (the archived rate-schedule file has no deduction amounts)."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 5748,
+            "rate": 0.02
+          },
+          {
+            "from": 13625,
+            "rate": 0.04
+          },
+          {
+            "from": 21503,
+            "rate": 0.06
+          },
+          {
+            "from": 29850,
+            "rate": 0.08
+          },
+          {
+            "from": 37725,
+            "rate": 0.093
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 11496,
+            "rate": 0.02
+          },
+          {
+            "from": 27250,
+            "rate": 0.04
+          },
+          {
+            "from": 43006,
+            "rate": 0.06
+          },
+          {
+            "from": 59700,
+            "rate": 0.08
+          },
+          {
+            "from": 75450,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2960,
+        "marriedJoint": 5920
+      },
+      "source": "https://web.archive.org/web/20020601/http://www.ftb.ca.gov/forms/01_forms/01_rate.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint) from the archived 2001 Tax Table and Tax Rate Schedules (page 6); standard deduction $2,960/$5,920. Personal exemption credit $79 per person ($158 joint) is a tax credit, not modelled. Standard deduction and exemption credit from FTB Annual Report Table A-2 (the archived rate-schedule file has no deduction amounts)."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 5834,
+            "rate": 0.02
+          },
+          {
+            "from": 13829,
+            "rate": 0.04
+          },
+          {
+            "from": 21826,
+            "rate": 0.06
+          },
+          {
+            "from": 30298,
+            "rate": 0.08
+          },
+          {
+            "from": 38291,
+            "rate": 0.093
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 11668,
+            "rate": 0.02
+          },
+          {
+            "from": 27658,
+            "rate": 0.04
+          },
+          {
+            "from": 43652,
+            "rate": 0.06
+          },
+          {
+            "from": 60596,
+            "rate": 0.08
+          },
+          {
+            "from": 76582,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3004,
+        "marriedJoint": 6008
+      },
+      "source": "https://web.archive.org/web/20030601/http://www.ftb.ca.gov/forms/02_forms/02_resbk.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $3,004/$6,008. Personal exemption credit $80 per person ($160 joint) is a tax credit, not modelled; it phases out at high AGI. Archived 2002 Personal Income Tax Booklet (page 66)."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 5962,
+            "rate": 0.02
+          },
+          {
+            "from": 14133,
+            "rate": 0.04
+          },
+          {
+            "from": 22306,
+            "rate": 0.06
+          },
+          {
+            "from": 30965,
+            "rate": 0.08
+          },
+          {
+            "from": 39133,
+            "rate": 0.093
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 11924,
+            "rate": 0.02
+          },
+          {
+            "from": 28266,
+            "rate": 0.04
+          },
+          {
+            "from": 44612,
+            "rate": 0.06
+          },
+          {
+            "from": 61930,
+            "rate": 0.08
+          },
+          {
+            "from": 78266,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3070,
+        "marriedJoint": 6140
+      },
+      "source": "https://web.archive.org/web/20040601/http://www.ftb.ca.gov/forms/03_forms/03_resbk.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $3,070/$6,140. Personal exemption credit $82 per person ($164 joint) is a tax credit, not modelled; it phases out at high AGI. Archived 2003 Personal Income Tax Booklet (page 59)."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 6147,
+            "rate": 0.02
+          },
+          {
+            "from": 14571,
+            "rate": 0.04
+          },
+          {
+            "from": 22997,
+            "rate": 0.06
+          },
+          {
+            "from": 31925,
+            "rate": 0.08
+          },
+          {
+            "from": 40346,
+            "rate": 0.093
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 12294,
+            "rate": 0.02
+          },
+          {
+            "from": 29142,
+            "rate": 0.04
+          },
+          {
+            "from": 45994,
+            "rate": 0.06
+          },
+          {
+            "from": 63850,
+            "rate": 0.08
+          },
+          {
+            "from": 80692,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3165,
+        "marriedJoint": 6330
+      },
+      "source": "https://publish.data.ca.gov/dataset/0ef87466-abf7-4489-8a23-ace3d836ebc7/resource/5b5bab05-5575-4d1d-8694-062f4c211816/download/2025_pit_annual_report_combined.pdf",
+      "notes": "FTB tax rate schedules for single and joint filers from FTB Annual Report Tables A-1B/A-1A (2004 column); standard deduction $3,165/$6,330 (Table A-2; also shown in the archived 2004 Personal Income Tax Booklet, whose scan omits the rate schedules). Personal exemption credit $85 per person ($170 joint) is a tax credit, not modelled; it phases out at high AGI."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 6319,
+            "rate": 0.02
+          },
+          {
+            "from": 14979,
+            "rate": 0.04
+          },
+          {
+            "from": 23641,
+            "rate": 0.06
+          },
+          {
+            "from": 32819,
+            "rate": 0.08
+          },
+          {
+            "from": 41476,
+            "rate": 0.093
+          },
+          {
+            "from": 1000000,
+            "rate": 0.103
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 12638,
+            "rate": 0.02
+          },
+          {
+            "from": 29958,
+            "rate": 0.04
+          },
+          {
+            "from": 47282,
+            "rate": 0.06
+          },
+          {
+            "from": 65638,
+            "rate": 0.08
+          },
+          {
+            "from": 82952,
+            "rate": 0.093
+          },
+          {
+            "from": 1000000,
+            "rate": 0.103
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3254,
+        "marriedJoint": 6508
+      },
+      "source": "https://web.archive.org/web/20060801/http://www.ftb.ca.gov/forms/05_forms/05_540bk.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $3,254/$6,508. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $87 per person ($174 joint) is a tax credit, not modelled; it phases out at high AGI. Archived 2005 Personal Income Tax Booklet (page 75; Mental Health Services Tax on page 13)."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 6622,
+            "rate": 0.02
+          },
+          {
+            "from": 15698,
+            "rate": 0.04
+          },
+          {
+            "from": 24776,
+            "rate": 0.06
+          },
+          {
+            "from": 34394,
+            "rate": 0.08
+          },
+          {
+            "from": 43467,
+            "rate": 0.093
+          },
+          {
+            "from": 1000000,
+            "rate": 0.103
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 13244,
+            "rate": 0.02
+          },
+          {
+            "from": 31396,
+            "rate": 0.04
+          },
+          {
+            "from": 49552,
+            "rate": 0.06
+          },
+          {
+            "from": 68788,
+            "rate": 0.08
+          },
+          {
+            "from": 86934,
+            "rate": 0.093
+          },
+          {
+            "from": 1000000,
+            "rate": 0.103
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3410,
+        "marriedJoint": 6820
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CA/2006/2006%20California%20Tax%20Rates%20and%20Exemptions.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $3,410/$6,820. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $91 per person ($182 joint) is a tax credit, not modelled; it phases out at high AGI."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 6827,
+            "rate": 0.02
+          },
+          {
+            "from": 16185,
+            "rate": 0.04
+          },
+          {
+            "from": 25544,
+            "rate": 0.06
+          },
+          {
+            "from": 35460,
+            "rate": 0.08
+          },
+          {
+            "from": 44814,
+            "rate": 0.093
+          },
+          {
+            "from": 1000000,
+            "rate": 0.103
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 13654,
+            "rate": 0.02
+          },
+          {
+            "from": 32370,
+            "rate": 0.04
+          },
+          {
+            "from": 51088,
+            "rate": 0.06
+          },
+          {
+            "from": 70920,
+            "rate": 0.08
+          },
+          {
+            "from": 89628,
+            "rate": 0.093
+          },
+          {
+            "from": 1000000,
+            "rate": 0.103
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3516,
+        "marriedJoint": 7032
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CA/2007/2007%20California%20Tax%20Rates%20and%20Exemptions.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $3,516/$7,032. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $94 per person ($188 joint) is a tax credit, not modelled; it phases out at high AGI."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 7168,
+            "rate": 0.02
+          },
+          {
+            "from": 16994,
+            "rate": 0.04
+          },
+          {
+            "from": 26821,
+            "rate": 0.06
+          },
+          {
+            "from": 37233,
+            "rate": 0.08
+          },
+          {
+            "from": 47055,
+            "rate": 0.093
+          },
+          {
+            "from": 1000000,
+            "rate": 0.103
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 14336,
+            "rate": 0.02
+          },
+          {
+            "from": 33988,
+            "rate": 0.04
+          },
+          {
+            "from": 53642,
+            "rate": 0.06
+          },
+          {
+            "from": 74466,
+            "rate": 0.08
+          },
+          {
+            "from": 94110,
+            "rate": 0.093
+          },
+          {
+            "from": 1000000,
+            "rate": 0.103
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3692,
+        "marriedJoint": 7384
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CA/2008/2008%20California%20Tax%20Rates%20and%20Exemptions.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $3,692/$7,384. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $99 per person ($198 joint) is a tax credit, not modelled; it phases out at high AGI."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0125
+          },
+          {
+            "from": 7060,
+            "rate": 0.0225
+          },
+          {
+            "from": 16739,
+            "rate": 0.0425
+          },
+          {
+            "from": 26419,
+            "rate": 0.0625
+          },
+          {
+            "from": 36675,
+            "rate": 0.0825
+          },
+          {
+            "from": 46349,
+            "rate": 0.0955
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1055
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0125
+          },
+          {
+            "from": 14120,
+            "rate": 0.0225
+          },
+          {
+            "from": 33478,
+            "rate": 0.0425
+          },
+          {
+            "from": 52838,
+            "rate": 0.0625
+          },
+          {
+            "from": 73350,
+            "rate": 0.0825
+          },
+          {
+            "from": 92698,
+            "rate": 0.0955
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1055
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3637,
+        "marriedJoint": 7274
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CA/2009/2009%20California%20Tax%20Rates%20and%20Exemptions.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $3,637/$7,274. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $98 per person ($196 joint) is a tax credit, not modelled; it phases out at high AGI. Rates include the temporary 0.25-point increase."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0125
+          },
+          {
+            "from": 7124,
+            "rate": 0.0225
+          },
+          {
+            "from": 16890,
+            "rate": 0.0425
+          },
+          {
+            "from": 26657,
+            "rate": 0.0625
+          },
+          {
+            "from": 37005,
+            "rate": 0.0825
+          },
+          {
+            "from": 46766,
+            "rate": 0.0955
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1055
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0125
+          },
+          {
+            "from": 14248,
+            "rate": 0.0225
+          },
+          {
+            "from": 33780,
+            "rate": 0.0425
+          },
+          {
+            "from": 53314,
+            "rate": 0.0625
+          },
+          {
+            "from": 74010,
+            "rate": 0.0825
+          },
+          {
+            "from": 93532,
+            "rate": 0.0955
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1055
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3670,
+        "marriedJoint": 7340
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CA/2010/2010%20California%20Tax%20Rates%20and%20Exemptions.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $3,670/$7,340. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $99 per person ($198 joint) is a tax credit, not modelled; it phases out at high AGI. Rates include the temporary 0.25-point increase."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 7316,
+            "rate": 0.02
+          },
+          {
+            "from": 17346,
+            "rate": 0.04
+          },
+          {
+            "from": 27377,
+            "rate": 0.06
+          },
+          {
+            "from": 38004,
+            "rate": 0.08
+          },
+          {
+            "from": 48029,
+            "rate": 0.093
+          },
+          {
+            "from": 1000000,
+            "rate": 0.103
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 14632,
+            "rate": 0.02
+          },
+          {
+            "from": 34692,
+            "rate": 0.04
+          },
+          {
+            "from": 54754,
+            "rate": 0.06
+          },
+          {
+            "from": 76008,
+            "rate": 0.08
+          },
+          {
+            "from": 96058,
+            "rate": 0.093
+          },
+          {
+            "from": 1000000,
+            "rate": 0.103
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3769,
+        "marriedJoint": 7538
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CA/2011/2011%20California%20Tax%20Rates%20and%20Exemptions.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $3,769/$7,538. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $102 per person ($204 joint) is a tax credit, not modelled; it phases out at high AGI."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 7455,
+            "rate": 0.02
+          },
+          {
+            "from": 17676,
+            "rate": 0.04
+          },
+          {
+            "from": 27897,
+            "rate": 0.06
+          },
+          {
+            "from": 38726,
+            "rate": 0.08
+          },
+          {
+            "from": 48942,
+            "rate": 0.093
+          },
+          {
+            "from": 250000,
+            "rate": 0.103
+          },
+          {
+            "from": 300000,
+            "rate": 0.113
+          },
+          {
+            "from": 500000,
+            "rate": 0.123
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 14910,
+            "rate": 0.02
+          },
+          {
+            "from": 35352,
+            "rate": 0.04
+          },
+          {
+            "from": 55794,
+            "rate": 0.06
+          },
+          {
+            "from": 77452,
+            "rate": 0.08
+          },
+          {
+            "from": 97884,
+            "rate": 0.093
+          },
+          {
+            "from": 500000,
+            "rate": 0.103
+          },
+          {
+            "from": 600000,
+            "rate": 0.113
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3841,
+        "marriedJoint": 7682
+      },
+      "source": "https://web.archive.org/web/20130521100415/https://www.ftb.ca.gov/forms/2012_California_Tax_Rates_and_Exemptions.shtml",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $3,841/$7,682. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). For joint filers the 12.3% bracket starts at $1,000,000, so it merges with the surcharge into 13.3%. Personal exemption credit $104 per person ($208 joint) is a tax credit, not modelled; it phases out at high AGI. Archived FTB \"2012 California Tax Rates and Exemptions\" page; the 10.3%-12.3% brackets were added by Proposition 30."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 7582,
+            "rate": 0.02
+          },
+          {
+            "from": 17976,
+            "rate": 0.04
+          },
+          {
+            "from": 28371,
+            "rate": 0.06
+          },
+          {
+            "from": 39384,
+            "rate": 0.08
+          },
+          {
+            "from": 49774,
+            "rate": 0.093
+          },
+          {
+            "from": 254250,
+            "rate": 0.103
+          },
+          {
+            "from": 305100,
+            "rate": 0.113
+          },
+          {
+            "from": 508500,
+            "rate": 0.123
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 15164,
+            "rate": 0.02
+          },
+          {
+            "from": 35952,
+            "rate": 0.04
+          },
+          {
+            "from": 56742,
+            "rate": 0.06
+          },
+          {
+            "from": 78768,
+            "rate": 0.08
+          },
+          {
+            "from": 99548,
+            "rate": 0.093
+          },
+          {
+            "from": 508500,
+            "rate": 0.103
+          },
+          {
+            "from": 610200,
+            "rate": 0.113
+          },
+          {
+            "from": 1000000,
+            "rate": 0.123
+          },
+          {
+            "from": 1017000,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3906,
+        "marriedJoint": 7812
+      },
+      "source": "https://web.archive.org/web/20140702145737/https://www.ftb.ca.gov/forms/2013_California_Tax_Rates_and_Exemptions.shtml",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $3,906/$7,812. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $106 per person ($212 joint) is a tax credit, not modelled; it phases out at high AGI. Archived FTB \"2013 California Tax Rates and Exemptions\" page."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 7749,
+            "rate": 0.02
+          },
+          {
+            "from": 18371,
+            "rate": 0.04
+          },
+          {
+            "from": 28995,
+            "rate": 0.06
+          },
+          {
+            "from": 40250,
+            "rate": 0.08
+          },
+          {
+            "from": 50869,
+            "rate": 0.093
+          },
+          {
+            "from": 259844,
+            "rate": 0.103
+          },
+          {
+            "from": 311812,
+            "rate": 0.113
+          },
+          {
+            "from": 519687,
+            "rate": 0.123
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 15498,
+            "rate": 0.02
+          },
+          {
+            "from": 36742,
+            "rate": 0.04
+          },
+          {
+            "from": 57990,
+            "rate": 0.06
+          },
+          {
+            "from": 80500,
+            "rate": 0.08
+          },
+          {
+            "from": 101738,
+            "rate": 0.093
+          },
+          {
+            "from": 519688,
+            "rate": 0.103
+          },
+          {
+            "from": 623624,
+            "rate": 0.113
+          },
+          {
+            "from": 1000000,
+            "rate": 0.123
+          },
+          {
+            "from": 1039374,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3992,
+        "marriedJoint": 7984
+      },
+      "source": "https://web.archive.org/web/20150426121209/https://www.ftb.ca.gov/forms/2014_California_Tax_Rates_and_Exemptions.shtml",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $3,992/$7,984. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $108 per person ($216 joint) is a tax credit, not modelled; it phases out at high AGI. Archived FTB \"2014 California Tax Rates and Exemptions\" page."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 7850,
+            "rate": 0.02
+          },
+          {
+            "from": 18610,
+            "rate": 0.04
+          },
+          {
+            "from": 29372,
+            "rate": 0.06
+          },
+          {
+            "from": 40773,
+            "rate": 0.08
+          },
+          {
+            "from": 51530,
+            "rate": 0.093
+          },
+          {
+            "from": 263222,
+            "rate": 0.103
+          },
+          {
+            "from": 315866,
+            "rate": 0.113
+          },
+          {
+            "from": 526443,
+            "rate": 0.123
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 15700,
+            "rate": 0.02
+          },
+          {
+            "from": 37220,
+            "rate": 0.04
+          },
+          {
+            "from": 58744,
+            "rate": 0.06
+          },
+          {
+            "from": 81546,
+            "rate": 0.08
+          },
+          {
+            "from": 103060,
+            "rate": 0.093
+          },
+          {
+            "from": 526444,
+            "rate": 0.103
+          },
+          {
+            "from": 631732,
+            "rate": 0.113
+          },
+          {
+            "from": 1000000,
+            "rate": 0.123
+          },
+          {
+            "from": 1052886,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4044,
+        "marriedJoint": 8088
+      },
+      "source": "https://www.ftb.ca.gov/forms/2015/15_540bk.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $4,044/$8,088. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $109 per person ($218 joint) is a tax credit, not modelled; it phases out at high AGI."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 8015,
+            "rate": 0.02
+          },
+          {
+            "from": 19001,
+            "rate": 0.04
+          },
+          {
+            "from": 29989,
+            "rate": 0.06
+          },
+          {
+            "from": 41629,
+            "rate": 0.08
+          },
+          {
+            "from": 52612,
+            "rate": 0.093
+          },
+          {
+            "from": 268750,
+            "rate": 0.103
+          },
+          {
+            "from": 322499,
+            "rate": 0.113
+          },
+          {
+            "from": 537498,
+            "rate": 0.123
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 16030,
+            "rate": 0.02
+          },
+          {
+            "from": 38002,
+            "rate": 0.04
+          },
+          {
+            "from": 59978,
+            "rate": 0.06
+          },
+          {
+            "from": 83258,
+            "rate": 0.08
+          },
+          {
+            "from": 105224,
+            "rate": 0.093
+          },
+          {
+            "from": 537500,
+            "rate": 0.103
+          },
+          {
+            "from": 644998,
+            "rate": 0.113
+          },
+          {
+            "from": 1000000,
+            "rate": 0.123
+          },
+          {
+            "from": 1074996,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4129,
+        "marriedJoint": 8258
+      },
+      "source": "https://www.ftb.ca.gov/forms/2016/16_540bk.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $4,129/$8,258. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $111 per person ($222 joint) is a tax credit, not modelled; it phases out at high AGI."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 8223,
+            "rate": 0.02
+          },
+          {
+            "from": 19495,
+            "rate": 0.04
+          },
+          {
+            "from": 30769,
+            "rate": 0.06
+          },
+          {
+            "from": 42711,
+            "rate": 0.08
+          },
+          {
+            "from": 53980,
+            "rate": 0.093
+          },
+          {
+            "from": 275738,
+            "rate": 0.103
+          },
+          {
+            "from": 330884,
+            "rate": 0.113
+          },
+          {
+            "from": 551473,
+            "rate": 0.123
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 16446,
+            "rate": 0.02
+          },
+          {
+            "from": 38990,
+            "rate": 0.04
+          },
+          {
+            "from": 61538,
+            "rate": 0.06
+          },
+          {
+            "from": 85422,
+            "rate": 0.08
+          },
+          {
+            "from": 107960,
+            "rate": 0.093
+          },
+          {
+            "from": 551476,
+            "rate": 0.103
+          },
+          {
+            "from": 661768,
+            "rate": 0.113
+          },
+          {
+            "from": 1000000,
+            "rate": 0.123
+          },
+          {
+            "from": 1102946,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4236,
+        "marriedJoint": 8472
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CA/2017/17_540bk.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $4,236/$8,472. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $114 per person ($228 joint) is a tax credit, not modelled; it phases out at high AGI."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 8544,
+            "rate": 0.02
+          },
+          {
+            "from": 20255,
+            "rate": 0.04
+          },
+          {
+            "from": 31969,
+            "rate": 0.06
+          },
+          {
+            "from": 44377,
+            "rate": 0.08
+          },
+          {
+            "from": 56085,
+            "rate": 0.093
+          },
+          {
+            "from": 286492,
+            "rate": 0.103
+          },
+          {
+            "from": 343788,
+            "rate": 0.113
+          },
+          {
+            "from": 572980,
+            "rate": 0.123
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 17088,
+            "rate": 0.02
+          },
+          {
+            "from": 40510,
+            "rate": 0.04
+          },
+          {
+            "from": 63938,
+            "rate": 0.06
+          },
+          {
+            "from": 88754,
+            "rate": 0.08
+          },
+          {
+            "from": 112170,
+            "rate": 0.093
+          },
+          {
+            "from": 572984,
+            "rate": 0.103
+          },
+          {
+            "from": 687576,
+            "rate": 0.113
+          },
+          {
+            "from": 1000000,
+            "rate": 0.123
+          },
+          {
+            "from": 1145960,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4401,
+        "marriedJoint": 8802
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CA/2018/18_540bk.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $4,401/$8,802. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $118 per person ($236 joint) is a tax credit, not modelled; it phases out at high AGI."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 8809,
+            "rate": 0.02
+          },
+          {
+            "from": 20883,
+            "rate": 0.04
+          },
+          {
+            "from": 32960,
+            "rate": 0.06
+          },
+          {
+            "from": 45753,
+            "rate": 0.08
+          },
+          {
+            "from": 57824,
+            "rate": 0.093
+          },
+          {
+            "from": 295373,
+            "rate": 0.103
+          },
+          {
+            "from": 354445,
+            "rate": 0.113
+          },
+          {
+            "from": 590742,
+            "rate": 0.123
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 17618,
+            "rate": 0.02
+          },
+          {
+            "from": 41766,
+            "rate": 0.04
+          },
+          {
+            "from": 65920,
+            "rate": 0.06
+          },
+          {
+            "from": 91506,
+            "rate": 0.08
+          },
+          {
+            "from": 115648,
+            "rate": 0.093
+          },
+          {
+            "from": 590746,
+            "rate": 0.103
+          },
+          {
+            "from": 708890,
+            "rate": 0.113
+          },
+          {
+            "from": 1000000,
+            "rate": 0.123
+          },
+          {
+            "from": 1181484,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4537,
+        "marriedJoint": 9074
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CA/2019/2019-540-booklet.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $4,537/$9,074. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $122 per person ($244 joint) is a tax credit, not modelled; it phases out at high AGI."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 8932,
+            "rate": 0.02
+          },
+          {
+            "from": 21175,
+            "rate": 0.04
+          },
+          {
+            "from": 33421,
+            "rate": 0.06
+          },
+          {
+            "from": 46394,
+            "rate": 0.08
+          },
+          {
+            "from": 58634,
+            "rate": 0.093
+          },
+          {
+            "from": 299508,
+            "rate": 0.103
+          },
+          {
+            "from": 359407,
+            "rate": 0.113
+          },
+          {
+            "from": 599012,
+            "rate": 0.123
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 17864,
+            "rate": 0.02
+          },
+          {
+            "from": 42350,
+            "rate": 0.04
+          },
+          {
+            "from": 66842,
+            "rate": 0.06
+          },
+          {
+            "from": 92788,
+            "rate": 0.08
+          },
+          {
+            "from": 117268,
+            "rate": 0.093
+          },
+          {
+            "from": 599016,
+            "rate": 0.103
+          },
+          {
+            "from": 718814,
+            "rate": 0.113
+          },
+          {
+            "from": 1000000,
+            "rate": 0.123
+          },
+          {
+            "from": 1198024,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4601,
+        "marriedJoint": 9202
+      },
+      "source": "https://www.ftb.ca.gov/forms/2020/2020-540-booklet.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $4,601/$9,202. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $124 per person ($248 joint) is a tax credit, not modelled; it phases out at high AGI."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 9325,
+            "rate": 0.02
+          },
+          {
+            "from": 22107,
+            "rate": 0.04
+          },
+          {
+            "from": 34892,
+            "rate": 0.06
+          },
+          {
+            "from": 48435,
+            "rate": 0.08
+          },
+          {
+            "from": 61214,
+            "rate": 0.093
+          },
+          {
+            "from": 312686,
+            "rate": 0.103
+          },
+          {
+            "from": 375221,
+            "rate": 0.113
+          },
+          {
+            "from": 625369,
+            "rate": 0.123
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 18650,
+            "rate": 0.02
+          },
+          {
+            "from": 44214,
+            "rate": 0.04
+          },
+          {
+            "from": 69784,
+            "rate": 0.06
+          },
+          {
+            "from": 96870,
+            "rate": 0.08
+          },
+          {
+            "from": 122428,
+            "rate": 0.093
+          },
+          {
+            "from": 625372,
+            "rate": 0.103
+          },
+          {
+            "from": 750442,
+            "rate": 0.113
+          },
+          {
+            "from": 1000000,
+            "rate": 0.123
+          },
+          {
+            "from": 1250738,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4803,
+        "marriedJoint": 9606
+      },
+      "source": "https://www.ftb.ca.gov/forms/2021/2021-540-tax-rate-schedules.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $4,803/$9,606. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $129 per person ($258 joint) is a tax credit, not modelled; it phases out at high AGI."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 10099,
+            "rate": 0.02
+          },
+          {
+            "from": 23942,
+            "rate": 0.04
+          },
+          {
+            "from": 37788,
+            "rate": 0.06
+          },
+          {
+            "from": 52455,
+            "rate": 0.08
+          },
+          {
+            "from": 66295,
+            "rate": 0.093
+          },
+          {
+            "from": 338639,
+            "rate": 0.103
+          },
+          {
+            "from": 406364,
+            "rate": 0.113
+          },
+          {
+            "from": 677275,
+            "rate": 0.123
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 20198,
+            "rate": 0.02
+          },
+          {
+            "from": 47884,
+            "rate": 0.04
+          },
+          {
+            "from": 75576,
+            "rate": 0.06
+          },
+          {
+            "from": 104910,
+            "rate": 0.08
+          },
+          {
+            "from": 132590,
+            "rate": 0.093
+          },
+          {
+            "from": 677278,
+            "rate": 0.103
+          },
+          {
+            "from": 812728,
+            "rate": 0.113
+          },
+          {
+            "from": 1000000,
+            "rate": 0.123
+          },
+          {
+            "from": 1354550,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5202,
+        "marriedJoint": 10404
+      },
+      "source": "https://www.ftb.ca.gov/forms/2022/2022-540-tax-rate-schedules.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $5,202/$10,404. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $140 per person ($280 joint) is a tax credit, not modelled; it phases out at high AGI."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 10412,
+            "rate": 0.02
+          },
+          {
+            "from": 24684,
+            "rate": 0.04
+          },
+          {
+            "from": 38959,
+            "rate": 0.06
+          },
+          {
+            "from": 54081,
+            "rate": 0.08
+          },
+          {
+            "from": 68350,
+            "rate": 0.093
+          },
+          {
+            "from": 349137,
+            "rate": 0.103
+          },
+          {
+            "from": 418961,
+            "rate": 0.113
+          },
+          {
+            "from": 698271,
+            "rate": 0.123
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 20824,
+            "rate": 0.02
+          },
+          {
+            "from": 49368,
+            "rate": 0.04
+          },
+          {
+            "from": 77918,
+            "rate": 0.06
+          },
+          {
+            "from": 108162,
+            "rate": 0.08
+          },
+          {
+            "from": 136700,
+            "rate": 0.093
+          },
+          {
+            "from": 698274,
+            "rate": 0.103
+          },
+          {
+            "from": 837922,
+            "rate": 0.113
+          },
+          {
+            "from": 1000000,
+            "rate": 0.123
+          },
+          {
+            "from": 1396542,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5363,
+        "marriedJoint": 10726
+      },
+      "source": "https://www.ftb.ca.gov/forms/2023/2023-540-tax-rate-schedules.pdf",
+      "notes": "FTB tax rate schedules X (single) and Y (joint); standard deduction $5,363/$10,726. Includes the 1% Mental Health Services Tax on taxable income over $1,000,000 (same threshold for joint filers). Personal exemption credit $144 per person ($288 joint) is a tax credit, not modelled; it phases out at high AGI."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 10756,
+            "rate": 0.02
+          },
+          {
+            "from": 25499,
+            "rate": 0.04
+          },
+          {
+            "from": 40245,
+            "rate": 0.06
+          },
+          {
+            "from": 55866,
+            "rate": 0.08
+          },
+          {
+            "from": 70606,
+            "rate": 0.093
+          },
+          {
+            "from": 360659,
+            "rate": 0.103
+          },
+          {
+            "from": 432787,
+            "rate": 0.113
+          },
+          {
+            "from": 721314,
+            "rate": 0.123
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 21512,
+            "rate": 0.02
+          },
+          {
+            "from": 50998,
+            "rate": 0.04
+          },
+          {
+            "from": 80490,
+            "rate": 0.06
+          },
+          {
+            "from": 111732,
+            "rate": 0.08
+          },
+          {
+            "from": 141212,
+            "rate": 0.093
+          },
+          {
+            "from": 721318,
+            "rate": 0.103
+          },
+          {
+            "from": 865574,
+            "rate": 0.113
+          },
+          {
+            "from": 1000000,
+            "rate": 0.123
+          },
+          {
+            "from": 1442628,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5540,
+        "marriedJoint": 11080
+      },
+      "source": "https://www.ftb.ca.gov/forms/2024/2024-540-tax-rate-schedules.pdf",
+      "notes": "The top bracket folds in the 1% Behavioral Health Services Tax over $1M (not doubled for joint filers). The $149 / $298 exemption credit is left out."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 11079,
+            "rate": 0.02
+          },
+          {
+            "from": 26264,
+            "rate": 0.04
+          },
+          {
+            "from": 41452,
+            "rate": 0.06
+          },
+          {
+            "from": 57542,
+            "rate": 0.08
+          },
+          {
+            "from": 72724,
+            "rate": 0.093
+          },
+          {
+            "from": 371479,
+            "rate": 0.103
+          },
+          {
+            "from": 445771,
+            "rate": 0.113
+          },
+          {
+            "from": 742953,
+            "rate": 0.123
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 22158,
+            "rate": 0.02
+          },
+          {
+            "from": 52528,
+            "rate": 0.04
+          },
+          {
+            "from": 82904,
+            "rate": 0.06
+          },
+          {
+            "from": 115084,
+            "rate": 0.08
+          },
+          {
+            "from": 145448,
+            "rate": 0.093
+          },
+          {
+            "from": 742958,
+            "rate": 0.103
+          },
+          {
+            "from": 891542,
+            "rate": 0.113
+          },
+          {
+            "from": 1000000,
+            "rate": 0.123
+          },
+          {
+            "from": 1485906,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5706,
+        "marriedJoint": 11412
+      },
+      "source": "https://www.ftb.ca.gov/forms/2025/2025-540-tax-rate-schedules.pdf",
+      "notes": "The top bracket folds in the 1% Behavioral Health Services Tax over $1M (not doubled for joint filers). The $153 / $306 exemption credit is left out."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 11079,
+            "rate": 0.02
+          },
+          {
+            "from": 26264,
+            "rate": 0.04
+          },
+          {
+            "from": 41452,
+            "rate": 0.06
+          },
+          {
+            "from": 57542,
+            "rate": 0.08
+          },
+          {
+            "from": 72724,
+            "rate": 0.093
+          },
+          {
+            "from": 371479,
+            "rate": 0.103
+          },
+          {
+            "from": 445771,
+            "rate": 0.113
+          },
+          {
+            "from": 742953,
+            "rate": 0.123
+          },
+          {
+            "from": 1000000,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 22158,
+            "rate": 0.02
+          },
+          {
+            "from": 52528,
+            "rate": 0.04
+          },
+          {
+            "from": 82904,
+            "rate": 0.06
+          },
+          {
+            "from": 115084,
+            "rate": 0.08
+          },
+          {
+            "from": 145448,
+            "rate": 0.093
+          },
+          {
+            "from": 742958,
+            "rate": 0.103
+          },
+          {
+            "from": 891542,
+            "rate": 0.113
+          },
+          {
+            "from": 1000000,
+            "rate": 0.123
+          },
+          {
+            "from": 1485906,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5706,
+        "marriedJoint": 11412
+      },
+      "source": "https://www.ftb.ca.gov/forms/2025/2025-540-tax-rate-schedules.pdf",
+      "notes": "The FTB hasn't published 2026 brackets yet, so these are 2025. The top bracket folds in the 1% Behavioral Health Services Tax over $1M (not doubled for joint filers). The $153 / $306 exemption credit is left out."
+    }
+  }
+}

@@ -1,0 +1,1718 @@
+{
+  "id": "us-state-KY",
+  "kind": "state",
+  "region": "Kentucky",
+  "state": "KY",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 500,
+        "marriedJoint": 500
+      },
+      "source": "https://library.unt.edu/gpo/acir/Reports/information/M-57.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1970-71 ed. (M-57), Table 36 (State Individual Income Taxes: Rates, December 31, 1970; PDF p. 91), Table 37 (personal exemptions, December 31, 1970; p. 97) and Table 38 (standard deduction and optional tax table, December 31, 1970; p. 99); the table describes the law in force at the end of tax year 1970. Same schedule for every filing status (two-earner married taxpayers may file separately on the same return); the same 2%-6% schedule (brackets at $3,000, $4,000, $5,000 and $8,000) is also printed in the 1969 edition (M-50, December 31, 1969) and in every edition from 1976 on. Deduction = the $500 standard deduction (in lieu of all deductions except federal income taxes), available when adjusted gross income is at least $8,000; below that taxpayers use the optional tax table; a joint return gets one $500 deduction. Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Federal income tax paid was deductible (not modelled). Local income taxes are additional."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 500,
+        "marriedJoint": 500
+      },
+      "source": "https://library.unt.edu/gpo/acir/Reports/information/M-74.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1971-72 ed. (M-74), Table 91 (State Individual Income Taxes: Rates, December 31, 1971; PDF p. 221/223), Table 92 (personal exemptions, December 31, 1971; p. 226) and Table 93 (standard deduction and optional tax table, December 31, 1971; p. 228); the table describes the law in force at the end of tax year 1971. Same schedule for every filing status (two-earner married taxpayers may file separately on the same return); the same 2%-6% schedule (brackets at $3,000, $4,000, $5,000 and $8,000) is also printed in the 1969 edition (M-50, December 31, 1969) and in every edition from 1976 on. Deduction = the $500 standard deduction (in lieu of all deductions except federal income taxes), available when adjusted gross income is at least $8,000; below that taxpayers use the optional tax table; a joint return gets one $500 deduction. Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Federal income tax paid was deductible (not modelled). Local income taxes are additional."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 500,
+        "marriedJoint": 500
+      },
+      "source": "https://babel.hathitrust.org/cgi/pt?id=uc1.a0001934132&seq=419",
+      "notes": "KRS 141.020's history (legislature's statute page): amended 1970 Ky. Acts ch. 216; 1972 Ky. Acts ch. 84, Pt. II, sec. 2; 1974 Ky. Acts ch. 362; 1976 Ky. Acts ch. 77. 1972 Ky. Acts ch. 84, Part II, sec. 2 (Acts of the General Assembly 1972, pp. 391-392; HathiTrust uc1.a0001934132, full view) re-enacts KRS 141.020 with these rates: 2% of net income to $3,000, 3% to $4,000, 4% to $5,000, 5% to $8,000 and 6% above, the schedule printed by ACIR for December 31, 1971 and July 1, 1973. The 1972 volume's only other mention of the standard deduction is the net-income definition (KRS 141.010, ch. 62), and the 1972 extraordinary session has no income tax act; 1976 Ky. Acts ch. 77 (S.B. 203), Part I, sec. 3 (Acts of the General Assembly 1976, p. 152; HathiTrust uc1.d0000878348, full view) raised the standard deduction of KRS 141.081 to $650 and sec. 8 applies Part I to taxable years beginning after December 31, 1975; the text it replaced allowed $500 when adjusted gross income was $8,000 or more and the optional table of KRS 141.025 below that, and KRS 141.081's history (legislature's statute page) shows no amendment between 1956 and that act. The same act's section 1 reprints KRS 141.020 with no deletions in the rate subsection, so the rates in force before it (after 1974 Ky. Acts ch. 362) were this 2%-6% schedule. Same schedule for every filing status (two-earner married taxpayers may file separately on the same return). Deduction = the $500 standard deduction (in lieu of all deductions except federal income taxes), available when adjusted gross income is at least $8,000; below that taxpayers use the optional tax table; a joint return gets one $500 deduction. Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Federal income tax paid was deductible (not modelled). Local income taxes are additional."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 500,
+        "marriedJoint": 500
+      },
+      "source": "https://library.unt.edu/gpo/acir/Reports/information/M-79.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1973-74 ed. (M-79), Table 141 (State Individual Income Taxes: Rates, July 1, 1973; PDF p. 283/286), Table 142 (personal exemptions, July 1, 1973; p. 289) and Table 143 (standard deduction and optional tax table, July 1, 1973; p. 291); the table describes the law in force during tax year 1973 (KRS 141.020 was amended by 1972 Ky. Acts ch. 84 and next by 1974 Ky. Acts ch. 362, so the July 1973 schedule is the one that applied to 1973). Same schedule for every filing status (two-earner married taxpayers may file separately on the same return); the same 2%-6% schedule (brackets at $3,000, $4,000, $5,000 and $8,000) is also printed in the 1969 edition (M-50, December 31, 1969) and in every edition from 1976 on. Deduction = the $500 standard deduction (in lieu of all deductions except federal income taxes), available when adjusted gross income is at least $8,000; below that taxpayers use the optional tax table; a joint return gets one $500 deduction. Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Federal income tax paid was deductible (not modelled). Local income taxes are additional."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 500,
+        "marriedJoint": 500
+      },
+      "source": "https://babel.hathitrust.org/cgi/pt?id=uc1.d0000878348&seq=169",
+      "notes": "KRS 141.020's history (legislature's statute page): amended 1970 Ky. Acts ch. 216; 1972 Ky. Acts ch. 84, Pt. II, sec. 2; 1974 Ky. Acts ch. 362; 1976 Ky. Acts ch. 77. 1976 Ky. Acts ch. 77 (S.B. 203), Part I, sec. 3 (Acts of the General Assembly 1976, p. 152; HathiTrust uc1.d0000878348, full view) raised the standard deduction of KRS 141.081 to $650 and sec. 8 applies Part I to taxable years beginning after December 31, 1975; the text it replaced allowed $500 when adjusted gross income was $8,000 or more and the optional table of KRS 141.025 below that, and KRS 141.081's history (legislature's statute page) shows no amendment between 1956 and that act. The same act's section 1 reprints KRS 141.020 with no deletions in the rate subsection, so the rates in force before it (after 1974 Ky. Acts ch. 362) were this 2%-6% schedule. So 1974 has the 1973 schedule and $500 standard deduction. Same schedule for every filing status (two-earner married taxpayers may file separately on the same return). Deduction = the $500 standard deduction (in lieu of all deductions except federal income taxes), available when adjusted gross income is at least $8,000; below that taxpayers use the optional tax table; a joint return gets one $500 deduction. Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Federal income tax paid was deductible (not modelled). Local income taxes are additional."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 500,
+        "marriedJoint": 500
+      },
+      "source": "https://babel.hathitrust.org/cgi/pt?id=uc1.d0000878348&seq=169",
+      "notes": "KRS 141.020's history (legislature's statute page): amended 1970 Ky. Acts ch. 216; 1972 Ky. Acts ch. 84, Pt. II, sec. 2; 1974 Ky. Acts ch. 362; 1976 Ky. Acts ch. 77. 1976 Ky. Acts ch. 77 (S.B. 203), Part I, sec. 3 (Acts of the General Assembly 1976, p. 152; HathiTrust uc1.d0000878348, full view) raised the standard deduction of KRS 141.081 to $650 and sec. 8 applies Part I to taxable years beginning after December 31, 1975; the text it replaced allowed $500 when adjusted gross income was $8,000 or more and the optional table of KRS 141.025 below that, and KRS 141.081's history (legislature's statute page) shows no amendment between 1956 and that act. The same act's section 1 reprints KRS 141.020 with no deletions in the rate subsection, so the rates in force before it (after 1974 Ky. Acts ch. 362) were this 2%-6% schedule. So 1975 has the 1973 schedule and $500 standard deduction. Same schedule for every filing status (two-earner married taxpayers may file separately on the same return). Deduction = the $500 standard deduction (in lieu of all deductions except federal income taxes), available when adjusted gross income is at least $8,000; below that taxpayers use the optional tax table; a joint return gets one $500 deduction. Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Federal income tax paid was deductible (not modelled). Local income taxes are additional. Earlier this entry used a secondary source (University of Kentucky Policy Paper No. 9, 'Indexing Kentucky's Individual Income Tax', 1980, Table 4-1), whose 1975 column prints the same rates but a $650 standard deduction; the act shows $650 began in 1976, so that column reflects the later law."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1976-77 ed., vol. 2, Table 106 (p. 196), rates as of July 1, 1976; personal exemptions and standard deduction from Table 107 (p. 202) and Table 108 (p. 204). Same schedule for every filing status (two-earner married taxpayers may file separately on the same return); a joint return gets one $650 standard deduction. The same schedule is printed in every ACIR edition from 1976 through 1990 and matches the 1991 schedule (KRS 141.020). Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Local income taxes are additional. ACIR notes the $650 standard deduction (in lieu of other deductions except federal income taxes) is available when adjusted gross income is at least $8,000; below that, taxpayers use the optional tax table. Federal income tax paid was deductible (not modelled)."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56339",
+      "notes": "Schedule in force for 1977: KRS 141.020's history (statute page) shows it was amended in 1976 (Ky. Acts ch. 77) and not again until 1990 (Ky. Acts ch. 476), and the ACIR Significant Features rate tables for 1976 and 1980 print the same schedule and the same $650 standard deduction on either side of this year. Same schedule for every filing status (two-earner married taxpayers may file separately on the same return). Personal exemptions were $20 credits (not modelled); federal income tax was deductible (not modelled)."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56339",
+      "notes": "Schedule in force for 1978: KRS 141.020's history (statute page) shows it was amended in 1976 (Ky. Acts ch. 77) and not again until 1990 (Ky. Acts ch. 476), and the ACIR Significant Features rate tables for 1976 and 1980 print the same schedule and the same $650 standard deduction on either side of this year. Same schedule for every filing status (two-earner married taxpayers may file separately on the same return). Personal exemptions were $20 credits (not modelled); federal income tax was deductible (not modelled)."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56339",
+      "notes": "Schedule in force for 1979: KRS 141.020's history (statute page) shows it was amended in 1976 (Ky. Acts ch. 77) and not again until 1990 (Ky. Acts ch. 476), and the ACIR Significant Features rate tables for 1976 and 1980 print the same schedule and the same $650 standard deduction on either side of this year. Same schedule for every filing status (two-earner married taxpayers may file separately on the same return). Personal exemptions were $20 credits (not modelled); federal income tax was deductible (not modelled)."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1979-80 ed., Table 82 (p. 113), rates as of July 1, 1980; personal exemptions and standard deduction from Table 83 (p. 120) and Table 84 (p. 122). Same schedule for every filing status (two-earner married taxpayers may file separately on the same return); a joint return gets one $650 standard deduction. The same schedule is printed in every ACIR edition from 1976 through 1990 and matches the 1991 schedule (KRS 141.020). Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Local income taxes are additional. ACIR notes the $650 standard deduction (in lieu of other deductions except federal income taxes) is available when adjusted gross income is at least $8,000; below that, taxpayers use the optional tax table. Federal income tax paid was deductible (not modelled)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56339",
+      "notes": "Schedule in force for 1981: KRS 141.020's history (statute page) shows it was amended in 1976 (Ky. Acts ch. 77) and not again until 1990 (Ky. Acts ch. 476), and the ACIR Significant Features rate tables for 1980 and 1983 print the same schedule and the same $650 standard deduction on either side of this year. Same schedule for every filing status (two-earner married taxpayers may file separately on the same return). Personal exemptions were $20 credits (not modelled); federal income tax was deductible (not modelled)."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56339",
+      "notes": "Schedule in force for 1982: KRS 141.020's history (statute page) shows it was amended in 1976 (Ky. Acts ch. 77) and not again until 1990 (Ky. Acts ch. 476), and the ACIR Significant Features rate tables for 1980 and 1983 print the same schedule and the same $650 standard deduction on either side of this year. Same schedule for every filing status (two-earner married taxpayers may file separately on the same return). Personal exemptions were $20 credits (not modelled); federal income tax was deductible (not modelled)."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1982-1983.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1982-83 ed., Table 48 (p. 64), rates for 1983 as of December 1983; personal exemptions and standard deduction from Table 47 (p. 60, as of October 1, 1983). Same schedule for every filing status (two-earner married taxpayers may file separately on the same return); a joint return gets one $650 standard deduction. The same schedule is printed in every ACIR edition from 1976 through 1990 and matches the 1991 schedule (KRS 141.020). Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Local income taxes are additional. Federal income tax paid was deductible (ACIR summary table; not modelled)."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1984.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1984 ed., Table 53 (p. 77), rates for 1984 as of December 1984; personal exemptions and standard deduction from Table 52 (p. 73, as of November 1984). Same schedule for every filing status (two-earner married taxpayers may file separately on the same return); a joint return gets one $650 standard deduction. The same schedule is printed in every ACIR edition from 1976 through 1990 and matches the 1991 schedule (KRS 141.020). Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Local income taxes are additional. Federal income tax paid was deductible (ACIR summary table; not modelled)."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1985-1986.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1985-86 ed., Table 56 (p. 82), rates for 1985 as of October 1985; personal exemptions and standard deduction from Table 55 (p. 78, as of August 1985). Same schedule for every filing status (two-earner married taxpayers may file separately on the same return); a joint return gets one $650 standard deduction. The same schedule is printed in every ACIR edition from 1976 through 1990 and matches the 1991 schedule (KRS 141.020). Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Local income taxes are additional. Federal income tax paid was deductible (ACIR summary table; not modelled)."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1987 ed., Table 51 (p. 70), rates for tax year 1986, compiled October 1986; personal exemptions and standard deduction from Table 50 (p. 66, as of October 1986). Same schedule for every filing status (two-earner married taxpayers may file separately on the same return); a joint return gets one $650 standard deduction. The same schedule is printed in every ACIR edition from 1976 through 1990 and matches the 1991 schedule (KRS 141.020). Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Local income taxes are additional. Federal income tax paid was deductible (ACIR summary table; not modelled)."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1988-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1988 ed., vol. 1, Table 16 (p. 29), rates for tax year 1987, compiled October 1987; personal exemptions and standard deduction from Table 15 (p. 26, as of October 1987). Same schedule for every filing status (two-earner married taxpayers may file separately on the same return); a joint return gets one $650 standard deduction. The same schedule is printed in every ACIR edition from 1976 through 1990 and matches the 1991 schedule (KRS 141.020). Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Local income taxes are additional. Federal income tax paid was deductible (ACIR summary table; not modelled)."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1989-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1989 ed., vol. 1, Table 19 (p. 35), rates for tax year 1988, compiled October 1988; personal exemptions and standard deduction from Table 18 (p. 31, as of October 1988). Same schedule for every filing status (two-earner married taxpayers may file separately on the same return); a joint return gets one $650 standard deduction. The same schedule is printed in every ACIR edition from 1976 through 1990 and matches the 1991 schedule (KRS 141.020). Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Local income taxes are additional. Federal income tax paid was deductible (ACIR summary table; not modelled)."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1990-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1990 ed., vol. 1, Table 19 (p. 53), rates for tax year 1989, compiled October 1989; personal exemptions and standard deduction from Table 16 (p. 38, as of October 1989). Same schedule for every filing status (two-earner married taxpayers may file separately on the same return); a joint return gets one $650 standard deduction. The same schedule is printed in every ACIR edition from 1976 through 1990 and matches the 1991 schedule (KRS 141.020). Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Local income taxes are additional. Federal income tax paid was deductible (ACIR summary table; not modelled)."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1991-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1991 ed., vol. 1, Table 22 (p. 65), rates for tax year 1990, compiled October 1990; personal exemptions and standard deduction from Table 18 (p. 48, as of October 1990). Same schedule for every filing status (two-earner married taxpayers may file separately on the same return); a joint return gets one $650 standard deduction. The same schedule is printed in every ACIR edition from 1976 through 1990 and matches the 1991 schedule (KRS 141.020). Personal exemptions are $20 tax credits per taxpayer/dependent ($40 joint) and are not modelled. Local income taxes are additional. Federal income tax paid was deductible (ACIR summary table; not modelled)."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://apps.legislature.ky.gov/law/acts/05RS/documents/0168.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Pre-2005 schedule per KRS 141.020 as shown (prior text) in 2005 Ky. Acts ch. 168 sec. 5; 141.020 was not amended between 1990 and 2005. Standard deduction per KRS 141.081 ($650 before 1997; $900 1997; $1,200 1998; $1,500 1999; $1,700 2000). Personal credits $20 per person/dependent and low-income credit not modelled."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://apps.legislature.ky.gov/law/acts/05RS/documents/0168.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Pre-2005 schedule per KRS 141.020 as shown (prior text) in 2005 Ky. Acts ch. 168 sec. 5; 141.020 was not amended between 1990 and 2005. Standard deduction per KRS 141.081 ($650 before 1997; $900 1997; $1,200 1998; $1,500 1999; $1,700 2000). Personal credits $20 per person/dependent and low-income credit not modelled."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://apps.legislature.ky.gov/law/acts/05RS/documents/0168.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Pre-2005 schedule per KRS 141.020 as shown (prior text) in 2005 Ky. Acts ch. 168 sec. 5; 141.020 was not amended between 1990 and 2005. Standard deduction per KRS 141.081 ($650 before 1997; $900 1997; $1,200 1998; $1,500 1999; $1,700 2000). Personal credits $20 per person/dependent and low-income credit not modelled."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://apps.legislature.ky.gov/law/acts/05RS/documents/0168.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Pre-2005 schedule per KRS 141.020 as shown (prior text) in 2005 Ky. Acts ch. 168 sec. 5; 141.020 was not amended between 1990 and 2005. Standard deduction per KRS 141.081 ($650 before 1997; $900 1997; $1,200 1998; $1,500 1999; $1,700 2000). Personal credits $20 per person/dependent and low-income credit not modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://apps.legislature.ky.gov/law/acts/05RS/documents/0168.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Pre-2005 schedule per KRS 141.020 as shown (prior text) in 2005 Ky. Acts ch. 168 sec. 5; 141.020 was not amended between 1990 and 2005. Standard deduction per KRS 141.081 ($650 before 1997; $900 1997; $1,200 1998; $1,500 1999; $1,700 2000). Personal credits $20 per person/dependent and low-income credit not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 650
+      },
+      "source": "https://apps.legislature.ky.gov/law/acts/05RS/documents/0168.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Pre-2005 schedule per KRS 141.020 as shown (prior text) in 2005 Ky. Acts ch. 168 sec. 5; 141.020 was not amended between 1990 and 2005. Standard deduction per KRS 141.081 ($650 before 1997; $900 1997; $1,200 1998; $1,500 1999; $1,700 2000). Personal credits $20 per person/dependent and low-income credit not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 900,
+        "marriedJoint": 900
+      },
+      "source": "https://apps.legislature.ky.gov/law/acts/05RS/documents/0168.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Pre-2005 schedule per KRS 141.020 as shown (prior text) in 2005 Ky. Acts ch. 168 sec. 5; 141.020 was not amended between 1990 and 2005. Standard deduction per KRS 141.081 ($650 before 1997; $900 1997; $1,200 1998; $1,500 1999; $1,700 2000). Personal credits $20 per person/dependent and low-income credit not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1200,
+        "marriedJoint": 1200
+      },
+      "source": "https://apps.legislature.ky.gov/law/acts/05RS/documents/0168.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Pre-2005 schedule per KRS 141.020 as shown (prior text) in 2005 Ky. Acts ch. 168 sec. 5; 141.020 was not amended between 1990 and 2005. Standard deduction per KRS 141.081 ($650 before 1997; $900 1997; $1,200 1998; $1,500 1999; $1,700 2000). Personal credits $20 per person/dependent and low-income credit not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 1500
+      },
+      "source": "https://apps.legislature.ky.gov/law/acts/05RS/documents/0168.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Pre-2005 schedule per KRS 141.020 as shown (prior text) in 2005 Ky. Acts ch. 168 sec. 5; 141.020 was not amended between 1990 and 2005. Standard deduction per KRS 141.081 ($650 before 1997; $900 1997; $1,200 1998; $1,500 1999; $1,700 2000). Personal credits $20 per person/dependent and low-income credit not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1700,
+        "marriedJoint": 1700
+      },
+      "source": "https://apps.legislature.ky.gov/law/acts/05RS/documents/0168.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Pre-2005 schedule per KRS 141.020 as shown (prior text) in 2005 Ky. Acts ch. 168 sec. 5; 141.020 was not amended between 1990 and 2005. Standard deduction per KRS 141.081 ($650 before 1997; $900 1997; $1,200 1998; $1,500 1999; $1,700 2000). Personal credits $20 per person/dependent and low-income credit not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://apps.legislature.ky.gov/law/acts/05RS/documents/0168.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Indexed standard deduction for this year not found in an allowed source (left out). Pre-2005 schedule per KRS 141.020 as shown (prior text) in 2005 Ky. Acts ch. 168 sec. 5; 141.020 was not amended between 1990 and 2005. Personal credits $20 per person/dependent and low-income credit not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 1800
+      },
+      "source": "https://apps.legislature.ky.gov/AgencyReports/IJC/AR/OSBD/TEA/2004%20to%202006.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Pre-2005 schedule per KRS 141.020 as shown (prior text) in 2005 Ky. Acts ch. 168 sec. 5; 141.020 was not amended between 1990 and 2005. Standard deduction $1,800 per OSBD Tax Expenditure Analysis. Personal credits $20 per person/dependent and low-income credit not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://apps.legislature.ky.gov/law/acts/05RS/documents/0168.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Indexed standard deduction for this year not found in an allowed source (left out). Pre-2005 schedule per KRS 141.020 as shown (prior text) in 2005 Ky. Acts ch. 168 sec. 5; 141.020 was not amended between 1990 and 2005. Personal credits $20 per person/dependent and low-income credit not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1870,
+        "marriedJoint": 1870
+      },
+      "source": "https://apps.legislature.ky.gov/AgencyReports/IJC/AR/OSBD/TEA/2006%20to%202008.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Pre-2005 schedule per KRS 141.020 as shown (prior text) in 2005 Ky. Acts ch. 168 sec. 5; 141.020 was not amended between 1990 and 2005. Standard deduction $1,870 per OSBD Tax Expenditure Analysis. Personal credits $20 per person/dependent and low-income credit not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.058
+          },
+          {
+            "from": 75000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1910,
+        "marriedJoint": 1910
+      },
+      "source": "https://apps.legislature.ky.gov/AgencyReports/IJC/AR/OSBD/TEA/2006%20to%202008.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). 2005+ schedule per 2005 Ky. Acts ch. 168 (KRS 141.020). Standard deduction $1,910 per OSBD Tax Expenditure Analysis. Personal credits ($20 each) and family size tax credit not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.058
+          },
+          {
+            "from": 75000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://apps.legislature.ky.gov/law/acts/05RS/documents/0168.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Indexed standard deduction for this year not found in an allowed source (left out). 2005+ schedule per 2005 Ky. Acts ch. 168 (KRS 141.020). Personal credits ($20 each) and family size tax credit not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.058
+          },
+          {
+            "from": 75000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2050,
+        "marriedJoint": 2050
+      },
+      "source": "https://apps.legislature.ky.gov/AgencyReports/IJC/AR/OSBD/TEA/2008%20to%202010.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). 2005+ schedule per 2005 Ky. Acts ch. 168 (KRS 141.020). Standard deduction $2,050 per OSBD Tax Expenditure Analysis. Personal credits ($20 each) and family size tax credit not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.058
+          },
+          {
+            "from": 75000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://apps.legislature.ky.gov/law/acts/05RS/documents/0168.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Indexed standard deduction for this year not found in an allowed source (left out). 2005+ schedule per 2005 Ky. Acts ch. 168 (KRS 141.020). Personal credits ($20 each) and family size tax credit not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.058
+          },
+          {
+            "from": 75000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2190,
+        "marriedJoint": 2190
+      },
+      "source": "https://apps.legislature.ky.gov/AgencyReports/IJC/AR/OSBD/TEA/2010%20to%202012.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). 2005+ schedule per 2005 Ky. Acts ch. 168 (KRS 141.020). Standard deduction $2,190 per OSBD Tax Expenditure Analysis. Personal credits ($20 each) and family size tax credit not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.058
+          },
+          {
+            "from": 75000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2210,
+        "marriedJoint": 2210
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KY/2010/2010740Pinstr_Final_110410.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Personal tax credits ($20 each through 2013, $10 2014-2017) and family size tax credit not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.058
+          },
+          {
+            "from": 75000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2240,
+        "marriedJoint": 2240
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KY/2011/740P2011_FINAL_11711.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Personal tax credits ($20 each through 2013, $10 2014-2017) and family size tax credit not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.058
+          },
+          {
+            "from": 75000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2290,
+        "marriedJoint": 2290
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KY/2012/KyRev740PforwebFINALfromGW2012.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Personal tax credits ($20 each through 2013, $10 2014-2017) and family size tax credit not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.058
+          },
+          {
+            "from": 75000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2360,
+        "marriedJoint": 2360
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KY/2013/740P2013_FINALfromTP_52324_forwebsitePDF.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Personal tax credits ($20 each through 2013, $10 2014-2017) and family size tax credit not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.058
+          },
+          {
+            "from": 75000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2400,
+        "marriedJoint": 2400
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KY/2014/2014740P_FINAL_web_REV12302014.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Personal tax credits ($20 each through 2013, $10 2014-2017) and family size tax credit not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.058
+          },
+          {
+            "from": 75000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2440,
+        "marriedJoint": 2440
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KY/2015/2015740PFINAL.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Personal tax credits ($20 each through 2013, $10 2014-2017) and family size tax credit not modelled."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.058
+          },
+          {
+            "from": 75000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2460,
+        "marriedJoint": 2460
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KY/2016/2016%20740(P).pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Personal tax credits ($20 each through 2013, $10 2014-2017) and family size tax credit not modelled."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.058
+          },
+          {
+            "from": 75000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2480,
+        "marriedJoint": 2480
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KY/2017/740%202017%20Kentucky%20Individual%20Income%20Tax%20Form%20Packet%20for%20Full%20Year%20Resident.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Personal tax credits ($20 each through 2013, $10 2014-2017) and family size tax credit not modelled."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 2530,
+        "marriedJoint": 2530
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KY/2018/740%20Packet.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Flat rate (2018 Ky. Acts ch. 207). Family size tax credit not modelled."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 2590,
+        "marriedJoint": 2590
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KY/2019/2019%20740(P)%20Instructions%20only_FINAL_rev%202-13-2020.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Flat rate (2018 Ky. Acts ch. 207). Family size tax credit not modelled."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 2650,
+        "marriedJoint": 2650
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KY/2020/740%20Instruction%20Packet.020521.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Flat rate (2018 Ky. Acts ch. 207). Family size tax credit not modelled."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 2690,
+        "marriedJoint": 2690
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KY/2021/Form%20740%20Packet%20Instructions-2021.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Flat rate (2018 Ky. Acts ch. 207). Family size tax credit not modelled."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 2770,
+        "marriedJoint": 2770
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KY/2022/740%20Packet%20Instructions%205-9-23.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Flat rate (2018 Ky. Acts ch. 207). Family size tax credit not modelled."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.045,
+      "deduction": {
+        "single": 2980,
+        "marriedJoint": 2980
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KY/2023/740%20Packet%20Instructions%202023.pdf",
+      "notes": "Same schedule for every filing status; a joint return gets one standard deduction (spouses filing separately on a combined return get one each). Flat rate (2018 Ky. Acts ch. 207). Family size tax credit not modelled."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.04,
+      "deduction": {
+        "single": 3160,
+        "marriedJoint": 3160
+      },
+      "source": "https://revenue.ky.gov/Forms/740%20instructions%20packet%20(2024).pdf",
+      "notes": "A joint return gets one $3,160 standard deduction (spouses filing separately on a combined return get one each)."
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.04,
+      "deduction": {
+        "single": 3270,
+        "marriedJoint": 3270
+      },
+      "source": "https://revenue.ky.gov/Forms/740%20Packet%20Instructions.pdf",
+      "notes": "A joint return gets one $3,270 standard deduction (spouses filing separately on a combined return get one each)."
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.035,
+      "deduction": {
+        "single": 3360,
+        "marriedJoint": 3360
+      },
+      "source": "https://revenue.ky.gov/Forms/2026%20Withholding%20Formula.pdf",
+      "notes": "A joint return gets one $3,360 standard deduction (spouses filing separately on a combined return get one each)."
+    }
+  }
+}

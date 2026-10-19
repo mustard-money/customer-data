@@ -1,0 +1,239 @@
+{
+  "id": "us-local-wilmington",
+  "kind": "local",
+  "region": "Wilmington, DE",
+  "state": "DE",
+  "years": {
+    "1973": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "1.25% on residents and on nonresidents' Wilmington earnings: ACIR Significant Features 1973-74 ed. (M-79), Table 150 p. 291, rate at July 1, 1973. 59 Del. Laws c. 121 (1973) cut the statutory cap (22 Del. C. sec. 902) from 1.5% to 1.25%, where it has stayed; the city code (sec. 44-107, derived from the 1968 Code sec. 30-30) fixes the rate at 1 1/4%. Earlier years are not recorded: ACIR describes the 1969-1972 tax as a stepped rate on total income (none up to $4,000, 1/4% from $4,000 to $6,000, then 1/2% in 1969-70 and 1.5% from 1971), which the format cannot express."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://delcode.delaware.gov/title22/c009/index.html",
+      "notes": "1.25%: ACIR lists Wilmington at 1.25% at July 1, 1973 and July 1, 1976, the statutory maximum under 22 Del. C. sec. 902 since 59 Del. Laws c. 121 (1973), whose history shows no later change to the cap; the rate is carried across 1974-1975. 1977-1982 are not recorded because the ACIR 1979-80 edition lists Wilmington at 1.0% at October 1, 1979, which no city document confirms or dates."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://delcode.delaware.gov/title22/c009/index.html",
+      "notes": "1.25%: ACIR lists Wilmington at 1.25% at July 1, 1973 and July 1, 1976, the statutory maximum under 22 Del. C. sec. 902 since 59 Del. Laws c. 121 (1973), whose history shows no later change to the cap; the rate is carried across 1974-1975. 1977-1982 are not recorded because the ACIR 1979-80 edition lists Wilmington at 1.0% at October 1, 1979, which no city document confirms or dates."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "1.25%: ACIR Significant Features 1976-77 ed. vol. 2, Table 116 p. 225, rate at July 1, 1976 (statutory cap 1.25% under 22 Del. C. sec. 902 since 1973)."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1982-1983.pdf",
+      "notes": "1.25% on wages, residents and nonresidents deriving income from the city: ACIR Significant Features of Fiscal Federalism 1982-83 ed., Table 57 (p. 88), use of local income and wage taxes as of October 1983, Delaware municipal: rate employed 1.25%, limit 1.25%, one jurisdiction (Wilmington is Delaware's only city with a wage tax). Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973)."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1984.pdf",
+      "notes": "1.25%, wages only: ACIR Significant Features of Fiscal Federalism 1984 ed., Table 56 (p. 84), 1984 local income tax rate for selected large cities, Wilmington (New Castle). Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973)."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1985-1986.pdf",
+      "notes": "1.25%, wages only: ACIR Significant Features of Fiscal Federalism 1985-86 ed., Table 59 (p. 89), 1985 local income tax rate for selected large cities, Wilmington. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973)."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "1.25% on residents and nonresidents: ACIR Significant Features 1987 ed., Table 56 p. 84, rates for 1986 (CCH December 1986)."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1988-Vol-1.pdf",
+      "notes": "1.25% on residents and nonresidents: ACIR Significant Features 1988 ed., Table 20 p. 48, rates for 1987."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1989-Vol-1.pdf",
+      "notes": "1.25% on residents and nonresidents: ACIR Significant Features 1989 ed., Table 23 p. 48, rates for 1988."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1990-Vol-1.pdf",
+      "notes": "1.25% on residents and nonresidents: ACIR Significant Features 1990 ed., Table 21 p. 58, rates for 1989."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1992-Vol-1.pdf",
+      "notes": "1.25%: ACIR lists Wilmington at 1.25% for 1989 (1990 ed.) and at November 1991 (1992 ed., Table 24 p. 74); the 1991 edition has no city rate table, so 1990 is carried across."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1992-Vol-1.pdf",
+      "notes": "1.25% on residents and nonresidents: ACIR Significant Features 1992 ed., Table 24 p. 74, rates at November 1991."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff-1993-vol-1.pdf",
+      "notes": "1.25% on residents and nonresidents: ACIR Significant Features 1993 ed., Table 24 p. 78, rates at November 1992."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1994-Vol-1.pdf",
+      "notes": "1.25% on residents and nonresidents: ACIR Significant Features 1994 ed., Table 22 p. 78, rates at November 1993."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1995-Vol-1.pdf",
+      "notes": "1.25% on residents and nonresidents: ACIR Significant Features 1995 ed., Table 21 p. 71, rates at November 1994."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://web.archive.org/web/20030523013526/http://www.ci.wilmington.de.us:80/pdf/earnedtaxregs.pdf",
+      "notes": "1.25%: City of Wilmington Department of Finance, Earned Income Tax Regulations (April 2003 edition), Article II, Sections 201-202: tax on residents' and nonresidents' salaries, wages and other compensation, and on net profits, at one and one quarter percent (1.25%). The city's Multi-Year Financial Forecast FY2003-2007 (March 2003, https://web.archive.org/web/20040625061759/http://www.ci.wilmington.de.us:80/pdf/financialreport.pdf, list of major city taxes) also gives the wage/earnings tax as 1.25%. Rate capped at 1.25% by 22 Del. C. section 902."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2015/02/fy-2006-adopted-budget.pdf",
+      "notes": "1.25% per the FY2006 budget \"Tax Rates for Fiscal Year 2006\" page (p. 74; covers Jul 2005-Jun 2006): wage tax on residents' gross earned income and nonresidents' earned income within the city, 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2015/02/fy-2007-adopted-budget.pdf",
+      "notes": "1.25% per the FY2007 budget \"Tax Rates\" page (covers Jul 2006-Jun 2007); the FY2006 budget (earliest online) shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2015/02/fy-2008-adopted-budget.pdf",
+      "notes": "1.25% per the FY2008 budget \"Tax Rates\" page (covers Jul 2007-Jun 2008); the FY2007 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2015/02/fy-2009-adopted-budget.pdf",
+      "notes": "1.25% per the FY2009 budget \"Tax Rates\" page (covers Jul 2008-Jun 2009); the FY2008 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2015/02/fy-2010-adopted-budget.pdf",
+      "notes": "1.25% per the FY2010 budget \"Tax Rates\" page (covers Jul 2009-Jun 2010); the FY2009 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2015/02/fy-2011-adopted-budget.pdf",
+      "notes": "1.25% per the FY2011 budget \"Tax Rates\" page (covers Jul 2010-Jun 2011); the FY2010 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2015/02/fy-2012-adopted-budget.pdf",
+      "notes": "1.25% per the FY2012 budget \"Tax Rates\" page (covers Jul 2011-Jun 2012); the FY2011 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2015/02/fy-2013-adopted-budget.pdf",
+      "notes": "1.25% per the FY2013 budget \"Tax Rates\" page (covers Jul 2012-Jun 2013); the FY2012 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2015/02/fy-2014-adopted-budget.pdf",
+      "notes": "1.25% per the FY2014 budget \"Tax Rates\" page (covers Jul 2013-Jun 2014); the FY2013 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2015/02/fy-2015-adopted-budget.pdf",
+      "notes": "1.25% per the FY2015 budget \"Tax Rates\" page (covers Jul 2014-Jun 2015); the FY2014 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2015/02/fy-2016-adopted-budget.pdf",
+      "notes": "1.25% per the FY2016 budget \"Tax Rates\" page (covers Jul 2015-Jun 2016); the FY2015 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2016/01/fy2017-adopted-budget.pdf",
+      "notes": "1.25% per the FY2017 budget \"Tax Rates\" page (covers Jul 2016-Jun 2017); the FY2016 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2016/01/fy2018approvedbudgetbook.pdf",
+      "notes": "1.25% per the FY2018 budget \"Tax Rates\" page (covers Jul 2017-Jun 2018); the FY2017 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2018/01/fy2019annualbudget.pdf",
+      "notes": "1.25% per the FY2019 budget \"Tax Rates\" page (covers Jul 2018-Jun 2019); the FY2018 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2018/01/fy2019annualbudget.pdf",
+      "notes": "1.25% per the FY2019 budget \"Tax Rates\" page (covers Jan-Jun 2019); the FY2020 budget is not online, and the FY2021 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2018/01/fy2021approvedbudget.pdf",
+      "notes": "1.25% per the FY2021 budget \"Tax Rates\" page (covers Jul-Dec 2020); the FY2020 budget is not online. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2018/01/fy2022cityofwilmingtonappr.pdf",
+      "notes": "1.25% per the FY2022 budget \"Tax Rates\" page (covers Jul 2021-Jun 2022); the FY2021 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2018/01/fy2023-approved-budget.pdf",
+      "notes": "1.25% per the FY2023 budget \"Tax Rates\" page (covers Jul 2022-Jun 2023); the FY2022 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2023/03/tax-rates.pdf",
+      "notes": "1.25% per the FY2024 budget \"Tax Rates\" page (covers Jul 2023-Jun 2024); the FY2023 budget shows the same 1.25%. Rate capped at 1.25% by 22 Del. C. section 902 (59 Del. Laws c. 121, 1973); the city publishes the rate in each fiscal-year budget (fiscal year = July-June)."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2026/03/fy27-tax-rates.pdf"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2026/03/fy27-tax-rates.pdf"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.0125,
+      "source": "https://wilmdebudget.org/wp-content/uploads/2026/03/fy27-tax-rates.pdf"
+    }
+  }
+}

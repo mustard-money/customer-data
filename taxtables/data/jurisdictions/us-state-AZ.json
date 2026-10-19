@@ -1,0 +1,2930 @@
+{
+  "id": "us-state-AZ",
+  "kind": "state",
+  "region": "Arizona",
+  "state": "AZ",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/M-57.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1971 ed. (M-57), Table 36 (State Individual Income Taxes: Rates, December 31, 1970), Table 37 (personal exemptions, December 31, 1970) and Table 38 (standard deduction, December 31, 1970). 2%-8% on $1,000 steps of net income after personal exemption (rates set by Laws 1967, 3rd S.S., ch. 7, effective January 1, 1968, per the JLBC's Historical Tax Law Changes: Individual Income Tax; the 1969 ed., M-50, Table 40 of December 31, 1969 prints the same schedule). One schedule printed; no joint schedule given. Deduction = $1,000 single / $2,000 married personal exemption (dependents $600); standard deduction 10% of income, max $500 single / $1,000 joint. Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/m-74.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1972 ed. (M-74), Table 91 (State Individual Income Taxes: Rates, December 31, 1971), Table 92 (personal exemptions, December 31, 1971) and Table 93 (standard deduction, December 31, 1971). Same 2%-8% schedule on $1,000 steps as 1970; no joint schedule given. Deduction = $1,000 / $2,000 personal exemption (dependents $600); standard deduction 10% of income, max $500 / $1,000. Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.azjlbc.gov/25taxbook/iit.pdf",
+      "notes": "Bridged: no ACIR edition describes 1972. The 1972 ed. (Table 91, December 31, 1971) and the 1973-74 ed. (Table 141, July 1, 1973) print the same 2%-8% schedule on $1,000 steps and the same $1,000/$2,000 exemptions and 10% standard deduction (max $500/$1,000), and the JLBC's Historical Tax Law Changes: Individual Income Tax (the source cited) lists no change to rates, exemptions or the standard deduction between Laws 1967, 3rd S.S., ch. 7 (rates, effective 1968) and Laws 1978, ch. 211 (indexing of exemptions and deductions from tax year 1978); Laws 1972, ch. 58 only prorated exemptions for part-year residents and Laws 1973, ch. 7 reorganized the code without substantive change. Brackets were not indexed until tax year 1983. No joint schedule given. Deduction = $1,000 / $2,000 personal exemption; standard deduction 10% of income, max $500 / $1,000. Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/m-79.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1973-74 ed. (M-79), Table 141 (State Individual Income Taxes: Rates, July 1, 1973), Table 142 (personal exemptions, July 1, 1973) and Table 143 (standard deduction, July 1, 1973). Same 2%-8% schedule on $1,000 steps as 1971; no joint schedule given. Deduction = $1,000 / $2,000 personal exemption (dependents $600); standard deduction 10% of income, max $500 / $1,000. Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.azjlbc.gov/25taxbook/iit.pdf",
+      "notes": "Bridged: no ACIR edition describes 1974. The 1973-74 ed. (Table 141, July 1, 1973) and the 1976-77 ed. (Table 106, July 1, 1976) print the same 2%-8% schedule on $1,000 steps and the same $1,000/$2,000 exemptions and 10% standard deduction (max $500/$1,000), and the JLBC's Historical Tax Law Changes: Individual Income Tax (the source cited) lists no change to rates, exemptions or the standard deduction between Laws 1967, 3rd S.S., ch. 7 (rates, effective 1968) and Laws 1978, ch. 211 (indexing of exemptions and deductions from tax year 1978); the 1974 and 1975 laws it lists concern credits, amortization, proration for nonresidents and payment installments. Brackets were not indexed until tax year 1983. No joint schedule given. Deduction = $1,000 / $2,000 personal exemption; standard deduction 10% of income, max $500 / $1,000. Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.azjlbc.gov/25taxbook/iit.pdf",
+      "notes": "Bridged: no ACIR edition describes 1975. The 1973-74 ed. (Table 141, July 1, 1973) and the 1976-77 ed. (Table 106, July 1, 1976) print the same 2%-8% schedule on $1,000 steps and the same $1,000/$2,000 exemptions and 10% standard deduction (max $500/$1,000), and the JLBC's Historical Tax Law Changes: Individual Income Tax (the source cited) lists no change to rates, exemptions or the standard deduction between Laws 1967, 3rd S.S., ch. 7 (rates, effective 1968) and Laws 1978, ch. 211 (indexing of exemptions and deductions from tax year 1978); the 1974 and 1975 laws it lists concern credits, amortization, proration for nonresidents and payment installments. Brackets were not indexed until tax year 1983. No joint schedule given. Deduction = $1,000 / $2,000 personal exemption; standard deduction 10% of income, max $500 / $1,000. Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1976-77 ed. Vol. II, Table 106 (State Individual Income Taxes: Rates, July 1, 1976), Table 107 (personal exemptions, July 1, 1976) and Table 108 (standard deduction, July 1, 1976). One schedule printed (net income after personal exemption); no joint schedule given. Deduction = $1,000 single / $2,000 married personal exemption (dependents $600); standard deduction 10% of income, max $500 single / $1,000 joint. Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.azjlbc.gov/25taxbook/iit.pdf",
+      "notes": "Bridged: no ACIR edition describes 1977. The 1976-77 ed. (Table 106, July 1, 1976) and the 1979-80 ed. (Table 82, July 1, 1980) print the same 2%-8% schedule on $1,000 steps, and the JLBC's Historical Tax Law Changes: Individual Income Tax (the source cited) lists no rate change between Laws 1967, 3rd S.S., ch. 7 (effective 1968) and Laws 1982, ch. 75 (bracket indexing from tax year 1983). Deduction kept as in 1976 ($1,000 / $2,000 personal exemption; standard deduction 10% of income, max $500 / $1,000): indexing of exemptions and the standard deduction began with tax year 1978 (Laws 1978, ch. 211) and the 1977 laws listed (ch. 77, 81, 87, 152) concern a contributions deduction and credits. No joint schedule given. Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://www.azjlbc.gov/25taxbook/iit.pdf",
+      "notes": "Bridged: no ACIR edition describes 1978. The 1976-77 ed. (Table 106, July 1, 1976) and the 1979-80 ed. (Table 82, July 1, 1980) print the same 2%-8% schedule on $1,000 steps, and the JLBC's Historical Tax Law Changes: Individual Income Tax (the source cited) lists no rate change between Laws 1967, 3rd S.S., ch. 7 (effective 1968) and Laws 1982, ch. 75 (bracket indexing from tax year 1983); Laws 1978, ch. 213 rewrote the code from tax year 1979 (federal AGI starting point) without changing the rates. No deduction recorded: exemptions, the standard deduction and credits were indexed to the state CPI for tax year 1978 (Laws 1978, ch. 211) and 1979 (Laws 1979, ch. 164) and the 1978 amounts appear in no document found. No joint schedule given. Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://www.azjlbc.gov/25taxbook/iit.pdf",
+      "notes": "Bridged: no ACIR edition describes 1979. The 1976-77 ed. (Table 106, July 1, 1976) and the 1979-80 ed. (Table 82, July 1, 1980) print the same 2%-8% schedule on $1,000 steps, and the JLBC's Historical Tax Law Changes: Individual Income Tax (the source cited) lists no rate change between Laws 1967, 3rd S.S., ch. 7 (effective 1968) and Laws 1982, ch. 75 (bracket indexing from tax year 1983); Laws 1978, ch. 213 rewrote the code from tax year 1979 (federal AGI starting point) without changing the rates. No deduction recorded: exemptions, the standard deduction and credits were indexed to the state CPI for tax year 1978 (Laws 1978, ch. 211) and 1979 (Laws 1979, ch. 164) and the 1979 amounts appear in no document found. No joint schedule given. Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1979-80 ed., Table 82 (State Individual Income Taxes: Rates, July 1, 1980), Table 83 (personal exemptions) and Table 84 (standard deduction). Same 2%-8% schedule on $1,000 steps as in 1976; no joint schedule given. No deduction recorded: Arizona indexed its exemptions, standard deduction and credits annually from 1978 and Tables 83/84 print only the 1979 amounts ($1,226/$2,452 exemption; 12% standard deduction, max $613/$1,226). Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://www.azjlbc.gov/25taxbook/iit.pdf",
+      "notes": "Bridged: no ACIR edition describes 1981. The 1979-80 ed. (Table 82, July 1, 1980) prints the 2%-8% schedule on $1,000 steps and the 1982-83 ed. (Table 48, tax year 1983) prints the same rates on those steps indexed for the first time (Laws 1982, ch. 75, effective for tax years from 1983); the JLBC's Historical Tax Law Changes: Individual Income Tax (the source cited) lists no rate change between Laws 1967, 3rd S.S., ch. 7 and Laws 1982, ch. 75, so the statutory $1,000 steps applied in 1981. No deduction recorded: exemptions and the standard deduction were indexed annually from 1980 (Laws 1980, ch. 44) and the 1981 amounts appear in no document found. No joint schedule given. Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://www.azjlbc.gov/25taxbook/iit.pdf",
+      "notes": "Bridged: no ACIR edition describes 1982. The 1979-80 ed. (Table 82, July 1, 1980) prints the 2%-8% schedule on $1,000 steps and the 1982-83 ed. (Table 48, tax year 1983) prints the same rates on those steps indexed for the first time (Laws 1982, ch. 75, effective for tax years from 1983); the JLBC's Historical Tax Law Changes: Individual Income Tax (the source cited) lists no rate change between Laws 1967, 3rd S.S., ch. 7 and Laws 1982, ch. 75, so the statutory $1,000 steps applied in 1982. No deduction recorded: exemptions and the standard deduction were indexed annually from 1980 (Laws 1980, ch. 44) and the 1982 amounts appear in no document found. No joint schedule given. Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1017,
+            "rate": 0.03
+          },
+          {
+            "from": 2034,
+            "rate": 0.04
+          },
+          {
+            "from": 3051,
+            "rate": 0.05
+          },
+          {
+            "from": 4068,
+            "rate": 0.06
+          },
+          {
+            "from": 5085,
+            "rate": 0.07
+          },
+          {
+            "from": 6102,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1759,
+        "marriedJoint": 3518
+      },
+      "percentStandardDeduction": {
+        "rate": 0.17,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 880,
+          "marriedJoint": 1759
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1982-1983.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1982-83 ed., Table 48 (State Individual Income Tax Rates for 1983, as of December 1983) and Table 47 (summary of exemptions and standard deductions, as of October 1, 1983). 1983 is the first year the brackets were adjusted for the CPI (indexed amounts as printed). Table 47 lists this schedule as applying to single taxpayers and married couples filing combined separate returns; no joint schedule printed. Deduction = $1,759 single / $3,518 married personal exemption; standard deduction 17% of income, max $880 / $1,759. Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1061,
+            "rate": 0.03
+          },
+          {
+            "from": 2122,
+            "rate": 0.04
+          },
+          {
+            "from": 3183,
+            "rate": 0.05
+          },
+          {
+            "from": 4244,
+            "rate": 0.06
+          },
+          {
+            "from": 5305,
+            "rate": 0.07
+          },
+          {
+            "from": 6366,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1834,
+        "marriedJoint": 3668
+      },
+      "percentStandardDeduction": {
+        "rate": 0.183,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 917,
+          "marriedJoint": 1834
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1984.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1984 ed., Table 53 (State Individual Income Tax Rates for 1984, as of December 1984) and Table 52 (summary of exemptions and standard deductions, November 1984). Indexed 1984 brackets as printed. No joint schedule printed in the 1984 ed. (the 1985-86 ed., Table 56 of October 1985, reprints these brackets and says joint returns pay twice the tax computed on half the income). Deduction = $1,834 / $3,668 personal exemption; standard deduction 18.3% of income, max $917 / $1,834. Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1123,
+            "rate": 0.03
+          },
+          {
+            "from": 2246,
+            "rate": 0.04
+          },
+          {
+            "from": 3369,
+            "rate": 0.05
+          },
+          {
+            "from": 4492,
+            "rate": 0.06
+          },
+          {
+            "from": 5615,
+            "rate": 0.07
+          },
+          {
+            "from": 6738,
+            "rate": 0.08
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2246,
+            "rate": 0.03
+          },
+          {
+            "from": 4492,
+            "rate": 0.04
+          },
+          {
+            "from": 6738,
+            "rate": 0.05
+          },
+          {
+            "from": 8984,
+            "rate": 0.06
+          },
+          {
+            "from": 11230,
+            "rate": 0.07
+          },
+          {
+            "from": 13476,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1941,
+        "marriedJoint": 3882
+      },
+      "percentStandardDeduction": {
+        "rate": 0.194,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 971,
+          "marriedJoint": 1941
+        }
+      },
+      "source": "https://archive.org/details/micro_IA40706925_0070/page/n49",
+      "notes": "Arizona Department of Revenue 1986 Annual Report (fiscal year 1985-86; Internet Archive state-documents microfiche), 'Individual income tax - major features' (PDF page index 49): 'Individual rates are graduated from a minimum of 2% on individual income of $1,123, or joint income of $2,246, to a maximum of 8% on individual income over $6,738, or joint income over $13,476. Individual tax brackets are annually indexed for inflation.' The report describes tax year 1985 (the DOR's 1983-84 report gives the 1983 amounts and the 1987 and 1988 reports the 1986 and 1987 amounts; the same page refers to credits 'for the 1985 tax year'). The report prints only the first and top brackets (and their joint doubles); the intermediate bracket starts are written as 2x-5x the printed first bracket, because Laws 1982, ch. 75 indexes every bracket's limits by the same CPI factor and every printed year (1983, 1984, 1986, 1988) shows exact multiples. Deduction = personal exemption $1,941 single / $3,882 married and standard deduction 19.4% of income, max $971 / $1,941, from the report's Table 29 'Exemptions, deductions & credits indexed to inflation', tax year 1985 row (page n55; the 1987 and 1988 reports print the same row). Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1155,
+            "rate": 0.03
+          },
+          {
+            "from": 2310,
+            "rate": 0.04
+          },
+          {
+            "from": 3465,
+            "rate": 0.05
+          },
+          {
+            "from": 4620,
+            "rate": 0.06
+          },
+          {
+            "from": 5775,
+            "rate": 0.07
+          },
+          {
+            "from": 6930,
+            "rate": 0.08
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2310,
+            "rate": 0.03
+          },
+          {
+            "from": 4620,
+            "rate": 0.04
+          },
+          {
+            "from": 6930,
+            "rate": 0.05
+          },
+          {
+            "from": 9240,
+            "rate": 0.06
+          },
+          {
+            "from": 11550,
+            "rate": 0.07
+          },
+          {
+            "from": 13860,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1996,
+        "marriedJoint": 3992
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1996,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 998,
+          "marriedJoint": 1996
+        }
+      },
+      "source": "https://archive.org/details/micro_IA40706928_0177/page/n50",
+      "notes": "Arizona Department of Revenue 1987 Annual Report (fiscal year 1986-87; Internet Archive state-documents microfiche), 'Individual income tax - major features' (PDF page index 50): 'Individual rates are graduated from a minimum of 2% on individual income of $1,155, or joint income of $2,310, to a maximum of 8% on individual income over $6,930, or joint income over $13,860' (tax year 1986; the same page refers to credits 'for the 1986 tax year'). The full 1986 schedule as written here is the one printed in ACIR Significant Features of Fiscal Federalism 1987 ed., Table 51 (rates for tax year 1986; bracket amounts exactly double for married filing jointly). Deduction = personal exemption $1,996 single / $3,992 married and standard deduction 19.96% of income, max $998 / $1,996, from the report's Table 29 'Exemptions, deductions & credits indexed to inflation', tax year 1986 row (page n56; the 1988 report prints the same row). The ACIR 1987 ed. Table 50 printed $1,941 and 18.3% / $917 / $1,834 for 1986, which are the DOR's 1985 exemption and 1984 standard-deduction figures, so the DOR table is used. Federal income tax paid is deductible from income (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1183,
+            "rate": 0.03
+          },
+          {
+            "from": 2366,
+            "rate": 0.04
+          },
+          {
+            "from": 3549,
+            "rate": 0.05
+          },
+          {
+            "from": 4732,
+            "rate": 0.06
+          },
+          {
+            "from": 5915,
+            "rate": 0.07
+          },
+          {
+            "from": 7098,
+            "rate": 0.08
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2366,
+            "rate": 0.03
+          },
+          {
+            "from": 4732,
+            "rate": 0.04
+          },
+          {
+            "from": 7098,
+            "rate": 0.05
+          },
+          {
+            "from": 9464,
+            "rate": 0.06
+          },
+          {
+            "from": 11830,
+            "rate": 0.07
+          },
+          {
+            "from": 14196,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2045,
+        "marriedJoint": 4090
+      },
+      "percentStandardDeduction": {
+        "rate": 0.2045,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1023,
+          "marriedJoint": 2045
+        }
+      },
+      "source": "https://archive.org/details/micro_IA40706931_0269/page/n29",
+      "notes": "Arizona Department of Revenue 1988 Annual Report (fiscal year 1987-88; Internet Archive state-documents microfiche), 'Individual income tax - major features' (PDF page index 29): 'Rates are graduated from a minimum of 2% on individual income of $1,183 (or joint income of $2,366) to a maximum of 8% on individual income over $7,098 (or joint income over $14,196). Individual tax brackets are indexed annually for inflation.' The report describes tax year 1987 (its Table 29 runs through tax year 1987; the 1986 and 1987 reports give the 1985 and 1986 amounts). The report prints only the first and top brackets (and their joint doubles); the intermediate bracket starts are written as 2x-5x the printed first bracket, because Laws 1982, ch. 75 indexes every bracket's limits by the same CPI factor and every printed year (1983, 1984, 1986, 1988) shows exact multiples. Deduction = personal exemption $2,045 single / $4,090 married and standard deduction 20.45% of income, max $1,023 / $2,045, from Table 29 'Exemptions, deductions & credits indexed to inflation', tax year 1987 row (page n67). Federal income tax paid is deductible from income (not modelled). For 1987 only, Laws 1987, 2nd S.S., ch. 2 let taxpayers subtract the greater of 46% of their 1987 federal income tax liability or $475 (not modelled). Community property state (in general half the community income is taxable to each spouse)."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1229,
+            "rate": 0.03
+          },
+          {
+            "from": 2458,
+            "rate": 0.04
+          },
+          {
+            "from": 3687,
+            "rate": 0.05
+          },
+          {
+            "from": 4916,
+            "rate": 0.06
+          },
+          {
+            "from": 6145,
+            "rate": 0.07
+          },
+          {
+            "from": 7374,
+            "rate": 0.08
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2458,
+            "rate": 0.03
+          },
+          {
+            "from": 4916,
+            "rate": 0.04
+          },
+          {
+            "from": 7374,
+            "rate": 0.05
+          },
+          {
+            "from": 9832,
+            "rate": 0.06
+          },
+          {
+            "from": 12290,
+            "rate": 0.07
+          },
+          {
+            "from": 14748,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2125,
+        "marriedJoint": 4250
+      },
+      "percentStandardDeduction": {
+        "rate": 0.194,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1063,
+          "marriedJoint": 2125
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1989-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1989 ed. Vol. 1, Table 19 (State Individual Income Tax Rates for Tax Year 1988, compiled October 1988; rates for single individuals or married filing separately) and Table 18 (summary of exemptions and standard deductions, as of October 1988). Brackets reflect the 1988 inflation adjustment; bracket amounts are exactly double for married filing jointly. Deduction = $2,125 / $4,250 personal exemption; standard deduction 19.4% of income, max $1,063 / $2,125. Taxpayers subtract the greater of 46% of federal income tax liability or $475 (not modelled). Community property state."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1290,
+            "rate": 0.03
+          },
+          {
+            "from": 2580,
+            "rate": 0.04
+          },
+          {
+            "from": 3870,
+            "rate": 0.05
+          },
+          {
+            "from": 5160,
+            "rate": 0.06
+          },
+          {
+            "from": 6450,
+            "rate": 0.07
+          },
+          {
+            "from": 7740,
+            "rate": 0.08
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2580,
+            "rate": 0.03
+          },
+          {
+            "from": 5160,
+            "rate": 0.04
+          },
+          {
+            "from": 7740,
+            "rate": 0.05
+          },
+          {
+            "from": 10320,
+            "rate": 0.06
+          },
+          {
+            "from": 12900,
+            "rate": 0.07
+          },
+          {
+            "from": 15480,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2229,
+        "marriedJoint": 4458
+      },
+      "percentStandardDeduction": {
+        "rate": 0.2229,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1115,
+          "marriedJoint": 2229
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1990-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1990 ed. Vol. 1, Table 19 (State Individual Income Tax Rates for Tax Year 1989, compiled October 1989; rates for single individuals or married filing separately) and Table 16 (summary of exemptions and standard deductions, as of October 1989). Brackets reflect the 1989 inflation adjustment; bracket amounts are double for married filing jointly. Deduction = $2,229 / $4,458 personal exemption; standard deduction 22.29% of income, max $1,115 / $2,229. Federal income tax deducted from taxable income, plus an additional deduction of 65% of federal tax liability or $600 (max $5,000/$10,000) (not modelled). Community property state."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.038
+          },
+          {
+            "from": 10000,
+            "rate": 0.044
+          },
+          {
+            "from": 25000,
+            "rate": 0.0525
+          },
+          {
+            "from": 50000,
+            "rate": 0.065
+          },
+          {
+            "from": 150000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.038
+          },
+          {
+            "from": 20000,
+            "rate": 0.044
+          },
+          {
+            "from": 50000,
+            "rate": 0.0525
+          },
+          {
+            "from": 100000,
+            "rate": 0.065
+          },
+          {
+            "from": 300000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5500,
+        "marriedJoint": 11000
+      },
+      "source": "https://www.azjlbc.gov/jlbcpdfs/95taxbk.pdf",
+      "notes": "Rates/brackets, standard deduction and exemptions from the JLBC Tax Handbook (Laws 1990 3rd S.S. ch. 3; Laws 1992 ch. 290; Laws 1994 ch. 41; Laws 1995 1st S.S. ch. 9). Deduction = standard deduction $3,500/$7,000 + personal exemption $2,000/$4,000."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.038
+          },
+          {
+            "from": 10000,
+            "rate": 0.044
+          },
+          {
+            "from": 25000,
+            "rate": 0.0525
+          },
+          {
+            "from": 50000,
+            "rate": 0.065
+          },
+          {
+            "from": 150000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.038
+          },
+          {
+            "from": 20000,
+            "rate": 0.044
+          },
+          {
+            "from": 50000,
+            "rate": 0.0525
+          },
+          {
+            "from": 100000,
+            "rate": 0.065
+          },
+          {
+            "from": 300000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5500,
+        "marriedJoint": 11000
+      },
+      "source": "https://www.azjlbc.gov/jlbcpdfs/95taxbk.pdf",
+      "notes": "Rates/brackets, standard deduction and exemptions from the JLBC Tax Handbook (Laws 1990 3rd S.S. ch. 3; Laws 1992 ch. 290; Laws 1994 ch. 41; Laws 1995 1st S.S. ch. 9). Deduction = standard deduction $3,500/$7,000 + personal exemption $2,000/$4,000."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.038
+          },
+          {
+            "from": 10000,
+            "rate": 0.044
+          },
+          {
+            "from": 25000,
+            "rate": 0.0525
+          },
+          {
+            "from": 50000,
+            "rate": 0.065
+          },
+          {
+            "from": 150000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.038
+          },
+          {
+            "from": 20000,
+            "rate": 0.044
+          },
+          {
+            "from": 50000,
+            "rate": 0.0525
+          },
+          {
+            "from": 100000,
+            "rate": 0.065
+          },
+          {
+            "from": 300000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5600,
+        "marriedJoint": 11200
+      },
+      "source": "https://www.azjlbc.gov/jlbcpdfs/95taxbk.pdf",
+      "notes": "Rates/brackets, standard deduction and exemptions from the JLBC Tax Handbook (Laws 1990 3rd S.S. ch. 3; Laws 1992 ch. 290; Laws 1994 ch. 41; Laws 1995 1st S.S. ch. 9). Deduction = standard deduction $3,500/$7,000 + personal exemption $2,100/$4,200."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.038
+          },
+          {
+            "from": 10000,
+            "rate": 0.044
+          },
+          {
+            "from": 25000,
+            "rate": 0.0525
+          },
+          {
+            "from": 50000,
+            "rate": 0.065
+          },
+          {
+            "from": 150000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.038
+          },
+          {
+            "from": 20000,
+            "rate": 0.044
+          },
+          {
+            "from": 50000,
+            "rate": 0.0525
+          },
+          {
+            "from": 100000,
+            "rate": 0.065
+          },
+          {
+            "from": 300000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5600,
+        "marriedJoint": 11200
+      },
+      "source": "https://www.azjlbc.gov/jlbcpdfs/95taxbk.pdf",
+      "notes": "Rates/brackets, standard deduction and exemptions from the JLBC Tax Handbook (Laws 1990 3rd S.S. ch. 3; Laws 1992 ch. 290; Laws 1994 ch. 41; Laws 1995 1st S.S. ch. 9). Deduction = standard deduction $3,500/$7,000 + personal exemption $2,100/$4,200."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0325
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.0505
+          },
+          {
+            "from": 50000,
+            "rate": 0.064
+          },
+          {
+            "from": 150000,
+            "rate": 0.069
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0325
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.0505
+          },
+          {
+            "from": 100000,
+            "rate": 0.064
+          },
+          {
+            "from": 300000,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5600,
+        "marriedJoint": 11200
+      },
+      "source": "https://www.azjlbc.gov/jlbcpdfs/95taxbk.pdf",
+      "notes": "Rates/brackets, standard deduction and exemptions from the JLBC Tax Handbook (Laws 1990 3rd S.S. ch. 3; Laws 1992 ch. 290; Laws 1994 ch. 41; Laws 1995 1st S.S. ch. 9). Deduction = standard deduction $3,500/$7,000 + personal exemption $2,100/$4,200. Family income tax credit for low incomes not modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.035
+          },
+          {
+            "from": 25000,
+            "rate": 0.042
+          },
+          {
+            "from": 50000,
+            "rate": 0.052
+          },
+          {
+            "from": 150000,
+            "rate": 0.056
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 20000,
+            "rate": 0.035
+          },
+          {
+            "from": 50000,
+            "rate": 0.042
+          },
+          {
+            "from": 100000,
+            "rate": 0.052
+          },
+          {
+            "from": 300000,
+            "rate": 0.056
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5700,
+        "marriedJoint": 11400
+      },
+      "source": "https://www.azjlbc.gov/jlbcpdfs/95taxbk.pdf",
+      "notes": "Rates/brackets, standard deduction and exemptions from the JLBC Tax Handbook (Laws 1990 3rd S.S. ch. 3; Laws 1992 ch. 290; Laws 1994 ch. 41; Laws 1995 1st S.S. ch. 9). Deduction = standard deduction $3,600/$7,200 + personal exemption $2,100/$4,200. Family income tax credit for low incomes not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.035
+          },
+          {
+            "from": 25000,
+            "rate": 0.042
+          },
+          {
+            "from": 50000,
+            "rate": 0.052
+          },
+          {
+            "from": 150000,
+            "rate": 0.056
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 20000,
+            "rate": 0.035
+          },
+          {
+            "from": 50000,
+            "rate": 0.042
+          },
+          {
+            "from": 100000,
+            "rate": 0.052
+          },
+          {
+            "from": 300000,
+            "rate": 0.056
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5700,
+        "marriedJoint": 11400
+      },
+      "source": "https://www.azjlbc.gov/03taxbook/03taxbk.pdf",
+      "notes": "Rates from the JLBC 2003 Tax Handbook rate-history table; brackets unchanged since 1990; std deduction $3,600/$7,200 and exemptions $2,100/$4,200. Deduction = standard deduction $3,600/$7,200 + personal exemption $2,100/$4,200. Family income tax credit for low incomes not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.029
+          },
+          {
+            "from": 10000,
+            "rate": 0.033
+          },
+          {
+            "from": 25000,
+            "rate": 0.039
+          },
+          {
+            "from": 50000,
+            "rate": 0.049
+          },
+          {
+            "from": 150000,
+            "rate": 0.0517
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.029
+          },
+          {
+            "from": 20000,
+            "rate": 0.033
+          },
+          {
+            "from": 50000,
+            "rate": 0.039
+          },
+          {
+            "from": 100000,
+            "rate": 0.049
+          },
+          {
+            "from": 300000,
+            "rate": 0.0517
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5700,
+        "marriedJoint": 11400
+      },
+      "source": "https://www.azjlbc.gov/03taxbook/03taxbk.pdf",
+      "notes": "Rates from the JLBC 2003 Tax Handbook rate-history table; brackets unchanged since 1990; std deduction $3,600/$7,200 and exemptions $2,100/$4,200. Deduction = standard deduction $3,600/$7,200 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0288
+          },
+          {
+            "from": 10000,
+            "rate": 0.0324
+          },
+          {
+            "from": 25000,
+            "rate": 0.0382
+          },
+          {
+            "from": 50000,
+            "rate": 0.0474
+          },
+          {
+            "from": 150000,
+            "rate": 0.051
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0288
+          },
+          {
+            "from": 20000,
+            "rate": 0.0324
+          },
+          {
+            "from": 50000,
+            "rate": 0.0382
+          },
+          {
+            "from": 100000,
+            "rate": 0.0474
+          },
+          {
+            "from": 300000,
+            "rate": 0.051
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5700,
+        "marriedJoint": 11400
+      },
+      "source": "https://www.azjlbc.gov/03taxbook/03taxbk.pdf",
+      "notes": "Rates from the JLBC 2003 Tax Handbook rate-history table; brackets unchanged since 1990; std deduction $3,600/$7,200 and exemptions $2,100/$4,200. Deduction = standard deduction $3,600/$7,200 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0287
+          },
+          {
+            "from": 10000,
+            "rate": 0.032
+          },
+          {
+            "from": 25000,
+            "rate": 0.0374
+          },
+          {
+            "from": 50000,
+            "rate": 0.0472
+          },
+          {
+            "from": 150000,
+            "rate": 0.0504
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0287
+          },
+          {
+            "from": 20000,
+            "rate": 0.032
+          },
+          {
+            "from": 50000,
+            "rate": 0.0374
+          },
+          {
+            "from": 100000,
+            "rate": 0.0472
+          },
+          {
+            "from": 300000,
+            "rate": 0.0504
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5700,
+        "marriedJoint": 11400
+      },
+      "source": "https://www.azjlbc.gov/03taxbook/03taxbk.pdf",
+      "notes": "Rates from the JLBC 2003 Tax Handbook rate-history table; brackets unchanged since 1990; std deduction $3,600/$7,200 and exemptions $2,100/$4,200. Deduction = standard deduction $3,600/$7,200 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0287
+          },
+          {
+            "from": 10000,
+            "rate": 0.032
+          },
+          {
+            "from": 25000,
+            "rate": 0.0374
+          },
+          {
+            "from": 50000,
+            "rate": 0.0472
+          },
+          {
+            "from": 150000,
+            "rate": 0.0504
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0287
+          },
+          {
+            "from": 20000,
+            "rate": 0.032
+          },
+          {
+            "from": 50000,
+            "rate": 0.0374
+          },
+          {
+            "from": 100000,
+            "rate": 0.0472
+          },
+          {
+            "from": 300000,
+            "rate": 0.0504
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5700,
+        "marriedJoint": 11400
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2000-140-i.pdf",
+      "notes": "Deduction = standard deduction $3,600/$7,200 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0287
+          },
+          {
+            "from": 10000,
+            "rate": 0.032
+          },
+          {
+            "from": 25000,
+            "rate": 0.0374
+          },
+          {
+            "from": 50000,
+            "rate": 0.0472
+          },
+          {
+            "from": 150000,
+            "rate": 0.0504
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0287
+          },
+          {
+            "from": 20000,
+            "rate": 0.032
+          },
+          {
+            "from": 50000,
+            "rate": 0.0374
+          },
+          {
+            "from": 100000,
+            "rate": 0.0472
+          },
+          {
+            "from": 300000,
+            "rate": 0.0504
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6150,
+        "marriedJoint": 12300
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2001-140-i.pdf",
+      "notes": "Deduction = standard deduction $4,050/$8,100 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0287
+          },
+          {
+            "from": 10000,
+            "rate": 0.032
+          },
+          {
+            "from": 25000,
+            "rate": 0.0374
+          },
+          {
+            "from": 50000,
+            "rate": 0.0472
+          },
+          {
+            "from": 150000,
+            "rate": 0.0504
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0287
+          },
+          {
+            "from": 20000,
+            "rate": 0.032
+          },
+          {
+            "from": 50000,
+            "rate": 0.0374
+          },
+          {
+            "from": 100000,
+            "rate": 0.0472
+          },
+          {
+            "from": 300000,
+            "rate": 0.0504
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6150,
+        "marriedJoint": 12300
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2002-140TableXY.pdf",
+      "notes": "Deduction = standard deduction $4,050/$8,100 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0287
+          },
+          {
+            "from": 10000,
+            "rate": 0.032
+          },
+          {
+            "from": 25000,
+            "rate": 0.0374
+          },
+          {
+            "from": 50000,
+            "rate": 0.0472
+          },
+          {
+            "from": 150000,
+            "rate": 0.0504
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0287
+          },
+          {
+            "from": 20000,
+            "rate": 0.032
+          },
+          {
+            "from": 50000,
+            "rate": 0.0374
+          },
+          {
+            "from": 100000,
+            "rate": 0.0472
+          },
+          {
+            "from": 300000,
+            "rate": 0.0504
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6150,
+        "marriedJoint": 12300
+      },
+      "source": "https://www.azjlbc.gov/03taxbook/03taxbk.pdf",
+      "notes": "No 2003 Form 140 found on azdor.gov; values from the JLBC 2003 Tax Handbook (no rate changes since 1999). Deduction = standard deduction $4,050/$8,100 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0287
+          },
+          {
+            "from": 10000,
+            "rate": 0.032
+          },
+          {
+            "from": 25000,
+            "rate": 0.0374
+          },
+          {
+            "from": 50000,
+            "rate": 0.0472
+          },
+          {
+            "from": 150000,
+            "rate": 0.0504
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0287
+          },
+          {
+            "from": 20000,
+            "rate": 0.032
+          },
+          {
+            "from": 50000,
+            "rate": 0.0374
+          },
+          {
+            "from": 100000,
+            "rate": 0.0472
+          },
+          {
+            "from": 300000,
+            "rate": 0.0504
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6150,
+        "marriedJoint": 12300
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2004-140TaxTableXY.pdf",
+      "notes": "Deduction = standard deduction $4,050/$8,100 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0287
+          },
+          {
+            "from": 10000,
+            "rate": 0.032
+          },
+          {
+            "from": 25000,
+            "rate": 0.0374
+          },
+          {
+            "from": 50000,
+            "rate": 0.0472
+          },
+          {
+            "from": 150000,
+            "rate": 0.0504
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0287
+          },
+          {
+            "from": 20000,
+            "rate": 0.032
+          },
+          {
+            "from": 50000,
+            "rate": 0.0374
+          },
+          {
+            "from": 100000,
+            "rate": 0.0472
+          },
+          {
+            "from": 300000,
+            "rate": 0.0504
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6225,
+        "marriedJoint": 12450
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2005-140TaxTableXY.pdf",
+      "notes": "Deduction = standard deduction $4,125/$8,250 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0273
+          },
+          {
+            "from": 10000,
+            "rate": 0.0304
+          },
+          {
+            "from": 25000,
+            "rate": 0.0355
+          },
+          {
+            "from": 50000,
+            "rate": 0.0448
+          },
+          {
+            "from": 150000,
+            "rate": 0.0479
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0273
+          },
+          {
+            "from": 20000,
+            "rate": 0.0304
+          },
+          {
+            "from": 50000,
+            "rate": 0.0355
+          },
+          {
+            "from": 100000,
+            "rate": 0.0448
+          },
+          {
+            "from": 300000,
+            "rate": 0.0479
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6347,
+        "marriedJoint": 12694
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2006-140TaxTableXY.pdf",
+      "notes": "Deduction = standard deduction $4,247/$8,494 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 10000,
+            "rate": 0.0288
+          },
+          {
+            "from": 25000,
+            "rate": 0.0336
+          },
+          {
+            "from": 50000,
+            "rate": 0.0424
+          },
+          {
+            "from": 150000,
+            "rate": 0.0454
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 20000,
+            "rate": 0.0288
+          },
+          {
+            "from": 50000,
+            "rate": 0.0336
+          },
+          {
+            "from": 100000,
+            "rate": 0.0424
+          },
+          {
+            "from": 300000,
+            "rate": 0.0454
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6473,
+        "marriedJoint": 12945
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2007-140-i.pdf",
+      "notes": "Deduction = standard deduction $4,373/$8,745 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 10000,
+            "rate": 0.0288
+          },
+          {
+            "from": 25000,
+            "rate": 0.0336
+          },
+          {
+            "from": 50000,
+            "rate": 0.0424
+          },
+          {
+            "from": 150000,
+            "rate": 0.0454
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 20000,
+            "rate": 0.0288
+          },
+          {
+            "from": 50000,
+            "rate": 0.0336
+          },
+          {
+            "from": 100000,
+            "rate": 0.0424
+          },
+          {
+            "from": 300000,
+            "rate": 0.0454
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6621,
+        "marriedJoint": 13242
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2008-140-i.pdf",
+      "notes": "Deduction = standard deduction $4,521/$9,042 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 10000,
+            "rate": 0.0288
+          },
+          {
+            "from": 25000,
+            "rate": 0.0336
+          },
+          {
+            "from": 50000,
+            "rate": 0.0424
+          },
+          {
+            "from": 150000,
+            "rate": 0.0454
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 20000,
+            "rate": 0.0288
+          },
+          {
+            "from": 50000,
+            "rate": 0.0336
+          },
+          {
+            "from": 100000,
+            "rate": 0.0424
+          },
+          {
+            "from": 300000,
+            "rate": 0.0454
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6777,
+        "marriedJoint": 13554
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2009-140TaxTableXY.pdf",
+      "notes": "Deduction = standard deduction $4,677/$9,354 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 10000,
+            "rate": 0.0288
+          },
+          {
+            "from": 25000,
+            "rate": 0.0336
+          },
+          {
+            "from": 50000,
+            "rate": 0.0424
+          },
+          {
+            "from": 150000,
+            "rate": 0.0454
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 20000,
+            "rate": 0.0288
+          },
+          {
+            "from": 50000,
+            "rate": 0.0336
+          },
+          {
+            "from": 100000,
+            "rate": 0.0424
+          },
+          {
+            "from": 300000,
+            "rate": 0.0454
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6777,
+        "marriedJoint": 13554
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2010-140TableXY.pdf",
+      "notes": "Deduction = standard deduction $4,677/$9,354 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 10000,
+            "rate": 0.0288
+          },
+          {
+            "from": 25000,
+            "rate": 0.0336
+          },
+          {
+            "from": 50000,
+            "rate": 0.0424
+          },
+          {
+            "from": 150000,
+            "rate": 0.0454
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 20000,
+            "rate": 0.0288
+          },
+          {
+            "from": 50000,
+            "rate": 0.0336
+          },
+          {
+            "from": 100000,
+            "rate": 0.0424
+          },
+          {
+            "from": 300000,
+            "rate": 0.0454
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6933,
+        "marriedJoint": 13865
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2011-140TableXY.pdf",
+      "notes": "Deduction = standard deduction $4,833/$9,665 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 10000,
+            "rate": 0.0288
+          },
+          {
+            "from": 25000,
+            "rate": 0.0336
+          },
+          {
+            "from": 50000,
+            "rate": 0.0424
+          },
+          {
+            "from": 150000,
+            "rate": 0.0454
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 20000,
+            "rate": 0.0288
+          },
+          {
+            "from": 50000,
+            "rate": 0.0336
+          },
+          {
+            "from": 100000,
+            "rate": 0.0424
+          },
+          {
+            "from": 300000,
+            "rate": 0.0454
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6933,
+        "marriedJoint": 13865
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2012-140TableXY.pdf",
+      "notes": "Deduction = standard deduction $4,833/$9,665 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 10000,
+            "rate": 0.0288
+          },
+          {
+            "from": 25000,
+            "rate": 0.0336
+          },
+          {
+            "from": 50000,
+            "rate": 0.0424
+          },
+          {
+            "from": 150000,
+            "rate": 0.0454
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 20000,
+            "rate": 0.0288
+          },
+          {
+            "from": 50000,
+            "rate": 0.0336
+          },
+          {
+            "from": 100000,
+            "rate": 0.0424
+          },
+          {
+            "from": 300000,
+            "rate": 0.0454
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7045,
+        "marriedJoint": 14083
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2013-140TableXY.pdf",
+      "notes": "Deduction = standard deduction $4,945/$9,883 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 10000,
+            "rate": 0.0288
+          },
+          {
+            "from": 25000,
+            "rate": 0.0336
+          },
+          {
+            "from": 50000,
+            "rate": 0.0424
+          },
+          {
+            "from": 150000,
+            "rate": 0.0454
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 20000,
+            "rate": 0.0288
+          },
+          {
+            "from": 50000,
+            "rate": 0.0336
+          },
+          {
+            "from": 100000,
+            "rate": 0.0424
+          },
+          {
+            "from": 300000,
+            "rate": 0.0454
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7109,
+        "marriedJoint": 14210
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2014-140TableXY.pdf",
+      "notes": "Deduction = standard deduction $5,009/$10,010 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 10163,
+            "rate": 0.0288
+          },
+          {
+            "from": 25406,
+            "rate": 0.0336
+          },
+          {
+            "from": 50812,
+            "rate": 0.0424
+          },
+          {
+            "from": 152434,
+            "rate": 0.0454
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 20325,
+            "rate": 0.0288
+          },
+          {
+            "from": 50812,
+            "rate": 0.0336
+          },
+          {
+            "from": 101623,
+            "rate": 0.0424
+          },
+          {
+            "from": 304868,
+            "rate": 0.0454
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7191,
+        "marriedJoint": 14373
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2015-140TableXY.pdf",
+      "notes": "Deduction = standard deduction $5,091/$10,173 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled. Brackets indexed (Laws 2014 ch. 10, Laws 2015 ch. 91)."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 10179,
+            "rate": 0.0288
+          },
+          {
+            "from": 25445,
+            "rate": 0.0336
+          },
+          {
+            "from": 50890,
+            "rate": 0.0424
+          },
+          {
+            "from": 152668,
+            "rate": 0.0454
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 20357,
+            "rate": 0.0288
+          },
+          {
+            "from": 50890,
+            "rate": 0.0336
+          },
+          {
+            "from": 101779,
+            "rate": 0.0424
+          },
+          {
+            "from": 305336,
+            "rate": 0.0454
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7199,
+        "marriedJoint": 14389
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/Forms-Individual-2016-140TableXY.pdf",
+      "notes": "Deduction = standard deduction $5,099/$10,189 + personal exemption $2,100/$4,200. MFJ exemption is higher if the couple claims a dependent ($6,200 under Laws 1997; $6,300 on the 2000-2016 forms); not modelled. Family income tax credit for low incomes not modelled. Brackets indexed (Laws 2014 ch. 10, Laws 2015 ch. 91)."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 10346,
+            "rate": 0.0288
+          },
+          {
+            "from": 25861,
+            "rate": 0.0336
+          },
+          {
+            "from": 51721,
+            "rate": 0.0424
+          },
+          {
+            "from": 155159,
+            "rate": 0.0454
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 20690,
+            "rate": 0.0288
+          },
+          {
+            "from": 51721,
+            "rate": 0.0336
+          },
+          {
+            "from": 103440,
+            "rate": 0.0424
+          },
+          {
+            "from": 310317,
+            "rate": 0.0454
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7333,
+        "marriedJoint": 14636
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/FORMS_INDIVIDUAL_2017_140-TaxBooklet-Table-XY.pdf",
+      "notes": "Deduction = standard deduction $5,183/$10,336 + personal exemption $2,150/$4,300. MFJ exemption is $6,450 if the couple claims a dependent; not modelled. Family income tax credit for low incomes not modelled. Brackets indexed (Laws 2014 ch. 10, Laws 2015 ch. 91)."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 10602,
+            "rate": 0.0288
+          },
+          {
+            "from": 26501,
+            "rate": 0.0336
+          },
+          {
+            "from": 53000,
+            "rate": 0.0424
+          },
+          {
+            "from": 158996,
+            "rate": 0.0454
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 21202,
+            "rate": 0.0288
+          },
+          {
+            "from": 53000,
+            "rate": 0.0336
+          },
+          {
+            "from": 105998,
+            "rate": 0.0424
+          },
+          {
+            "from": 317990,
+            "rate": 0.0454
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7512,
+        "marriedJoint": 15013
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-05/FORMS_INDIVIDUAL_2018_TaxTablesXY.pdf",
+      "notes": "Deduction = standard deduction $5,312/$10,613 + personal exemption $2,200/$4,400. MFJ exemption is $6,600 if the couple claims a dependent; not modelled. Family income tax credit for low incomes not modelled. Brackets indexed (Laws 2014 ch. 10, Laws 2015 ch. 91)."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 26500,
+            "rate": 0.0334
+          },
+          {
+            "from": 53000,
+            "rate": 0.0417
+          },
+          {
+            "from": 159000,
+            "rate": 0.045
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 53000,
+            "rate": 0.0334
+          },
+          {
+            "from": 106000,
+            "rate": 0.0417
+          },
+          {
+            "from": 318000,
+            "rate": 0.045
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12200,
+        "marriedJoint": 24400
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/FORMS_INDIVIDUAL_2019TablesXY.pdf",
+      "notes": "Deduction = standard deduction $12,200/$24,400 (equal to federal); personal exemptions replaced by dependent credits from 2019."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 27272,
+            "rate": 0.0334
+          },
+          {
+            "from": 54544,
+            "rate": 0.0417
+          },
+          {
+            "from": 163632,
+            "rate": 0.045
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 54544,
+            "rate": 0.0334
+          },
+          {
+            "from": 109088,
+            "rate": 0.0417
+          },
+          {
+            "from": 327263,
+            "rate": 0.045
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12400,
+        "marriedJoint": 24800
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/FORMS_INDIVIDUAL_2020_Tables%2520XY.pdf",
+      "notes": "Deduction = standard deduction $12,400/$24,800 (equal to federal); personal exemptions replaced by dependent credits from 2019."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 27808,
+            "rate": 0.0334
+          },
+          {
+            "from": 55615,
+            "rate": 0.0417
+          },
+          {
+            "from": 166843,
+            "rate": 0.045
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0259
+          },
+          {
+            "from": 55615,
+            "rate": 0.0334
+          },
+          {
+            "from": 111229,
+            "rate": 0.0417
+          },
+          {
+            "from": 333684,
+            "rate": 0.045
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12550,
+        "marriedJoint": 25100
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/FORMS_INDIVIDUAL_2021_TablesXY.pdf",
+      "notes": "Deduction = standard deduction $12,550/$25,100 (equal to federal); personal exemptions replaced by dependent credits from 2019. Prop 208 3.5% surcharge does not appear on the 2021 form (enjoined); not modelled."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 28653,
+            "rate": 0.0298
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 57305,
+            "rate": 0.0298
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12950,
+        "marriedJoint": 25900
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-03/FORMS_INDIVIDUAL_2022_TablesXY.pdf",
+      "notes": "Deduction = standard deduction $12,950/$25,900 (equal to federal); personal exemptions replaced by dependent credits from 2019."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 13850,
+        "marriedJoint": 27700
+      },
+      "source": "https://azdor.gov/sites/default/files/2023-12/FORMS_INDIVIDUAL_2023_140i.pdf",
+      "notes": "Deduction = standard deduction $13,850/$27,700 (equal to federal); personal exemptions replaced by dependent credits from 2019. Flat 2.5% (Form 140 line: multiply by .025)."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 14600,
+        "marriedJoint": 29200
+      },
+      "source": "https://azdor.gov/sites/default/files/document/FORMS_INDIVIDUAL_2024_140i.pdf",
+      "notes": "Standard deduction matches the federal amount."
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 15750,
+        "marriedJoint": 31500
+      },
+      "source": "https://azdor.gov/sites/default/files/document/FORMS_INDIVIDUAL_2025_140i.pdf",
+      "notes": "Arizona adopted the One Big Beautiful Bill Act standard deduction for 2025."
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 16100,
+        "marriedJoint": 32200
+      },
+      "source": "https://azdor.gov/sites/default/files/document/FORMS_INDIVIDUAL_2026_140ESBooklet.pdf",
+      "notes": "Standard deduction is ARS 43-1041 as amended June 2026 (HB 4168), indexed like the federal one; ADOR hasn't published the 2026 figure, so it's the federal amount."
+    }
+  }
+}

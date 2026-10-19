@@ -1,0 +1,552 @@
+{
+  "years": {
+    "1970": {
+      "socialSecurityRate": 0.042,
+      "wageBase": 7800,
+      "medicareRate": 0.006,
+      "medicareWageBase": 7800,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1971": {
+      "socialSecurityRate": 0.046,
+      "wageBase": 7800,
+      "medicareRate": 0.006,
+      "medicareWageBase": 7800,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1972": {
+      "socialSecurityRate": 0.046,
+      "wageBase": 9000,
+      "medicareRate": 0.006,
+      "medicareWageBase": 9000,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1973": {
+      "socialSecurityRate": 0.0485,
+      "wageBase": 10800,
+      "medicareRate": 0.01,
+      "medicareWageBase": 10800,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1974": {
+      "socialSecurityRate": 0.0495,
+      "wageBase": 13200,
+      "medicareRate": 0.009,
+      "medicareWageBase": 13200,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1975": {
+      "socialSecurityRate": 0.0495,
+      "wageBase": 14100,
+      "medicareRate": 0.009,
+      "medicareWageBase": 14100,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1976": {
+      "socialSecurityRate": 0.0495,
+      "wageBase": 15300,
+      "medicareRate": 0.009,
+      "medicareWageBase": 15300,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1977": {
+      "socialSecurityRate": 0.0495,
+      "wageBase": 16500,
+      "medicareRate": 0.009,
+      "medicareWageBase": 16500,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1978": {
+      "socialSecurityRate": 0.0505,
+      "wageBase": 17700,
+      "medicareRate": 0.01,
+      "medicareWageBase": 17700,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1979": {
+      "socialSecurityRate": 0.0508,
+      "wageBase": 22900,
+      "medicareRate": 0.0105,
+      "medicareWageBase": 22900,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1980": {
+      "socialSecurityRate": 0.0508,
+      "wageBase": 25900,
+      "medicareRate": 0.0105,
+      "medicareWageBase": 25900,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1981": {
+      "socialSecurityRate": 0.0535,
+      "wageBase": 29700,
+      "medicareRate": 0.013,
+      "medicareWageBase": 29700,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1982": {
+      "socialSecurityRate": 0.054,
+      "wageBase": 32400,
+      "medicareRate": 0.013,
+      "medicareWageBase": 32400,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1983": {
+      "socialSecurityRate": 0.054,
+      "wageBase": 35700,
+      "medicareRate": 0.013,
+      "medicareWageBase": 35700,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1984": {
+      "socialSecurityRate": 0.054,
+      "wageBase": 37800,
+      "medicareRate": 0.013,
+      "medicareWageBase": 37800,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Statutory OASDI employee rate 5.7%; 1984-only 0.3% immediate employee credit gave effective 5.4% (SSA footnote a). Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1985": {
+      "socialSecurityRate": 0.057,
+      "wageBase": 39600,
+      "medicareRate": 0.0135,
+      "medicareWageBase": 39600,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1986": {
+      "socialSecurityRate": 0.057,
+      "wageBase": 42000,
+      "medicareRate": 0.0145,
+      "medicareWageBase": 42000,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1987": {
+      "socialSecurityRate": 0.057,
+      "wageBase": 43800,
+      "medicareRate": 0.0145,
+      "medicareWageBase": 43800,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1988": {
+      "socialSecurityRate": 0.0606,
+      "wageBase": 45000,
+      "medicareRate": 0.0145,
+      "medicareWageBase": 45000,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1989": {
+      "socialSecurityRate": 0.0606,
+      "wageBase": 48000,
+      "medicareRate": 0.0145,
+      "medicareWageBase": 48000,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1990": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 51300,
+      "medicareRate": 0.0145,
+      "medicareWageBase": 51300,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1991": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 53400,
+      "medicareRate": 0.0145,
+      "medicareWageBase": 125000,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1992": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 55500,
+      "medicareRate": 0.0145,
+      "medicareWageBase": 130200,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1993": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 57600,
+      "medicareRate": 0.0145,
+      "medicareWageBase": 135000,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1994": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 60600,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1995": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 61200,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1996": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 62700,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1997": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 65400,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1998": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 68400,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "1999": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 72600,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2000": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 76200,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2001": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 80400,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2002": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 84900,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2003": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 87000,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2004": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 87900,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2005": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 90000,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2006": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 94200,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2007": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 97500,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2008": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 102000,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2009": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 106800,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2010": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 106800,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2011": {
+      "socialSecurityRate": 0.042,
+      "wageBase": 106800,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Payroll tax holiday: employee OASDI reduced 2 points to 4.2% (statutory 6.2%; SSA footnote c). Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2012": {
+      "socialSecurityRate": 0.042,
+      "wageBase": 110100,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0,
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Payroll tax holiday: employee OASDI reduced 2 points to 4.2% (statutory 6.2%; SSA footnote c). Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2013": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 113700,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0.009,
+      "additionalMedicareThreshold": {
+        "single": 200000,
+        "marriedJoint": 250000
+      },
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Additional Medicare Tax 0.9% begins (thresholds: $200k single, $250k MFJ, $125k MFS). Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2014": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 117000,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0.009,
+      "additionalMedicareThreshold": {
+        "single": 200000,
+        "marriedJoint": 250000
+      },
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2015": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 118500,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0.009,
+      "additionalMedicareThreshold": {
+        "single": 200000,
+        "marriedJoint": 250000
+      },
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2016": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 118500,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0.009,
+      "additionalMedicareThreshold": {
+        "single": 200000,
+        "marriedJoint": 250000
+      },
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2017": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 127200,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0.009,
+      "additionalMedicareThreshold": {
+        "single": 200000,
+        "marriedJoint": 250000
+      },
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2018": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 128400,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0.009,
+      "additionalMedicareThreshold": {
+        "single": 200000,
+        "marriedJoint": 250000
+      },
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2019": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 132900,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0.009,
+      "additionalMedicareThreshold": {
+        "single": 200000,
+        "marriedJoint": 250000
+      },
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2020": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 137700,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0.009,
+      "additionalMedicareThreshold": {
+        "single": 200000,
+        "marriedJoint": 250000
+      },
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2021": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 142800,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0.009,
+      "additionalMedicareThreshold": {
+        "single": 200000,
+        "marriedJoint": 250000
+      },
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2022": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 147000,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0.009,
+      "additionalMedicareThreshold": {
+        "single": 200000,
+        "marriedJoint": 250000
+      },
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2023": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 160200,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0.009,
+      "additionalMedicareThreshold": {
+        "single": 200000,
+        "marriedJoint": 250000
+      },
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2024": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 168600,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0.009,
+      "additionalMedicareThreshold": {
+        "single": 200000,
+        "marriedJoint": 250000
+      },
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2025": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 176100,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0.009,
+      "additionalMedicareThreshold": {
+        "single": 200000,
+        "marriedJoint": 250000
+      },
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2026": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 184500,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0.009,
+      "additionalMedicareThreshold": {
+        "single": 200000,
+        "marriedJoint": 250000
+      },
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html"
+    },
+    "2027": {
+      "socialSecurityRate": 0.062,
+      "wageBase": 192300,
+      "medicareRate": 0.0145,
+      "additionalMedicareRate": 0.009,
+      "additionalMedicareThreshold": {
+        "single": 200000,
+        "marriedJoint": 250000
+      },
+      "source": "https://www.ssa.gov/oact/progdata/taxRates.html",
+      "notes": "Wage base: https://www.ssa.gov/oact/cola/cbb.html (2027: $192,300, announced October 14, 2026). Rates are set by statute and unchanged."
+    }
+  }
+}

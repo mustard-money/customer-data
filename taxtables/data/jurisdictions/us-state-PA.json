@@ -1,0 +1,346 @@
+{
+  "id": "us-state-PA",
+  "kind": "state",
+  "region": "Pennsylvania",
+  "state": "PA",
+  "years": {
+    "1970": {
+      "type": "none",
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "No state personal income tax; the current tax applies to income received on or after June 1, 1971."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.023,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Tax applied only to income received on or after June 1, 1971 (Act of Aug. 31, 1971). Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.023,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.023,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.022,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.022,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.022,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.022,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.022,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.0245,
+      "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/news-and-statistics/reportsstats/pit/documents/2007_pit_stats.pdf",
+      "notes": "1983 is omitted from the DOR rate page; rate taken from the DOR 2007 PIT statistics rate history. Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.024,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.0235,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.0216,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.026,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.0295,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.028,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.028,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.028,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.028,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.028,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.028,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.028,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.028,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.028,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.028,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.028,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/PA/2012/2012_pa-40_book.pdf",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates",
+      "notes": "Flat rate on taxable compensation; no standard deduction or personal exemptions. Tax Forgiveness credit for low-income filers not modelled. Local earned income taxes not included."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.0307,
+      "source": "https://www.pa.gov/agencies/revenue/resources/tax-rates/personal-income-tax-rates"
+    }
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "id": "us-state-MA",
+  "kind": "state",
+  "region": "Massachusetts",
+  "state": "MA",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.04,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "Rate on income from professions, employments, trade or business (pre-1971 class 3 income, the predecessor of Part B earned income): 4% under Ch. 796 of the Acts of 1967 (effective 1968), per the rate and surtax chronology (Appendix A) of the 1986 House No. 6443 report; no surtax was in force 1967-1974 (Ch. 698 of 1966 repealed all surtaxes, the next was Ch. 684 of 1975). Interest, dividends and capital gains 8% and annuities 2% taxed differently. No standard deduction; personal exemptions under Ch. 698 of 1966 (amounts not verified), so no deduction recorded. Federal income tax deduction abolished by Ch. 546 of 1969."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "Part B rate 5% under Ch. 555 of 1971 (Commission report chronology; surtax history before 1975 not fully legible in the scanned report). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single (raised to $2,200 in 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "Part B rate 5% under Ch. 555 of 1971 (Commission report chronology; surtax history before 1975 not fully legible in the scanned report). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single (raised to $2,200 in 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "Part B rate 5% under Ch. 555 of 1971 (Commission report chronology; surtax history before 1975 not fully legible in the scanned report). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single (raised to $2,200 in 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "Part B rate 5% under Ch. 555 of 1971 (Commission report chronology; surtax history before 1975 not fully legible in the scanned report). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single (raised to $2,200 in 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.05375,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "5% plus the 7.5% surtax on tax (5.375%). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single (raised to $2,200 in 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.05375,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "5% plus the 7.5% surtax on tax (5.375%). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single (raised to $2,200 in 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.05375,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "5% plus the 7.5% surtax on tax (5.375%). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single (raised to $2,200 in 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.05375,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "5% plus the 7.5% surtax on tax (5.375%). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single (raised to $2,200 in 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.05375,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "5% plus the 7.5% surtax on tax (5.375%). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single (raised to $2,200 in 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.05375,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "5% plus the 7.5% surtax on tax (5.375%). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single (raised to $2,200 in 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.05375,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "5% plus the 7.5% surtax on tax (5.375%). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single (raised to $2,200 in 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.05375,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "5% plus the 7.5% surtax on tax (5.375%). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single ($2,200 from 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.05375,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "5% plus the 7.5% surtax on tax (5.375%). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single ($2,200 from 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.05375,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "5% plus the 7.5% surtax on tax (5.375%). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single ($2,200 from 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.05375,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "5% plus the 7.5% surtax on tax (5.375%). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single ($2,200 from 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.051875,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/54c6e856-6800-4840-a797-188130f92bf9/content",
+      "notes": "5% plus a 3.75% surtax for 1986 only (5.1875%). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Personal exemption $2,000 single ($2,200 from 1982); the joint exemption depended on the lower-earning spouse's earned income, so no deduction recorded."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/91af81d6-8a9c-4527-94ac-86e2fb892d54/content",
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. 1985 law (Ch. 593) replaced fixed exemptions with income-dependent 'vanishing' exemptions from 1987; amounts for 1987-92 not confirmed, so no deduction recorded."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/91af81d6-8a9c-4527-94ac-86e2fb892d54/content",
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. 1985 law (Ch. 593) replaced fixed exemptions with income-dependent 'vanishing' exemptions from 1987; amounts for 1987-92 not confirmed, so no deduction recorded."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.05375,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/503e033e-28b0-4c95-b71f-ba7fc6c19274/content",
+      "notes": "Part B raised to 5.375% for 1989 (certain Part B items reclassified as Part C at 5%). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. 1985 law (Ch. 593) replaced fixed exemptions with income-dependent 'vanishing' exemptions from 1987; amounts for 1987-92 not confirmed, so no deduction recorded."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.0595,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/91af81d6-8a9c-4527-94ac-86e2fb892d54/content",
+      "notes": "5.95% per DOR Statistics of Income (1989 law had scheduled 5.75% for 1990). Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. 1985 law (Ch. 593) replaced fixed exemptions with income-dependent 'vanishing' exemptions from 1987; amounts for 1987-92 not confirmed, so no deduction recorded."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.0625,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/91af81d6-8a9c-4527-94ac-86e2fb892d54/content",
+      "notes": "6.25% for 1991 per DOR Statistics of Income. Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. 1985 law (Ch. 593) replaced fixed exemptions with income-dependent 'vanishing' exemptions from 1987; amounts for 1987-92 not confirmed, so no deduction recorded."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.0595,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/91af81d6-8a9c-4527-94ac-86e2fb892d54/content",
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. 1985 law (Ch. 593) replaced fixed exemptions with income-dependent 'vanishing' exemptions from 1987; amounts for 1987-92 not confirmed, so no deduction recorded."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.0595,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/91af81d6-8a9c-4527-94ac-86e2fb892d54/content",
+      "deduction": {
+        "single": 2200,
+        "marriedJoint": 4400
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $2,200 / $4,400."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.0595,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/69d4ec91-fb95-4076-8d54-ff07d938d7e1/content",
+      "deduction": {
+        "single": 2200,
+        "marriedJoint": 4400
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $2,200 / $4,400."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.0595,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/5a3d8d59-cd80-4adc-9d57-e4ab0ec3a45b/content",
+      "deduction": {
+        "single": 2200,
+        "marriedJoint": 4400
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $2,200 / $4,400."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.0595,
+      "source": "https://archives.lib.state.ma.us/server/api/core/bitstreams/fdf33f99-704a-4d3a-98f8-dc75439c7b2b/content",
+      "deduction": {
+        "single": 2925,
+        "marriedJoint": 5850
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $2,925 / $5,850. One-year increase from a FY1996 surplus."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.0595,
+      "source": "https://www.mass.gov/technical-information-release/tir-98-8-massachusetts-1998-reducing-income-taxes-act-the-act",
+      "deduction": {
+        "single": 2200,
+        "marriedJoint": 4400
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $2,200 / $4,400."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.0595,
+      "source": "https://www.mass.gov/technical-information-release/tir-98-8-massachusetts-1998-reducing-income-taxes-act-the-act",
+      "deduction": {
+        "single": 3815,
+        "marriedJoint": 7630
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $3,815 / $7,630."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.0595,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/1999/form-1.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.0585,
+      "source": "https://www.mass.gov/technical-information-release/tir-99-19-tax-changes-in-the-fiscal-year-2000-budget-other-than-the-capital-gains-and-the-repeal-of-the-pay-to-play-provisions",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.056,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2001/form1-web.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.053,
+      "source": "https://www.mass.gov/technical-information-release/tir-02-18-tax-changes-contained-in-an-act-enhancing-state-revenues-and-related-acts",
+      "deduction": {
+        "single": 3300,
+        "marriedJoint": 6600
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $3,300 / $6,600. Exemptions cut and 5.0% rate cut repealed by St. 2002 c. 186 (optional 5.85% rate election not modelled)."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.053,
+      "source": "https://www.mass.gov/technical-information-release/tir-02-18-tax-changes-contained-in-an-act-enhancing-state-revenues-and-related-acts",
+      "deduction": {
+        "single": 3300,
+        "marriedJoint": 6600
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $3,300 / $6,600."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.053,
+      "source": "https://www.mass.gov/technical-information-release/tir-04-34-changes-in-the-income-tax-personal-exemption-amounts-effective-january-1-2005",
+      "deduction": {
+        "single": 3300,
+        "marriedJoint": 6600
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $3,300 / $6,600."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.053,
+      "source": "https://www.mass.gov/technical-information-release/tir-04-34-changes-in-the-income-tax-personal-exemption-amounts-effective-january-1-2005",
+      "deduction": {
+        "single": 3575,
+        "marriedJoint": 7150
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $3,575 / $7,150."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.053,
+      "source": "https://www.mass.gov/technical-information-release/tir-05-23-changes-in-the-income-tax-personal-exemption-amounts-effective-january-1-2006",
+      "deduction": {
+        "single": 3850,
+        "marriedJoint": 7700
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $3,850 / $7,700."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.053,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2007/1-instr_1.pdf",
+      "deduction": {
+        "single": 4125,
+        "marriedJoint": 8250
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,125 / $8,250."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.053,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2008/form-1_11.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.053,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2009/form-1_7537_36300.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.053,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2010/form_1.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.053,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2011/form-1-instructions.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.0525,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2012/dor-2012-inc-form-1.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.0525,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2013/dor-2013-inc-form-1.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.052,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2014/dor-2014-inc-form-1.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.0515,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2015/form-1.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.051,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2016/form-1.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.051,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2017/dor-2017-inc-form-1.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.051,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2018/dor-2018-inc-form-1.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.0505,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2019/dor-2019-inc-form-1-inst.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2020/dor-2020-inc-form-1.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2021/dor-2021-inc-form-1.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2022/dor-2022-inc-form-1.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 1000000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MA/2023/dor-2023-inc-form1-instructions.pdf",
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "notes": "5% plus the 4% surtax on taxable income over $1,000,000 (same threshold for joint returns), folded in as a 9% bracket. Part B (wages and other earned income) rate; Part A investment income taxed differently. No standard deduction. Deduction = personal exemption $4,400 / $8,800."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 1053750,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 1053750,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "source": "https://www.mass.gov/info-details/massachusetts-4-surtax-on-taxable-income",
+      "notes": "5% plus the 4% surtax over $1,053,750 (same threshold for joint filers), folded in as a 9% bracket. Deduction is the $4,400 / $8,800 personal exemption. mass.gov blocked automated fetches, so figures come from its search listings."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 1083150,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 1083150,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "source": "https://www.mass.gov/info-details/massachusetts-4-surtax-on-taxable-income",
+      "notes": "5% plus the 4% surtax over $1,083,150 (same threshold for joint filers), folded in as a 9% bracket. Deduction is the $4,400 / $8,800 personal exemption. mass.gov blocked automated fetches, so figures come from its search listings."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 1107750,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 1107750,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "source": "https://www.mass.gov/info-details/massachusetts-4-surtax-on-taxable-income",
+      "notes": "5% plus the 4% surtax over $1,107,750 (same threshold for joint filers), folded in as a 9% bracket. Deduction is the $4,400 / $8,800 personal exemption. mass.gov blocked automated fetches, so figures come from its search listings."
+    }
+  }
+}

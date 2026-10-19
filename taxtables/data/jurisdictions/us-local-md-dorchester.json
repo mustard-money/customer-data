@@ -1,0 +1,158 @@
+{
+  "id": "us-local-md-dorchester",
+  "kind": "local",
+  "region": "Dorchester County, MD",
+  "state": "DE",
+  "years": {
+    "1999": {
+      "type": "flat",
+      "rate": 0.0252,
+      "source": "https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000796/pdf/am796--3025.pdf",
+      "notes": "Rate fixed for 1999 by Chapter 493 of 1999 (Section 3 table), the first year the local tax was a percentage of Maryland taxable income; before 1999 it was a percentage of state income tax (20%-60%), which this format cannot express, so earlier years are omitted."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.0251,
+      "source": "https://dls.maryland.gov/pubs/prod/InterGovMatters/Demog/2009-Overview-of-Maryland-Local-Governments-Complete-Report.pdf",
+      "notes": "Rate from DLS Overview of Maryland Local Governments (2009), Exhibit 4.4, County Income Tax Rates in Calendar 2000-2009 (source: Comptroller's Office)."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.0256,
+      "source": "https://dls.maryland.gov/pubs/prod/InterGovMatters/Demog/2009-Overview-of-Maryland-Local-Governments-Complete-Report.pdf",
+      "notes": "Rate from DLS Overview of Maryland Local Governments (2009), Exhibit 4.4, County Income Tax Rates in Calendar 2000-2009 (source: Comptroller's Office)."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://dls.maryland.gov/pubs/prod/InterGovMatters/Demog/2009-Overview-of-Maryland-Local-Governments-Complete-Report.pdf",
+      "notes": "Rate from DLS Overview of Maryland Local Governments (2009), Exhibit 4.4, County Income Tax Rates in Calendar 2000-2009 (source: Comptroller's Office)."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://dls.maryland.gov/pubs/prod/InterGovMatters/Demog/2009-Overview-of-Maryland-Local-Governments-Complete-Report.pdf",
+      "notes": "Rate from DLS Overview of Maryland Local Governments (2009), Exhibit 4.4, County Income Tax Rates in Calendar 2000-2009 (source: Comptroller's Office)."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://dls.maryland.gov/pubs/prod/InterGovMatters/Demog/2009-Overview-of-Maryland-Local-Governments-Complete-Report.pdf",
+      "notes": "Rate from DLS Overview of Maryland Local Governments (2009), Exhibit 4.4, County Income Tax Rates in Calendar 2000-2009 (source: Comptroller's Office)."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://dls.maryland.gov/pubs/prod/InterGovMatters/Demog/2009-Overview-of-Maryland-Local-Governments-Complete-Report.pdf",
+      "notes": "Rate from DLS Overview of Maryland Local Governments (2009), Exhibit 4.4, County Income Tax Rates in Calendar 2000-2009 (source: Comptroller's Office)."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://dls.maryland.gov/pubs/prod/InterGovMatters/Demog/2009-Overview-of-Maryland-Local-Governments-Complete-Report.pdf",
+      "notes": "Rate from DLS Overview of Maryland Local Governments (2009), Exhibit 4.4, County Income Tax Rates in Calendar 2000-2009 (source: Comptroller's Office)."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://dls.maryland.gov/pubs/prod/InterGovMatters/Demog/2009-Overview-of-Maryland-Local-Governments-Complete-Report.pdf",
+      "notes": "Rate from DLS Overview of Maryland Local Governments (2009), Exhibit 4.4, County Income Tax Rates in Calendar 2000-2009 (source: Comptroller's Office)."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://dls.maryland.gov/pubs/prod/InterGovMatters/Demog/2009-Overview-of-Maryland-Local-Governments-Complete-Report.pdf",
+      "notes": "Rate from DLS Overview of Maryland Local Governments (2009), Exhibit 4.4, County Income Tax Rates in Calendar 2000-2009 (source: Comptroller's Office)."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2009/Resident_booklet.pdf"
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2010/Resident_booklet.pdf"
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2011/Resident_booklet.pdf"
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2012/resident_booklet.pdf"
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2013/resident_booklet.pdf"
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2014/Resident_Booklet.pdf"
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2015/resident_booklet.pdf"
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2016/Resident_Booklet.pdf"
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2017/Resident_Booklet.pdf"
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2018/Resident_Booklet.pdf"
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.0262,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2019/Resident_Booklet.pdf"
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.032,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2020/Resident_Booklet.pdf"
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.032,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2021/Resident_Booklet.pdf"
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.032,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MD/2022/Resident_Booklet.pdf"
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.032,
+      "source": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/instructions/2023/Resident-Booklet.pdf"
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.032,
+      "source": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/instructions/2024/Resident-Booklet.pdf"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.033,
+      "source": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/instructions/2025/resident-booklet.pdf"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.033,
+      "source": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/forms/worksheets/2026-pv-worksheet.pdf"
+    }
+  }
+}

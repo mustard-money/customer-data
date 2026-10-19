@@ -1,0 +1,328 @@
+{
+  "id": "us-local-youngstown",
+  "kind": "local",
+  "region": "Youngstown",
+  "state": "OH",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "1.5% resident rate as of December 31, 1970, from the ACIR Significant Features of Fiscal Federalism 1971 edition, Table 43 (p. 101), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "1.5% resident rate as of December 31, 1971, from the ACIR Significant Features of Fiscal Federalism 1972 edition, Table 99 (p. 227), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/youngstown/latest/youngstown_oh/0-0-0-6792",
+      "notes": "Youngstown Codified Ordinances § 181.04 (Effective period and purposes; American Legal Publishing) narrates the rate history as 'the one and one-half percent (1 1/2%) ... representing the prior imposed income tax', 'the remaining tax increase of one-half percent (1/2%) ... over and above the current income tax of one and one-half percent', 'the remaining tax increase of one-quarter of one percent (1/4%) ... over and above the current income tax of two percent (2%)' and 'the remaining tax increase of one-half of one percent ... over and above the current income tax of two and one-quarter percent (2 1/4%)' (the last approved by voters 11-5-02, levied from January 1, 2003 per § 181.03); § 181.01 cites Ord. 81-342 approved by voters 9-8-81. So 1.5% was the rate from before 1970 until the first increase, voted September 8, 1981; the ACIR editions print 1.5% at December 31, 1970 and 1971, July 1, 1973, July 1, 1976 and October 1, 1979. No document for 1972 itself. The 2% rate took effect September 15, 1981 (see 1981)."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "1.5% resident rate as of July 1, 1973, from the ACIR Significant Features of Fiscal Federalism 1973-74 edition, Table 150 (p. 293), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/youngstown/latest/youngstown_oh/0-0-0-6792",
+      "notes": "Youngstown Codified Ordinances § 181.04 (Effective period and purposes; American Legal Publishing) narrates the rate history as 'the one and one-half percent (1 1/2%) ... representing the prior imposed income tax', 'the remaining tax increase of one-half percent (1/2%) ... over and above the current income tax of one and one-half percent', 'the remaining tax increase of one-quarter of one percent (1/4%) ... over and above the current income tax of two percent (2%)' and 'the remaining tax increase of one-half of one percent ... over and above the current income tax of two and one-quarter percent (2 1/4%)' (the last approved by voters 11-5-02, levied from January 1, 2003 per § 181.03); § 181.01 cites Ord. 81-342 approved by voters 9-8-81. So 1.5% was the rate from before 1970 until the first increase, voted September 8, 1981; the ACIR editions print 1.5% at December 31, 1970 and 1971, July 1, 1973, July 1, 1976 and October 1, 1979. No document for 1974 itself. The 2% rate took effect September 15, 1981 (see 1981)."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/youngstown/latest/youngstown_oh/0-0-0-6792",
+      "notes": "Youngstown Codified Ordinances § 181.04 (Effective period and purposes; American Legal Publishing) narrates the rate history as 'the one and one-half percent (1 1/2%) ... representing the prior imposed income tax', 'the remaining tax increase of one-half percent (1/2%) ... over and above the current income tax of one and one-half percent', 'the remaining tax increase of one-quarter of one percent (1/4%) ... over and above the current income tax of two percent (2%)' and 'the remaining tax increase of one-half of one percent ... over and above the current income tax of two and one-quarter percent (2 1/4%)' (the last approved by voters 11-5-02, levied from January 1, 2003 per § 181.03); § 181.01 cites Ord. 81-342 approved by voters 9-8-81. So 1.5% was the rate from before 1970 until the first increase, voted September 8, 1981; the ACIR editions print 1.5% at December 31, 1970 and 1971, July 1, 1973, July 1, 1976 and October 1, 1979. No document for 1975 itself. The 2% rate took effect September 15, 1981 (see 1981)."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "1.5% resident rate as of July 1, 1976, from the ACIR Significant Features of Fiscal Federalism 1976-77 edition vol. 2, Table 116 (p. 227), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/youngstown/latest/youngstown_oh/0-0-0-6792",
+      "notes": "Youngstown Codified Ordinances § 181.04 (Effective period and purposes; American Legal Publishing) narrates the rate history as 'the one and one-half percent (1 1/2%) ... representing the prior imposed income tax', 'the remaining tax increase of one-half percent (1/2%) ... over and above the current income tax of one and one-half percent', 'the remaining tax increase of one-quarter of one percent (1/4%) ... over and above the current income tax of two percent (2%)' and 'the remaining tax increase of one-half of one percent ... over and above the current income tax of two and one-quarter percent (2 1/4%)' (the last approved by voters 11-5-02, levied from January 1, 2003 per § 181.03); § 181.01 cites Ord. 81-342 approved by voters 9-8-81. So 1.5% was the rate from before 1970 until the first increase, voted September 8, 1981; the ACIR editions print 1.5% at December 31, 1970 and 1971, July 1, 1973, July 1, 1976 and October 1, 1979. No document for 1977 itself. The 2% rate took effect September 15, 1981 (see 1981)."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/youngstown/latest/youngstown_oh/0-0-0-6792",
+      "notes": "Youngstown Codified Ordinances § 181.04 (Effective period and purposes; American Legal Publishing) narrates the rate history as 'the one and one-half percent (1 1/2%) ... representing the prior imposed income tax', 'the remaining tax increase of one-half percent (1/2%) ... over and above the current income tax of one and one-half percent', 'the remaining tax increase of one-quarter of one percent (1/4%) ... over and above the current income tax of two percent (2%)' and 'the remaining tax increase of one-half of one percent ... over and above the current income tax of two and one-quarter percent (2 1/4%)' (the last approved by voters 11-5-02, levied from January 1, 2003 per § 181.03); § 181.01 cites Ord. 81-342 approved by voters 9-8-81. So 1.5% was the rate from before 1970 until the first increase, voted September 8, 1981; the ACIR editions print 1.5% at December 31, 1970 and 1971, July 1, 1973, July 1, 1976 and October 1, 1979. No document for 1978 itself. The 2% rate took effect September 15, 1981 (see 1981)."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "1.5% resident rate as of October 1, 1979, from the ACIR Significant Features of Fiscal Federalism 1979-80 edition, Table 88 (p. 131), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/youngstown/latest/youngstown_oh/0-0-0-6792",
+      "notes": "Youngstown Codified Ordinances § 181.04 (Effective period and purposes; American Legal Publishing) narrates the rate history as 'the one and one-half percent (1 1/2%) ... representing the prior imposed income tax', 'the remaining tax increase of one-half percent (1/2%) ... over and above the current income tax of one and one-half percent', 'the remaining tax increase of one-quarter of one percent (1/4%) ... over and above the current income tax of two percent (2%)' and 'the remaining tax increase of one-half of one percent ... over and above the current income tax of two and one-quarter percent (2 1/4%)' (the last approved by voters 11-5-02, levied from January 1, 2003 per § 181.03); § 181.01 cites Ord. 81-342 approved by voters 9-8-81. So 1.5% was the rate from before 1970 until the first increase, voted September 8, 1981; the ACIR editions print 1.5% at December 31, 1970 and 1971, July 1, 1973, July 1, 1976 and October 1, 1979. No document for 1980 itself. The 2% rate took effect September 15, 1981 (see 1981)."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://news.google.com/newspapers?nid=pqgf-8x9CmQC&dat=19810909&id=s6xJAAAAIBAJ&sjid=X4QMAAAAIBAJ&pg=768,2247846",
+      "notes": "Secondary source (Youngstown Vindicator, 'Victory Margin 2 1/2 to 1', front page, and 'City Income Tax Boost Passed; Will Take Effect Next Tuesday', p. 6, September 9, 1981, via Google News Archive): the one-half percent increase passed by voters on September 8, 1981 brings the total city income tax to 2 percent, up from 1 1/2 percent; the city would start collecting it the following Tuesday (September 15, 1981) once the Mahoning County Board of Elections certified the vote. Year-end rate recorded: 1.5% applied before mid-September 1981. Single secondary source; consistent with Codified Ordinances sec. 181.01 (Ord. 81-342, approved by voters 9-8-81) and ACIR's 2.0% for 1983."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://news.google.com/newspapers?nid=pqgf-8x9CmQC&dat=19810909&id=s6xJAAAAIBAJ&sjid=X4QMAAAAIBAJ&pg=768,2247846",
+      "notes": "Secondary source (Youngstown Vindicator, 'Victory Margin 2 1/2 to 1' and 'City Income Tax Boost Passed; Will Take Effect Next Tuesday', September 9, 1981, via Google News Archive): the city income tax rose from 1 1/2 to 2 percent from Tuesday, September 15, 1981. Codified Ordinances sec. 181.04 records the next increase as one-quarter percent over the 2% rate (2.25% in this file from 1997), and ACIR lists 2.0% for 1983, so 2% was in force throughout 1982. Single secondary source for the effective date."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1984.pdf",
+      "notes": "2.0% resident rate as of 1983 ('1983 tax rate'), from the ACIR Significant Features of Fiscal Federalism 1984 edition, Table 68 (p. 105), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "http://web.archive.org/web/20020525100252/http://www.state.oh.us/tax/ftp/lg11cy84.wk1",
+      "notes": "2.0% from the Ohio Department of Taxation's Table LG-11 No. 3 (January 15, 1986), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1984' (Lotus 1-2-3 file lg11cy84.wk1 from the Department's FTP directory, Wayback Machine copy; the file's footnote (a) text on the rate column is not preserved, the 1988 and 1997 files' footnote (a) reads 'Rate in effect as of December 31')."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "http://web.archive.org/web/20061005125502/http://tax.ohio.gov/divisions/tax_analysis/tax_data_series/local_government_funds/lg11/documents/LG11CY85.WK1",
+      "notes": "2% for Youngstown from the Ohio Department of Taxation's Table LG-11 No. 4 (1987) (January 14, 1987), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1985' (Lotus 1-2-3 file LG11CY85.WK1 from the Department's tax data series, Wayback Machine copy of tax.ohio.gov, 2006); footnote (a) reads '(a)  Rate in effect at end of 1985.'."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "2.0% resident rate as of 1986 (CCH State Tax Reporter, December 1986), from the ACIR Significant Features of Fiscal Federalism 1987 edition, Table 56 (p. 85), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1988-Vol-1.pdf",
+      "notes": "2.0% resident rate as of 1987 (CCH State Tax Reporter, October 1987), from the ACIR Significant Features of Fiscal Federalism 1988 edition vol. 1, Table 20 (p. 49), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1989-Vol-1.pdf",
+      "notes": "2.0% resident rate as of 1988, from the ACIR Significant Features of Fiscal Federalism 1989 edition vol. 1, Table 23 (p. 48), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1990-Vol-1.pdf",
+      "notes": "2.0% resident rate as of 1989, from the ACIR Significant Features of Fiscal Federalism 1990 edition vol. 1, Table 21 (p. 58), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1991-Vol-1.pdf",
+      "notes": "2.0% resident rate as of 1990 (CCH State Tax Reporter, November 1990), from the ACIR Significant Features of Fiscal Federalism 1991 edition vol. 1, Table 24 (p. 70), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1992-Vol-1.pdf",
+      "notes": "2.0% resident rate as of November 1991, from the ACIR Significant Features of Fiscal Federalism 1992 edition vol. 1, Table 24 (p. 74), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff-1993-vol-1.pdf",
+      "notes": "2.0% resident rate as of November 1992, from the ACIR Significant Features of Fiscal Federalism 1993 edition vol. 1, Table 24 (p. 79), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1994-Vol-1.pdf",
+      "notes": "2.0% resident rate as of November 1993, from the ACIR Significant Features of Fiscal Federalism 1994 edition vol. 1, Table 22 (p. 79), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1995-Vol-1.pdf",
+      "notes": "2.0% resident rate as of November 1994, from the ACIR Significant Features of Fiscal Federalism 1995 edition vol. 1, Table 21 (p. 72), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "http://web.archive.org/web/20061005125805/http://tax.ohio.gov/divisions/tax_analysis/tax_data_series/local_government_funds/lg11/documents/LG11CY95.WK1",
+      "notes": "2% for Youngstown from the Ohio Department of Taxation's Table LG-11 No. 56 (1996) (October 10, 1996), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1995' (Lotus 1-2-3 file LG11CY95.WK1 from the Department's tax data series, Wayback Machine copy of tax.ohio.gov, 2006); footnote (a) reads '(a) Rate in effect as of December 31, 1995.'. The LG-11 tables print 2.0% at December 31, 1996 and 2.25% at December 31, 1997, so the 2.25% rate began during 1997."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "http://web.archive.org/web/20061005125327/http://tax.ohio.gov/divisions/tax_analysis/tax_data_series/local_government_funds/lg11/documents/LG11CY96.WK1",
+      "notes": "2% for Youngstown from the Ohio Department of Taxation's Table LG-11 No. 62 (1997) (August 12, 1997), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1996' (Lotus 1-2-3 file LG11CY96.WK1 from the Department's tax data series, Wayback Machine copy of tax.ohio.gov, 2006); footnote (a) reads '(a) Rate in effect as of December 31, 1996'. The LG-11 tables print 2.0% at December 31, 1996 and 2.25% at December 31, 1997, so the 2.25% rate began during 1997."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.0225,
+      "source": "http://web.archive.org/web/20021022115619/http://www.state.oh.us/tax/ftp/lg11cy97.wk1",
+      "notes": "2.25% 'rate in effect as of December 31, 1997' from the Ohio Department of Taxation's Table LG-11 No. 73 (December 15, 1998), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1997' (Lotus 1-2-3 file lg11cy97.wk1 from the Department's FTP directory, Wayback Machine copy). The LG-11 tables for 1995 and 1996 print 2.0% at December 31, so the 2.25% rate began during 1997."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.0225,
+      "source": "http://web.archive.org/web/20061005125818/http://tax.ohio.gov/divisions/tax_analysis/tax_data_series/local_government_funds/lg11/documents/LG11CY98.wk1",
+      "notes": "2.25% for Youngstown from the Ohio Department of Taxation's Table LG-11 No. 65 (1999) (December 21, 1999), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1998' (Lotus 1-2-3 file LG11CY98.WK1 from the Department's tax data series, Wayback Machine copy of tax.ohio.gov, 2006); footnote (a) reads '(a) Rate in effect as of December 31, 1998'."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.0225,
+      "source": "http://web.archive.org/web/20061005125254/http://tax.ohio.gov/divisions/tax_analysis/tax_data_series/local_government_funds/lg11/documents/LG11CY99.wk1",
+      "notes": "2.25% for Youngstown from the Ohio Department of Taxation's Table LG-11 No. 59 (2000) (November 13, 2000), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1999' (Lotus 1-2-3 file LG11CY99.WK1 from the Department's tax data series, Wayback Machine copy of tax.ohio.gov, 2006); footnote (a) reads '(a) Rate in effect as of December 31, 1999'."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.0225,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy00.pdf"
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.0225,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy01.pdf"
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.0225,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy02.pdf"
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy03.pdf"
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy04.pdf"
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy05.pdf"
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy06.pdf"
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy07.pdf"
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy08.pdf"
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy09.pdf"
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy10.pdf"
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy11.pdf"
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy12.pdf"
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy13.pdf"
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy14.pdf"
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy15.pdf"
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy16.pdf"
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy17.pdf"
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy18.pdf"
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://codelibrary.amlegal.com/codes/youngstown/latest/youngstown_oh/0-0-0-36896",
+      "notes": "Codified Ordinances Chapter 183 (effective January 1, 2016, Ord. 15-379): tax levied at 2.75%."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.ritaohio.com/municipalities/Home/MemberPage?id=907",
+      "notes": "2.75% from January 1, 2020 (RITA)."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.ritaohio.com/municipalities/Home/MemberPage?id=907",
+      "notes": "2.75% from January 1, 2020 (RITA)."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.ritaohio.com/municipalities/Home/MemberPage?id=907",
+      "notes": "2.75% from January 1, 2020 (RITA)."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.ritaohio.com/municipalities/Home/MemberPage?id=907",
+      "notes": "2.75% from January 1, 2020 (RITA)."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.ritaohio.com/municipalities/Home/MemberPage?id=907"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.ritaohio.com/municipalities/Home/MemberPage?id=907"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.ritaohio.com/municipalities/Home/MemberPage?id=907"
+    }
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "id": "us-state-WA",
+  "kind": "state",
+  "region": "Washington",
+  "state": "WA",
+  "years": {
+    "1970": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1971": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1972": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1973": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1974": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1975": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1976": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1977": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1978": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1979": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1980": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1981": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1982": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1983": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1984": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1985": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1986": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1987": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1988": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1989": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1990": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1991": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1992": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1993": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1994": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1995": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1996": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1997": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1998": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "1999": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2000": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2001": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2002": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2003": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2004": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2005": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2006": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2007": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2008": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2009": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2010": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2011": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2012": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2013": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2014": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2015": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2016": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2017": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2018": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2019": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2020": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2021": {
+      "type": "none",
+      "source": "https://www2.census.gov/programs-surveys/stc/datasets/historical/STC-Historical-DB.xlsx",
+      "notes": "No personal income tax. Census state tax collections show individual income tax of $0 (or not applicable) for Washington; DOR's 2002 Tax Structure Study (dor.wa.gov/sites/default/files/2022-02/Volume_1.pdf) says the 1932 income tax was overturned in 1933 and Washington imposes no income tax."
+    },
+    "2022": {
+      "type": "none",
+      "source": "https://dor.wa.gov/taxes-rates/other-taxes/capital-gains-tax",
+      "notes": "No tax on wages. Washington's 7% capital gains excise tax (from 2022) applies only to long-term capital gains, not wages."
+    },
+    "2023": {
+      "type": "none",
+      "source": "https://dor.wa.gov/taxes-rates/other-taxes/capital-gains-tax",
+      "notes": "No tax on wages. Washington's 7% capital gains excise tax (from 2022) applies only to long-term capital gains, not wages."
+    },
+    "2024": {
+      "type": "none",
+      "source": "https://dor.wa.gov/taxes-rates/other-taxes/capital-gains-tax",
+      "notes": "Washington taxes capital gains only (7%), not wages."
+    },
+    "2025": {
+      "type": "none",
+      "source": "https://dor.wa.gov/taxes-rates/other-taxes/capital-gains-tax",
+      "notes": "Washington taxes capital gains only (7%, 9.9% over $1M from 2025), not wages."
+    },
+    "2026": {
+      "type": "none",
+      "source": "https://dor.wa.gov/taxes-rates/other-taxes/capital-gains-tax",
+      "notes": "Washington taxes capital gains only (7%, 9.9% over $1M). Its new income tax (ESSB 6346) starts with 2028 income."
+    }
+  }
+}

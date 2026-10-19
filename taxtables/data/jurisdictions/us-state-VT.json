@@ -1,0 +1,4620 @@
+{
+  "id": "us-state-VT",
+  "kind": "state",
+  "region": "Vermont",
+  "state": "VT",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04025
+          },
+          {
+            "from": 500,
+            "rate": 0.043125
+          },
+          {
+            "from": 1000,
+            "rate": 0.046
+          },
+          {
+            "from": 1500,
+            "rate": 0.048875
+          },
+          {
+            "from": 2000,
+            "rate": 0.054625
+          },
+          {
+            "from": 4000,
+            "rate": 0.06325
+          },
+          {
+            "from": 6000,
+            "rate": 0.071875
+          },
+          {
+            "from": 8000,
+            "rate": 0.0805
+          },
+          {
+            "from": 10000,
+            "rate": 0.092
+          },
+          {
+            "from": 12000,
+            "rate": 0.1035
+          },
+          {
+            "from": 14000,
+            "rate": 0.112125
+          },
+          {
+            "from": 16000,
+            "rate": 0.12075
+          },
+          {
+            "from": 18000,
+            "rate": 0.129375
+          },
+          {
+            "from": 20000,
+            "rate": 0.138
+          },
+          {
+            "from": 22000,
+            "rate": 0.14375
+          },
+          {
+            "from": 26000,
+            "rate": 0.152375
+          },
+          {
+            "from": 32000,
+            "rate": 0.158125
+          },
+          {
+            "from": 38000,
+            "rate": 0.16675
+          },
+          {
+            "from": 44000,
+            "rate": 0.1725
+          },
+          {
+            "from": 50000,
+            "rate": 0.17825
+          },
+          {
+            "from": 60000,
+            "rate": 0.184
+          },
+          {
+            "from": 70000,
+            "rate": 0.18975
+          },
+          {
+            "from": 80000,
+            "rate": 0.1955
+          },
+          {
+            "from": 90000,
+            "rate": 0.198375
+          },
+          {
+            "from": 100000,
+            "rate": 0.20125
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04025
+          },
+          {
+            "from": 1000,
+            "rate": 0.043125
+          },
+          {
+            "from": 2000,
+            "rate": 0.046
+          },
+          {
+            "from": 3000,
+            "rate": 0.048875
+          },
+          {
+            "from": 4000,
+            "rate": 0.054625
+          },
+          {
+            "from": 8000,
+            "rate": 0.06325
+          },
+          {
+            "from": 12000,
+            "rate": 0.071875
+          },
+          {
+            "from": 16000,
+            "rate": 0.0805
+          },
+          {
+            "from": 20000,
+            "rate": 0.092
+          },
+          {
+            "from": 24000,
+            "rate": 0.1035
+          },
+          {
+            "from": 28000,
+            "rate": 0.112125
+          },
+          {
+            "from": 32000,
+            "rate": 0.12075
+          },
+          {
+            "from": 36000,
+            "rate": 0.129375
+          },
+          {
+            "from": 40000,
+            "rate": 0.138
+          },
+          {
+            "from": 44000,
+            "rate": 0.14375
+          },
+          {
+            "from": 52000,
+            "rate": 0.152375
+          },
+          {
+            "from": 64000,
+            "rate": 0.158125
+          },
+          {
+            "from": 76000,
+            "rate": 0.16675
+          },
+          {
+            "from": 88000,
+            "rate": 0.1725
+          },
+          {
+            "from": 100000,
+            "rate": 0.17825
+          },
+          {
+            "from": 120000,
+            "rate": 0.184
+          },
+          {
+            "from": 140000,
+            "rate": 0.18975
+          },
+          {
+            "from": 160000,
+            "rate": 0.1955
+          },
+          {
+            "from": 180000,
+            "rate": 0.198375
+          },
+          {
+            "from": 200000,
+            "rate": 0.20125
+          }
+        ]
+      },
+      "deduction": {
+        "single": 625,
+        "marriedJoint": 1250
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 300,
+          "marriedJoint": 400
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1970-71 ed. (M-57), Table 36 (State Individual Income Taxes: Rates, December 31, 1970): Vermont tax = 25% of the federal income tax liability (after retirement income, investment, foreign tax and tax-free covenant bond credits, before other credits and any federal surtax), plus a 15% surcharge for taxable years beginning after December 31, 1968 (25% x 1.15 = 28.75%). Modelled as the 1970 federal schedule x 25% x 1.15 with the federal deduction (federal exemptions; federal percentage standard deduction / low-income allowance as in the federal 1970 entry); federal notes apply (federal surcharge or maximum tax and credits not modelled). The Vermont tax is reduced by the share of AGI that is not Vermont income, and may not exceed the amount that would make combined Vermont and federal liability exceed 4.5% of total income (footnote). Vermont credits (sales tax credit of $0-$81, student credit, property tax credit) not modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04025
+          },
+          {
+            "from": 500,
+            "rate": 0.043125
+          },
+          {
+            "from": 1000,
+            "rate": 0.046
+          },
+          {
+            "from": 1500,
+            "rate": 0.048875
+          },
+          {
+            "from": 2000,
+            "rate": 0.054625
+          },
+          {
+            "from": 4000,
+            "rate": 0.060375
+          },
+          {
+            "from": 6000,
+            "rate": 0.069
+          },
+          {
+            "from": 8000,
+            "rate": 0.071875
+          },
+          {
+            "from": 10000,
+            "rate": 0.077625
+          },
+          {
+            "from": 12000,
+            "rate": 0.083375
+          },
+          {
+            "from": 14000,
+            "rate": 0.089125
+          },
+          {
+            "from": 16000,
+            "rate": 0.09775
+          },
+          {
+            "from": 18000,
+            "rate": 0.1035
+          },
+          {
+            "from": 20000,
+            "rate": 0.10925
+          },
+          {
+            "from": 22000,
+            "rate": 0.115
+          },
+          {
+            "from": 26000,
+            "rate": 0.129375
+          },
+          {
+            "from": 32000,
+            "rate": 0.14375
+          },
+          {
+            "from": 38000,
+            "rate": 0.158125
+          },
+          {
+            "from": 44000,
+            "rate": 0.1725
+          },
+          {
+            "from": 50000,
+            "rate": 0.17825
+          },
+          {
+            "from": 60000,
+            "rate": 0.184
+          },
+          {
+            "from": 70000,
+            "rate": 0.18975
+          },
+          {
+            "from": 80000,
+            "rate": 0.1955
+          },
+          {
+            "from": 90000,
+            "rate": 0.198375
+          },
+          {
+            "from": 100000,
+            "rate": 0.20125
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04025
+          },
+          {
+            "from": 1000,
+            "rate": 0.043125
+          },
+          {
+            "from": 2000,
+            "rate": 0.046
+          },
+          {
+            "from": 3000,
+            "rate": 0.048875
+          },
+          {
+            "from": 4000,
+            "rate": 0.054625
+          },
+          {
+            "from": 8000,
+            "rate": 0.06325
+          },
+          {
+            "from": 12000,
+            "rate": 0.071875
+          },
+          {
+            "from": 16000,
+            "rate": 0.0805
+          },
+          {
+            "from": 20000,
+            "rate": 0.092
+          },
+          {
+            "from": 24000,
+            "rate": 0.1035
+          },
+          {
+            "from": 28000,
+            "rate": 0.112125
+          },
+          {
+            "from": 32000,
+            "rate": 0.12075
+          },
+          {
+            "from": 36000,
+            "rate": 0.129375
+          },
+          {
+            "from": 40000,
+            "rate": 0.138
+          },
+          {
+            "from": 44000,
+            "rate": 0.14375
+          },
+          {
+            "from": 52000,
+            "rate": 0.152375
+          },
+          {
+            "from": 64000,
+            "rate": 0.158125
+          },
+          {
+            "from": 76000,
+            "rate": 0.16675
+          },
+          {
+            "from": 88000,
+            "rate": 0.1725
+          },
+          {
+            "from": 100000,
+            "rate": 0.17825
+          },
+          {
+            "from": 120000,
+            "rate": 0.184
+          },
+          {
+            "from": 140000,
+            "rate": 0.18975
+          },
+          {
+            "from": 160000,
+            "rate": 0.1955
+          },
+          {
+            "from": 180000,
+            "rate": 0.198375
+          },
+          {
+            "from": 200000,
+            "rate": 0.20125
+          }
+        ]
+      },
+      "deduction": {
+        "single": 675,
+        "marriedJoint": 1350
+      },
+      "percentStandardDeduction": {
+        "rate": 0.13,
+        "minimum": {
+          "single": 1050,
+          "marriedJoint": 1050
+        },
+        "maximum": {
+          "single": 1500,
+          "marriedJoint": 1500
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1972 ed. (M-74), Table 91 (State Individual Income Taxes: Rates, December 31, 1971): Vermont tax = 25% of the federal income tax liability (after retirement income, investment, foreign tax and tax-free covenant bond credits, before other credits and any federal surtax), plus a 15% surcharge for taxable years beginning after December 31, 1968 (25% x 1.15 = 28.75%). 1972 is not transcribed: the surcharge for 1972 is not stated in any allowed document (12% applied to 1973). Modelled as the 1971 federal schedule x 25% x 1.15 with the federal deduction (federal exemptions; federal percentage standard deduction / low-income allowance as in the federal 1971 entry); federal notes apply (federal surcharge or maximum tax and credits not modelled). The Vermont tax is reduced by the share of AGI that is not Vermont income, and may not exceed the amount that would make combined Vermont and federal liability exceed 4.5% of total income (footnote). Vermont credits (sales tax credit of $0-$81, student credit, property tax credit) not modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0392
+          },
+          {
+            "from": 500,
+            "rate": 0.042
+          },
+          {
+            "from": 1000,
+            "rate": 0.0448
+          },
+          {
+            "from": 1500,
+            "rate": 0.0476
+          },
+          {
+            "from": 2000,
+            "rate": 0.0532
+          },
+          {
+            "from": 4000,
+            "rate": 0.0588
+          },
+          {
+            "from": 6000,
+            "rate": 0.0672
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.0756
+          },
+          {
+            "from": 12000,
+            "rate": 0.0812
+          },
+          {
+            "from": 14000,
+            "rate": 0.0868
+          },
+          {
+            "from": 16000,
+            "rate": 0.0952
+          },
+          {
+            "from": 18000,
+            "rate": 0.1008
+          },
+          {
+            "from": 20000,
+            "rate": 0.1064
+          },
+          {
+            "from": 22000,
+            "rate": 0.112
+          },
+          {
+            "from": 26000,
+            "rate": 0.126
+          },
+          {
+            "from": 32000,
+            "rate": 0.14
+          },
+          {
+            "from": 38000,
+            "rate": 0.154
+          },
+          {
+            "from": 44000,
+            "rate": 0.168
+          },
+          {
+            "from": 50000,
+            "rate": 0.1736
+          },
+          {
+            "from": 60000,
+            "rate": 0.1792
+          },
+          {
+            "from": 70000,
+            "rate": 0.1848
+          },
+          {
+            "from": 80000,
+            "rate": 0.1904
+          },
+          {
+            "from": 90000,
+            "rate": 0.1932
+          },
+          {
+            "from": 100000,
+            "rate": 0.196
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0392
+          },
+          {
+            "from": 1000,
+            "rate": 0.042
+          },
+          {
+            "from": 2000,
+            "rate": 0.0448
+          },
+          {
+            "from": 3000,
+            "rate": 0.0476
+          },
+          {
+            "from": 4000,
+            "rate": 0.0532
+          },
+          {
+            "from": 8000,
+            "rate": 0.0616
+          },
+          {
+            "from": 12000,
+            "rate": 0.07
+          },
+          {
+            "from": 16000,
+            "rate": 0.0784
+          },
+          {
+            "from": 20000,
+            "rate": 0.0896
+          },
+          {
+            "from": 24000,
+            "rate": 0.1008
+          },
+          {
+            "from": 28000,
+            "rate": 0.1092
+          },
+          {
+            "from": 32000,
+            "rate": 0.1176
+          },
+          {
+            "from": 36000,
+            "rate": 0.126
+          },
+          {
+            "from": 40000,
+            "rate": 0.1344
+          },
+          {
+            "from": 44000,
+            "rate": 0.14
+          },
+          {
+            "from": 52000,
+            "rate": 0.1484
+          },
+          {
+            "from": 64000,
+            "rate": 0.154
+          },
+          {
+            "from": 76000,
+            "rate": 0.1624
+          },
+          {
+            "from": 88000,
+            "rate": 0.168
+          },
+          {
+            "from": 100000,
+            "rate": 0.1736
+          },
+          {
+            "from": 120000,
+            "rate": 0.1792
+          },
+          {
+            "from": 140000,
+            "rate": 0.1848
+          },
+          {
+            "from": 160000,
+            "rate": 0.1904
+          },
+          {
+            "from": 180000,
+            "rate": 0.1932
+          },
+          {
+            "from": 200000,
+            "rate": 0.196
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.15,
+        "minimum": {
+          "single": 1300,
+          "marriedJoint": 1300
+        },
+        "maximum": {
+          "single": 2000,
+          "marriedJoint": 2000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1973-74 ed. (M-79), Table 141 (State Individual Income Taxes: Rates, July 1, 1973): Vermont tax = 25% of the federal income tax liability (after retirement income, investment, foreign tax and tax-free covenant bond credits, before other credits and any federal surtax); 'for taxable years beginning after December 31, 1972, and before January 1, 1974 a 12% surcharge is imposed' (25% x 1.12 = 28%). Modelled as the 1973 federal schedule x 25% x 1.12 with the federal deduction (federal exemptions; federal percentage standard deduction / low-income allowance as in the federal 1973 entry); federal notes apply (federal surcharge or maximum tax and credits not modelled). The Vermont tax is reduced by the share of AGI that is not Vermont income, and may not exceed the amount that would make combined Vermont and federal liability exceed 4.5% of total income (footnote). Vermont credits (sales tax credit of $0-$81, student credit, property tax credit) not modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03815
+          },
+          {
+            "from": 500,
+            "rate": 0.040875
+          },
+          {
+            "from": 1000,
+            "rate": 0.0436
+          },
+          {
+            "from": 1500,
+            "rate": 0.046325
+          },
+          {
+            "from": 2000,
+            "rate": 0.051775
+          },
+          {
+            "from": 4000,
+            "rate": 0.057225
+          },
+          {
+            "from": 6000,
+            "rate": 0.0654
+          },
+          {
+            "from": 8000,
+            "rate": 0.068125
+          },
+          {
+            "from": 10000,
+            "rate": 0.073575
+          },
+          {
+            "from": 12000,
+            "rate": 0.079025
+          },
+          {
+            "from": 14000,
+            "rate": 0.084475
+          },
+          {
+            "from": 16000,
+            "rate": 0.09265
+          },
+          {
+            "from": 18000,
+            "rate": 0.0981
+          },
+          {
+            "from": 20000,
+            "rate": 0.10355
+          },
+          {
+            "from": 22000,
+            "rate": 0.109
+          },
+          {
+            "from": 26000,
+            "rate": 0.122625
+          },
+          {
+            "from": 32000,
+            "rate": 0.13625
+          },
+          {
+            "from": 38000,
+            "rate": 0.149875
+          },
+          {
+            "from": 44000,
+            "rate": 0.1635
+          },
+          {
+            "from": 50000,
+            "rate": 0.16895
+          },
+          {
+            "from": 60000,
+            "rate": 0.1744
+          },
+          {
+            "from": 70000,
+            "rate": 0.17985
+          },
+          {
+            "from": 80000,
+            "rate": 0.1853
+          },
+          {
+            "from": 90000,
+            "rate": 0.188025
+          },
+          {
+            "from": 100000,
+            "rate": 0.19075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03815
+          },
+          {
+            "from": 1000,
+            "rate": 0.040875
+          },
+          {
+            "from": 2000,
+            "rate": 0.0436
+          },
+          {
+            "from": 3000,
+            "rate": 0.046325
+          },
+          {
+            "from": 4000,
+            "rate": 0.051775
+          },
+          {
+            "from": 8000,
+            "rate": 0.05995
+          },
+          {
+            "from": 12000,
+            "rate": 0.068125
+          },
+          {
+            "from": 16000,
+            "rate": 0.0763
+          },
+          {
+            "from": 20000,
+            "rate": 0.0872
+          },
+          {
+            "from": 24000,
+            "rate": 0.0981
+          },
+          {
+            "from": 28000,
+            "rate": 0.106275
+          },
+          {
+            "from": 32000,
+            "rate": 0.11445
+          },
+          {
+            "from": 36000,
+            "rate": 0.122625
+          },
+          {
+            "from": 40000,
+            "rate": 0.1308
+          },
+          {
+            "from": 44000,
+            "rate": 0.13625
+          },
+          {
+            "from": 52000,
+            "rate": 0.144425
+          },
+          {
+            "from": 64000,
+            "rate": 0.149875
+          },
+          {
+            "from": 76000,
+            "rate": 0.15805
+          },
+          {
+            "from": 88000,
+            "rate": 0.1635
+          },
+          {
+            "from": 100000,
+            "rate": 0.16895
+          },
+          {
+            "from": 120000,
+            "rate": 0.1744
+          },
+          {
+            "from": 140000,
+            "rate": 0.17985
+          },
+          {
+            "from": 160000,
+            "rate": 0.1853
+          },
+          {
+            "from": 180000,
+            "rate": 0.188025
+          },
+          {
+            "from": 200000,
+            "rate": 0.19075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.15,
+        "minimum": {
+          "single": 1300,
+          "marriedJoint": 1300
+        },
+        "maximum": {
+          "single": 2000,
+          "marriedJoint": 2000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1973-74 ed. (M-79), Table 141 (State Individual Income Taxes: Rates, July 1, 1973): Vermont tax = 25% of the federal income tax liability (after retirement income, investment, foreign tax and tax-free covenant bond credits, before other credits and any federal surtax), with a 9% surcharge 'for taxable years beginning after December 31, 1973' (25% x 1.09 = 27.25%, as in this file's 1976 entry from the July 1976 ACIR table). Modelled as the 1974 federal schedule x 25% x 1.09 with the federal deduction (federal exemptions; federal percentage standard deduction / low-income allowance as in the federal 1974 entry); federal notes apply (federal surcharge or maximum tax and credits not modelled). The Vermont tax is reduced by the share of AGI that is not Vermont income, and may not exceed the amount that would make combined Vermont and federal liability exceed 4.5% of total income (footnote). Vermont credits (sales tax credit of $0-$81, student credit, property tax credit) not modelled."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03815
+          },
+          {
+            "from": 500,
+            "rate": 0.040875
+          },
+          {
+            "from": 1000,
+            "rate": 0.0436
+          },
+          {
+            "from": 1500,
+            "rate": 0.046325
+          },
+          {
+            "from": 2000,
+            "rate": 0.051775
+          },
+          {
+            "from": 4000,
+            "rate": 0.057225
+          },
+          {
+            "from": 6000,
+            "rate": 0.0654
+          },
+          {
+            "from": 8000,
+            "rate": 0.068125
+          },
+          {
+            "from": 10000,
+            "rate": 0.073575
+          },
+          {
+            "from": 12000,
+            "rate": 0.079025
+          },
+          {
+            "from": 14000,
+            "rate": 0.084475
+          },
+          {
+            "from": 16000,
+            "rate": 0.09265
+          },
+          {
+            "from": 18000,
+            "rate": 0.0981
+          },
+          {
+            "from": 20000,
+            "rate": 0.10355
+          },
+          {
+            "from": 22000,
+            "rate": 0.109
+          },
+          {
+            "from": 26000,
+            "rate": 0.122625
+          },
+          {
+            "from": 32000,
+            "rate": 0.13625
+          },
+          {
+            "from": 38000,
+            "rate": 0.149875
+          },
+          {
+            "from": 44000,
+            "rate": 0.1635
+          },
+          {
+            "from": 50000,
+            "rate": 0.16895
+          },
+          {
+            "from": 60000,
+            "rate": 0.1744
+          },
+          {
+            "from": 70000,
+            "rate": 0.17985
+          },
+          {
+            "from": 80000,
+            "rate": 0.1853
+          },
+          {
+            "from": 90000,
+            "rate": 0.188025
+          },
+          {
+            "from": 100000,
+            "rate": 0.19075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03815
+          },
+          {
+            "from": 1000,
+            "rate": 0.040875
+          },
+          {
+            "from": 2000,
+            "rate": 0.0436
+          },
+          {
+            "from": 3000,
+            "rate": 0.046325
+          },
+          {
+            "from": 4000,
+            "rate": 0.051775
+          },
+          {
+            "from": 8000,
+            "rate": 0.05995
+          },
+          {
+            "from": 12000,
+            "rate": 0.068125
+          },
+          {
+            "from": 16000,
+            "rate": 0.0763
+          },
+          {
+            "from": 20000,
+            "rate": 0.0872
+          },
+          {
+            "from": 24000,
+            "rate": 0.0981
+          },
+          {
+            "from": 28000,
+            "rate": 0.106275
+          },
+          {
+            "from": 32000,
+            "rate": 0.11445
+          },
+          {
+            "from": 36000,
+            "rate": 0.122625
+          },
+          {
+            "from": 40000,
+            "rate": 0.1308
+          },
+          {
+            "from": 44000,
+            "rate": 0.13625
+          },
+          {
+            "from": 52000,
+            "rate": 0.144425
+          },
+          {
+            "from": 64000,
+            "rate": 0.149875
+          },
+          {
+            "from": 76000,
+            "rate": 0.15805
+          },
+          {
+            "from": 88000,
+            "rate": 0.1635
+          },
+          {
+            "from": 100000,
+            "rate": 0.16895
+          },
+          {
+            "from": 120000,
+            "rate": 0.1744
+          },
+          {
+            "from": 140000,
+            "rate": 0.17985
+          },
+          {
+            "from": 160000,
+            "rate": 0.1853
+          },
+          {
+            "from": 180000,
+            "rate": 0.188025
+          },
+          {
+            "from": 200000,
+            "rate": 0.19075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.16,
+        "minimum": {
+          "single": 1600,
+          "marriedJoint": 1900
+        },
+        "maximum": {
+          "single": 2300,
+          "marriedJoint": 2600
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1973-74 ed. (M-79), Table 141 (State Individual Income Taxes: Rates, July 1, 1973): Vermont tax = 25% of the federal income tax liability (after retirement income, investment, foreign tax and tax-free covenant bond credits, before other credits and any federal surtax), with a 9% surcharge 'for taxable years beginning after December 31, 1973' (25% x 1.09 = 27.25%). Bridged: the July 1976 ACIR table (this file's 1976 entry) prints the same 25% plus 9% surcharge, and the 32 V.S.A. §5822 history on legislature.vermont.gov lists no amendment between 1967 and 1979 (the surcharges were separate session-law acts). Modelled as the 1975 federal schedule x 25% x 1.09 with the federal deduction (federal exemptions; federal percentage standard deduction / low-income allowance as in the federal 1975 entry); federal notes apply (federal surcharge or maximum tax and credits not modelled). The Vermont tax is reduced by the share of AGI that is not Vermont income, and may not exceed the amount that would make combined Vermont and federal liability exceed 4.5% of total income (footnote). Vermont credits (sales tax credit of $0-$81, student credit, property tax credit) not modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03815
+          },
+          {
+            "from": 500,
+            "rate": 0.040875
+          },
+          {
+            "from": 1000,
+            "rate": 0.0436
+          },
+          {
+            "from": 1500,
+            "rate": 0.046325
+          },
+          {
+            "from": 2000,
+            "rate": 0.051775
+          },
+          {
+            "from": 4000,
+            "rate": 0.057225
+          },
+          {
+            "from": 6000,
+            "rate": 0.0654
+          },
+          {
+            "from": 8000,
+            "rate": 0.068125
+          },
+          {
+            "from": 10000,
+            "rate": 0.073575
+          },
+          {
+            "from": 12000,
+            "rate": 0.079025
+          },
+          {
+            "from": 14000,
+            "rate": 0.084475
+          },
+          {
+            "from": 16000,
+            "rate": 0.09265
+          },
+          {
+            "from": 18000,
+            "rate": 0.0981
+          },
+          {
+            "from": 20000,
+            "rate": 0.10355
+          },
+          {
+            "from": 22000,
+            "rate": 0.109
+          },
+          {
+            "from": 26000,
+            "rate": 0.122625
+          },
+          {
+            "from": 32000,
+            "rate": 0.13625
+          },
+          {
+            "from": 38000,
+            "rate": 0.149875
+          },
+          {
+            "from": 44000,
+            "rate": 0.1635
+          },
+          {
+            "from": 50000,
+            "rate": 0.16895
+          },
+          {
+            "from": 60000,
+            "rate": 0.1744
+          },
+          {
+            "from": 70000,
+            "rate": 0.17985
+          },
+          {
+            "from": 80000,
+            "rate": 0.1853
+          },
+          {
+            "from": 90000,
+            "rate": 0.188025
+          },
+          {
+            "from": 100000,
+            "rate": 0.19075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03815
+          },
+          {
+            "from": 1000,
+            "rate": 0.040875
+          },
+          {
+            "from": 2000,
+            "rate": 0.0436
+          },
+          {
+            "from": 3000,
+            "rate": 0.046325
+          },
+          {
+            "from": 4000,
+            "rate": 0.051775
+          },
+          {
+            "from": 8000,
+            "rate": 0.05995
+          },
+          {
+            "from": 12000,
+            "rate": 0.068125
+          },
+          {
+            "from": 16000,
+            "rate": 0.0763
+          },
+          {
+            "from": 20000,
+            "rate": 0.0872
+          },
+          {
+            "from": 24000,
+            "rate": 0.0981
+          },
+          {
+            "from": 28000,
+            "rate": 0.106275
+          },
+          {
+            "from": 32000,
+            "rate": 0.11445
+          },
+          {
+            "from": 36000,
+            "rate": 0.122625
+          },
+          {
+            "from": 40000,
+            "rate": 0.1308
+          },
+          {
+            "from": 44000,
+            "rate": 0.13625
+          },
+          {
+            "from": 52000,
+            "rate": 0.144425
+          },
+          {
+            "from": 64000,
+            "rate": 0.149875
+          },
+          {
+            "from": 76000,
+            "rate": 0.15805
+          },
+          {
+            "from": 88000,
+            "rate": 0.1635
+          },
+          {
+            "from": 100000,
+            "rate": 0.16895
+          },
+          {
+            "from": 120000,
+            "rate": 0.1744
+          },
+          {
+            "from": 140000,
+            "rate": 0.17985
+          },
+          {
+            "from": 160000,
+            "rate": 0.1853
+          },
+          {
+            "from": 180000,
+            "rate": 0.188025
+          },
+          {
+            "from": 200000,
+            "rate": 0.19075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.16,
+        "minimum": {
+          "single": 1700,
+          "marriedJoint": 2100
+        },
+        "maximum": {
+          "single": 2400,
+          "marriedJoint": 2800
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1976-77 ed. Vol. II, Table 106 (State Individual Income Taxes: Rates, July 1, 1976), Table 107 (personal exemptions, July 1, 1976) and Table 108 (standard deduction, July 1, 1976). Table 106: Vermont tax = 25% of the federal income tax liability (after retirement income, investment, foreign tax and tax-free covenant bond credits, before other credits and federal surtaxes), reduced for non-Vermont income, plus a 9% surcharge. Modelled as the 1976 federal schedule x 25% x 1.09 (= x 0.2725) with the federal deduction (federal $750 exemptions; federal percentage standard deduction 16%, min $1,700/$2,100, max $2,400/$2,800); federal notes apply (general tax credit, 50% maximum tax not modelled). Vermont credits for taxpayers with income under $6,000 not modelled."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2200,
+            "rate": 0.035
+          },
+          {
+            "from": 2700,
+            "rate": 0.0375
+          },
+          {
+            "from": 3200,
+            "rate": 0.04
+          },
+          {
+            "from": 3700,
+            "rate": 0.0425
+          },
+          {
+            "from": 4200,
+            "rate": 0.0475
+          },
+          {
+            "from": 6200,
+            "rate": 0.0525
+          },
+          {
+            "from": 8200,
+            "rate": 0.06
+          },
+          {
+            "from": 10200,
+            "rate": 0.0625
+          },
+          {
+            "from": 12200,
+            "rate": 0.0675
+          },
+          {
+            "from": 14200,
+            "rate": 0.0725
+          },
+          {
+            "from": 16200,
+            "rate": 0.0775
+          },
+          {
+            "from": 18200,
+            "rate": 0.085
+          },
+          {
+            "from": 20200,
+            "rate": 0.09
+          },
+          {
+            "from": 22200,
+            "rate": 0.095
+          },
+          {
+            "from": 24200,
+            "rate": 0.1
+          },
+          {
+            "from": 28200,
+            "rate": 0.1125
+          },
+          {
+            "from": 34200,
+            "rate": 0.125
+          },
+          {
+            "from": 40200,
+            "rate": 0.1375
+          },
+          {
+            "from": 46200,
+            "rate": 0.15
+          },
+          {
+            "from": 52200,
+            "rate": 0.155
+          },
+          {
+            "from": 62200,
+            "rate": 0.16
+          },
+          {
+            "from": 72200,
+            "rate": 0.165
+          },
+          {
+            "from": 82200,
+            "rate": 0.17
+          },
+          {
+            "from": 92200,
+            "rate": 0.1725
+          },
+          {
+            "from": 102200,
+            "rate": 0.175
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3200,
+            "rate": 0.035
+          },
+          {
+            "from": 4200,
+            "rate": 0.0375
+          },
+          {
+            "from": 5200,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.0425
+          },
+          {
+            "from": 7200,
+            "rate": 0.0475
+          },
+          {
+            "from": 11200,
+            "rate": 0.055
+          },
+          {
+            "from": 15200,
+            "rate": 0.0625
+          },
+          {
+            "from": 19200,
+            "rate": 0.07
+          },
+          {
+            "from": 23200,
+            "rate": 0.08
+          },
+          {
+            "from": 27200,
+            "rate": 0.09
+          },
+          {
+            "from": 31200,
+            "rate": 0.0975
+          },
+          {
+            "from": 35200,
+            "rate": 0.105
+          },
+          {
+            "from": 39200,
+            "rate": 0.1125
+          },
+          {
+            "from": 43200,
+            "rate": 0.12
+          },
+          {
+            "from": 47200,
+            "rate": 0.125
+          },
+          {
+            "from": 55200,
+            "rate": 0.1325
+          },
+          {
+            "from": 67200,
+            "rate": 0.1375
+          },
+          {
+            "from": 79200,
+            "rate": 0.145
+          },
+          {
+            "from": 91200,
+            "rate": 0.15
+          },
+          {
+            "from": 103200,
+            "rate": 0.155
+          },
+          {
+            "from": 123200,
+            "rate": 0.16
+          },
+          {
+            "from": 143200,
+            "rate": 0.165
+          },
+          {
+            "from": 163200,
+            "rate": 0.17
+          },
+          {
+            "from": 183200,
+            "rate": 0.1725
+          },
+          {
+            "from": 203200,
+            "rate": 0.175
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://archive.org/details/micro_IA40706902_0050/page/n190",
+      "notes": "Secondary source (Tax Foundation, Facts and Figures on Government Finance, 20th biennial edition 1979, Table 155 'State Individual Income Tax Rates and Related Data', as of September 1, 1978, pp. 192-193; the table credits Commerce Clearing House): footnote u says the Vermont rate applies to federal income tax liability attributable to sources of income within the state and is 25% in Vermont; no surcharge is noted for Vermont (the table notes one for Montana); personal exemptions are the federal exemptions; federal income tax not deductible. Single source; the as-of date falls in 1978, so recorded for tax year 1978. Modelled as the 1978 federal schedule x 25% with the federal deduction (federal $750 exemptions; the zero bracket amount is built into the federal schedule as a 0% first bracket), as in this file's 1980 entry; federal notes apply (general tax credit and 50% maximum tax not modelled). Vermont credits not modelled. The 1979 rate is not stated by any source found: the Book of the States 1980-81 table (as of January 1, 1980) prints 25% while the Joint Fiscal Office history gives 23% for 1980, and the Facts and Figures 1981 table (as of April 1, 1981) gives 23%."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.0322
+          },
+          {
+            "from": 3400,
+            "rate": 0.0368
+          },
+          {
+            "from": 4400,
+            "rate": 0.0414
+          },
+          {
+            "from": 6500,
+            "rate": 0.0437
+          },
+          {
+            "from": 8500,
+            "rate": 0.0483
+          },
+          {
+            "from": 10800,
+            "rate": 0.0552
+          },
+          {
+            "from": 12900,
+            "rate": 0.0598
+          },
+          {
+            "from": 15000,
+            "rate": 0.069
+          },
+          {
+            "from": 18200,
+            "rate": 0.0782
+          },
+          {
+            "from": 23500,
+            "rate": 0.0897
+          },
+          {
+            "from": 28800,
+            "rate": 0.1012
+          },
+          {
+            "from": 34100,
+            "rate": 0.1127
+          },
+          {
+            "from": 41500,
+            "rate": 0.1265
+          },
+          {
+            "from": 55300,
+            "rate": 0.1449
+          },
+          {
+            "from": 81800,
+            "rate": 0.1564
+          },
+          {
+            "from": 108300,
+            "rate": 0.161
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.0322
+          },
+          {
+            "from": 5500,
+            "rate": 0.0368
+          },
+          {
+            "from": 7600,
+            "rate": 0.0414
+          },
+          {
+            "from": 11900,
+            "rate": 0.0483
+          },
+          {
+            "from": 16000,
+            "rate": 0.0552
+          },
+          {
+            "from": 20200,
+            "rate": 0.0644
+          },
+          {
+            "from": 24600,
+            "rate": 0.0736
+          },
+          {
+            "from": 29900,
+            "rate": 0.0851
+          },
+          {
+            "from": 35200,
+            "rate": 0.0989
+          },
+          {
+            "from": 45800,
+            "rate": 0.1127
+          },
+          {
+            "from": 60000,
+            "rate": 0.1242
+          },
+          {
+            "from": 85600,
+            "rate": 0.1357
+          },
+          {
+            "from": 109400,
+            "rate": 0.1472
+          },
+          {
+            "from": 162400,
+            "rate": 0.1564
+          },
+          {
+            "from": 215400,
+            "rate": 0.161
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/2020-Fiscal-Facts-Booklet/cf3c9d226e/2020-Fiscal-Facts-Revenue-History.pdf",
+      "notes": "Vermont tax = 23% of federal income tax liability. Modelled as the federal schedule x 23% with the federal deduction (federal exemptions; zero-bracket amount is built into the federal schedule); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.0322
+          },
+          {
+            "from": 3400,
+            "rate": 0.0368
+          },
+          {
+            "from": 4400,
+            "rate": 0.0414
+          },
+          {
+            "from": 6500,
+            "rate": 0.0437
+          },
+          {
+            "from": 8500,
+            "rate": 0.0483
+          },
+          {
+            "from": 10800,
+            "rate": 0.0552
+          },
+          {
+            "from": 12900,
+            "rate": 0.0598
+          },
+          {
+            "from": 15000,
+            "rate": 0.069
+          },
+          {
+            "from": 18200,
+            "rate": 0.0782
+          },
+          {
+            "from": 23500,
+            "rate": 0.0897
+          },
+          {
+            "from": 28800,
+            "rate": 0.1012
+          },
+          {
+            "from": 34100,
+            "rate": 0.1127
+          },
+          {
+            "from": 41500,
+            "rate": 0.1265
+          },
+          {
+            "from": 55300,
+            "rate": 0.1449
+          },
+          {
+            "from": 81800,
+            "rate": 0.1564
+          },
+          {
+            "from": 108300,
+            "rate": 0.161
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.0322
+          },
+          {
+            "from": 5500,
+            "rate": 0.0368
+          },
+          {
+            "from": 7600,
+            "rate": 0.0414
+          },
+          {
+            "from": 11900,
+            "rate": 0.0483
+          },
+          {
+            "from": 16000,
+            "rate": 0.0552
+          },
+          {
+            "from": 20200,
+            "rate": 0.0644
+          },
+          {
+            "from": 24600,
+            "rate": 0.0736
+          },
+          {
+            "from": 29900,
+            "rate": 0.0851
+          },
+          {
+            "from": 35200,
+            "rate": 0.0989
+          },
+          {
+            "from": 45800,
+            "rate": 0.1127
+          },
+          {
+            "from": 60000,
+            "rate": 0.1242
+          },
+          {
+            "from": 85600,
+            "rate": 0.1357
+          },
+          {
+            "from": 109400,
+            "rate": 0.1472
+          },
+          {
+            "from": 162400,
+            "rate": 0.1564
+          },
+          {
+            "from": 215400,
+            "rate": 0.161
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/2020-Fiscal-Facts-Booklet/cf3c9d226e/2020-Fiscal-Facts-Revenue-History.pdf",
+      "notes": "Vermont tax = 23% of federal income tax liability. Modelled as the federal schedule x 23% with the federal deduction (federal exemptions; zero-bracket amount is built into the federal schedule); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.0288
+          },
+          {
+            "from": 3400,
+            "rate": 0.0336
+          },
+          {
+            "from": 4400,
+            "rate": 0.0384
+          },
+          {
+            "from": 6500,
+            "rate": 0.0408
+          },
+          {
+            "from": 8500,
+            "rate": 0.0456
+          },
+          {
+            "from": 10800,
+            "rate": 0.0528
+          },
+          {
+            "from": 12900,
+            "rate": 0.0552
+          },
+          {
+            "from": 15000,
+            "rate": 0.0648
+          },
+          {
+            "from": 18200,
+            "rate": 0.0744
+          },
+          {
+            "from": 23500,
+            "rate": 0.084
+          },
+          {
+            "from": 28800,
+            "rate": 0.096
+          },
+          {
+            "from": 34100,
+            "rate": 0.1056
+          },
+          {
+            "from": 41500,
+            "rate": 0.12
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.0288
+          },
+          {
+            "from": 5500,
+            "rate": 0.0336
+          },
+          {
+            "from": 7600,
+            "rate": 0.0384
+          },
+          {
+            "from": 11900,
+            "rate": 0.0456
+          },
+          {
+            "from": 16000,
+            "rate": 0.0528
+          },
+          {
+            "from": 20200,
+            "rate": 0.06
+          },
+          {
+            "from": 24600,
+            "rate": 0.0696
+          },
+          {
+            "from": 29900,
+            "rate": 0.0792
+          },
+          {
+            "from": 35200,
+            "rate": 0.0936
+          },
+          {
+            "from": 45800,
+            "rate": 0.1056
+          },
+          {
+            "from": 60000,
+            "rate": 0.1176
+          },
+          {
+            "from": 85600,
+            "rate": 0.12
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/2020-Fiscal-Facts-Booklet/cf3c9d226e/2020-Fiscal-Facts-Revenue-History.pdf",
+      "notes": "Vermont tax = 24% of federal income tax liability. Modelled as the federal schedule x 24% with the federal deduction (federal exemptions; zero-bracket amount is built into the federal schedule); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.0286
+          },
+          {
+            "from": 3400,
+            "rate": 0.0338
+          },
+          {
+            "from": 4400,
+            "rate": 0.039
+          },
+          {
+            "from": 8500,
+            "rate": 0.0442
+          },
+          {
+            "from": 10800,
+            "rate": 0.0494
+          },
+          {
+            "from": 12900,
+            "rate": 0.0546
+          },
+          {
+            "from": 15000,
+            "rate": 0.0624
+          },
+          {
+            "from": 18200,
+            "rate": 0.0728
+          },
+          {
+            "from": 23500,
+            "rate": 0.0832
+          },
+          {
+            "from": 28800,
+            "rate": 0.0936
+          },
+          {
+            "from": 34100,
+            "rate": 0.104
+          },
+          {
+            "from": 41500,
+            "rate": 0.117
+          },
+          {
+            "from": 55300,
+            "rate": 0.13
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.0286
+          },
+          {
+            "from": 5500,
+            "rate": 0.0338
+          },
+          {
+            "from": 7600,
+            "rate": 0.039
+          },
+          {
+            "from": 11900,
+            "rate": 0.0442
+          },
+          {
+            "from": 16000,
+            "rate": 0.0494
+          },
+          {
+            "from": 20200,
+            "rate": 0.0598
+          },
+          {
+            "from": 24600,
+            "rate": 0.0676
+          },
+          {
+            "from": 29900,
+            "rate": 0.078
+          },
+          {
+            "from": 35200,
+            "rate": 0.091
+          },
+          {
+            "from": 45800,
+            "rate": 0.104
+          },
+          {
+            "from": 60000,
+            "rate": 0.1144
+          },
+          {
+            "from": 85600,
+            "rate": 0.1248
+          },
+          {
+            "from": 109400,
+            "rate": 0.13
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/2020-Fiscal-Facts-Booklet/cf3c9d226e/2020-Fiscal-Facts-Revenue-History.pdf",
+      "notes": "Vermont tax = 26% of federal income tax liability. Modelled as the federal schedule x 26% with the federal deduction (federal exemptions; zero-bracket amount is built into the federal schedule); federal notes apply (credits, surtaxes, phase-outs not modelled). JFO 1995 Fiscal Facts calls the 26% a temporary increase."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.0286
+          },
+          {
+            "from": 3400,
+            "rate": 0.0312
+          },
+          {
+            "from": 4400,
+            "rate": 0.0364
+          },
+          {
+            "from": 6500,
+            "rate": 0.039
+          },
+          {
+            "from": 8500,
+            "rate": 0.0416
+          },
+          {
+            "from": 10800,
+            "rate": 0.0468
+          },
+          {
+            "from": 12900,
+            "rate": 0.052
+          },
+          {
+            "from": 15000,
+            "rate": 0.0598
+          },
+          {
+            "from": 18200,
+            "rate": 0.0676
+          },
+          {
+            "from": 23500,
+            "rate": 0.078
+          },
+          {
+            "from": 28800,
+            "rate": 0.0884
+          },
+          {
+            "from": 34100,
+            "rate": 0.0988
+          },
+          {
+            "from": 41500,
+            "rate": 0.1092
+          },
+          {
+            "from": 55300,
+            "rate": 0.1248
+          },
+          {
+            "from": 81800,
+            "rate": 0.13
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.0286
+          },
+          {
+            "from": 5500,
+            "rate": 0.0312
+          },
+          {
+            "from": 7600,
+            "rate": 0.0364
+          },
+          {
+            "from": 11900,
+            "rate": 0.0416
+          },
+          {
+            "from": 16000,
+            "rate": 0.0468
+          },
+          {
+            "from": 20200,
+            "rate": 0.0572
+          },
+          {
+            "from": 24600,
+            "rate": 0.065
+          },
+          {
+            "from": 29900,
+            "rate": 0.0728
+          },
+          {
+            "from": 35200,
+            "rate": 0.0858
+          },
+          {
+            "from": 45800,
+            "rate": 0.0988
+          },
+          {
+            "from": 60000,
+            "rate": 0.1092
+          },
+          {
+            "from": 85600,
+            "rate": 0.117
+          },
+          {
+            "from": 109400,
+            "rate": 0.1274
+          },
+          {
+            "from": 162400,
+            "rate": 0.13
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/2020-Fiscal-Facts-Booklet/cf3c9d226e/2020-Fiscal-Facts-Revenue-History.pdf",
+      "notes": "Vermont tax = 26% of federal income tax liability. Modelled as the federal schedule x 26% with the federal deduction (federal exemptions; zero-bracket amount is built into the federal schedule); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2390,
+            "rate": 0.02915
+          },
+          {
+            "from": 3540,
+            "rate": 0.0318
+          },
+          {
+            "from": 4580,
+            "rate": 0.0371
+          },
+          {
+            "from": 6760,
+            "rate": 0.03975
+          },
+          {
+            "from": 8850,
+            "rate": 0.0424
+          },
+          {
+            "from": 11240,
+            "rate": 0.0477
+          },
+          {
+            "from": 13430,
+            "rate": 0.053
+          },
+          {
+            "from": 15610,
+            "rate": 0.06095
+          },
+          {
+            "from": 18940,
+            "rate": 0.0689
+          },
+          {
+            "from": 24460,
+            "rate": 0.0795
+          },
+          {
+            "from": 29970,
+            "rate": 0.0901
+          },
+          {
+            "from": 35490,
+            "rate": 0.1007
+          },
+          {
+            "from": 43190,
+            "rate": 0.1113
+          },
+          {
+            "from": 57550,
+            "rate": 0.1272
+          },
+          {
+            "from": 85130,
+            "rate": 0.1325
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3540,
+            "rate": 0.02915
+          },
+          {
+            "from": 5720,
+            "rate": 0.0318
+          },
+          {
+            "from": 7910,
+            "rate": 0.0371
+          },
+          {
+            "from": 12390,
+            "rate": 0.0424
+          },
+          {
+            "from": 16650,
+            "rate": 0.0477
+          },
+          {
+            "from": 21020,
+            "rate": 0.0583
+          },
+          {
+            "from": 25600,
+            "rate": 0.06625
+          },
+          {
+            "from": 31120,
+            "rate": 0.0742
+          },
+          {
+            "from": 36630,
+            "rate": 0.08745
+          },
+          {
+            "from": 47670,
+            "rate": 0.1007
+          },
+          {
+            "from": 62450,
+            "rate": 0.1113
+          },
+          {
+            "from": 89090,
+            "rate": 0.11925
+          },
+          {
+            "from": 113860,
+            "rate": 0.12985
+          },
+          {
+            "from": 169020,
+            "rate": 0.1325
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1040,
+        "marriedJoint": 2080
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/2020-Fiscal-Facts-Booklet/cf3c9d226e/2020-Fiscal-Facts-Revenue-History.pdf",
+      "notes": "Vermont tax = 26.5% of federal income tax liability. Modelled as the federal schedule x 26.5% with the federal deduction (federal exemptions; zero-bracket amount is built into the federal schedule); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2480,
+            "rate": 0.02915
+          },
+          {
+            "from": 3670,
+            "rate": 0.0318
+          },
+          {
+            "from": 4750,
+            "rate": 0.0371
+          },
+          {
+            "from": 7010,
+            "rate": 0.03975
+          },
+          {
+            "from": 9170,
+            "rate": 0.0424
+          },
+          {
+            "from": 11650,
+            "rate": 0.0477
+          },
+          {
+            "from": 13920,
+            "rate": 0.053
+          },
+          {
+            "from": 16190,
+            "rate": 0.06095
+          },
+          {
+            "from": 19640,
+            "rate": 0.0689
+          },
+          {
+            "from": 25360,
+            "rate": 0.0795
+          },
+          {
+            "from": 31080,
+            "rate": 0.0901
+          },
+          {
+            "from": 36800,
+            "rate": 0.1007
+          },
+          {
+            "from": 44780,
+            "rate": 0.1113
+          },
+          {
+            "from": 59670,
+            "rate": 0.1272
+          },
+          {
+            "from": 88270,
+            "rate": 0.1325
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3670,
+            "rate": 0.02915
+          },
+          {
+            "from": 5940,
+            "rate": 0.0318
+          },
+          {
+            "from": 8200,
+            "rate": 0.0371
+          },
+          {
+            "from": 12840,
+            "rate": 0.0424
+          },
+          {
+            "from": 17270,
+            "rate": 0.0477
+          },
+          {
+            "from": 21800,
+            "rate": 0.0583
+          },
+          {
+            "from": 26550,
+            "rate": 0.06625
+          },
+          {
+            "from": 32270,
+            "rate": 0.0742
+          },
+          {
+            "from": 37980,
+            "rate": 0.08745
+          },
+          {
+            "from": 49420,
+            "rate": 0.1007
+          },
+          {
+            "from": 64750,
+            "rate": 0.1113
+          },
+          {
+            "from": 92370,
+            "rate": 0.11925
+          },
+          {
+            "from": 118050,
+            "rate": 0.12985
+          },
+          {
+            "from": 175250,
+            "rate": 0.1325
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1080,
+        "marriedJoint": 2160
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/2020-Fiscal-Facts-Booklet/cf3c9d226e/2020-Fiscal-Facts-Revenue-History.pdf",
+      "notes": "Vermont tax = 26.5% of federal income tax liability. Modelled as the federal schedule x 26.5% with the federal deduction (federal exemptions; zero-bracket amount is built into the federal schedule); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02838
+          },
+          {
+            "from": 1800,
+            "rate": 0.0387
+          },
+          {
+            "from": 16800,
+            "rate": 0.07224
+          },
+          {
+            "from": 27000,
+            "rate": 0.0903
+          },
+          {
+            "from": 54000,
+            "rate": 0.09933
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02838
+          },
+          {
+            "from": 3000,
+            "rate": 0.0387
+          },
+          {
+            "from": 28000,
+            "rate": 0.07224
+          },
+          {
+            "from": 45000,
+            "rate": 0.0903
+          },
+          {
+            "from": 90000,
+            "rate": 0.09933
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4440,
+        "marriedJoint": 7560
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/2020-Fiscal-Facts-Booklet/cf3c9d226e/2020-Fiscal-Facts-Revenue-History.pdf",
+      "notes": "Vermont tax = 25.8% of federal income tax liability. Modelled as the federal schedule x 25.8% with the federal deduction (federal exemptions + standard deduction); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0345
+          },
+          {
+            "from": 17850,
+            "rate": 0.0644
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0345
+          },
+          {
+            "from": 29750,
+            "rate": 0.0644
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4950,
+        "marriedJoint": 8900
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/2020-Fiscal-Facts-Booklet/cf3c9d226e/2020-Fiscal-Facts-Revenue-History.pdf",
+      "notes": "Vermont tax = 23% of federal income tax liability. Modelled as the federal schedule x 23% with the federal deduction (federal exemptions + standard deduction); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 18550,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 30950,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5100,
+        "marriedJoint": 9200
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/2020-Fiscal-Facts-Booklet/cf3c9d226e/2020-Fiscal-Facts-Revenue-History.pdf",
+      "notes": "Vermont tax = 25% of federal income tax liability. Modelled as the federal schedule x 25% with the federal deduction (federal exemptions + standard deduction); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.042
+          },
+          {
+            "from": 19450,
+            "rate": 0.0784
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.042
+          },
+          {
+            "from": 32450,
+            "rate": 0.0784
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5300,
+        "marriedJoint": 9550
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/2020-Fiscal-Facts-Booklet/cf3c9d226e/2020-Fiscal-Facts-Revenue-History.pdf",
+      "notes": "Vermont tax = 28% of federal income tax liability. Modelled as the federal schedule x 28% with the federal deduction (federal exemptions + standard deduction); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.042
+          },
+          {
+            "from": 20350,
+            "rate": 0.0784
+          },
+          {
+            "from": 21591.07,
+            "rate": 0.0868
+          },
+          {
+            "from": 49300,
+            "rate": 0.0961
+          },
+          {
+            "from": 55562.9,
+            "rate": 0.1054
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.042
+          },
+          {
+            "from": 22666.67,
+            "rate": 0.0465
+          },
+          {
+            "from": 34000,
+            "rate": 0.0868
+          },
+          {
+            "from": 62571.43,
+            "rate": 0.0952
+          },
+          {
+            "from": 82150,
+            "rate": 0.1054
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5550,
+        "marriedJoint": 10000
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/Other-Fiscal-Facts-Booklets/d752c123d0/1995_Fiscal_Facts.pdf",
+      "notes": "Vermont tax = 28% of federal liability up to $3,400, 31% of federal liability from $3,400 to $13,100, 34% above (temporary surcharges, 1991-93). Converted to taxable-income brackets using the federal schedule; the same $3,400/$13,100 liability tiers are assumed for every filing status (the source doesn't distinguish). Federal deduction (standard deduction + exemptions); PEP/Pease not modelled."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.042
+          },
+          {
+            "from": 21450,
+            "rate": 0.0784
+          },
+          {
+            "from": 22101.79,
+            "rate": 0.0868
+          },
+          {
+            "from": 51900,
+            "rate": 0.0961
+          },
+          {
+            "from": 56275.81,
+            "rate": 0.1054
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.042
+          },
+          {
+            "from": 22666.67,
+            "rate": 0.0465
+          },
+          {
+            "from": 35800,
+            "rate": 0.0868
+          },
+          {
+            "from": 63407.14,
+            "rate": 0.0952
+          },
+          {
+            "from": 86500,
+            "rate": 0.1054
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5900,
+        "marriedJoint": 10600
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/Other-Fiscal-Facts-Booklets/d752c123d0/1995_Fiscal_Facts.pdf",
+      "notes": "Vermont tax = 28% of federal liability up to $3,400, 31% of federal liability from $3,400 to $13,100, 34% above (temporary surcharges, 1991-93). Converted to taxable-income brackets using the federal schedule; the same $3,400/$13,100 liability tiers are assumed for every filing status (the source doesn't distinguish). Federal deduction (standard deduction + exemptions); PEP/Pease not modelled."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.042
+          },
+          {
+            "from": 22100,
+            "rate": 0.0784
+          },
+          {
+            "from": 22403.57,
+            "rate": 0.0868
+          },
+          {
+            "from": 53500,
+            "rate": 0.0961
+          },
+          {
+            "from": 56703.23,
+            "rate": 0.1054
+          },
+          {
+            "from": 115000,
+            "rate": 0.1224
+          },
+          {
+            "from": 250000,
+            "rate": 0.13464
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.042
+          },
+          {
+            "from": 22666.67,
+            "rate": 0.0465
+          },
+          {
+            "from": 36900,
+            "rate": 0.0868
+          },
+          {
+            "from": 63917.86,
+            "rate": 0.0952
+          },
+          {
+            "from": 89150,
+            "rate": 0.1054
+          },
+          {
+            "from": 140000,
+            "rate": 0.1224
+          },
+          {
+            "from": 250000,
+            "rate": 0.13464
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6050,
+        "marriedJoint": 10900
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/Other-Fiscal-Facts-Booklets/d752c123d0/1995_Fiscal_Facts.pdf",
+      "notes": "Vermont tax = 28% of federal liability up to $3,400, 31% of federal liability from $3,400 to $13,100, 34% above (temporary surcharges, 1991-93). Converted to taxable-income brackets using the federal schedule; the same $3,400/$13,100 liability tiers are assumed for every filing status (the source doesn't distinguish). Federal deduction (standard deduction + exemptions); PEP/Pease not modelled."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 22750,
+            "rate": 0.07
+          },
+          {
+            "from": 55100,
+            "rate": 0.0775
+          },
+          {
+            "from": 115000,
+            "rate": 0.09
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 38000,
+            "rate": 0.07
+          },
+          {
+            "from": 91850,
+            "rate": 0.0775
+          },
+          {
+            "from": 140000,
+            "rate": 0.09
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6250,
+        "marriedJoint": 11250
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/Other-Fiscal-Facts-Booklets/d752c123d0/1995_Fiscal_Facts.pdf",
+      "notes": "Vermont tax = 25% of federal income tax liability. Modelled as the federal schedule x 25% with the federal deduction (federal exemptions + standard deduction); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 23350,
+            "rate": 0.07
+          },
+          {
+            "from": 56550,
+            "rate": 0.0775
+          },
+          {
+            "from": 117950,
+            "rate": 0.09
+          },
+          {
+            "from": 256500,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 39000,
+            "rate": 0.07
+          },
+          {
+            "from": 94250,
+            "rate": 0.0775
+          },
+          {
+            "from": 143600,
+            "rate": 0.09
+          },
+          {
+            "from": 256500,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6400,
+        "marriedJoint": 11550
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/Other-Fiscal-Facts-Booklets/d752c123d0/1995_Fiscal_Facts.pdf",
+      "notes": "Vermont tax = 25% of federal income tax liability. Modelled as the federal schedule x 25% with the federal deduction (federal exemptions + standard deduction); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 24000,
+            "rate": 0.07
+          },
+          {
+            "from": 58150,
+            "rate": 0.0775
+          },
+          {
+            "from": 121300,
+            "rate": 0.09
+          },
+          {
+            "from": 263750,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 40100,
+            "rate": 0.07
+          },
+          {
+            "from": 96900,
+            "rate": 0.0775
+          },
+          {
+            "from": 147700,
+            "rate": 0.09
+          },
+          {
+            "from": 263750,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6550,
+        "marriedJoint": 11800
+      },
+      "source": "http://www.leg.state.vt.us/reports/tax/vol1-03.htm",
+      "notes": "Vermont tax = 25% of federal income tax liability. Modelled as the federal schedule x 25% with the federal deduction (federal exemptions + standard deduction); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 24650,
+            "rate": 0.07
+          },
+          {
+            "from": 59750,
+            "rate": 0.0775
+          },
+          {
+            "from": 124650,
+            "rate": 0.09
+          },
+          {
+            "from": 271050,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 41200,
+            "rate": 0.07
+          },
+          {
+            "from": 99600,
+            "rate": 0.0775
+          },
+          {
+            "from": 151750,
+            "rate": 0.09
+          },
+          {
+            "from": 271050,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6800,
+        "marriedJoint": 12200
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/2020-Fiscal-Facts-Booklet/cf3c9d226e/2020-Fiscal-Facts-Revenue-History.pdf",
+      "notes": "Vermont tax = 25% of federal income tax liability. Modelled as the federal schedule x 25% with the federal deduction (federal exemptions + standard deduction); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 25350,
+            "rate": 0.07
+          },
+          {
+            "from": 61400,
+            "rate": 0.0775
+          },
+          {
+            "from": 128100,
+            "rate": 0.09
+          },
+          {
+            "from": 278450,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 42350,
+            "rate": 0.07
+          },
+          {
+            "from": 102300,
+            "rate": 0.0775
+          },
+          {
+            "from": 155950,
+            "rate": 0.09
+          },
+          {
+            "from": 278450,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6950,
+        "marriedJoint": 12500
+      },
+      "source": "https://ljfo.vermont.gov/assets/Publications/2020-Fiscal-Facts-Booklet/cf3c9d226e/2020-Fiscal-Facts-Revenue-History.pdf",
+      "notes": "Vermont tax = 25% of federal income tax liability. Modelled as the federal schedule x 25% with the federal deduction (federal exemptions + standard deduction); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 25750,
+            "rate": 0.07
+          },
+          {
+            "from": 62450,
+            "rate": 0.0775
+          },
+          {
+            "from": 130250,
+            "rate": 0.09
+          },
+          {
+            "from": 283150,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 43050,
+            "rate": 0.07
+          },
+          {
+            "from": 104050,
+            "rate": 0.0775
+          },
+          {
+            "from": 158550,
+            "rate": 0.09
+          },
+          {
+            "from": 283150,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7050,
+        "marriedJoint": 12700
+      },
+      "source": "http://www.leg.state.vt.us/docs/2000/acts/ACT049.HTM",
+      "notes": "Vermont tax = 25% of federal income tax liability. Modelled as the federal schedule x 25% with the federal deduction (federal exemptions + standard deduction); federal notes apply (credits, surtaxes, phase-outs not modelled). Act 49 (1999) cut the rate to 24% for tax years beginning on/after Jan 1, 2000, so 1999 stays 25% (JFO table lists 1999-2000 as 24%)."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 26250,
+            "rate": 0.0672
+          },
+          {
+            "from": 63550,
+            "rate": 0.0744
+          },
+          {
+            "from": 132600,
+            "rate": 0.0864
+          },
+          {
+            "from": 288350,
+            "rate": 0.09504
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 43850,
+            "rate": 0.0672
+          },
+          {
+            "from": 105950,
+            "rate": 0.0744
+          },
+          {
+            "from": 161450,
+            "rate": 0.0864
+          },
+          {
+            "from": 288350,
+            "rate": 0.09504
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7200,
+        "marriedJoint": 12950
+      },
+      "source": "http://www.leg.state.vt.us/docs/2000/acts/ACT049.HTM",
+      "notes": "Vermont tax = 24% of federal income tax liability. Modelled as the federal schedule x 24% with the federal deduction (federal exemptions + standard deduction); federal notes apply (credits, surtaxes, phase-outs not modelled)."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 27050,
+            "rate": 0.0672
+          },
+          {
+            "from": 65550,
+            "rate": 0.0744
+          },
+          {
+            "from": 136750,
+            "rate": 0.0864
+          },
+          {
+            "from": 297350,
+            "rate": 0.09504
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 45200,
+            "rate": 0.0672
+          },
+          {
+            "from": 109250,
+            "rate": 0.0744
+          },
+          {
+            "from": 166500,
+            "rate": 0.0864
+          },
+          {
+            "from": 297350,
+            "rate": 0.09504
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7450,
+        "marriedJoint": 13400
+      },
+      "source": "http://www.leg.state.vt.us/docs/2002/acts/ACT067.HTM",
+      "notes": "Act 67 (2001): 24% of federal liability computed at the federal rates in effect before EGTRRA (15/28/31/36/39.6%) on 2001 federal bracket amounts. Federal deduction (standard deduction + exemptions)."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 27950,
+            "rate": 0.072
+          },
+          {
+            "from": 67700,
+            "rate": 0.085
+          },
+          {
+            "from": 141250,
+            "rate": 0.09
+          },
+          {
+            "from": 307050,
+            "rate": 0.095
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 46700,
+            "rate": 0.072
+          },
+          {
+            "from": 112850,
+            "rate": 0.085
+          },
+          {
+            "from": 171950,
+            "rate": 0.09
+          },
+          {
+            "from": 307050,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7700,
+        "marriedJoint": 13850
+      },
+      "source": "http://www.leg.state.vt.us/docs/2002/acts/ACT140.HTM",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year. Statutory 2002 tables (32 V.S.A. 5822 as enacted by Act 140), indexed annually afterwards."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 28400,
+            "rate": 0.072
+          },
+          {
+            "from": 68800,
+            "rate": 0.085
+          },
+          {
+            "from": 143500,
+            "rate": 0.09
+          },
+          {
+            "from": 311950,
+            "rate": 0.095
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 47450,
+            "rate": 0.072
+          },
+          {
+            "from": 114650,
+            "rate": 0.085
+          },
+          {
+            "from": 174700,
+            "rate": 0.09
+          },
+          {
+            "from": 311950,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7800,
+        "marriedJoint": 15600
+      },
+      "source": "https://web.archive.org/web/20041230181829/http://www.state.vt.us/tax/pdf.word.excel/forms/2003/incbk.pdf",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year. 2003 Income Tax Return Booklet, '2003 VT Rate Schedules' (Schedules X and Y-1), Wayback copy."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 29050,
+            "rate": 0.072
+          },
+          {
+            "from": 70350,
+            "rate": 0.085
+          },
+          {
+            "from": 146750,
+            "rate": 0.09
+          },
+          {
+            "from": 319100,
+            "rate": 0.095
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 48500,
+            "rate": 0.072
+          },
+          {
+            "from": 117250,
+            "rate": 0.085
+          },
+          {
+            "from": 178650,
+            "rate": 0.09
+          },
+          {
+            "from": 319100,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7950,
+        "marriedJoint": 15900
+      },
+      "source": "https://web.archive.org/web/20051215023720/http://www.state.vt.us/tax/pdf.word.excel/forms/2004/incbk.pdf",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year. 2004 Income Tax Return Booklet, '2004 VT Rate Schedules' (Schedules X and Y-1), Wayback copy."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 29700,
+            "rate": 0.072
+          },
+          {
+            "from": 71950,
+            "rate": 0.085
+          },
+          {
+            "from": 150150,
+            "rate": 0.09
+          },
+          {
+            "from": 326450,
+            "rate": 0.095
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 49650,
+            "rate": 0.072
+          },
+          {
+            "from": 119950,
+            "rate": 0.085
+          },
+          {
+            "from": 182800,
+            "rate": 0.09
+          },
+          {
+            "from": 326450,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8200,
+        "marriedJoint": 16400
+      },
+      "source": "https://ljfo.vermont.gov/assets/docs/reports/25fb09acc5/2007-01-Vermont-Tax-Study-Volume-1.pdf",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year. Brackets from JFO 2007 Tax Study table of 2005 rates and brackets."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 30650,
+            "rate": 0.072
+          },
+          {
+            "from": 74200,
+            "rate": 0.085
+          },
+          {
+            "from": 154800,
+            "rate": 0.09
+          },
+          {
+            "from": 336550,
+            "rate": 0.095
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 51200,
+            "rate": 0.072
+          },
+          {
+            "from": 123700,
+            "rate": 0.085
+          },
+          {
+            "from": 188450,
+            "rate": 0.09
+          },
+          {
+            "from": 336550,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8450,
+        "marriedJoint": 16900
+      },
+      "source": "https://web.archive.org/web/20070221200908/http://www.state.vt.us/tax/pdf.word.excel/forms/2006/incbk.pdf",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year. 2006 Income Tax Return Booklet, '2006 VT Rate Schedules' (Schedules X and Y-1), Wayback copy."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 31850,
+            "rate": 0.072
+          },
+          {
+            "from": 77100,
+            "rate": 0.085
+          },
+          {
+            "from": 160850,
+            "rate": 0.09
+          },
+          {
+            "from": 349700,
+            "rate": 0.095
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 53150,
+            "rate": 0.072
+          },
+          {
+            "from": 128500,
+            "rate": 0.085
+          },
+          {
+            "from": 195850,
+            "rate": 0.09
+          },
+          {
+            "from": 349700,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8750,
+        "marriedJoint": 17500
+      },
+      "source": "https://web.archive.org/web/20080123014713/http://www.state.vt.us/tax/pdf.word.excel/forms/2007/incbk.pdf",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year. 2007 Income Tax Return Booklet, '2007 VT Rate Schedules' (Schedules X and Y-1), Wayback copy."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 32550,
+            "rate": 0.072
+          },
+          {
+            "from": 78850,
+            "rate": 0.085
+          },
+          {
+            "from": 164550,
+            "rate": 0.09
+          },
+          {
+            "from": 357700,
+            "rate": 0.095
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.036
+          },
+          {
+            "from": 54400,
+            "rate": 0.072
+          },
+          {
+            "from": 131450,
+            "rate": 0.085
+          },
+          {
+            "from": 200300,
+            "rate": 0.09
+          },
+          {
+            "from": 357700,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8950,
+        "marriedJoint": 17900
+      },
+      "source": "https://web.archive.org/web/20090419025842/http://www.state.vt.us/tax/pdf.word.excel/forms/2008/incbk.pdf",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year. 2008 Income Tax Return Booklet, '2008 VT Rate Schedules' (Schedules X and Y-1), Wayback copy."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 33950,
+            "rate": 0.07
+          },
+          {
+            "from": 82250,
+            "rate": 0.0825
+          },
+          {
+            "from": 171550,
+            "rate": 0.089
+          },
+          {
+            "from": 372950,
+            "rate": 0.094
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 56700,
+            "rate": 0.07
+          },
+          {
+            "from": 137050,
+            "rate": 0.0825
+          },
+          {
+            "from": 208850,
+            "rate": 0.089
+          },
+          {
+            "from": 372950,
+            "rate": 0.094
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VT/2009/2009IncBook.pdf",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 34000,
+            "rate": 0.068
+          },
+          {
+            "from": 82400,
+            "rate": 0.078
+          },
+          {
+            "from": 171850,
+            "rate": 0.088
+          },
+          {
+            "from": 373650,
+            "rate": 0.0895
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 56800,
+            "rate": 0.068
+          },
+          {
+            "from": 137300,
+            "rate": 0.078
+          },
+          {
+            "from": 209250,
+            "rate": 0.088
+          },
+          {
+            "from": 373650,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VT/2010/2010IncBook.pdf",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 34500,
+            "rate": 0.068
+          },
+          {
+            "from": 83600,
+            "rate": 0.078
+          },
+          {
+            "from": 174400,
+            "rate": 0.088
+          },
+          {
+            "from": 379150,
+            "rate": 0.0895
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 57650,
+            "rate": 0.068
+          },
+          {
+            "from": 139350,
+            "rate": 0.078
+          },
+          {
+            "from": 212300,
+            "rate": 0.088
+          },
+          {
+            "from": 379150,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9500,
+        "marriedJoint": 19000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VT/2011/2011incbk-web.pdf",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 35350,
+            "rate": 0.068
+          },
+          {
+            "from": 85650,
+            "rate": 0.078
+          },
+          {
+            "from": 178650,
+            "rate": 0.088
+          },
+          {
+            "from": 388350,
+            "rate": 0.0895
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 59050,
+            "rate": 0.068
+          },
+          {
+            "from": 142700,
+            "rate": 0.078
+          },
+          {
+            "from": 217450,
+            "rate": 0.088
+          },
+          {
+            "from": 388350,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9750,
+        "marriedJoint": 19500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VT/2012/2012IncBk-web.pdf",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 36250,
+            "rate": 0.068
+          },
+          {
+            "from": 87850,
+            "rate": 0.078
+          },
+          {
+            "from": 183250,
+            "rate": 0.088
+          },
+          {
+            "from": 398350,
+            "rate": 0.0895
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 60550,
+            "rate": 0.068
+          },
+          {
+            "from": 146400,
+            "rate": 0.078
+          },
+          {
+            "from": 223050,
+            "rate": 0.088
+          },
+          {
+            "from": 398350,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10000,
+        "marriedJoint": 20000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VT/2013/2013IncBk-web.pdf",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 36900,
+            "rate": 0.068
+          },
+          {
+            "from": 89350,
+            "rate": 0.078
+          },
+          {
+            "from": 186350,
+            "rate": 0.088
+          },
+          {
+            "from": 405100,
+            "rate": 0.0895
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 61600,
+            "rate": 0.068
+          },
+          {
+            "from": 148850,
+            "rate": 0.078
+          },
+          {
+            "from": 226850,
+            "rate": 0.088
+          },
+          {
+            "from": 405100,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10150,
+        "marriedJoint": 20300
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VT/2014/2014IncBk-web.pdf",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 37450,
+            "rate": 0.068
+          },
+          {
+            "from": 90750,
+            "rate": 0.078
+          },
+          {
+            "from": 189300,
+            "rate": 0.088
+          },
+          {
+            "from": 411500,
+            "rate": 0.0895
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 50200,
+            "rate": 0.068
+          },
+          {
+            "from": 129600,
+            "rate": 0.078
+          },
+          {
+            "from": 209850,
+            "rate": 0.088
+          },
+          {
+            "from": 411500,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10300,
+        "marriedJoint": 20600
+      },
+      "source": "https://web.archive.org/web/20160207092610/http://tax.vermont.gov/sites/tax/files/documents/2015-IN-111-Instr.pdf",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year. 2015 Form IN-111 Instructions, '2015 VT Rate Schedules' (Schedules X and Y-1), Wayback copy. Above $150,000 AGI tax is at least 3% of AGI."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 37650,
+            "rate": 0.068
+          },
+          {
+            "from": 91150,
+            "rate": 0.078
+          },
+          {
+            "from": 190150,
+            "rate": 0.088
+          },
+          {
+            "from": 413350,
+            "rate": 0.0895
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 62850,
+            "rate": 0.068
+          },
+          {
+            "from": 151900,
+            "rate": 0.078
+          },
+          {
+            "from": 231450,
+            "rate": 0.088
+          },
+          {
+            "from": 413350,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10350,
+        "marriedJoint": 20700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VT/2016/2016-IN-111-Instr.pdf",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year. Above $150,000 AGI tax is at least 3% of AGI."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 37900,
+            "rate": 0.068
+          },
+          {
+            "from": 91850,
+            "rate": 0.078
+          },
+          {
+            "from": 191650,
+            "rate": 0.088
+          },
+          {
+            "from": 416650,
+            "rate": 0.0895
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0355
+          },
+          {
+            "from": 63300,
+            "rate": 0.068
+          },
+          {
+            "from": 153100,
+            "rate": 0.078
+          },
+          {
+            "from": 233300,
+            "rate": 0.088
+          },
+          {
+            "from": 416650,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10400,
+        "marriedJoint": 20800
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VT/2017/IN-111%20Instr.pdf",
+      "notes": "Vermont rate schedule applied to federal taxable income (with Vermont adjustments, e.g. capital gains exclusion), so the deduction is the federal standard deduction + exemptions for that year. Above $150,000 AGI tax is at least 3% of AGI."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 38700,
+            "rate": 0.066
+          },
+          {
+            "from": 93700,
+            "rate": 0.076
+          },
+          {
+            "from": 195450,
+            "rate": 0.0875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 64600,
+            "rate": 0.066
+          },
+          {
+            "from": 156150,
+            "rate": 0.076
+          },
+          {
+            "from": 237950,
+            "rate": 0.0875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10150,
+        "marriedJoint": 20300
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VT/2018/IN-111%20Instr.pdf",
+      "notes": "Deduction is the $6,000 / $12,000 Vermont standard deduction plus the $4,150 per person exemption. Above $150,000 AGI tax is at least 3% of AGI."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 39600,
+            "rate": 0.066
+          },
+          {
+            "from": 96000,
+            "rate": 0.076
+          },
+          {
+            "from": 200200,
+            "rate": 0.0875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 66150,
+            "rate": 0.066
+          },
+          {
+            "from": 159950,
+            "rate": 0.076
+          },
+          {
+            "from": 243750,
+            "rate": 0.0875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10400,
+        "marriedJoint": 20800
+      },
+      "source": "https://tax.vermont.gov/sites/tax/files/documents/RateSched-2019.pdf",
+      "notes": "Deduction is the $6,150 / $12,300 Vermont standard deduction plus the $4,250 per person exemption. Above $150,000 AGI tax is at least 3% of AGI."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 40350,
+            "rate": 0.066
+          },
+          {
+            "from": 97800,
+            "rate": 0.076
+          },
+          {
+            "from": 204000,
+            "rate": 0.0875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 67450,
+            "rate": 0.066
+          },
+          {
+            "from": 163000,
+            "rate": 0.076
+          },
+          {
+            "from": 248350,
+            "rate": 0.0875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10600,
+        "marriedJoint": 21200
+      },
+      "source": "https://tax.vermont.gov/sites/tax/files/documents/RateSched-2020.pdf",
+      "notes": "Deduction is the $6,250 / $12,500 Vermont standard deduction plus the $4,350 per person exemption. Above $150,000 AGI tax is at least 3% of AGI."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 40950,
+            "rate": 0.066
+          },
+          {
+            "from": 99200,
+            "rate": 0.076
+          },
+          {
+            "from": 206950,
+            "rate": 0.0875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 68400,
+            "rate": 0.066
+          },
+          {
+            "from": 165350,
+            "rate": 0.076
+          },
+          {
+            "from": 251950,
+            "rate": 0.0875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10700,
+        "marriedJoint": 21400
+      },
+      "source": "https://tax.vermont.gov/sites/tax/files/documents/RateSched-2021.pdf",
+      "notes": "Deduction is the $6,350 / $12,700 Vermont standard deduction plus the $4,350 per person exemption. Above $150,000 AGI tax is at least 3% of AGI."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 42150,
+            "rate": 0.066
+          },
+          {
+            "from": 102200,
+            "rate": 0.076
+          },
+          {
+            "from": 213150,
+            "rate": 0.0875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 70450,
+            "rate": 0.066
+          },
+          {
+            "from": 170300,
+            "rate": 0.076
+          },
+          {
+            "from": 259500,
+            "rate": 0.0875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 11000,
+        "marriedJoint": 22050
+      },
+      "source": "https://tax.vermont.gov/sites/tax/files/documents/RateSched-2022.pdf",
+      "notes": "Deduction is the $6,500 / $13,050 Vermont standard deduction plus the $4,500 per person exemption. Above $150,000 AGI tax is at least 3% of AGI."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 45400,
+            "rate": 0.066
+          },
+          {
+            "from": 110050,
+            "rate": 0.076
+          },
+          {
+            "from": 229550,
+            "rate": 0.0875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 75850,
+            "rate": 0.066
+          },
+          {
+            "from": 183400,
+            "rate": 0.076
+          },
+          {
+            "from": 279450,
+            "rate": 0.0875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 11850,
+        "marriedJoint": 23750
+      },
+      "source": "https://tax.vermont.gov/sites/tax/files/documents/RateSched-2023.pdf",
+      "notes": "Deduction is the $7,000 / $14,050 Vermont standard deduction plus the $4,850 per person exemption. Above $150,000 AGI tax is at least 3% of AGI."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 47900,
+            "rate": 0.066
+          },
+          {
+            "from": 116000,
+            "rate": 0.076
+          },
+          {
+            "from": 242000,
+            "rate": 0.0875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 79950,
+            "rate": 0.066
+          },
+          {
+            "from": 193300,
+            "rate": 0.076
+          },
+          {
+            "from": 294600,
+            "rate": 0.0875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12500,
+        "marriedJoint": 25050
+      },
+      "source": "https://tax.vermont.gov/sites/tax/files/documents/RateSched-2024.pdf",
+      "notes": "Above $150,000 AGI tax is at least 3% of AGI. Deduction is the $7,400 / $14,850 standard deduction plus the $5,100 per person exemption."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 49400,
+            "rate": 0.066
+          },
+          {
+            "from": 119700,
+            "rate": 0.076
+          },
+          {
+            "from": 249700,
+            "rate": 0.0875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 82500,
+            "rate": 0.066
+          },
+          {
+            "from": 199450,
+            "rate": 0.076
+          },
+          {
+            "from": 304000,
+            "rate": 0.0875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12950,
+        "marriedJoint": 25900
+      },
+      "source": "https://tax.vermont.gov/sites/tax/files/documents/TaxRateSched-2025.pdf",
+      "notes": "Above $150,000 AGI tax is at least 3% of AGI. Deduction is the $7,650 / $15,300 standard deduction plus the $5,300 per person exemption."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 49400,
+            "rate": 0.066
+          },
+          {
+            "from": 119700,
+            "rate": 0.076
+          },
+          {
+            "from": 249700,
+            "rate": 0.0875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0335
+          },
+          {
+            "from": 82500,
+            "rate": 0.066
+          },
+          {
+            "from": 199450,
+            "rate": 0.076
+          },
+          {
+            "from": 304000,
+            "rate": 0.0875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12950,
+        "marriedJoint": 25900
+      },
+      "source": "https://tax.vermont.gov/sites/tax/files/documents/TaxRateSched-2025.pdf",
+      "notes": "2026 return brackets aren't published yet, so these are 2025. Above $150,000 AGI tax is at least 3% of AGI. Deduction is the $7,650 / $15,300 standard deduction plus the $5,300 per person exemption."
+    }
+  }
+}

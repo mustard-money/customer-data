@@ -1,0 +1,2047 @@
+{
+  "id": "us-state-AK",
+  "kind": "state",
+  "region": "Alaska",
+  "state": "AK",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.032
+          },
+          {
+            "from": 2000,
+            "rate": 0.0352
+          },
+          {
+            "from": 4000,
+            "rate": 0.0416
+          },
+          {
+            "from": 6000,
+            "rate": 0.048
+          },
+          {
+            "from": 8000,
+            "rate": 0.0544
+          },
+          {
+            "from": 10000,
+            "rate": 0.0608
+          },
+          {
+            "from": 12000,
+            "rate": 0.0688
+          },
+          {
+            "from": 14000,
+            "rate": 0.0752
+          },
+          {
+            "from": 16000,
+            "rate": 0.08
+          },
+          {
+            "from": 18000,
+            "rate": 0.0848
+          },
+          {
+            "from": 20000,
+            "rate": 0.0896
+          },
+          {
+            "from": 22000,
+            "rate": 0.0944
+          },
+          {
+            "from": 26000,
+            "rate": 0.0992
+          },
+          {
+            "from": 32000,
+            "rate": 0.104
+          },
+          {
+            "from": 38000,
+            "rate": 0.1104
+          },
+          {
+            "from": 44000,
+            "rate": 0.1152
+          },
+          {
+            "from": 50000,
+            "rate": 0.12
+          },
+          {
+            "from": 60000,
+            "rate": 0.1248
+          },
+          {
+            "from": 70000,
+            "rate": 0.1296
+          },
+          {
+            "from": 80000,
+            "rate": 0.1344
+          },
+          {
+            "from": 90000,
+            "rate": 0.1392
+          },
+          {
+            "from": 100000,
+            "rate": 0.1424
+          },
+          {
+            "from": 150000,
+            "rate": 0.144
+          },
+          {
+            "from": 200000,
+            "rate": 0.1456
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.032
+          },
+          {
+            "from": 4000,
+            "rate": 0.0352
+          },
+          {
+            "from": 8000,
+            "rate": 0.0416
+          },
+          {
+            "from": 12000,
+            "rate": 0.048
+          },
+          {
+            "from": 16000,
+            "rate": 0.0544
+          },
+          {
+            "from": 20000,
+            "rate": 0.0608
+          },
+          {
+            "from": 24000,
+            "rate": 0.0688
+          },
+          {
+            "from": 28000,
+            "rate": 0.0752
+          },
+          {
+            "from": 32000,
+            "rate": 0.08
+          },
+          {
+            "from": 36000,
+            "rate": 0.0848
+          },
+          {
+            "from": 40000,
+            "rate": 0.0896
+          },
+          {
+            "from": 44000,
+            "rate": 0.0944
+          },
+          {
+            "from": 52000,
+            "rate": 0.0992
+          },
+          {
+            "from": 64000,
+            "rate": 0.104
+          },
+          {
+            "from": 76000,
+            "rate": 0.1104
+          },
+          {
+            "from": 88000,
+            "rate": 0.1152
+          },
+          {
+            "from": 100000,
+            "rate": 0.12
+          },
+          {
+            "from": 120000,
+            "rate": 0.1248
+          },
+          {
+            "from": 140000,
+            "rate": 0.1296
+          },
+          {
+            "from": 160000,
+            "rate": 0.1344
+          },
+          {
+            "from": 180000,
+            "rate": 0.1392
+          },
+          {
+            "from": 200000,
+            "rate": 0.1424
+          },
+          {
+            "from": 300000,
+            "rate": 0.144
+          },
+          {
+            "from": 400000,
+            "rate": 0.1456
+          }
+        ]
+      },
+      "deduction": {
+        "single": 625,
+        "marriedJoint": 1250
+      },
+      "source": "https://www.akleg.gov/pdf/03/Bills/Final/CH%2010%20SLA%201964.pdf",
+      "notes": "16% of the federal tax computed at the federal rates in effect Dec 31, 1963 (AS 43.20.010(a) as re-enacted by ch. 69 SLA 1965, retroactive to 1964); schedule is the explicit one in ch. 10 SLA 1964 (= 16% x 1963 federal rates). Applied to federal taxable income, so deduction = federal personal exemptions; the federal percentage standard deduction/low-income allowance is not modelled. Federal 1970 surcharge does not apply (1963 rates). $10 school tax per wage earner not modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.032
+          },
+          {
+            "from": 2000,
+            "rate": 0.0352
+          },
+          {
+            "from": 4000,
+            "rate": 0.0416
+          },
+          {
+            "from": 6000,
+            "rate": 0.048
+          },
+          {
+            "from": 8000,
+            "rate": 0.0544
+          },
+          {
+            "from": 10000,
+            "rate": 0.0608
+          },
+          {
+            "from": 12000,
+            "rate": 0.0688
+          },
+          {
+            "from": 14000,
+            "rate": 0.0752
+          },
+          {
+            "from": 16000,
+            "rate": 0.08
+          },
+          {
+            "from": 18000,
+            "rate": 0.0848
+          },
+          {
+            "from": 20000,
+            "rate": 0.0896
+          },
+          {
+            "from": 22000,
+            "rate": 0.0944
+          },
+          {
+            "from": 26000,
+            "rate": 0.0992
+          },
+          {
+            "from": 32000,
+            "rate": 0.104
+          },
+          {
+            "from": 38000,
+            "rate": 0.1104
+          },
+          {
+            "from": 44000,
+            "rate": 0.1152
+          },
+          {
+            "from": 50000,
+            "rate": 0.12
+          },
+          {
+            "from": 60000,
+            "rate": 0.1248
+          },
+          {
+            "from": 70000,
+            "rate": 0.1296
+          },
+          {
+            "from": 80000,
+            "rate": 0.1344
+          },
+          {
+            "from": 90000,
+            "rate": 0.1392
+          },
+          {
+            "from": 100000,
+            "rate": 0.1424
+          },
+          {
+            "from": 150000,
+            "rate": 0.144
+          },
+          {
+            "from": 200000,
+            "rate": 0.1456
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.032
+          },
+          {
+            "from": 4000,
+            "rate": 0.0352
+          },
+          {
+            "from": 8000,
+            "rate": 0.0416
+          },
+          {
+            "from": 12000,
+            "rate": 0.048
+          },
+          {
+            "from": 16000,
+            "rate": 0.0544
+          },
+          {
+            "from": 20000,
+            "rate": 0.0608
+          },
+          {
+            "from": 24000,
+            "rate": 0.0688
+          },
+          {
+            "from": 28000,
+            "rate": 0.0752
+          },
+          {
+            "from": 32000,
+            "rate": 0.08
+          },
+          {
+            "from": 36000,
+            "rate": 0.0848
+          },
+          {
+            "from": 40000,
+            "rate": 0.0896
+          },
+          {
+            "from": 44000,
+            "rate": 0.0944
+          },
+          {
+            "from": 52000,
+            "rate": 0.0992
+          },
+          {
+            "from": 64000,
+            "rate": 0.104
+          },
+          {
+            "from": 76000,
+            "rate": 0.1104
+          },
+          {
+            "from": 88000,
+            "rate": 0.1152
+          },
+          {
+            "from": 100000,
+            "rate": 0.12
+          },
+          {
+            "from": 120000,
+            "rate": 0.1248
+          },
+          {
+            "from": 140000,
+            "rate": 0.1296
+          },
+          {
+            "from": 160000,
+            "rate": 0.1344
+          },
+          {
+            "from": 180000,
+            "rate": 0.1392
+          },
+          {
+            "from": 200000,
+            "rate": 0.1424
+          },
+          {
+            "from": 300000,
+            "rate": 0.144
+          },
+          {
+            "from": 400000,
+            "rate": 0.1456
+          }
+        ]
+      },
+      "deduction": {
+        "single": 675,
+        "marriedJoint": 1350
+      },
+      "source": "https://www.akleg.gov/pdf/03/Bills/Final/CH%2010%20SLA%201964.pdf",
+      "notes": "16% of the federal tax computed at the federal rates in effect Dec 31, 1963 (AS 43.20.010(a) as re-enacted by ch. 69 SLA 1965, retroactive to 1964); schedule is the explicit one in ch. 10 SLA 1964 (= 16% x 1963 federal rates). Applied to federal taxable income, so deduction = federal personal exemptions; the federal percentage standard deduction/low-income allowance is not modelled. Federal 1970 surcharge does not apply (1963 rates). $10 school tax per wage earner not modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.032
+          },
+          {
+            "from": 2000,
+            "rate": 0.0352
+          },
+          {
+            "from": 4000,
+            "rate": 0.0416
+          },
+          {
+            "from": 6000,
+            "rate": 0.048
+          },
+          {
+            "from": 8000,
+            "rate": 0.0544
+          },
+          {
+            "from": 10000,
+            "rate": 0.0608
+          },
+          {
+            "from": 12000,
+            "rate": 0.0688
+          },
+          {
+            "from": 14000,
+            "rate": 0.0752
+          },
+          {
+            "from": 16000,
+            "rate": 0.08
+          },
+          {
+            "from": 18000,
+            "rate": 0.0848
+          },
+          {
+            "from": 20000,
+            "rate": 0.0896
+          },
+          {
+            "from": 22000,
+            "rate": 0.0944
+          },
+          {
+            "from": 26000,
+            "rate": 0.0992
+          },
+          {
+            "from": 32000,
+            "rate": 0.104
+          },
+          {
+            "from": 38000,
+            "rate": 0.1104
+          },
+          {
+            "from": 44000,
+            "rate": 0.1152
+          },
+          {
+            "from": 50000,
+            "rate": 0.12
+          },
+          {
+            "from": 60000,
+            "rate": 0.1248
+          },
+          {
+            "from": 70000,
+            "rate": 0.1296
+          },
+          {
+            "from": 80000,
+            "rate": 0.1344
+          },
+          {
+            "from": 90000,
+            "rate": 0.1392
+          },
+          {
+            "from": 100000,
+            "rate": 0.1424
+          },
+          {
+            "from": 150000,
+            "rate": 0.144
+          },
+          {
+            "from": 200000,
+            "rate": 0.1456
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.032
+          },
+          {
+            "from": 4000,
+            "rate": 0.0352
+          },
+          {
+            "from": 8000,
+            "rate": 0.0416
+          },
+          {
+            "from": 12000,
+            "rate": 0.048
+          },
+          {
+            "from": 16000,
+            "rate": 0.0544
+          },
+          {
+            "from": 20000,
+            "rate": 0.0608
+          },
+          {
+            "from": 24000,
+            "rate": 0.0688
+          },
+          {
+            "from": 28000,
+            "rate": 0.0752
+          },
+          {
+            "from": 32000,
+            "rate": 0.08
+          },
+          {
+            "from": 36000,
+            "rate": 0.0848
+          },
+          {
+            "from": 40000,
+            "rate": 0.0896
+          },
+          {
+            "from": 44000,
+            "rate": 0.0944
+          },
+          {
+            "from": 52000,
+            "rate": 0.0992
+          },
+          {
+            "from": 64000,
+            "rate": 0.104
+          },
+          {
+            "from": 76000,
+            "rate": 0.1104
+          },
+          {
+            "from": 88000,
+            "rate": 0.1152
+          },
+          {
+            "from": 100000,
+            "rate": 0.12
+          },
+          {
+            "from": 120000,
+            "rate": 0.1248
+          },
+          {
+            "from": 140000,
+            "rate": 0.1296
+          },
+          {
+            "from": 160000,
+            "rate": 0.1344
+          },
+          {
+            "from": 180000,
+            "rate": 0.1392
+          },
+          {
+            "from": 200000,
+            "rate": 0.1424
+          },
+          {
+            "from": 300000,
+            "rate": 0.144
+          },
+          {
+            "from": 400000,
+            "rate": 0.1456
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.akleg.gov/pdf/03/Bills/Final/CH%2010%20SLA%201964.pdf",
+      "notes": "16% of the federal tax computed at the federal rates in effect Dec 31, 1963 (AS 43.20.010(a) as re-enacted by ch. 69 SLA 1965, retroactive to 1964); schedule is the explicit one in ch. 10 SLA 1964 (= 16% x 1963 federal rates). Applied to federal taxable income, so deduction = federal personal exemptions; the federal percentage standard deduction/low-income allowance is not modelled. Federal 1970 surcharge does not apply (1963 rates). $10 school tax per wage earner not modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.032
+          },
+          {
+            "from": 2000,
+            "rate": 0.0352
+          },
+          {
+            "from": 4000,
+            "rate": 0.0416
+          },
+          {
+            "from": 6000,
+            "rate": 0.048
+          },
+          {
+            "from": 8000,
+            "rate": 0.0544
+          },
+          {
+            "from": 10000,
+            "rate": 0.0608
+          },
+          {
+            "from": 12000,
+            "rate": 0.0688
+          },
+          {
+            "from": 14000,
+            "rate": 0.0752
+          },
+          {
+            "from": 16000,
+            "rate": 0.08
+          },
+          {
+            "from": 18000,
+            "rate": 0.0848
+          },
+          {
+            "from": 20000,
+            "rate": 0.0896
+          },
+          {
+            "from": 22000,
+            "rate": 0.0944
+          },
+          {
+            "from": 26000,
+            "rate": 0.0992
+          },
+          {
+            "from": 32000,
+            "rate": 0.104
+          },
+          {
+            "from": 38000,
+            "rate": 0.1104
+          },
+          {
+            "from": 44000,
+            "rate": 0.1152
+          },
+          {
+            "from": 50000,
+            "rate": 0.12
+          },
+          {
+            "from": 60000,
+            "rate": 0.1248
+          },
+          {
+            "from": 70000,
+            "rate": 0.1296
+          },
+          {
+            "from": 80000,
+            "rate": 0.1344
+          },
+          {
+            "from": 90000,
+            "rate": 0.1392
+          },
+          {
+            "from": 100000,
+            "rate": 0.1424
+          },
+          {
+            "from": 150000,
+            "rate": 0.144
+          },
+          {
+            "from": 200000,
+            "rate": 0.1456
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.032
+          },
+          {
+            "from": 4000,
+            "rate": 0.0352
+          },
+          {
+            "from": 8000,
+            "rate": 0.0416
+          },
+          {
+            "from": 12000,
+            "rate": 0.048
+          },
+          {
+            "from": 16000,
+            "rate": 0.0544
+          },
+          {
+            "from": 20000,
+            "rate": 0.0608
+          },
+          {
+            "from": 24000,
+            "rate": 0.0688
+          },
+          {
+            "from": 28000,
+            "rate": 0.0752
+          },
+          {
+            "from": 32000,
+            "rate": 0.08
+          },
+          {
+            "from": 36000,
+            "rate": 0.0848
+          },
+          {
+            "from": 40000,
+            "rate": 0.0896
+          },
+          {
+            "from": 44000,
+            "rate": 0.0944
+          },
+          {
+            "from": 52000,
+            "rate": 0.0992
+          },
+          {
+            "from": 64000,
+            "rate": 0.104
+          },
+          {
+            "from": 76000,
+            "rate": 0.1104
+          },
+          {
+            "from": 88000,
+            "rate": 0.1152
+          },
+          {
+            "from": 100000,
+            "rate": 0.12
+          },
+          {
+            "from": 120000,
+            "rate": 0.1248
+          },
+          {
+            "from": 140000,
+            "rate": 0.1296
+          },
+          {
+            "from": 160000,
+            "rate": 0.1344
+          },
+          {
+            "from": 180000,
+            "rate": 0.1392
+          },
+          {
+            "from": 200000,
+            "rate": 0.1424
+          },
+          {
+            "from": 300000,
+            "rate": 0.144
+          },
+          {
+            "from": 400000,
+            "rate": 0.1456
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.akleg.gov/pdf/03/Bills/Final/CH%2010%20SLA%201964.pdf",
+      "notes": "16% of the federal tax computed at the federal rates in effect Dec 31, 1963 (AS 43.20.010(a) as re-enacted by ch. 69 SLA 1965, retroactive to 1964); schedule is the explicit one in ch. 10 SLA 1964 (= 16% x 1963 federal rates). Applied to federal taxable income, so deduction = federal personal exemptions; the federal percentage standard deduction/low-income allowance is not modelled. Federal 1970 surcharge does not apply (1963 rates). $10 school tax per wage earner not modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.032
+          },
+          {
+            "from": 2000,
+            "rate": 0.0352
+          },
+          {
+            "from": 4000,
+            "rate": 0.0416
+          },
+          {
+            "from": 6000,
+            "rate": 0.048
+          },
+          {
+            "from": 8000,
+            "rate": 0.0544
+          },
+          {
+            "from": 10000,
+            "rate": 0.0608
+          },
+          {
+            "from": 12000,
+            "rate": 0.0688
+          },
+          {
+            "from": 14000,
+            "rate": 0.0752
+          },
+          {
+            "from": 16000,
+            "rate": 0.08
+          },
+          {
+            "from": 18000,
+            "rate": 0.0848
+          },
+          {
+            "from": 20000,
+            "rate": 0.0896
+          },
+          {
+            "from": 22000,
+            "rate": 0.0944
+          },
+          {
+            "from": 26000,
+            "rate": 0.0992
+          },
+          {
+            "from": 32000,
+            "rate": 0.104
+          },
+          {
+            "from": 38000,
+            "rate": 0.1104
+          },
+          {
+            "from": 44000,
+            "rate": 0.1152
+          },
+          {
+            "from": 50000,
+            "rate": 0.12
+          },
+          {
+            "from": 60000,
+            "rate": 0.1248
+          },
+          {
+            "from": 70000,
+            "rate": 0.1296
+          },
+          {
+            "from": 80000,
+            "rate": 0.1344
+          },
+          {
+            "from": 90000,
+            "rate": 0.1392
+          },
+          {
+            "from": 100000,
+            "rate": 0.1424
+          },
+          {
+            "from": 150000,
+            "rate": 0.144
+          },
+          {
+            "from": 200000,
+            "rate": 0.1456
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.032
+          },
+          {
+            "from": 4000,
+            "rate": 0.0352
+          },
+          {
+            "from": 8000,
+            "rate": 0.0416
+          },
+          {
+            "from": 12000,
+            "rate": 0.048
+          },
+          {
+            "from": 16000,
+            "rate": 0.0544
+          },
+          {
+            "from": 20000,
+            "rate": 0.0608
+          },
+          {
+            "from": 24000,
+            "rate": 0.0688
+          },
+          {
+            "from": 28000,
+            "rate": 0.0752
+          },
+          {
+            "from": 32000,
+            "rate": 0.08
+          },
+          {
+            "from": 36000,
+            "rate": 0.0848
+          },
+          {
+            "from": 40000,
+            "rate": 0.0896
+          },
+          {
+            "from": 44000,
+            "rate": 0.0944
+          },
+          {
+            "from": 52000,
+            "rate": 0.0992
+          },
+          {
+            "from": 64000,
+            "rate": 0.104
+          },
+          {
+            "from": 76000,
+            "rate": 0.1104
+          },
+          {
+            "from": 88000,
+            "rate": 0.1152
+          },
+          {
+            "from": 100000,
+            "rate": 0.12
+          },
+          {
+            "from": 120000,
+            "rate": 0.1248
+          },
+          {
+            "from": 140000,
+            "rate": 0.1296
+          },
+          {
+            "from": 160000,
+            "rate": 0.1344
+          },
+          {
+            "from": 180000,
+            "rate": 0.1392
+          },
+          {
+            "from": 200000,
+            "rate": 0.1424
+          },
+          {
+            "from": 300000,
+            "rate": 0.144
+          },
+          {
+            "from": 400000,
+            "rate": 0.1456
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.akleg.gov/pdf/03/Bills/Final/CH%2010%20SLA%201964.pdf",
+      "notes": "16% of the federal tax computed at the federal rates in effect Dec 31, 1963 (AS 43.20.010(a) as re-enacted by ch. 69 SLA 1965, retroactive to 1964); schedule is the explicit one in ch. 10 SLA 1964 (= 16% x 1963 federal rates). Applied to federal taxable income, so deduction = federal personal exemptions; the federal percentage standard deduction/low-income allowance is not modelled. Federal 1970 surcharge does not apply (1963 rates). $10 school tax per wage earner not modelled."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 12000,
+            "rate": 0.07
+          },
+          {
+            "from": 14000,
+            "rate": 0.075
+          },
+          {
+            "from": 16000,
+            "rate": 0.08
+          },
+          {
+            "from": 18000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.09
+          },
+          {
+            "from": 22000,
+            "rate": 0.095
+          },
+          {
+            "from": 26000,
+            "rate": 0.1
+          },
+          {
+            "from": 32000,
+            "rate": 0.105
+          },
+          {
+            "from": 38000,
+            "rate": 0.11
+          },
+          {
+            "from": 44000,
+            "rate": 0.115
+          },
+          {
+            "from": 50000,
+            "rate": 0.12
+          },
+          {
+            "from": 60000,
+            "rate": 0.125
+          },
+          {
+            "from": 70000,
+            "rate": 0.13
+          },
+          {
+            "from": 80000,
+            "rate": 0.135
+          },
+          {
+            "from": 90000,
+            "rate": 0.14
+          },
+          {
+            "from": 150000,
+            "rate": 0.145
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 8000,
+            "rate": 0.04
+          },
+          {
+            "from": 12000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.055
+          },
+          {
+            "from": 20000,
+            "rate": 0.06
+          },
+          {
+            "from": 24000,
+            "rate": 0.07
+          },
+          {
+            "from": 28000,
+            "rate": 0.075
+          },
+          {
+            "from": 32000,
+            "rate": 0.08
+          },
+          {
+            "from": 36000,
+            "rate": 0.085
+          },
+          {
+            "from": 40000,
+            "rate": 0.09
+          },
+          {
+            "from": 44000,
+            "rate": 0.095
+          },
+          {
+            "from": 52000,
+            "rate": 0.1
+          },
+          {
+            "from": 64000,
+            "rate": 0.105
+          },
+          {
+            "from": 76000,
+            "rate": 0.11
+          },
+          {
+            "from": 88000,
+            "rate": 0.115
+          },
+          {
+            "from": 100000,
+            "rate": 0.12
+          },
+          {
+            "from": 120000,
+            "rate": 0.125
+          },
+          {
+            "from": 140000,
+            "rate": 0.13
+          },
+          {
+            "from": 160000,
+            "rate": 0.135
+          },
+          {
+            "from": 180000,
+            "rate": 0.14
+          },
+          {
+            "from": 300000,
+            "rate": 0.145
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.akleg.gov/pdf/billfiles/SLAs/SLA%201975/CH%2070%20SLA%201975.pdf",
+      "notes": "Graduated schedule of AS 43.20.011 (ch. 70 SLA 1975, retroactive to Jan 1, 1975) on federal taxable income; deduction = federal $750 exemptions, federal percentage standard deduction not modelled. 9.5% maximum rate on earned income (IRC 1348 via ch. 125 SLA 1976, retroactive to 1975) not modelled. Head-of-household schedule exists. $10 school tax not modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 12000,
+            "rate": 0.07
+          },
+          {
+            "from": 14000,
+            "rate": 0.075
+          },
+          {
+            "from": 16000,
+            "rate": 0.08
+          },
+          {
+            "from": 18000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.09
+          },
+          {
+            "from": 22000,
+            "rate": 0.095
+          },
+          {
+            "from": 26000,
+            "rate": 0.1
+          },
+          {
+            "from": 32000,
+            "rate": 0.105
+          },
+          {
+            "from": 38000,
+            "rate": 0.11
+          },
+          {
+            "from": 44000,
+            "rate": 0.115
+          },
+          {
+            "from": 50000,
+            "rate": 0.12
+          },
+          {
+            "from": 60000,
+            "rate": 0.125
+          },
+          {
+            "from": 70000,
+            "rate": 0.13
+          },
+          {
+            "from": 80000,
+            "rate": 0.135
+          },
+          {
+            "from": 90000,
+            "rate": 0.14
+          },
+          {
+            "from": 150000,
+            "rate": 0.145
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 8000,
+            "rate": 0.04
+          },
+          {
+            "from": 12000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.055
+          },
+          {
+            "from": 20000,
+            "rate": 0.06
+          },
+          {
+            "from": 24000,
+            "rate": 0.07
+          },
+          {
+            "from": 28000,
+            "rate": 0.075
+          },
+          {
+            "from": 32000,
+            "rate": 0.08
+          },
+          {
+            "from": 36000,
+            "rate": 0.085
+          },
+          {
+            "from": 40000,
+            "rate": 0.09
+          },
+          {
+            "from": 44000,
+            "rate": 0.095
+          },
+          {
+            "from": 52000,
+            "rate": 0.1
+          },
+          {
+            "from": 64000,
+            "rate": 0.105
+          },
+          {
+            "from": 76000,
+            "rate": 0.11
+          },
+          {
+            "from": 88000,
+            "rate": 0.115
+          },
+          {
+            "from": 100000,
+            "rate": 0.12
+          },
+          {
+            "from": 120000,
+            "rate": 0.125
+          },
+          {
+            "from": 140000,
+            "rate": 0.13
+          },
+          {
+            "from": 160000,
+            "rate": 0.135
+          },
+          {
+            "from": 180000,
+            "rate": 0.14
+          },
+          {
+            "from": 300000,
+            "rate": 0.145
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.akleg.gov/pdf/billfiles/SLAs/SLA%201975/CH%2070%20SLA%201975.pdf",
+      "notes": "Graduated schedule of AS 43.20.011 (ch. 70 SLA 1975, retroactive to Jan 1, 1975) on federal taxable income; deduction = federal $750 exemptions, federal percentage standard deduction not modelled. 9.5% maximum rate on earned income (IRC 1348 via ch. 125 SLA 1976, retroactive to 1975) not modelled. Head-of-household schedule exists. $10 school tax not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 12000,
+            "rate": 0.07
+          },
+          {
+            "from": 14000,
+            "rate": 0.075
+          },
+          {
+            "from": 16000,
+            "rate": 0.08
+          },
+          {
+            "from": 18000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.09
+          },
+          {
+            "from": 22000,
+            "rate": 0.095
+          },
+          {
+            "from": 26000,
+            "rate": 0.1
+          },
+          {
+            "from": 32000,
+            "rate": 0.105
+          },
+          {
+            "from": 38000,
+            "rate": 0.11
+          },
+          {
+            "from": 44000,
+            "rate": 0.115
+          },
+          {
+            "from": 50000,
+            "rate": 0.12
+          },
+          {
+            "from": 60000,
+            "rate": 0.125
+          },
+          {
+            "from": 70000,
+            "rate": 0.13
+          },
+          {
+            "from": 80000,
+            "rate": 0.135
+          },
+          {
+            "from": 90000,
+            "rate": 0.14
+          },
+          {
+            "from": 150000,
+            "rate": 0.145
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 8000,
+            "rate": 0.04
+          },
+          {
+            "from": 12000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.055
+          },
+          {
+            "from": 20000,
+            "rate": 0.06
+          },
+          {
+            "from": 24000,
+            "rate": 0.07
+          },
+          {
+            "from": 28000,
+            "rate": 0.075
+          },
+          {
+            "from": 32000,
+            "rate": 0.08
+          },
+          {
+            "from": 36000,
+            "rate": 0.085
+          },
+          {
+            "from": 40000,
+            "rate": 0.09
+          },
+          {
+            "from": 44000,
+            "rate": 0.095
+          },
+          {
+            "from": 52000,
+            "rate": 0.1
+          },
+          {
+            "from": 64000,
+            "rate": 0.105
+          },
+          {
+            "from": 76000,
+            "rate": 0.11
+          },
+          {
+            "from": 88000,
+            "rate": 0.115
+          },
+          {
+            "from": 100000,
+            "rate": 0.12
+          },
+          {
+            "from": 120000,
+            "rate": 0.125
+          },
+          {
+            "from": 140000,
+            "rate": 0.13
+          },
+          {
+            "from": 160000,
+            "rate": 0.135
+          },
+          {
+            "from": 180000,
+            "rate": 0.14
+          },
+          {
+            "from": 300000,
+            "rate": 0.145
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2950,
+        "marriedJoint": 4700
+      },
+      "source": "https://www.akleg.gov/pdf/billfiles/SLAs/SLA%201978/CH%208%20SLA%201978.pdf",
+      "notes": "AS 43.20.011 schedule (ch. 70 SLA 1975) unchanged. Ch. 8 SLA 1978 allowed a minimum deduction equal to the federal zero bracket amount ($2,200/$3,200), retroactive to 1977 (for 1977 given as a refund), plus $750 federal exemptions. 9.5% maximum rate on earned income not modelled. $10 school tax not modelled."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 12000,
+            "rate": 0.07
+          },
+          {
+            "from": 14000,
+            "rate": 0.075
+          },
+          {
+            "from": 16000,
+            "rate": 0.08
+          },
+          {
+            "from": 18000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.09
+          },
+          {
+            "from": 22000,
+            "rate": 0.095
+          },
+          {
+            "from": 26000,
+            "rate": 0.1
+          },
+          {
+            "from": 32000,
+            "rate": 0.105
+          },
+          {
+            "from": 38000,
+            "rate": 0.11
+          },
+          {
+            "from": 44000,
+            "rate": 0.115
+          },
+          {
+            "from": 50000,
+            "rate": 0.12
+          },
+          {
+            "from": 60000,
+            "rate": 0.125
+          },
+          {
+            "from": 70000,
+            "rate": 0.13
+          },
+          {
+            "from": 80000,
+            "rate": 0.135
+          },
+          {
+            "from": 90000,
+            "rate": 0.14
+          },
+          {
+            "from": 150000,
+            "rate": 0.145
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 8000,
+            "rate": 0.04
+          },
+          {
+            "from": 12000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.055
+          },
+          {
+            "from": 20000,
+            "rate": 0.06
+          },
+          {
+            "from": 24000,
+            "rate": 0.07
+          },
+          {
+            "from": 28000,
+            "rate": 0.075
+          },
+          {
+            "from": 32000,
+            "rate": 0.08
+          },
+          {
+            "from": 36000,
+            "rate": 0.085
+          },
+          {
+            "from": 40000,
+            "rate": 0.09
+          },
+          {
+            "from": 44000,
+            "rate": 0.095
+          },
+          {
+            "from": 52000,
+            "rate": 0.1
+          },
+          {
+            "from": 64000,
+            "rate": 0.105
+          },
+          {
+            "from": 76000,
+            "rate": 0.11
+          },
+          {
+            "from": 88000,
+            "rate": 0.115
+          },
+          {
+            "from": 100000,
+            "rate": 0.12
+          },
+          {
+            "from": 120000,
+            "rate": 0.125
+          },
+          {
+            "from": 140000,
+            "rate": 0.13
+          },
+          {
+            "from": 160000,
+            "rate": 0.135
+          },
+          {
+            "from": 180000,
+            "rate": 0.14
+          },
+          {
+            "from": 300000,
+            "rate": 0.145
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2950,
+        "marriedJoint": 4700
+      },
+      "source": "https://www.akleg.gov/pdf/billfiles/SLAs/SLA%201978/CH%208%20SLA%201978.pdf",
+      "notes": "AS 43.20.011 schedule (ch. 70 SLA 1975) unchanged. Ch. 8 SLA 1978 allowed a minimum deduction equal to the federal zero bracket amount ($2,200/$3,200), retroactive to 1977 (for 1977 given as a refund), plus $750 federal exemptions. 9.5% maximum rate on earned income not modelled. 1978 individual credit of $100 (first year filing; more in later years, ch. 144 SLA 1978) not modelled. $10 school tax not modelled."
+    },
+    "1979": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "Individual income tax repealed by ch. 2 SSSLA 1980 (approved Sept 24, 1980), retroactive to Jan 1, 1979, with 1979 taxes refunded. School tax also repealed in 1980."
+    },
+    "1980": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "Individual income tax repealed by ch. 2 SSSLA 1980 (approved Sept 24, 1980), retroactive to Jan 1, 1979, with 1979 taxes refunded. School tax also repealed in 1980."
+    },
+    "1981": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1982": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1983": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1984": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1985": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1986": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1987": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1988": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1989": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1990": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1991": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1992": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1993": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1994": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1995": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1996": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1997": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1998": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "1999": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2000": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2001": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2002": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2003": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2004": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2005": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2006": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2007": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2008": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2009": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2010": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2011": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2012": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2013": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2014": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2015": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2016": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2017": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2018": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2019": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2020": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2021": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2022": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2023": {
+      "type": "none",
+      "source": "https://www.akleg.gov/pdf/11/Bills/Final/CH%202%20SSSLA%201980.pdf",
+      "notes": "No individual income tax since the repeal by ch. 2 SSSLA 1980 (retroactive to tax year 1979)."
+    },
+    "2024": {
+      "type": "none",
+      "source": "https://comptroller.texas.gov/economy/fiscal-notes/archive/2016/february/starting.php",
+      "notes": "Alaska's revenue pages don't state it outright; the Texas Comptroller lists Alaska among the states with no personal income tax."
+    },
+    "2025": {
+      "type": "none",
+      "source": "https://comptroller.texas.gov/economy/fiscal-notes/archive/2016/february/starting.php",
+      "notes": "Alaska's revenue pages don't state it outright; the Texas Comptroller lists Alaska among the states with no personal income tax."
+    },
+    "2026": {
+      "type": "none",
+      "source": "https://comptroller.texas.gov/economy/fiscal-notes/archive/2016/february/starting.php",
+      "notes": "Alaska's revenue pages don't state it outright; the Texas Comptroller lists Alaska among the states with no personal income tax."
+    }
+  }
+}

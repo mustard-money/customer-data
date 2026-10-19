@@ -1,0 +1,60 @@
+{
+  "id": "us-local-benton-harbor",
+  "kind": "local",
+  "region": "Benton Harbor, MI",
+  "state": "MI",
+  "since": 2018,
+  "years": {
+    "2018": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://web.archive.org/web/20201001124830/https://bhcity.us/wp-content/uploads/2020/01/2018-CF1040-Individual-Tax-Return-Form.pdf",
+      "notes": "1% residents, 0.5% nonresidents, $750 per exemption (2018 CF-1040 forms and instructions, Wayback copy from the city site). The tax began January 1, 2018."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://web.archive.org/web/20210128030718/https://bhcity.us/wp-content/uploads/2020/01/CF1040-Instructions-and-forms.pdf",
+      "notes": "1% residents, 0.5% nonresidents, $750 per exemption (2019 CF-1040 forms and instructions, Wayback copy from the city site)."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://web.archive.org/web/20210419224256/https://bhcity.us/wp-content/uploads/2021/02/2020CF1040IndividualInstructionsForms2.pdf",
+      "notes": "1% residents, 0.5% nonresidents, $750 per exemption (2020 CF-1040 forms and instructions, Wayback copy from the city site)."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://web.archive.org/web/20220302203245/https://bhcity.us/wp-content/uploads/2022/02/2021-CF1040-Individual-Instructions-Forms.pdf",
+      "notes": "1% residents, 0.5% nonresidents, $750 per exemption (2021 CF-1040 forms and instructions, Wayback copy from the city site)."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "1% residents, 0.5% nonresidents: the rate fixed by the Uniform City Income Tax Ordinance (MCL 141.611) for a city that has not adopted a higher rate under MCL 141.503a; the city's 2021 and 2023 CF-1040 instructions both give 1% / 0.5% and $750 per exemption, and no 2022 instructions were located online."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.bhcity.us/pview.aspx?id=55010&catid=292",
+      "notes": "1% residents, 0.5% nonresidents (city Income Tax Department page; 2023 CF-1040 forms are published at https://www.bhcity.us/pview.aspx?id=55090&catid=292). The tax began January 1, 2018; no city document for 2018-2022 was located."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.cityofeastlansing.com/Faq.aspx?QID=405"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.cityofeastlansing.com/Faq.aspx?QID=405"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.cityofeastlansing.com/Faq.aspx?QID=405"
+    }
+  }
+}

@@ -1,0 +1,3509 @@
+{
+  "id": "us-state-NM",
+  "kind": "state",
+  "region": "New Mexico",
+  "state": "NM",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 500,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 1500,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          },
+          {
+            "from": 12000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.08
+          },
+          {
+            "from": 50000,
+            "rate": 0.085
+          },
+          {
+            "from": 100000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.015
+          },
+          {
+            "from": 3000,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.03
+          },
+          {
+            "from": 8000,
+            "rate": 0.035
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12000,
+            "rate": 0.045
+          },
+          {
+            "from": 14000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 20000,
+            "rate": 0.07
+          },
+          {
+            "from": 24000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.08
+          },
+          {
+            "from": 100000,
+            "rate": 0.085
+          },
+          {
+            "from": 200000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 625,
+        "marriedJoint": 1250
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 300,
+          "marriedJoint": 300
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/M-57.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1971 ed. (M-57), Table 36 (State Individual Income Taxes: Rates, December 31, 1970), Table 37 (personal exemptions, December 31, 1970: federal personal exemptions adopted, $625 each in 1970) and Table 38 (standard deduction, December 31, 1970: 10% of income, max $1,000 single / $500 married separate / $1,000 joint, standard minimum deduction $300). Deduction = federal personal exemptions; percentStandardDeduction = New Mexico's 10% standard deduction with its $300 minimum. The 1969 ed. (M-50, Table 40 of December 31, 1969) prints the same schedule. Single schedule as printed (1% on the first $500 rising to 9% over $100,000; the $501-$1,000 and $1,001-$1,500 steps are both printed at 1.5%); the table states that for heads of households and married individuals filing joint returns the rates apply to income classes twice as large, so marriedJoint doubles each bracket. The state's own income tax is deductible in computing the tax (table footnote; not modelled). Community property state (in general half the community income is taxable to each spouse). Later editions print a different schedule (0.9%-9% from the 1976-77 ed.) and give the joint schedule only as a range, so this file takes 1972 from the statute history and 1974-1976 from Laws 1974, ch. 88 (see those entries); 1977-1985 are not recorded."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 500,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 1500,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          },
+          {
+            "from": 12000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.08
+          },
+          {
+            "from": 50000,
+            "rate": 0.085
+          },
+          {
+            "from": 100000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.015
+          },
+          {
+            "from": 3000,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.03
+          },
+          {
+            "from": 8000,
+            "rate": 0.035
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12000,
+            "rate": 0.045
+          },
+          {
+            "from": 14000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 20000,
+            "rate": 0.07
+          },
+          {
+            "from": 24000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.08
+          },
+          {
+            "from": 100000,
+            "rate": 0.085
+          },
+          {
+            "from": 200000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 675,
+        "marriedJoint": 1350
+      },
+      "percentStandardDeduction": {
+        "rate": 0.13,
+        "minimum": {
+          "single": 1050,
+          "marriedJoint": 1050
+        },
+        "maximum": {
+          "single": 1500,
+          "marriedJoint": 1500
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/m-74.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1972 ed. (M-74), Table 91 (State Individual Income Taxes: Rates, December 31, 1971), Table 92 (personal exemptions, December 31, 1971: federal personal exemptions adopted, $675 each in 1971) and Table 93 (standard deduction, December 31, 1971: the federal standard deduction is adopted, with a low-income allowance). Deduction = federal personal exemptions; percentStandardDeduction = the 1971 federal standard deduction (13% of income, max $1,500, low-income allowance $1,050) as in this file's later years. Single schedule as printed (1% on the first $500 rising to 9% over $100,000; the $501-$1,000 and $1,001-$1,500 steps are both printed at 1.5%); the table states that for heads of households and married individuals filing joint returns the rates apply to income classes twice as large, so marriedJoint doubles each bracket. The state's own income tax is deductible in computing the tax (table footnote; not modelled). Community property state (in general half the community income is taxable to each spouse). Later editions print a different schedule (0.9%-9% from the 1976-77 ed.) and give the joint schedule only as a range, so this file takes 1972 from the statute history and 1974-1976 from Laws 1974, ch. 88 (see those entries); 1977-1985 are not recorded."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 500,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 1500,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          },
+          {
+            "from": 12000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.08
+          },
+          {
+            "from": 50000,
+            "rate": 0.085
+          },
+          {
+            "from": 100000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.015
+          },
+          {
+            "from": 3000,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.03
+          },
+          {
+            "from": 8000,
+            "rate": 0.035
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12000,
+            "rate": 0.045
+          },
+          {
+            "from": 14000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 20000,
+            "rate": 0.07
+          },
+          {
+            "from": 24000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.08
+          },
+          {
+            "from": 100000,
+            "rate": 0.085
+          },
+          {
+            "from": 200000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.15,
+        "minimum": {
+          "single": 1300,
+          "marriedJoint": 1300
+        },
+        "maximum": {
+          "single": 2000,
+          "marriedJoint": 2000
+        }
+      },
+      "source": "https://nmonesource.com/nmos/nmsa-historical/en/4249/1/document.do",
+      "notes": "Same law as 1971 and 1973. Statute history of the rate section (7-2-7 NMSA 1978, formerly 72-15A-5 NMSA 1953), from the historical NMSA 1978 compilation on NMOneSource (Chapter 7, 1989 edition): enacted Laws 1969, ch. 152, s. 3; amended 1974, ch. 88; 1978, ch. 179; 1981, ch. 37, s. 17; 1983, ch. 213, s. 2; 1986, ch. 20, s. 27. No amendment between Laws 1969, ch. 152 and Laws 1974, ch. 88, so 1972 keeps the schedule printed for December 31, 1971 and July 1, 1973 (see those entries; ACIR M-74 Table 91 and M-79 Table 141): 1% on the first $500 rising to 9% over $100,000, with joint and head-of-household brackets twice as large. Both ACIR editions say New Mexico adopted the federal personal exemptions and standard deduction (M-74 Tables 92-93, M-79 Tables 142-143), so 1972 uses the federal amounts for 1972: $750 per exemption and 15% of income, max $2,000, low-income allowance $1,300 (the same amounts as 1973). The state's own income tax is deductible in computing the tax (not modelled). Community property state (in general half the community income is taxable to each spouse). Credits and rebates not modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 500,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 1500,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.045
+          },
+          {
+            "from": 7000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          },
+          {
+            "from": 12000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.08
+          },
+          {
+            "from": 50000,
+            "rate": 0.085
+          },
+          {
+            "from": 100000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.015
+          },
+          {
+            "from": 3000,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.03
+          },
+          {
+            "from": 8000,
+            "rate": 0.035
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12000,
+            "rate": 0.045
+          },
+          {
+            "from": 14000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 20000,
+            "rate": 0.07
+          },
+          {
+            "from": 24000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.08
+          },
+          {
+            "from": 100000,
+            "rate": 0.085
+          },
+          {
+            "from": 200000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.15,
+        "minimum": {
+          "single": 1300,
+          "marriedJoint": 1300
+        },
+        "maximum": {
+          "single": 2000,
+          "marriedJoint": 2000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/m-79.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1973-74 ed. (M-79), Table 141 (State Individual Income Taxes: Rates, July 1, 1973), Table 142 (personal exemptions, July 1, 1973: federal personal exemptions adopted, $750 each in 1973) and Table 143 (standard deduction, July 1, 1973: the federal standard deduction is adopted). Deduction = federal personal exemptions; percentStandardDeduction = the 1973 federal standard deduction (15% of income, max $2,000, low-income allowance $1,300). A refundable credit of $0-$133 for state-local taxes paid by taxpayers with modified gross income of $6,000 or less is not modelled. Single schedule as printed (1% on the first $500 rising to 9% over $100,000; the $501-$1,000 and $1,001-$1,500 steps are both printed at 1.5%); the table states that for heads of households and married individuals filing joint returns the rates apply to income classes twice as large, so marriedJoint doubles each bracket. The state's own income tax is deductible in computing the tax (table footnote; not modelled). Community property state (in general half the community income is taxable to each spouse). Later editions print a different schedule (0.9%-9% from the 1976-77 ed.) and give the joint schedule only as a range, so this file takes 1972 from the statute history and 1974-1976 from Laws 1974, ch. 88 (see those entries); 1977-1985 are not recorded."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 500,
+            "rate": 0.011
+          },
+          {
+            "from": 1000,
+            "rate": 0.013
+          },
+          {
+            "from": 1500,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.016
+          },
+          {
+            "from": 3000,
+            "rate": 0.019
+          },
+          {
+            "from": 4000,
+            "rate": 0.023
+          },
+          {
+            "from": 5000,
+            "rate": 0.024
+          },
+          {
+            "from": 6000,
+            "rate": 0.03
+          },
+          {
+            "from": 7000,
+            "rate": 0.033
+          },
+          {
+            "from": 8000,
+            "rate": 0.036
+          },
+          {
+            "from": 10000,
+            "rate": 0.043
+          },
+          {
+            "from": 12000,
+            "rate": 0.061
+          },
+          {
+            "from": 20000,
+            "rate": 0.08
+          },
+          {
+            "from": 50000,
+            "rate": 0.085
+          },
+          {
+            "from": 100000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 1000,
+            "rate": 0.013
+          },
+          {
+            "from": 2000,
+            "rate": 0.013
+          },
+          {
+            "from": 3000,
+            "rate": 0.017
+          },
+          {
+            "from": 4000,
+            "rate": 0.021
+          },
+          {
+            "from": 6000,
+            "rate": 0.026
+          },
+          {
+            "from": 8000,
+            "rate": 0.031
+          },
+          {
+            "from": 10000,
+            "rate": 0.036
+          },
+          {
+            "from": 12000,
+            "rate": 0.042
+          },
+          {
+            "from": 14000,
+            "rate": 0.048
+          },
+          {
+            "from": 16000,
+            "rate": 0.055
+          },
+          {
+            "from": 20000,
+            "rate": 0.064
+          },
+          {
+            "from": 24000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.08
+          },
+          {
+            "from": 100000,
+            "rate": 0.085
+          },
+          {
+            "from": 200000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.15,
+        "minimum": {
+          "single": 1300,
+          "marriedJoint": 1300
+        },
+        "maximum": {
+          "single": 2000,
+          "marriedJoint": 2000
+        }
+      },
+      "source": "https://babel.hathitrust.org/cgi/pt?id=uc1.a0001905454&seq=297",
+      "notes": "Statute history of the rate section (7-2-7 NMSA 1978, formerly 72-15A-5 NMSA 1953), from the historical NMSA 1978 compilation on NMOneSource (Chapter 7, 1989 edition): enacted Laws 1969, ch. 152, s. 3; amended 1974, ch. 88; 1978, ch. 179; 1981, ch. 37, s. 17; 1983, ch. 213, s. 2; 1986, ch. 20, s. 27. Laws 1974, ch. 88 is the only amendment between 1969 and 1978, so the 1974 schedules apply through at least 1977 (1977 is not recorded: the federal zero bracket amount from 1977 changed the federal base New Mexico adopted, and no source here says how New Mexico treated it). Schedules transcribed from Laws 1974, ch. 88, s. 1 (Laws of the State of New Mexico 1974, pp. 285-289; HathiTrust uc1.a0001905454, full view), which amended 72-15A-5 NMSA 1953 and applies to taxable years beginning on or after January 1, 1974 (s. 2): Subsection C for single individuals (0.9% on the first $500 rising to 9.0% over $100,000) and Subsection B for heads of household and married individuals filing joint returns (0.9% on the first $1,000 rising to 9.0% over $200,000; its own brackets, not the single ones doubled). The act prints each bracket as a base amount plus a rate on the excess, and every base amount was checked against the brackets below it. The separate-return schedule (Subsection A) is not modelled. Deduction = federal personal exemptions ($750 each; ACIR Significant Features of Fiscal Federalism 1976-77 ed., vol. 2, Table 107, personal exemptions as of July 1, 1976: New Mexico $750 single, $1,500 joint, the federal amounts); percentStandardDeduction = the federal standard deduction in effect before the Tax Reduction Act of 1975, 15% of income, max $2,000, low-income allowance $1,300 (same edition, Table 108 as of July 1, 1976, footnotes 2 and 3: New Mexico uses the federal tax base, so in effect the federal standard deduction before the 1975 act is adopted, with a low-income allowance). Table 106 of the same edition (rates as of July 1, 1976) prints this single schedule (16 brackets, first $500 to over $100,000) and gives no joint schedule of its own. For 1974 the pre-1975 federal amounts are the federal law of that year. The state's own income tax is deductible in computing the tax (not modelled). Community property state (in general half the community income is taxable to each spouse). Credits and rebates not modelled."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 500,
+            "rate": 0.011
+          },
+          {
+            "from": 1000,
+            "rate": 0.013
+          },
+          {
+            "from": 1500,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.016
+          },
+          {
+            "from": 3000,
+            "rate": 0.019
+          },
+          {
+            "from": 4000,
+            "rate": 0.023
+          },
+          {
+            "from": 5000,
+            "rate": 0.024
+          },
+          {
+            "from": 6000,
+            "rate": 0.03
+          },
+          {
+            "from": 7000,
+            "rate": 0.033
+          },
+          {
+            "from": 8000,
+            "rate": 0.036
+          },
+          {
+            "from": 10000,
+            "rate": 0.043
+          },
+          {
+            "from": 12000,
+            "rate": 0.061
+          },
+          {
+            "from": 20000,
+            "rate": 0.08
+          },
+          {
+            "from": 50000,
+            "rate": 0.085
+          },
+          {
+            "from": 100000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 1000,
+            "rate": 0.013
+          },
+          {
+            "from": 2000,
+            "rate": 0.013
+          },
+          {
+            "from": 3000,
+            "rate": 0.017
+          },
+          {
+            "from": 4000,
+            "rate": 0.021
+          },
+          {
+            "from": 6000,
+            "rate": 0.026
+          },
+          {
+            "from": 8000,
+            "rate": 0.031
+          },
+          {
+            "from": 10000,
+            "rate": 0.036
+          },
+          {
+            "from": 12000,
+            "rate": 0.042
+          },
+          {
+            "from": 14000,
+            "rate": 0.048
+          },
+          {
+            "from": 16000,
+            "rate": 0.055
+          },
+          {
+            "from": 20000,
+            "rate": 0.064
+          },
+          {
+            "from": 24000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.08
+          },
+          {
+            "from": 100000,
+            "rate": 0.085
+          },
+          {
+            "from": 200000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.15,
+        "minimum": {
+          "single": 1300,
+          "marriedJoint": 1300
+        },
+        "maximum": {
+          "single": 2000,
+          "marriedJoint": 2000
+        }
+      },
+      "source": "https://babel.hathitrust.org/cgi/pt?id=uc1.a0001905454&seq=297",
+      "notes": "Statute history of the rate section (7-2-7 NMSA 1978, formerly 72-15A-5 NMSA 1953), from the historical NMSA 1978 compilation on NMOneSource (Chapter 7, 1989 edition): enacted Laws 1969, ch. 152, s. 3; amended 1974, ch. 88; 1978, ch. 179; 1981, ch. 37, s. 17; 1983, ch. 213, s. 2; 1986, ch. 20, s. 27. Laws 1974, ch. 88 is the only amendment between 1969 and 1978, so the 1974 schedules apply through at least 1977 (1977 is not recorded: the federal zero bracket amount from 1977 changed the federal base New Mexico adopted, and no source here says how New Mexico treated it). Schedules transcribed from Laws 1974, ch. 88, s. 1 (Laws of the State of New Mexico 1974, pp. 285-289; HathiTrust uc1.a0001905454, full view), which amended 72-15A-5 NMSA 1953 and applies to taxable years beginning on or after January 1, 1974 (s. 2): Subsection C for single individuals (0.9% on the first $500 rising to 9.0% over $100,000) and Subsection B for heads of household and married individuals filing joint returns (0.9% on the first $1,000 rising to 9.0% over $200,000; its own brackets, not the single ones doubled). The act prints each bracket as a base amount plus a rate on the excess, and every base amount was checked against the brackets below it. The separate-return schedule (Subsection A) is not modelled. Deduction = federal personal exemptions ($750 each; ACIR Significant Features of Fiscal Federalism 1976-77 ed., vol. 2, Table 107, personal exemptions as of July 1, 1976: New Mexico $750 single, $1,500 joint, the federal amounts); percentStandardDeduction = the federal standard deduction in effect before the Tax Reduction Act of 1975, 15% of income, max $2,000, low-income allowance $1,300 (same edition, Table 108 as of July 1, 1976, footnotes 2 and 3: New Mexico uses the federal tax base, so in effect the federal standard deduction before the 1975 act is adopted, with a low-income allowance). Table 106 of the same edition (rates as of July 1, 1976) prints this single schedule (16 brackets, first $500 to over $100,000) and gives no joint schedule of its own. The July 1, 1976 tables are the closest source for 1975; the Tax Reduction Act of 1975 raised the federal standard deduction for 1975, and ACIR states New Mexico kept the earlier one. The state's own income tax is deductible in computing the tax (not modelled). Community property state (in general half the community income is taxable to each spouse). Credits and rebates not modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 500,
+            "rate": 0.011
+          },
+          {
+            "from": 1000,
+            "rate": 0.013
+          },
+          {
+            "from": 1500,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.016
+          },
+          {
+            "from": 3000,
+            "rate": 0.019
+          },
+          {
+            "from": 4000,
+            "rate": 0.023
+          },
+          {
+            "from": 5000,
+            "rate": 0.024
+          },
+          {
+            "from": 6000,
+            "rate": 0.03
+          },
+          {
+            "from": 7000,
+            "rate": 0.033
+          },
+          {
+            "from": 8000,
+            "rate": 0.036
+          },
+          {
+            "from": 10000,
+            "rate": 0.043
+          },
+          {
+            "from": 12000,
+            "rate": 0.061
+          },
+          {
+            "from": 20000,
+            "rate": 0.08
+          },
+          {
+            "from": 50000,
+            "rate": 0.085
+          },
+          {
+            "from": 100000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 1000,
+            "rate": 0.013
+          },
+          {
+            "from": 2000,
+            "rate": 0.013
+          },
+          {
+            "from": 3000,
+            "rate": 0.017
+          },
+          {
+            "from": 4000,
+            "rate": 0.021
+          },
+          {
+            "from": 6000,
+            "rate": 0.026
+          },
+          {
+            "from": 8000,
+            "rate": 0.031
+          },
+          {
+            "from": 10000,
+            "rate": 0.036
+          },
+          {
+            "from": 12000,
+            "rate": 0.042
+          },
+          {
+            "from": 14000,
+            "rate": 0.048
+          },
+          {
+            "from": 16000,
+            "rate": 0.055
+          },
+          {
+            "from": 20000,
+            "rate": 0.064
+          },
+          {
+            "from": 24000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.08
+          },
+          {
+            "from": 100000,
+            "rate": 0.085
+          },
+          {
+            "from": 200000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.15,
+        "minimum": {
+          "single": 1300,
+          "marriedJoint": 1300
+        },
+        "maximum": {
+          "single": 2000,
+          "marriedJoint": 2000
+        }
+      },
+      "source": "https://babel.hathitrust.org/cgi/pt?id=uc1.a0001905454&seq=297",
+      "notes": "Statute history of the rate section (7-2-7 NMSA 1978, formerly 72-15A-5 NMSA 1953), from the historical NMSA 1978 compilation on NMOneSource (Chapter 7, 1989 edition): enacted Laws 1969, ch. 152, s. 3; amended 1974, ch. 88; 1978, ch. 179; 1981, ch. 37, s. 17; 1983, ch. 213, s. 2; 1986, ch. 20, s. 27. Laws 1974, ch. 88 is the only amendment between 1969 and 1978, so the 1974 schedules apply through at least 1977 (1977 is not recorded: the federal zero bracket amount from 1977 changed the federal base New Mexico adopted, and no source here says how New Mexico treated it). Schedules transcribed from Laws 1974, ch. 88, s. 1 (Laws of the State of New Mexico 1974, pp. 285-289; HathiTrust uc1.a0001905454, full view), which amended 72-15A-5 NMSA 1953 and applies to taxable years beginning on or after January 1, 1974 (s. 2): Subsection C for single individuals (0.9% on the first $500 rising to 9.0% over $100,000) and Subsection B for heads of household and married individuals filing joint returns (0.9% on the first $1,000 rising to 9.0% over $200,000; its own brackets, not the single ones doubled). The act prints each bracket as a base amount plus a rate on the excess, and every base amount was checked against the brackets below it. The separate-return schedule (Subsection A) is not modelled. Deduction = federal personal exemptions ($750 each; ACIR Significant Features of Fiscal Federalism 1976-77 ed., vol. 2, Table 107, personal exemptions as of July 1, 1976: New Mexico $750 single, $1,500 joint, the federal amounts); percentStandardDeduction = the federal standard deduction in effect before the Tax Reduction Act of 1975, 15% of income, max $2,000, low-income allowance $1,300 (same edition, Table 108 as of July 1, 1976, footnotes 2 and 3: New Mexico uses the federal tax base, so in effect the federal standard deduction before the 1975 act is adopted, with a low-income allowance). Table 106 of the same edition (rates as of July 1, 1976) prints this single schedule (16 brackets, first $500 to over $100,000) and gives no joint schedule of its own. The state's own income tax is deductible in computing the tax (not modelled). Community property state (in general half the community income is taxable to each spouse). Credits and rebates not modelled."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.018
+          },
+          {
+            "from": 5200,
+            "rate": 0.03
+          },
+          {
+            "from": 10400,
+            "rate": 0.045
+          },
+          {
+            "from": 15600,
+            "rate": 0.058
+          },
+          {
+            "from": 23400,
+            "rate": 0.069
+          },
+          {
+            "from": 31200,
+            "rate": 0.077
+          },
+          {
+            "from": 41600,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.024
+          },
+          {
+            "from": 8000,
+            "rate": 0.038
+          },
+          {
+            "from": 16000,
+            "rate": 0.048
+          },
+          {
+            "from": 24000,
+            "rate": 0.059
+          },
+          {
+            "from": 36000,
+            "rate": 0.069
+          },
+          {
+            "from": 48000,
+            "rate": 0.077
+          },
+          {
+            "from": 64000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 8000
+      },
+      "source": "https://nmonesource.com/nmos/nmsa-historical/en/4249/1/document.do",
+      "notes": "Statutory schedule of 7-2-7 NMSA 1978 (Subsection C single individuals; Subsection B surviving spouses and married individuals filing joint returns), transcribed from the historical NMSA 1978 compilation on NMOneSource (New Mexico Compilation Commission), Chapter 7, 1989 edition. Statute history: enacted Laws 1969, ch. 152, s. 3; amended 1974, ch. 88; 1978, ch. 179; 1981, ch. 37, s. 17; 1983, ch. 213, s. 2; 1986, ch. 20, s. 27; 1987, ch. 277, s. 3; 1988, ch. 41, s. 2; 1990, ch. 49, s. 2; next amended by Laws 1994, ch. 5 (this file's 1994 entry). Laws 1986, ch. 20, ss. 26-27 enacted these schedules and the net-income definition for taxable years ending on December 31 of any year after December 31, 1985 (s. 138A makes ss. 26-52 applicable to taxable years beginning on or after January 1, 1986); the 1987 amendment (applicable from tax year 1987) only reworded the applicability clauses, and the 1988 amendment (from tax year 1988) only moved heads of household from Subsection B to a new Subsection D, per the compilation's amendment notes, so the joint and single brackets were unchanged 1986-1989. Brackets are not indexed. Head-of-household schedule (Subsection D) and the lump-sum distribution rule not modelled; the low-income comprehensive tax rebate and other credits not modelled. Deduction = New Mexico net-income exclusions of 7-2-2 NMSA 1978 as enacted by Laws 1986, ch. 20, s. 26: $3,000 single / $4,000 joint (or federal itemized deductions instead) plus $2,000 per federal personal exemption (one single, two joint)."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.018
+          },
+          {
+            "from": 5200,
+            "rate": 0.03
+          },
+          {
+            "from": 10400,
+            "rate": 0.045
+          },
+          {
+            "from": 15600,
+            "rate": 0.058
+          },
+          {
+            "from": 23400,
+            "rate": 0.069
+          },
+          {
+            "from": 31200,
+            "rate": 0.077
+          },
+          {
+            "from": 41600,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.024
+          },
+          {
+            "from": 8000,
+            "rate": 0.038
+          },
+          {
+            "from": 16000,
+            "rate": 0.048
+          },
+          {
+            "from": 24000,
+            "rate": 0.059
+          },
+          {
+            "from": 36000,
+            "rate": 0.069
+          },
+          {
+            "from": 48000,
+            "rate": 0.077
+          },
+          {
+            "from": 64000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 8000
+      },
+      "source": "https://nmonesource.com/nmos/nmsa-historical/en/4249/1/document.do",
+      "notes": "Statutory schedule of 7-2-7 NMSA 1978 (Subsection C single individuals; Subsection B surviving spouses and married individuals filing joint returns), transcribed from the historical NMSA 1978 compilation on NMOneSource (New Mexico Compilation Commission), Chapter 7, 1989 edition. Statute history: enacted Laws 1969, ch. 152, s. 3; amended 1974, ch. 88; 1978, ch. 179; 1981, ch. 37, s. 17; 1983, ch. 213, s. 2; 1986, ch. 20, s. 27; 1987, ch. 277, s. 3; 1988, ch. 41, s. 2; 1990, ch. 49, s. 2; next amended by Laws 1994, ch. 5 (this file's 1994 entry). Laws 1986, ch. 20, ss. 26-27 enacted these schedules and the net-income definition for taxable years ending on December 31 of any year after December 31, 1985 (s. 138A makes ss. 26-52 applicable to taxable years beginning on or after January 1, 1986); the 1987 amendment (applicable from tax year 1987) only reworded the applicability clauses, and the 1988 amendment (from tax year 1988) only moved heads of household from Subsection B to a new Subsection D, per the compilation's amendment notes, so the joint and single brackets were unchanged 1986-1989. Recorded for 1987 on the 1989 compilation's text and statute history (no amendment of the brackets or of the net-income amounts between the 1986 act and the 1990 act). Brackets are not indexed. Head-of-household schedule (Subsection D) and the lump-sum distribution rule not modelled; the low-income comprehensive tax rebate and other credits not modelled. Deduction = New Mexico net-income exclusions of 7-2-2 NMSA 1978 as enacted by Laws 1986, ch. 20, s. 26: $3,000 single / $4,000 joint (or federal itemized deductions instead) plus $2,000 per federal personal exemption (one single, two joint)."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.018
+          },
+          {
+            "from": 5200,
+            "rate": 0.03
+          },
+          {
+            "from": 10400,
+            "rate": 0.045
+          },
+          {
+            "from": 15600,
+            "rate": 0.058
+          },
+          {
+            "from": 23400,
+            "rate": 0.069
+          },
+          {
+            "from": 31200,
+            "rate": 0.077
+          },
+          {
+            "from": 41600,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.024
+          },
+          {
+            "from": 8000,
+            "rate": 0.038
+          },
+          {
+            "from": 16000,
+            "rate": 0.048
+          },
+          {
+            "from": 24000,
+            "rate": 0.059
+          },
+          {
+            "from": 36000,
+            "rate": 0.069
+          },
+          {
+            "from": 48000,
+            "rate": 0.077
+          },
+          {
+            "from": 64000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 8000
+      },
+      "source": "https://nmonesource.com/nmos/nmsa-historical/en/4249/1/document.do",
+      "notes": "Statutory schedule of 7-2-7 NMSA 1978 (Subsection C single individuals; Subsection B surviving spouses and married individuals filing joint returns), transcribed from the historical NMSA 1978 compilation on NMOneSource (New Mexico Compilation Commission), Chapter 7, 1989 edition. Statute history: enacted Laws 1969, ch. 152, s. 3; amended 1974, ch. 88; 1978, ch. 179; 1981, ch. 37, s. 17; 1983, ch. 213, s. 2; 1986, ch. 20, s. 27; 1987, ch. 277, s. 3; 1988, ch. 41, s. 2; 1990, ch. 49, s. 2; next amended by Laws 1994, ch. 5 (this file's 1994 entry). Laws 1986, ch. 20, ss. 26-27 enacted these schedules and the net-income definition for taxable years ending on December 31 of any year after December 31, 1985 (s. 138A makes ss. 26-52 applicable to taxable years beginning on or after January 1, 1986); the 1987 amendment (applicable from tax year 1987) only reworded the applicability clauses, and the 1988 amendment (from tax year 1988) only moved heads of household from Subsection B to a new Subsection D, per the compilation's amendment notes, so the joint and single brackets were unchanged 1986-1989. Recorded for 1988 on the 1989 compilation's text and statute history (no amendment of the brackets or of the net-income amounts between the 1986 act and the 1990 act). Brackets are not indexed. Head-of-household schedule (Subsection D) and the lump-sum distribution rule not modelled; the low-income comprehensive tax rebate and other credits not modelled. Deduction = New Mexico net-income exclusions of 7-2-2 NMSA 1978 as enacted by Laws 1986, ch. 20, s. 26: $3,000 single / $4,000 joint (or federal itemized deductions instead) plus $2,000 per federal personal exemption (one single, two joint)."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.018
+          },
+          {
+            "from": 5200,
+            "rate": 0.03
+          },
+          {
+            "from": 10400,
+            "rate": 0.045
+          },
+          {
+            "from": 15600,
+            "rate": 0.058
+          },
+          {
+            "from": 23400,
+            "rate": 0.069
+          },
+          {
+            "from": 31200,
+            "rate": 0.077
+          },
+          {
+            "from": 41600,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.024
+          },
+          {
+            "from": 8000,
+            "rate": 0.038
+          },
+          {
+            "from": 16000,
+            "rate": 0.048
+          },
+          {
+            "from": 24000,
+            "rate": 0.059
+          },
+          {
+            "from": 36000,
+            "rate": 0.069
+          },
+          {
+            "from": 48000,
+            "rate": 0.077
+          },
+          {
+            "from": 64000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 8000
+      },
+      "source": "https://nmonesource.com/nmos/nmsa-historical/en/4249/1/document.do",
+      "notes": "Statutory schedule of 7-2-7 NMSA 1978 (Subsection C single individuals; Subsection B surviving spouses and married individuals filing joint returns), transcribed from the historical NMSA 1978 compilation on NMOneSource (New Mexico Compilation Commission), Chapter 7, 1989 edition. Statute history: enacted Laws 1969, ch. 152, s. 3; amended 1974, ch. 88; 1978, ch. 179; 1981, ch. 37, s. 17; 1983, ch. 213, s. 2; 1986, ch. 20, s. 27; 1987, ch. 277, s. 3; 1988, ch. 41, s. 2; 1990, ch. 49, s. 2; next amended by Laws 1994, ch. 5 (this file's 1994 entry). Laws 1986, ch. 20, ss. 26-27 enacted these schedules and the net-income definition for taxable years ending on December 31 of any year after December 31, 1985 (s. 138A makes ss. 26-52 applicable to taxable years beginning on or after January 1, 1986); the 1987 amendment (applicable from tax year 1987) only reworded the applicability clauses, and the 1988 amendment (from tax year 1988) only moved heads of household from Subsection B to a new Subsection D, per the compilation's amendment notes, so the joint and single brackets were unchanged 1986-1989. Recorded for 1989 on the 1989 compilation's text and statute history (no amendment of the brackets or of the net-income amounts between the 1986 act and the 1990 act). Brackets are not indexed. Head-of-household schedule (Subsection D) and the lump-sum distribution rule not modelled; the low-income comprehensive tax rebate and other credits not modelled. Deduction = New Mexico net-income exclusions of 7-2-2 NMSA 1978 as enacted by Laws 1986, ch. 20, s. 26: $3,000 single / $4,000 joint (or federal itemized deductions instead) plus $2,000 per federal personal exemption (one single, two joint)."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.018
+          },
+          {
+            "from": 5200,
+            "rate": 0.03
+          },
+          {
+            "from": 10400,
+            "rate": 0.045
+          },
+          {
+            "from": 15600,
+            "rate": 0.058
+          },
+          {
+            "from": 23400,
+            "rate": 0.069
+          },
+          {
+            "from": 31200,
+            "rate": 0.077
+          },
+          {
+            "from": 41600,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.024
+          },
+          {
+            "from": 8000,
+            "rate": 0.038
+          },
+          {
+            "from": 16000,
+            "rate": 0.048
+          },
+          {
+            "from": 24000,
+            "rate": 0.059
+          },
+          {
+            "from": 36000,
+            "rate": 0.069
+          },
+          {
+            "from": 48000,
+            "rate": 0.077
+          },
+          {
+            "from": 64000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5300,
+        "marriedJoint": 9550
+      },
+      "source": "https://nmonesource.com/nmos/nmsa-historical/en/4178/1/document.do",
+      "notes": "Statutory schedule of 7-2-7 NMSA 1978 (Subsection C single individuals; Subsection B surviving spouses and married individuals filing joint returns), transcribed from the historical NMSA 1978 compilation on NMOneSource (New Mexico Compilation Commission), Chapter 7, 1990 edition. Statute history: enacted Laws 1969, ch. 152, s. 3; amended 1974, ch. 88; 1978, ch. 179; 1981, ch. 37, s. 17; 1983, ch. 213, s. 2; 1986, ch. 20, s. 27; 1987, ch. 277, s. 3; 1988, ch. 41, s. 2; 1990, ch. 49, s. 2; next amended by Laws 1994, ch. 5 (this file's 1994 entry). The 1990 amendment (Laws 1990, ch. 49, applicable to taxable years beginning on or after January 1, 1990) substituted 'taxable income' for 'net income' and added the lump-sum rule without changing the brackets; no amendment between 1990 and Laws 1994, ch. 5. Brackets are not indexed. Head-of-household schedule (Subsection D) and the lump-sum distribution rule not modelled; the low-income comprehensive tax rebate and other credits not modelled. Deduction = 7-2-2 NMSA 1978 as amended by Laws 1990, ch. 49, s. 1 (from tax year 1990): the greater of the federal basic standard deduction or $3,000 single / $4,000 joint (itemized deductions instead if larger) plus the greater of the federal personal exemption or $2,000 per exemption; for 1990 the federal amounts ($3,250 / $5,450 standard deduction, $2,050 exemption) are the larger, so the deduction equals this file's federal 1990 deduction."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.018
+          },
+          {
+            "from": 5200,
+            "rate": 0.03
+          },
+          {
+            "from": 10400,
+            "rate": 0.045
+          },
+          {
+            "from": 15600,
+            "rate": 0.058
+          },
+          {
+            "from": 23400,
+            "rate": 0.069
+          },
+          {
+            "from": 31200,
+            "rate": 0.077
+          },
+          {
+            "from": 41600,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.024
+          },
+          {
+            "from": 8000,
+            "rate": 0.038
+          },
+          {
+            "from": 16000,
+            "rate": 0.048
+          },
+          {
+            "from": 24000,
+            "rate": 0.059
+          },
+          {
+            "from": 36000,
+            "rate": 0.069
+          },
+          {
+            "from": 48000,
+            "rate": 0.077
+          },
+          {
+            "from": 64000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5550,
+        "marriedJoint": 10000
+      },
+      "source": "https://nmonesource.com/nmos/nmsa-historical/en/4099/1/document.do",
+      "notes": "Statutory schedule of 7-2-7 NMSA 1978 (Subsection C single individuals; Subsection B surviving spouses and married individuals filing joint returns), transcribed from the historical NMSA 1978 compilation on NMOneSource (New Mexico Compilation Commission), Chapter 7, 1991 edition. Statute history: enacted Laws 1969, ch. 152, s. 3; amended 1974, ch. 88; 1978, ch. 179; 1981, ch. 37, s. 17; 1983, ch. 213, s. 2; 1986, ch. 20, s. 27; 1987, ch. 277, s. 3; 1988, ch. 41, s. 2; 1990, ch. 49, s. 2; next amended by Laws 1994, ch. 5 (this file's 1994 entry). The 1990 amendment (Laws 1990, ch. 49, applicable to taxable years beginning on or after January 1, 1990) substituted 'taxable income' for 'net income' and added the lump-sum rule without changing the brackets; no amendment between 1990 and Laws 1994, ch. 5. Brackets are not indexed. Head-of-household schedule (Subsection D) and the lump-sum distribution rule not modelled; the low-income comprehensive tax rebate and other credits not modelled. Deduction = 7-2-2 NMSA 1978 as rewritten by Laws 1991, ch. 9, s. 24 (applicable to taxable years beginning on or after January 1, 1991): the federal standard deduction (or itemized deductions) plus the federal personal exemptions for the year, as in this file's 1994 entry; amounts taken from this file's federal entry for the year."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.018
+          },
+          {
+            "from": 5200,
+            "rate": 0.03
+          },
+          {
+            "from": 10400,
+            "rate": 0.045
+          },
+          {
+            "from": 15600,
+            "rate": 0.058
+          },
+          {
+            "from": 23400,
+            "rate": 0.069
+          },
+          {
+            "from": 31200,
+            "rate": 0.077
+          },
+          {
+            "from": 41600,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.024
+          },
+          {
+            "from": 8000,
+            "rate": 0.038
+          },
+          {
+            "from": 16000,
+            "rate": 0.048
+          },
+          {
+            "from": 24000,
+            "rate": 0.059
+          },
+          {
+            "from": 36000,
+            "rate": 0.069
+          },
+          {
+            "from": 48000,
+            "rate": 0.077
+          },
+          {
+            "from": 64000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5900,
+        "marriedJoint": 10600
+      },
+      "source": "https://nmonesource.com/nmos/nmsa-historical/en/4017/1/document.do",
+      "notes": "Statutory schedule of 7-2-7 NMSA 1978 (Subsection C single individuals; Subsection B surviving spouses and married individuals filing joint returns), transcribed from the historical NMSA 1978 compilation on NMOneSource (New Mexico Compilation Commission), Chapter 7, 1992 edition. Statute history: enacted Laws 1969, ch. 152, s. 3; amended 1974, ch. 88; 1978, ch. 179; 1981, ch. 37, s. 17; 1983, ch. 213, s. 2; 1986, ch. 20, s. 27; 1987, ch. 277, s. 3; 1988, ch. 41, s. 2; 1990, ch. 49, s. 2; next amended by Laws 1994, ch. 5 (this file's 1994 entry). The 1990 amendment (Laws 1990, ch. 49, applicable to taxable years beginning on or after January 1, 1990) substituted 'taxable income' for 'net income' and added the lump-sum rule without changing the brackets; no amendment between 1990 and Laws 1994, ch. 5. Brackets are not indexed. Head-of-household schedule (Subsection D) and the lump-sum distribution rule not modelled; the low-income comprehensive tax rebate and other credits not modelled. Deduction = 7-2-2 NMSA 1978 as rewritten by Laws 1991, ch. 9, s. 24 (applicable to taxable years beginning on or after January 1, 1991): the federal standard deduction (or itemized deductions) plus the federal personal exemptions for the year, as in this file's 1994 entry; amounts taken from this file's federal entry for the year."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.018
+          },
+          {
+            "from": 5200,
+            "rate": 0.03
+          },
+          {
+            "from": 10400,
+            "rate": 0.045
+          },
+          {
+            "from": 15600,
+            "rate": 0.058
+          },
+          {
+            "from": 23400,
+            "rate": 0.069
+          },
+          {
+            "from": 31200,
+            "rate": 0.077
+          },
+          {
+            "from": 41600,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.024
+          },
+          {
+            "from": 8000,
+            "rate": 0.038
+          },
+          {
+            "from": 16000,
+            "rate": 0.048
+          },
+          {
+            "from": 24000,
+            "rate": 0.059
+          },
+          {
+            "from": 36000,
+            "rate": 0.069
+          },
+          {
+            "from": 48000,
+            "rate": 0.077
+          },
+          {
+            "from": 64000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6050,
+        "marriedJoint": 10900
+      },
+      "source": "https://nmonesource.com/nmos/nmsa-historical/en/3976/1/document.do",
+      "notes": "Statutory schedule of 7-2-7 NMSA 1978 (Subsection C single individuals; Subsection B surviving spouses and married individuals filing joint returns), transcribed from the historical NMSA 1978 compilation on NMOneSource (New Mexico Compilation Commission), Chapter 7, 1993 edition. Statute history: enacted Laws 1969, ch. 152, s. 3; amended 1974, ch. 88; 1978, ch. 179; 1981, ch. 37, s. 17; 1983, ch. 213, s. 2; 1986, ch. 20, s. 27; 1987, ch. 277, s. 3; 1988, ch. 41, s. 2; 1990, ch. 49, s. 2; next amended by Laws 1994, ch. 5 (this file's 1994 entry). The 1990 amendment (Laws 1990, ch. 49, applicable to taxable years beginning on or after January 1, 1990) substituted 'taxable income' for 'net income' and added the lump-sum rule without changing the brackets; no amendment between 1990 and Laws 1994, ch. 5. Brackets are not indexed. Head-of-household schedule (Subsection D) and the lump-sum distribution rule not modelled; the low-income comprehensive tax rebate and other credits not modelled. Deduction = 7-2-2 NMSA 1978 as rewritten by Laws 1991, ch. 9, s. 24 (applicable to taxable years beginning on or after January 1, 1991): the federal standard deduction (or itemized deductions) plus the federal personal exemptions for the year, as in this file's 1994 entry; amounts taken from this file's federal entry for the year."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.03
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 26000,
+            "rate": 0.071
+          },
+          {
+            "from": 31200,
+            "rate": 0.079
+          },
+          {
+            "from": 41600,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.06
+          },
+          {
+            "from": 36000,
+            "rate": 0.071
+          },
+          {
+            "from": 48000,
+            "rate": 0.079
+          },
+          {
+            "from": 64000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6250,
+        "marriedJoint": 11250
+      },
+      "source": "https://nmonesource.com/nmos/nmsl/en/4403/1/document.do",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions).  Laws 1994, ch. 5, s. 18."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 26000,
+            "rate": 0.071
+          },
+          {
+            "from": 42000,
+            "rate": 0.079
+          },
+          {
+            "from": 65000,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.071
+          },
+          {
+            "from": 56000,
+            "rate": 0.079
+          },
+          {
+            "from": 88000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6400,
+        "marriedJoint": 11550
+      },
+      "source": "https://nmonesource.com/nmos/nmsl/en/4403/1/document.do",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions).  Laws 1994, ch. 5, s. 19."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 26000,
+            "rate": 0.071
+          },
+          {
+            "from": 42000,
+            "rate": 0.079
+          },
+          {
+            "from": 65000,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.071
+          },
+          {
+            "from": 64000,
+            "rate": 0.079
+          },
+          {
+            "from": 100000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6550,
+        "marriedJoint": 11800
+      },
+      "source": "https://nmonesource.com/nmos/nmsl/en/4403/1/document.do",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions).  Laws 1994, ch. 5, s. 20 (re-enacted unchanged by Laws 1998, ch. 99)."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 26000,
+            "rate": 0.071
+          },
+          {
+            "from": 42000,
+            "rate": 0.079
+          },
+          {
+            "from": 65000,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.071
+          },
+          {
+            "from": 64000,
+            "rate": 0.079
+          },
+          {
+            "from": 100000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6800,
+        "marriedJoint": 12200
+      },
+      "source": "https://nmonesource.com/nmos/nmsl/en/4403/1/document.do",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions).  Laws 1994, ch. 5, s. 20 (re-enacted unchanged by Laws 1998, ch. 99)."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 26000,
+            "rate": 0.071
+          },
+          {
+            "from": 42000,
+            "rate": 0.079
+          },
+          {
+            "from": 65000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.071
+          },
+          {
+            "from": 64000,
+            "rate": 0.079
+          },
+          {
+            "from": 100000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6950,
+        "marriedJoint": 12500
+      },
+      "source": "https://nmonesource.com/nmos/nmsl/en/4436/1/document.do",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions).  Laws 1999, ch. 47 (top rate 8.2% retroactive to tax year 1998); unchanged until Laws 2003, ch. 2."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 26000,
+            "rate": 0.071
+          },
+          {
+            "from": 42000,
+            "rate": 0.079
+          },
+          {
+            "from": 65000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.071
+          },
+          {
+            "from": 64000,
+            "rate": 0.079
+          },
+          {
+            "from": 100000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7050,
+        "marriedJoint": 12700
+      },
+      "source": "https://nmonesource.com/nmos/nmsl/en/4436/1/document.do",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions).  Laws 1999, ch. 47 (top rate 8.2% retroactive to tax year 1998); unchanged until Laws 2003, ch. 2."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 26000,
+            "rate": 0.071
+          },
+          {
+            "from": 42000,
+            "rate": 0.079
+          },
+          {
+            "from": 65000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.071
+          },
+          {
+            "from": 64000,
+            "rate": 0.079
+          },
+          {
+            "from": 100000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7200,
+        "marriedJoint": 12950
+      },
+      "source": "https://nmonesource.com/nmos/nmsl/en/4436/1/document.do",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions).  Laws 1999, ch. 47 (top rate 8.2% retroactive to tax year 1998); unchanged until Laws 2003, ch. 2."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 26000,
+            "rate": 0.071
+          },
+          {
+            "from": 42000,
+            "rate": 0.079
+          },
+          {
+            "from": 65000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.071
+          },
+          {
+            "from": 64000,
+            "rate": 0.079
+          },
+          {
+            "from": 100000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7450,
+        "marriedJoint": 13400
+      },
+      "source": "https://nmonesource.com/nmos/nmsl/en/4436/1/document.do",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions).  Laws 1999, ch. 47 (top rate 8.2% retroactive to tax year 1998); unchanged until Laws 2003, ch. 2."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 26000,
+            "rate": 0.071
+          },
+          {
+            "from": 42000,
+            "rate": 0.079
+          },
+          {
+            "from": 65000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.071
+          },
+          {
+            "from": 64000,
+            "rate": 0.079
+          },
+          {
+            "from": 100000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7700,
+        "marriedJoint": 13850
+      },
+      "source": "https://nmonesource.com/nmos/nmsl/en/4436/1/document.do",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions).  Laws 1999, ch. 47 (top rate 8.2% retroactive to tax year 1998); unchanged until Laws 2003, ch. 2."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 26000,
+            "rate": 0.071
+          },
+          {
+            "from": 42000,
+            "rate": 0.077
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.071
+          },
+          {
+            "from": 64000,
+            "rate": 0.077
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7800,
+        "marriedJoint": 15600
+      },
+      "source": "https://nmonesource.com/nmos/nmsl/en/4432/1/document.do",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions).  Laws 2003, ch. 2, s. 2."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 26000,
+            "rate": 0.068
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.068
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7950,
+        "marriedJoint": 15900
+      },
+      "source": "https://nmonesource.com/nmos/nmsl/en/4432/1/document.do",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions).  Laws 2003, ch. 2, s. 3."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.057
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.057
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8200,
+        "marriedJoint": 16400
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.053
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.053
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8450,
+        "marriedJoint": 16900
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.053
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.053
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8750,
+        "marriedJoint": 17500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8950,
+        "marriedJoint": 17900
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2009/2009_ratetables.pdf",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9500,
+        "marriedJoint": 19000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9750,
+        "marriedJoint": 19500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10000,
+        "marriedJoint": 20000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10150,
+        "marriedJoint": 20300
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10300,
+        "marriedJoint": 20600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10350,
+        "marriedJoint": 20700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10400,
+        "marriedJoint": 20800
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction plus federal personal exemptions for the year (New Mexico net income allows the federal deduction and exemptions). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12000,
+        "marriedJoint": 24000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction (federal exemptions are zero 2018-2025). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12200,
+        "marriedJoint": 24400
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2019/2019pit-trt.pdf",
+      "notes": "Deduction is the federal standard deduction (federal exemptions are zero 2018-2025). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12400,
+        "marriedJoint": 24800
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction (federal exemptions are zero 2018-2025). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          },
+          {
+            "from": 210000,
+            "rate": 0.059
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          },
+          {
+            "from": 315000,
+            "rate": 0.059
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12550,
+        "marriedJoint": 25100
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction (federal exemptions are zero 2018-2025). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          },
+          {
+            "from": 210000,
+            "rate": 0.059
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          },
+          {
+            "from": 315000,
+            "rate": 0.059
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12950,
+        "marriedJoint": 25900
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2025/PIT%20rates_2005_2025.pdf",
+      "notes": "Deduction is the federal standard deduction (federal exemptions are zero 2018-2025). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          },
+          {
+            "from": 210000,
+            "rate": 0.059
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          },
+          {
+            "from": 315000,
+            "rate": 0.059
+          }
+        ]
+      },
+      "deduction": {
+        "single": 13850,
+        "marriedJoint": 27700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NM/2023/PITbook2023.pdf",
+      "notes": "Deduction is the federal standard deduction (federal exemptions are zero 2018-2025). The low- and middle-income exemption depends on income and is left out."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 11000,
+            "rate": 0.047
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          },
+          {
+            "from": 210000,
+            "rate": 0.059
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 16000,
+            "rate": 0.047
+          },
+          {
+            "from": 24000,
+            "rate": 0.049
+          },
+          {
+            "from": 315000,
+            "rate": 0.059
+          }
+        ]
+      },
+      "deduction": {
+        "single": 14600,
+        "marriedJoint": 29200
+      },
+      "source": "https://klvg4oyd4j.execute-api.us-west-2.amazonaws.com/prod/PublicFiles/34821a9573ca43e7b06dfad20f5183fd/8c12623f-2127-489a-886f-6efb1cd55d0e/2024pit-trt.pdf",
+      "notes": "Uses the federal standard deduction. The low- and middle-income exemption depends on income and is left out. TRD's tax rate table, linked from its prior-year PIT forms page (hosted on TRD's file store)."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 16500,
+            "rate": 0.043
+          },
+          {
+            "from": 33500,
+            "rate": 0.047
+          },
+          {
+            "from": 66500,
+            "rate": 0.049
+          },
+          {
+            "from": 210000,
+            "rate": 0.059
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 25000,
+            "rate": 0.043
+          },
+          {
+            "from": 50000,
+            "rate": 0.047
+          },
+          {
+            "from": 100000,
+            "rate": 0.049
+          },
+          {
+            "from": 315000,
+            "rate": 0.059
+          }
+        ]
+      },
+      "deduction": {
+        "single": 15750,
+        "marriedJoint": 31500
+      },
+      "source": "https://realfile.tax.newmexico.gov/2025trt.pdf",
+      "notes": "New schedule from HB 252 (2024). Uses the federal standard deduction, including the One Big Beautiful Bill Act increase. The low- and middle-income exemption depends on income and is left out."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 5500,
+            "rate": 0.032
+          },
+          {
+            "from": 16500,
+            "rate": 0.043
+          },
+          {
+            "from": 33500,
+            "rate": 0.047
+          },
+          {
+            "from": 66500,
+            "rate": 0.049
+          },
+          {
+            "from": 210000,
+            "rate": 0.059
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 8000,
+            "rate": 0.032
+          },
+          {
+            "from": 25000,
+            "rate": 0.043
+          },
+          {
+            "from": 50000,
+            "rate": 0.047
+          },
+          {
+            "from": 100000,
+            "rate": 0.049
+          },
+          {
+            "from": 315000,
+            "rate": 0.059
+          }
+        ]
+      },
+      "deduction": {
+        "single": 16100,
+        "marriedJoint": 32200
+      },
+      "source": "https://www.nmlegis.gov/Sessions/24%20Regular/final/HB0252.pdf",
+      "notes": "Uses the federal standard deduction. The low- and middle-income exemption depends on income and is left out."
+    }
+  }
+}

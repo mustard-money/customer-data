@@ -1,0 +1,2669 @@
+{
+  "id": "us-state-VA",
+  "kind": "state",
+  "region": "Virginia",
+  "state": "VA",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1974/SD15/PDF",
+      "notes": "Pre-conformity structure (conformity took effect 1972): 2%/3%/5% rates. $1,000 personal exemption (married-couple amount not confirmed, so no joint deduction recorded); $300 per dependent. Standard deduction was 5% of AGI up to $500 (income-dependent, not modelled). Same rates for joint returns."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1974/SD15/PDF",
+      "notes": "Pre-conformity structure (conformity took effect 1972): 2%/3%/5% rates. $1,000 personal exemption (married-couple amount not confirmed, so no joint deduction recorded); $300 per dependent. Standard deduction was 5% of AGI up to $500 (income-dependent, not modelled). Same rates for joint returns."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1980/SD16/PDF",
+      "notes": "5.75% bracket over $12,000 added 1972. Deduction is the $600 per person exemption; the standard deduction (15% of AGI, min $1,300, max $2,000) depends on income and is left out. No split-income joint schedule (same brackets for joint returns; spouses could file separately on a combined return)."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1980/SD16/PDF",
+      "notes": "5.75% bracket over $12,000 added 1972. Deduction is the $600 per person exemption; the standard deduction (15% of AGI, min $1,300, max $2,000) depends on income and is left out. No split-income joint schedule (same brackets for joint returns; spouses could file separately on a combined return)."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1980/SD16/PDF",
+      "notes": "5.75% bracket over $12,000 added 1972. Deduction is the $600 per person exemption; the standard deduction (15% of AGI, min $1,300, max $2,000) depends on income and is left out. No split-income joint schedule (same brackets for joint returns; spouses could file separately on a combined return)."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1980/SD16/PDF",
+      "notes": "5.75% bracket over $12,000 added 1972. Deduction is the $600 per person exemption; the standard deduction (15% of AGI, min $1,300, max $2,000) depends on income and is left out. No split-income joint schedule (same brackets for joint returns; spouses could file separately on a combined return)."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1980/SD16/PDF",
+      "notes": "5.75% bracket over $12,000 added 1972. Deduction is the $600 per person exemption; the standard deduction (15% of AGI, min $1,300, max $2,000) depends on income and is left out. No split-income joint schedule (same brackets for joint returns; spouses could file separately on a combined return)."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1980/SD16/PDF",
+      "notes": "5.75% bracket over $12,000 added 1972. Deduction is the $600 per person exemption; the standard deduction (15% of AGI, min $1,300, max $2,000) depends on income and is left out. No split-income joint schedule (same brackets for joint returns; spouses could file separately on a combined return)."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1980/SD16/PDF",
+      "notes": "5.75% bracket over $12,000 added 1972. Deduction is the $600 per person exemption; the standard deduction (15% of AGI, min $1,300, max $2,000) depends on income and is left out. No split-income joint schedule (same brackets for joint returns; spouses could file separately on a combined return)."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1980/SD16/PDF",
+      "notes": "5.75% bracket over $12,000 added 1972. Deduction is the $600 per person exemption; the standard deduction (15% of AGI, min $1,300, max $2,000) depends on income and is left out. No split-income joint schedule (same brackets for joint returns; spouses could file separately on a combined return)."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1980/SD16/PDF",
+      "notes": "5.75% bracket over $12,000 added 1972. Deduction is the $600 per person exemption; the standard deduction (15% of AGI, min $1,300, max $2,000) depends on income and is left out. No split-income joint schedule (same brackets for joint returns; spouses could file separately on a combined return)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1980/SD16/PDF",
+      "notes": "5.75% bracket over $12,000 added 1972. Deduction is the $600 per person exemption; the standard deduction (15% of AGI, min $1,300, max $2,000) depends on income and is left out. No split-income joint schedule (same brackets for joint returns; spouses could file separately on a combined return)."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1980/SD16/PDF",
+      "notes": "5.75% bracket over $12,000 added 1972. Deduction is the $600 per person exemption; the standard deduction (15% of AGI, min $1,300, max $2,000) depends on income and is left out. No split-income joint schedule (same brackets for joint returns; spouses could file separately on a combined return)."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1980/SD16/PDF",
+      "notes": "5.75% bracket over $12,000 added 1972. Deduction is the $600 per person exemption; the standard deduction (15% of AGI, min $1,300, max $2,000) depends on income and is left out. No split-income joint schedule (same brackets for joint returns; spouses could file separately on a combined return)."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1980/SD16/PDF",
+      "notes": "5.75% bracket over $12,000 added 1972. Deduction is the $600 per person exemption; the standard deduction (15% of AGI, min $1,300, max $2,000) depends on income and is left out. No split-income joint schedule (same brackets for joint returns; spouses could file separately on a combined return)."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1980/SD16/PDF",
+      "notes": "5.75% bracket over $12,000 added 1972. Deduction is the $600 per person exemption; the standard deduction (15% of AGI, min $1,300, max $2,000) depends on income and is left out. No split-income joint schedule (same brackets for joint returns; spouses could file separately on a combined return)."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 12000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://rga.lis.virginia.gov/Published/1980/SD16/PDF",
+      "notes": "5.75% bracket over $12,000 added 1972. Deduction is the $600 per person exemption; the standard deduction (15% of AGI, min $1,300, max $2,000) depends on income and is left out. No split-income joint schedule (same brackets for joint returns; spouses could file separately on a combined return)."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 700,
+        "marriedJoint": 1400
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Deduction is the $700 per person exemption; the standard deduction (max $2,000) is left out because the 1987 amount's income dependence isn't confirmed. Same brackets for joint returns."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3500,
+        "marriedJoint": 4300
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Deduction is the $2,700 / $2,700 standard deduction plus the $800 per person exemption. Same brackets for joint returns."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption. Same brackets for joint returns."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Top bracket at $17,000 from 1990 (Va. Code 58.1-320). Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption (set by 1987 law). Same brackets for joint returns."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Top bracket at $17,000 from 1990 (Va. Code 58.1-320). Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption (set by 1987 law). Same brackets for joint returns."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Top bracket at $17,000 from 1990 (Va. Code 58.1-320). Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption (set by 1987 law). Same brackets for joint returns."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Top bracket at $17,000 from 1990 (Va. Code 58.1-320). Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption (set by 1987 law). Same brackets for joint returns."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Top bracket at $17,000 from 1990 (Va. Code 58.1-320). Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption (set by 1987 law). Same brackets for joint returns."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Top bracket at $17,000 from 1990 (Va. Code 58.1-320). Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption (set by 1987 law). Same brackets for joint returns."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Top bracket at $17,000 from 1990 (Va. Code 58.1-320). Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption (set by 1987 law). Same brackets for joint returns."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Top bracket at $17,000 from 1990 (Va. Code 58.1-320). Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption (set by 1987 law). Same brackets for joint returns."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Top bracket at $17,000 from 1990 (Va. Code 58.1-320). Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption (set by 1987 law). Same brackets for joint returns."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Top bracket at $17,000 from 1990 (Va. Code 58.1-320). Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption (set by 1987 law). Same brackets for joint returns."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Top bracket at $17,000 from 1990 (Va. Code 58.1-320). Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption (set by 1987 law). Same brackets for joint returns."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Top bracket at $17,000 from 1990 (Va. Code 58.1-320). Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption (set by 1987 law). Same brackets for joint returns."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Top bracket at $17,000 from 1990 (Va. Code 58.1-320). Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption (set by 1987 law). Same brackets for joint returns."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Top bracket at $17,000 from 1990 (Va. Code 58.1-320). Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption (set by 1987 law). Same brackets for joint returns."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.tax.virginia.gov/laws-rules-decisions/legislative-summaries/87-293",
+      "notes": "Top bracket at $17,000 from 1990 (Va. Code 58.1-320). Deduction is the $3,000 / $5,000 standard deduction plus the $800 per person exemption (set by 1987 law). Same brackets for joint returns."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3900,
+        "marriedJoint": 7800
+      },
+      "source": "https://www.tax.virginia.gov/sites/default/files/inline-files/2004LEGISLATIVESUMMARY.pdf",
+      "notes": "Deduction is the $3,000 / $6,000 standard deduction plus the $900 per person exemption (2004 HB 5018; exemption increase advanced to 2005 by 2005 HB 1833). Same brackets for joint returns."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3900,
+        "marriedJoint": 7800
+      },
+      "source": "https://www.tax.virginia.gov/sites/default/files/inline-files/2004LEGISLATIVESUMMARY.pdf",
+      "notes": "Deduction is the $3,000 / $6,000 standard deduction plus the $900 per person exemption (2004 HB 5018; exemption increase advanced to 2005 by 2005 HB 1833). Same brackets for joint returns."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3900,
+        "marriedJoint": 7800
+      },
+      "source": "https://www.tax.virginia.gov/sites/default/files/inline-files/2004LEGISLATIVESUMMARY.pdf",
+      "notes": "Deduction is the $3,000 / $6,000 standard deduction plus the $900 per person exemption (2004 HB 5018; exemption increase advanced to 2005 by 2005 HB 1833). Same brackets for joint returns."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3930,
+        "marriedJoint": 7860
+      },
+      "source": "https://www.tax.virginia.gov/sites/default/files/inline-files/2007LEGISLATIVESUMMARY.pdf",
+      "notes": "Deduction is the $3,000 / $6,000 standard deduction plus the $930 per person exemption (from 2008). Same brackets for joint returns."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3930,
+        "marriedJoint": 7860
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VA/2009/760Instr.pdf",
+      "notes": "Deduction is the $3,000 / $6,000 standard deduction plus the $930 per person exemption (from 2008). Same brackets for joint returns."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3930,
+        "marriedJoint": 7860
+      },
+      "source": "https://www.tax.virginia.gov/sites/default/files/inline-files/2007LEGISLATIVESUMMARY.pdf",
+      "notes": "Deduction is the $3,000 / $6,000 standard deduction plus the $930 per person exemption (from 2008). Same brackets for joint returns."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3930,
+        "marriedJoint": 7860
+      },
+      "source": "https://www.tax.virginia.gov/sites/default/files/inline-files/2007LEGISLATIVESUMMARY.pdf",
+      "notes": "Deduction is the $3,000 / $6,000 standard deduction plus the $930 per person exemption (from 2008). Same brackets for joint returns."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3930,
+        "marriedJoint": 7860
+      },
+      "source": "https://www.tax.virginia.gov/sites/default/files/inline-files/2007LEGISLATIVESUMMARY.pdf",
+      "notes": "Deduction is the $3,000 / $6,000 standard deduction plus the $930 per person exemption (from 2008). Same brackets for joint returns."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3930,
+        "marriedJoint": 7860
+      },
+      "source": "https://www.tax.virginia.gov/sites/default/files/inline-files/2007LEGISLATIVESUMMARY.pdf",
+      "notes": "Deduction is the $3,000 / $6,000 standard deduction plus the $930 per person exemption (from 2008). Same brackets for joint returns."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3930,
+        "marriedJoint": 7860
+      },
+      "source": "https://www.tax.virginia.gov/sites/default/files/inline-files/2007LEGISLATIVESUMMARY.pdf",
+      "notes": "Deduction is the $3,000 / $6,000 standard deduction plus the $930 per person exemption (from 2008). Same brackets for joint returns."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3930,
+        "marriedJoint": 7860
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VA/2015/760-2015-instructions_6.pdf",
+      "notes": "Deduction is the $3,000 / $6,000 standard deduction plus the $930 per person exemption (from 2008). Same brackets for joint returns."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3930,
+        "marriedJoint": 7860
+      },
+      "source": "https://www.tax.virginia.gov/sites/default/files/inline-files/2007LEGISLATIVESUMMARY.pdf",
+      "notes": "Deduction is the $3,000 / $6,000 standard deduction plus the $930 per person exemption (from 2008). Same brackets for joint returns."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3930,
+        "marriedJoint": 7860
+      },
+      "source": "https://www.tax.virginia.gov/sites/default/files/inline-files/2007LEGISLATIVESUMMARY.pdf",
+      "notes": "Deduction is the $3,000 / $6,000 standard deduction plus the $930 per person exemption (from 2008). Same brackets for joint returns."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3930,
+        "marriedJoint": 7860
+      },
+      "source": "https://www.tax.virginia.gov/sites/default/files/inline-files/2007LEGISLATIVESUMMARY.pdf",
+      "notes": "Deduction is the $3,000 / $6,000 standard deduction plus the $930 per person exemption (from 2008). Same brackets for joint returns."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5430,
+        "marriedJoint": 10860
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VA/2019/2019-760-instructions.pdf",
+      "notes": "Deduction is the $4,500 / $9,000 standard deduction plus the $930 per person exemption. Same brackets for joint returns."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5430,
+        "marriedJoint": 10860
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VA/2019/2019-760-instructions.pdf",
+      "notes": "Deduction is the $4,500 / $9,000 standard deduction plus the $930 per person exemption. Same brackets for joint returns."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5430,
+        "marriedJoint": 10860
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VA/2019/2019-760-instructions.pdf",
+      "notes": "Deduction is the $4,500 / $9,000 standard deduction plus the $930 per person exemption. Same brackets for joint returns."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8930,
+        "marriedJoint": 17860
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VA/2022/2022-760-instructions.pdf",
+      "notes": "Deduction is the $8,000 / $16,000 standard deduction plus the $930 per person exemption. Same brackets for joint returns."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8930,
+        "marriedJoint": 17860
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/VA/2023/2023-760-instructions.pdf",
+      "notes": "Deduction is the $8,000 / $16,000 standard deduction plus the $930 per person exemption. Same brackets for joint returns."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9430,
+        "marriedJoint": 18860
+      },
+      "source": "https://www.tax.virginia.gov/sites/default/files/vatax-pdf/2024-760-instructions.pdf",
+      "notes": "Deduction is the $8,500 / $17,000 standard deduction plus the $930 per person exemption."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9680,
+        "marriedJoint": 19360
+      },
+      "source": "https://www.tax.virginia.gov/sites/default/files/vatax-pdf/2025-760-instructions.pdf",
+      "notes": "Deduction is the $8,750 / $17,500 standard deduction plus the $930 per person exemption."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 17000,
+            "rate": 0.0575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9680,
+        "marriedJoint": 19360
+      },
+      "source": "https://www.tax.virginia.gov/news/new-virginia-tax-laws",
+      "notes": "Deduction is the $8,750 / $17,500 standard deduction plus the $930 per person exemption."
+    }
+  }
+}

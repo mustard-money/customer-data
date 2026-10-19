@@ -1,0 +1,1309 @@
+{
+  "id": "us-state-CO",
+  "kind": "state",
+  "region": "Colorado",
+  "state": "CO",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1000,
+            "rate": 0.035
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 9000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1308&context=colc_all",
+      "notes": "Statutory rates 3%-8% (rates unchanged 1963-1986 per Colorado Legislative Council Tax Handbook 1986, 'History of Tax Changes'). Same schedule for all filers (LCS gives one schedule; joint treatment not stated). Not modelled: 2% surtax on dividends/interest/royalties above $5,000 (above $15,000 from 1979); personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped). Brackets as enacted in 1963 (no indexing before 1978). A 1/2% credit on taxable income of $9,000 and less applied (effective 2.5%-6.5% on lower brackets); not modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1000,
+            "rate": 0.035
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 9000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1308&context=colc_all",
+      "notes": "Statutory rates 3%-8% (rates unchanged 1963-1986 per Colorado Legislative Council Tax Handbook 1986, 'History of Tax Changes'). Same schedule for all filers (LCS gives one schedule; joint treatment not stated). Not modelled: 2% surtax on dividends/interest/royalties above $5,000 (above $15,000 from 1979); personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped). Brackets as enacted in 1963 (no indexing before 1978). A 1/2% credit on taxable income of $9,000 and less applied (effective 2.5%-6.5% on lower brackets); not modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1000,
+            "rate": 0.035
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 9000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1308&context=colc_all",
+      "notes": "Statutory rates 3%-8% (rates unchanged 1963-1986 per Colorado Legislative Council Tax Handbook 1986, 'History of Tax Changes'). Same schedule for all filers (LCS gives one schedule; joint treatment not stated). Not modelled: 2% surtax on dividends/interest/royalties above $5,000 (above $15,000 from 1979); personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped). Brackets as enacted in 1963 (no indexing before 1978). A 1/2% credit on taxable income of $9,000 and less applied (effective 2.5%-6.5% on lower brackets); not modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1000,
+            "rate": 0.035
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 9000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1308&context=colc_all",
+      "notes": "Statutory rates 3%-8% (rates unchanged 1963-1986 per Colorado Legislative Council Tax Handbook 1986, 'History of Tax Changes'). Same schedule for all filers (LCS gives one schedule; joint treatment not stated). Not modelled: 2% surtax on dividends/interest/royalties above $5,000 (above $15,000 from 1979); personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped). Brackets as enacted in 1963 (no indexing before 1978). A 1/2% credit on taxable income of $9,000 and less applied (effective 2.5%-6.5% on lower brackets); not modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1000,
+            "rate": 0.035
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 9000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1308&context=colc_all",
+      "notes": "Statutory rates 3%-8% (rates unchanged 1963-1986 per Colorado Legislative Council Tax Handbook 1986, 'History of Tax Changes'). Same schedule for all filers (LCS gives one schedule; joint treatment not stated). Not modelled: 2% surtax on dividends/interest/royalties above $5,000 (above $15,000 from 1979); personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped). Brackets as enacted in 1963 (no indexing before 1978). A 1/2% credit on taxable income of $9,000 and less applied (effective 2.5%-6.5% on lower brackets); not modelled."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1000,
+            "rate": 0.035
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 9000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1308&context=colc_all",
+      "notes": "Statutory rates 3%-8% (rates unchanged 1963-1986 per Colorado Legislative Council Tax Handbook 1986, 'History of Tax Changes'). Same schedule for all filers (LCS gives one schedule; joint treatment not stated). Not modelled: 2% surtax on dividends/interest/royalties above $5,000 (above $15,000 from 1979); personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped). Brackets as enacted in 1963 (no indexing before 1978). A 1/2% credit on taxable income of $9,000 and less applied (effective 2.5%-6.5% on lower brackets); not modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1000,
+            "rate": 0.035
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 9000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1308&context=colc_all",
+      "notes": "Statutory rates 3%-8% (rates unchanged 1963-1986 per Colorado Legislative Council Tax Handbook 1986, 'History of Tax Changes'). Same schedule for all filers (LCS gives one schedule; joint treatment not stated). Not modelled: 2% surtax on dividends/interest/royalties above $5,000 (above $15,000 from 1979); personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped). Brackets as enacted in 1963 (no indexing before 1978). A 1/2% credit on taxable income of $9,000 and less applied (effective 2.5%-6.5% on lower brackets); not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1000,
+            "rate": 0.035
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.055
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 9000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1308&context=colc_all",
+      "notes": "Statutory rates 3%-8% (rates unchanged 1963-1986 per Colorado Legislative Council Tax Handbook 1986, 'History of Tax Changes'). Same schedule for all filers (LCS gives one schedule; joint treatment not stated). Not modelled: 2% surtax on dividends/interest/royalties above $5,000 (above $15,000 from 1979); personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped). Brackets as enacted in 1963 (no indexing before 1978). A 1/2% credit on taxable income of $9,000 and less applied (effective 2.5%-6.5% on lower brackets); not modelled."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1060,
+            "rate": 0.035
+          },
+          {
+            "from": 2120,
+            "rate": 0.04
+          },
+          {
+            "from": 3180,
+            "rate": 0.045
+          },
+          {
+            "from": 4240,
+            "rate": 0.05
+          },
+          {
+            "from": 5300,
+            "rate": 0.055
+          },
+          {
+            "from": 6360,
+            "rate": 0.06
+          },
+          {
+            "from": 7420,
+            "rate": 0.065
+          },
+          {
+            "from": 8480,
+            "rate": 0.07
+          },
+          {
+            "from": 9540,
+            "rate": 0.075
+          },
+          {
+            "from": 10600,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://spl.cde.state.co.us/artemis/revserials/rev11internet/rev111979internet.pdf",
+      "notes": "Statutory rates 3%-8% on indexed brackets, as printed in the Colorado Department of Revenue Annual Report for fiscal year 1979 (p. 64, 'Individual and Fiduciary Income Tax Rates: 1978 Tax Brackets and Rates With Credit and Indexing'; Colorado State Publications Library scan). Brackets indexed by the annual inflation factor (1978 is 106%; cumulative 106%). Same schedule for all filers (report gives one schedule; joint treatment not stated). Not modelled: the 1/2% credit (1/200 of net taxable income not in excess of $9,000, making the effective rates 2.5%-7.5% on brackets up to that amount); 2% surtax on dividends/interest above $5,000; personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped)."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1134,
+            "rate": 0.035
+          },
+          {
+            "from": 2268,
+            "rate": 0.04
+          },
+          {
+            "from": 3403,
+            "rate": 0.045
+          },
+          {
+            "from": 4537,
+            "rate": 0.05
+          },
+          {
+            "from": 5671,
+            "rate": 0.055
+          },
+          {
+            "from": 6805,
+            "rate": 0.06
+          },
+          {
+            "from": 7939,
+            "rate": 0.065
+          },
+          {
+            "from": 9074,
+            "rate": 0.07
+          },
+          {
+            "from": 10208,
+            "rate": 0.075
+          },
+          {
+            "from": 11342,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://spl.cde.state.co.us/artemis/revserials/rev11internet/rev111980internet.pdf",
+      "notes": "Statutory rates 3%-8% on indexed brackets, as printed in the Colorado Department of Revenue Annual Report for fiscal year 1980 (p. 54, 'Individual and Fiduciary Income Tax Rates: 1979 Tax Brackets and Rates With Credit and Indexing'; Colorado State Publications Library scan). Brackets indexed by the annual inflation factor (1978 is 106%; 1979 is 107%; cumulative 113.42%). Same schedule for all filers (report gives one schedule; joint treatment not stated). Not modelled: the 1/2% credit (1/200 of net taxable income not in excess of $9,000, making the effective rates 2.5%-7.5% on brackets up to that amount); 2% surtax on dividends/interest above $15,000; personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped)."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1236,
+            "rate": 0.035
+          },
+          {
+            "from": 2473,
+            "rate": 0.04
+          },
+          {
+            "from": 3709,
+            "rate": 0.045
+          },
+          {
+            "from": 4945,
+            "rate": 0.05
+          },
+          {
+            "from": 6181,
+            "rate": 0.055
+          },
+          {
+            "from": 7418,
+            "rate": 0.06
+          },
+          {
+            "from": 8654,
+            "rate": 0.065
+          },
+          {
+            "from": 9890,
+            "rate": 0.07
+          },
+          {
+            "from": 11127,
+            "rate": 0.075
+          },
+          {
+            "from": 12363,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://spl.cde.state.co.us/artemis/revserials/rev11internet/rev111981internet.pdf",
+      "notes": "Statutory rates 3%-8% on indexed brackets, as printed in the Colorado Department of Revenue Annual Report for fiscal year 1981 (p. 60, 'Individual and Fiduciary Income Tax Rates: 1980 Tax Brackets and Rates With Credit and Indexing'; Colorado State Publications Library scan). Brackets indexed by the annual inflation factor (1978 is 106%; 1979 is 107%; 1980 is 109%; cumulative 123.63%). Same schedule for all filers (report gives one schedule; joint treatment not stated). Not modelled: the 1/2% credit (1/200 of net taxable income not in excess of $11,127, making the effective rates 2.5%-7.5% on brackets up to that amount); 2% surtax on dividends/interest above $15,000; personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1335,
+            "rate": 0.035
+          },
+          {
+            "from": 2670,
+            "rate": 0.04
+          },
+          {
+            "from": 4006,
+            "rate": 0.045
+          },
+          {
+            "from": 5341,
+            "rate": 0.05
+          },
+          {
+            "from": 6676,
+            "rate": 0.055
+          },
+          {
+            "from": 8011,
+            "rate": 0.06
+          },
+          {
+            "from": 9346,
+            "rate": 0.065
+          },
+          {
+            "from": 10681,
+            "rate": 0.07
+          },
+          {
+            "from": 12017,
+            "rate": 0.075
+          },
+          {
+            "from": 13352,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://spl.cde.state.co.us/artemis/revserials/rev11internet/rev111982internet.pdf",
+      "notes": "Statutory rates 3%-8% on indexed brackets, as printed in the Colorado Department of Revenue Annual Report for fiscal year 1982 (p. 52, 'Individual and Fiduciary Income Tax Rates: 1981 Tax Brackets and Rates With Credit and Indexing'; Colorado State Publications Library scan). Brackets indexed by the annual inflation factor (1978 is 106%; 1979 is 107%; 1980 is 109%; 1981 is 108%; cumulative 133.52%). Same schedule for all filers (report gives one schedule; joint treatment not stated). Not modelled: the 1/2% credit (1/200 of net taxable income not in excess of $12,017, making the effective rates 2.5%-7.5% on brackets up to that amount); 2% surtax on dividends/interest above $15,000; personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped)."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1415,
+            "rate": 0.035
+          },
+          {
+            "from": 2831,
+            "rate": 0.04
+          },
+          {
+            "from": 4246,
+            "rate": 0.045
+          },
+          {
+            "from": 5661,
+            "rate": 0.05
+          },
+          {
+            "from": 7076,
+            "rate": 0.055
+          },
+          {
+            "from": 8492,
+            "rate": 0.06
+          },
+          {
+            "from": 9907,
+            "rate": 0.065
+          },
+          {
+            "from": 11322,
+            "rate": 0.07
+          },
+          {
+            "from": 12738,
+            "rate": 0.075
+          },
+          {
+            "from": 14153,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://spl.cde.state.co.us/artemis/revserials/rev11internet/rev111983internet.pdf",
+      "notes": "Statutory rates 3%-8% on indexed brackets, as printed in the Colorado Department of Revenue Annual Report for fiscal year 1983 (p. 72, 'Individual and Fiduciary Income Tax Rates: 1982 Tax Brackets and Rates With Credit and Indexing'; Colorado State Publications Library scan). Brackets indexed by the annual inflation factor (1978 is 106%; 1979 is 107%; 1980 is 109%; 1981 is 108%; 1982 is 106%; cumulative 141.53%). Same schedule for all filers (report gives one schedule; joint treatment not stated). Not modelled: the 1/2% credit (1/200 of net taxable income not in excess of $12,738, making the effective rates 2.5%-7.5% on brackets up to that amount); 2% surtax on dividends/interest above $15,000; personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped)."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1420,
+            "rate": 0.035
+          },
+          {
+            "from": 2830,
+            "rate": 0.04
+          },
+          {
+            "from": 4250,
+            "rate": 0.045
+          },
+          {
+            "from": 5660,
+            "rate": 0.05
+          },
+          {
+            "from": 7080,
+            "rate": 0.055
+          },
+          {
+            "from": 8490,
+            "rate": 0.06
+          },
+          {
+            "from": 9910,
+            "rate": 0.065
+          },
+          {
+            "from": 11320,
+            "rate": 0.07
+          },
+          {
+            "from": 12740,
+            "rate": 0.075
+          },
+          {
+            "from": 14150,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1308&context=colc_all",
+      "notes": "Statutory rates 3%-8% (rates unchanged 1963-1986 per Colorado Legislative Council Tax Handbook 1986, 'History of Tax Changes'). Same schedule for all filers (LCS gives one schedule; joint treatment not stated). Not modelled: 2% surtax on dividends/interest/royalties above $5,000 (above $15,000 from 1979); personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped). Indexed brackets as printed in the 1986 Tax Handbook ('Present Rate'); AIF 0% 1983-1986. A 1/2% credit on taxable income of $9,000 and less applied (effective 2.5%-6.5% on lower brackets); not modelled."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1420,
+            "rate": 0.035
+          },
+          {
+            "from": 2830,
+            "rate": 0.04
+          },
+          {
+            "from": 4250,
+            "rate": 0.045
+          },
+          {
+            "from": 5660,
+            "rate": 0.05
+          },
+          {
+            "from": 7080,
+            "rate": 0.055
+          },
+          {
+            "from": 8490,
+            "rate": 0.06
+          },
+          {
+            "from": 9910,
+            "rate": 0.065
+          },
+          {
+            "from": 11320,
+            "rate": 0.07
+          },
+          {
+            "from": 12740,
+            "rate": 0.075
+          },
+          {
+            "from": 14150,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1308&context=colc_all",
+      "notes": "Statutory rates 3%-8% (rates unchanged 1963-1986 per Colorado Legislative Council Tax Handbook 1986, 'History of Tax Changes'). Same schedule for all filers (LCS gives one schedule; joint treatment not stated). Not modelled: 2% surtax on dividends/interest/royalties above $5,000 (above $15,000 from 1979); personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped). Indexed brackets as printed in the 1986 Tax Handbook ('Present Rate'); AIF 0% 1983-1986. 1/2% credit suspended 1984-1990."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1420,
+            "rate": 0.035
+          },
+          {
+            "from": 2830,
+            "rate": 0.04
+          },
+          {
+            "from": 4250,
+            "rate": 0.045
+          },
+          {
+            "from": 5660,
+            "rate": 0.05
+          },
+          {
+            "from": 7080,
+            "rate": 0.055
+          },
+          {
+            "from": 8490,
+            "rate": 0.06
+          },
+          {
+            "from": 9910,
+            "rate": 0.065
+          },
+          {
+            "from": 11320,
+            "rate": 0.07
+          },
+          {
+            "from": 12740,
+            "rate": 0.075
+          },
+          {
+            "from": 14150,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1308&context=colc_all",
+      "notes": "Statutory rates 3%-8% (rates unchanged 1963-1986 per Colorado Legislative Council Tax Handbook 1986, 'History of Tax Changes'). Same schedule for all filers (LCS gives one schedule; joint treatment not stated). Not modelled: 2% surtax on dividends/interest/royalties above $5,000 (above $15,000 from 1979); personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped). Indexed brackets as printed in the 1986 Tax Handbook ('Present Rate'); AIF 0% 1983-1986. 1/2% credit suspended 1984-1990."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 1420,
+            "rate": 0.035
+          },
+          {
+            "from": 2830,
+            "rate": 0.04
+          },
+          {
+            "from": 4250,
+            "rate": 0.045
+          },
+          {
+            "from": 5660,
+            "rate": 0.05
+          },
+          {
+            "from": 7080,
+            "rate": 0.055
+          },
+          {
+            "from": 8490,
+            "rate": 0.06
+          },
+          {
+            "from": 9910,
+            "rate": 0.065
+          },
+          {
+            "from": 11320,
+            "rate": 0.07
+          },
+          {
+            "from": 12740,
+            "rate": 0.075
+          },
+          {
+            "from": 14150,
+            "rate": 0.08
+          }
+        ]
+      },
+      "source": "https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1308&context=colc_all",
+      "notes": "Statutory rates 3%-8% (rates unchanged 1963-1986 per Colorado Legislative Council Tax Handbook 1986, 'History of Tax Changes'). Same schedule for all filers (LCS gives one schedule; joint treatment not stated). Not modelled: 2% surtax on dividends/interest/royalties above $5,000 (above $15,000 from 1979); personal exemptions (amount not found in an allowed source) and the percentage standard deduction (capped). Indexed brackets as printed in the 1986 Tax Handbook ('Present Rate'); AIF 0% 1983-1986. 1/2% credit suspended 1984-1990."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 4440,
+        "marriedJoint": 7560
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal 1987 amounts from Form 1040 (1987): std $2,540/$3,760, exemption $1,900."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 4950,
+        "marriedJoint": 8900
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 5100,
+        "marriedJoint": 9200
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 5300,
+        "marriedJoint": 9550
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 5550,
+        "marriedJoint": 10000
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 5900,
+        "marriedJoint": 10600
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 6050,
+        "marriedJoint": 10900
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 6250,
+        "marriedJoint": 11250
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 6400,
+        "marriedJoint": 11550
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 6550,
+        "marriedJoint": 11800
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 6800,
+        "marriedJoint": 12200
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 6950,
+        "marriedJoint": 12500
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.0475,
+      "deduction": {
+        "single": 7050,
+        "marriedJoint": 12700
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 7200,
+        "marriedJoint": 12950
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 7450,
+        "marriedJoint": 13400
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 7700,
+        "marriedJoint": 13850
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 7800,
+        "marriedJoint": 15600
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 7950,
+        "marriedJoint": 15900
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 8200,
+        "marriedJoint": 16400
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 8450,
+        "marriedJoint": 16900
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 8750,
+        "marriedJoint": 17500
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 8950,
+        "marriedJoint": 17900
+      },
+      "source": "https://content.leg.colorado.gov/sites/default/files/14-26_individualincometaxissuebrief.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CO/2009/CY104.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CO/2010/CY104.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 9500,
+        "marriedJoint": 19000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CO/2011/CY104.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 9750,
+        "marriedJoint": 19500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CO/2012/CY104.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 10000,
+        "marriedJoint": 20000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CO/2013/CY104.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 10150,
+        "marriedJoint": 20300
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CO/2014/104Book.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 10300,
+        "marriedJoint": 20600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CO/2015/104Book_2015-1.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 10350,
+        "marriedJoint": 20700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CO/2016/104Book.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 10400,
+        "marriedJoint": 20800
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CO/2017/104Book.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal personal-exemption phase-out not modelled."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.0463,
+      "deduction": {
+        "single": 12000,
+        "marriedJoint": 24000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CO/2018/Book%200104_0.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal exemptions are $0 from 2018."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.045,
+      "deduction": {
+        "single": 12200,
+        "marriedJoint": 24400
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CO/2019/DR0104Book_2019.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Temporary TABOR rate reduction from the statutory 4.63%/4.55%. Federal exemptions are $0 from 2018."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.0455,
+      "deduction": {
+        "single": 12400,
+        "marriedJoint": 24800
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CO/2020/DR0104Book_2020_V2.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal exemptions are $0 from 2018."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.045,
+      "deduction": {
+        "single": 12550,
+        "marriedJoint": 25100
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CO/2021/DR0104Book_2021_V3.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Temporary TABOR rate reduction from the statutory 4.63%/4.55%. Federal exemptions are $0 from 2018."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.044,
+      "deduction": {
+        "single": 12950,
+        "marriedJoint": 25900
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CO/2022/DR_0104_Book_2022.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). HB22-1021 / Proposition 121 rate. Federal exemptions are $0 from 2018."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.044,
+      "deduction": {
+        "single": 13850,
+        "marriedJoint": 27700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/CO/2023/Book0104_2023.pdf",
+      "notes": "Flat rate on Colorado taxable income, which starts from federal taxable income; deduction = federal standard deduction + personal exemptions for that year (itemizers use federal itemized). Federal exemptions are $0 from 2018."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.0425,
+      "deduction": {
+        "single": 14600,
+        "marriedJoint": 29200
+      },
+      "source": "https://tax.colorado.gov/sites/tax/files/documents/DR0104_book_2024.pdf",
+      "notes": "Starts from federal taxable income. 4.25% is the temporary TABOR rate cut for 2024."
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.044,
+      "deduction": {
+        "single": 15750,
+        "marriedJoint": 31500
+      },
+      "source": "https://tax.colorado.gov/sites/tax/files/documents/Book104_2025.pdf",
+      "notes": "Starts from federal taxable income, so the One Big Beautiful Bill Act standard deduction flows through (the booklet has no add-back for it). No TABOR temporary rate cut for 2025."
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.044,
+      "deduction": {
+        "single": 16100,
+        "marriedJoint": 32200
+      },
+      "source": "https://tax.colorado.gov/individual-income-tax-FAQ",
+      "notes": "Starts from federal taxable income. No TABOR temporary rate cut for 2026."
+    }
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "id": "us-state-TN",
+  "kind": "state",
+  "region": "Tennessee",
+  "state": "TN",
+  "years": {
+    "1970": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1971": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1972": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1973": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1974": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1975": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1976": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1977": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1978": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1979": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1980": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1981": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1982": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1983": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1984": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1985": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1986": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1987": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1988": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1989": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1990": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1991": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1992": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1993": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1994": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1995": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1996": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1997": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1998": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "1999": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2000": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2001": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2002": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2003": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2004": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2005": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2006": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2007": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2008": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2009": {
+      "type": "none",
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/TN/2009/inc250.pdf",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled. 2009 Form INC 250: 6% of taxable dividends/interest above a $1,250 single / $2,500 joint exemption."
+    },
+    "2010": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2011": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2012": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2013": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2014": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2015": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2016": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled."
+    },
+    "2017": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax/due-date-and-tax-rates.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled. Hall rate on interest/dividends 4% for 2017 (phase-down to repeal)."
+    },
+    "2018": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax/due-date-and-tax-rates.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled. Hall rate on interest/dividends 3% for 2018 (phase-down to repeal)."
+    },
+    "2019": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax/due-date-and-tax-rates.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled. Hall rate on interest/dividends 2% for 2019 (phase-down to repeal)."
+    },
+    "2020": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax/due-date-and-tax-rates.html",
+      "notes": "Wages not taxed. The Hall income tax (enacted 1929) applied only to interest from bonds/notes and dividends from stock; not modelled. Hall rate on interest/dividends 1% for 2020 (phase-down to repeal)."
+    },
+    "2021": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "No tax on wages; the Hall tax on interest and dividends was repealed for tax periods beginning January 1, 2021 or later."
+    },
+    "2022": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "No tax on wages; the Hall tax on interest and dividends was repealed for tax periods beginning January 1, 2021 or later."
+    },
+    "2023": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "No tax on wages; the Hall tax on interest and dividends was repealed for tax periods beginning January 1, 2021 or later."
+    },
+    "2024": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "The Hall tax on interest and dividends ended in 2021; wages were never taxed."
+    },
+    "2025": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "The Hall tax on interest and dividends ended in 2021; wages were never taxed."
+    },
+    "2026": {
+      "type": "none",
+      "source": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+      "notes": "The Hall tax on interest and dividends ended in 2021; wages were never taxed."
+    }
+  }
+}

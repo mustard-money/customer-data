@@ -1,0 +1,3003 @@
+{
+  "id": "us-state-DE",
+  "kind": "state",
+  "region": "Delaware",
+  "state": "DE",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 6000,
+            "rate": 0.07
+          },
+          {
+            "from": 8000,
+            "rate": 0.08
+          },
+          {
+            "from": 30000,
+            "rate": 0.09
+          },
+          {
+            "from": 50000,
+            "rate": 0.1
+          },
+          {
+            "from": 100000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=31273",
+      "notes": "Pre-1971 income tax: 30 Del. C. 1953 sec. 1111 as amended by 51 Del. Laws c. 299 (effective Jan. 1, 1957: 1.5%-8%, top bracket over $8,000) and 53 Del. Laws c. 104 (1961, https://legis.delaware.gov/SessionLaws/Chapter?id=30084), which added 9% ($30,000-$50,000), 10% ($50,000-$100,000) and 11% (over $100,000); no further rate amendment appears in the 54th-57th volumes of Delaware Laws before the Personal Income Tax Law of 1970 (57 Del. Laws c. 737, effective 1971) re-enacted the same schedule. Applied to net income after exemptions; same schedule for all filing statuses. Deduction not recorded: pre-1971 personal exemption / dependent credit amounts not verified (standard deduction was the lesser of 10% of AGI or $500, $1,000 joint, per 55 Del. Laws c. 363). Federal income tax paid deductible up to $300 ($600 joint) - not modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 6000,
+            "rate": 0.07
+          },
+          {
+            "from": 8000,
+            "rate": 0.08
+          },
+          {
+            "from": 30000,
+            "rate": 0.09
+          },
+          {
+            "from": 50000,
+            "rate": 0.1
+          },
+          {
+            "from": 100000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=28246",
+      "notes": "Schedule of the Personal Income Tax Law of 1970 (57 Del. Laws c 737, effective 1971); the 2-3k bracket rate is garbled in the online text and read as 3% (consistent with 3.3% = +10% in 59 Del. Laws c 152). 58 Del. Laws c 300 raised rates above $8,000 (to 8.5%-18% above $20,000) for income earned Aug 1 - Dec 31, 1971 - that proration is NOT modelled. Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $600 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 6000,
+            "rate": 0.07
+          },
+          {
+            "from": 8000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.085
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          },
+          {
+            "from": 40000,
+            "rate": 0.12
+          },
+          {
+            "from": 50000,
+            "rate": 0.14
+          },
+          {
+            "from": 75000,
+            "rate": 0.15
+          },
+          {
+            "from": 100000,
+            "rate": 0.18
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=27098",
+      "notes": "58 Del. Laws c 300 schedule (income earned from Jan 1, 1972). Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $600 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 6000,
+            "rate": 0.07
+          },
+          {
+            "from": 8000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.085
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          },
+          {
+            "from": 40000,
+            "rate": 0.12
+          },
+          {
+            "from": 50000,
+            "rate": 0.14
+          },
+          {
+            "from": 75000,
+            "rate": 0.15
+          },
+          {
+            "from": 100000,
+            "rate": 0.18
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=27098",
+      "notes": "58 Del. Laws c 300 schedule (income earned from Jan 1, 1972). Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $600 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1000,
+            "rate": 0.022
+          },
+          {
+            "from": 2000,
+            "rate": 0.033
+          },
+          {
+            "from": 3000,
+            "rate": 0.044
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 5000,
+            "rate": 0.066
+          },
+          {
+            "from": 6000,
+            "rate": 0.077
+          },
+          {
+            "from": 8000,
+            "rate": 0.088
+          },
+          {
+            "from": 20000,
+            "rate": 0.093
+          },
+          {
+            "from": 25000,
+            "rate": 0.099
+          },
+          {
+            "from": 30000,
+            "rate": 0.121
+          },
+          {
+            "from": 40000,
+            "rate": 0.132
+          },
+          {
+            "from": 50000,
+            "rate": 0.154
+          },
+          {
+            "from": 75000,
+            "rate": 0.165
+          },
+          {
+            "from": 100000,
+            "rate": 0.198
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=24282",
+      "notes": "59 Del. Laws c 152 (+10% on all rates, effective 1974); restated in 62 Del. Laws c 56 as the schedule for years before 1979. Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $600 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1000,
+            "rate": 0.022
+          },
+          {
+            "from": 2000,
+            "rate": 0.033
+          },
+          {
+            "from": 3000,
+            "rate": 0.044
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 5000,
+            "rate": 0.066
+          },
+          {
+            "from": 6000,
+            "rate": 0.077
+          },
+          {
+            "from": 8000,
+            "rate": 0.088
+          },
+          {
+            "from": 20000,
+            "rate": 0.093
+          },
+          {
+            "from": 25000,
+            "rate": 0.099
+          },
+          {
+            "from": 30000,
+            "rate": 0.121
+          },
+          {
+            "from": 40000,
+            "rate": 0.132
+          },
+          {
+            "from": 50000,
+            "rate": 0.154
+          },
+          {
+            "from": 75000,
+            "rate": 0.165
+          },
+          {
+            "from": 100000,
+            "rate": 0.198
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=24282",
+      "notes": "59 Del. Laws c 152 (+10% on all rates, effective 1974); restated in 62 Del. Laws c 56 as the schedule for years before 1979. Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $600 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1000,
+            "rate": 0.022
+          },
+          {
+            "from": 2000,
+            "rate": 0.033
+          },
+          {
+            "from": 3000,
+            "rate": 0.044
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 5000,
+            "rate": 0.066
+          },
+          {
+            "from": 6000,
+            "rate": 0.077
+          },
+          {
+            "from": 8000,
+            "rate": 0.088
+          },
+          {
+            "from": 20000,
+            "rate": 0.093
+          },
+          {
+            "from": 25000,
+            "rate": 0.099
+          },
+          {
+            "from": 30000,
+            "rate": 0.121
+          },
+          {
+            "from": 40000,
+            "rate": 0.132
+          },
+          {
+            "from": 50000,
+            "rate": 0.154
+          },
+          {
+            "from": 75000,
+            "rate": 0.165
+          },
+          {
+            "from": 100000,
+            "rate": 0.198
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=24282",
+      "notes": "59 Del. Laws c 152 (+10% on all rates, effective 1974); restated in 62 Del. Laws c 56 as the schedule for years before 1979. Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $600 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1000,
+            "rate": 0.022
+          },
+          {
+            "from": 2000,
+            "rate": 0.033
+          },
+          {
+            "from": 3000,
+            "rate": 0.044
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 5000,
+            "rate": 0.066
+          },
+          {
+            "from": 6000,
+            "rate": 0.077
+          },
+          {
+            "from": 8000,
+            "rate": 0.088
+          },
+          {
+            "from": 20000,
+            "rate": 0.093
+          },
+          {
+            "from": 25000,
+            "rate": 0.099
+          },
+          {
+            "from": 30000,
+            "rate": 0.121
+          },
+          {
+            "from": 40000,
+            "rate": 0.132
+          },
+          {
+            "from": 50000,
+            "rate": 0.154
+          },
+          {
+            "from": 75000,
+            "rate": 0.165
+          },
+          {
+            "from": 100000,
+            "rate": 0.198
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=24282",
+      "notes": "59 Del. Laws c 152 (+10% on all rates, effective 1974); restated in 62 Del. Laws c 56 as the schedule for years before 1979. Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $600 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1000,
+            "rate": 0.022
+          },
+          {
+            "from": 2000,
+            "rate": 0.033
+          },
+          {
+            "from": 3000,
+            "rate": 0.044
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 5000,
+            "rate": 0.066
+          },
+          {
+            "from": 6000,
+            "rate": 0.077
+          },
+          {
+            "from": 8000,
+            "rate": 0.088
+          },
+          {
+            "from": 20000,
+            "rate": 0.093
+          },
+          {
+            "from": 25000,
+            "rate": 0.099
+          },
+          {
+            "from": 30000,
+            "rate": 0.121
+          },
+          {
+            "from": 40000,
+            "rate": 0.132
+          },
+          {
+            "from": 50000,
+            "rate": 0.154
+          },
+          {
+            "from": 75000,
+            "rate": 0.165
+          },
+          {
+            "from": 100000,
+            "rate": 0.198
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=24282",
+      "notes": "59 Del. Laws c 152 (+10% on all rates, effective 1974); restated in 62 Del. Laws c 56 as the schedule for years before 1979. Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $600 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.021
+          },
+          {
+            "from": 2000,
+            "rate": 0.0315
+          },
+          {
+            "from": 3000,
+            "rate": 0.043
+          },
+          {
+            "from": 4000,
+            "rate": 0.0535
+          },
+          {
+            "from": 5000,
+            "rate": 0.064
+          },
+          {
+            "from": 6000,
+            "rate": 0.0745
+          },
+          {
+            "from": 8000,
+            "rate": 0.084
+          },
+          {
+            "from": 10000,
+            "rate": 0.085
+          },
+          {
+            "from": 15000,
+            "rate": 0.086
+          },
+          {
+            "from": 20000,
+            "rate": 0.0905
+          },
+          {
+            "from": 25000,
+            "rate": 0.0965
+          },
+          {
+            "from": 30000,
+            "rate": 0.1155
+          },
+          {
+            "from": 40000,
+            "rate": 0.128
+          },
+          {
+            "from": 50000,
+            "rate": 0.1445
+          },
+          {
+            "from": 75000,
+            "rate": 0.15
+          },
+          {
+            "from": 100000,
+            "rate": 0.1665
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=24282",
+      "notes": "62 Del. Laws c 56 schedule for 1979. Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $600 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.042
+          },
+          {
+            "from": 4000,
+            "rate": 0.052
+          },
+          {
+            "from": 5000,
+            "rate": 0.062
+          },
+          {
+            "from": 6000,
+            "rate": 0.072
+          },
+          {
+            "from": 8000,
+            "rate": 0.08
+          },
+          {
+            "from": 10000,
+            "rate": 0.082
+          },
+          {
+            "from": 15000,
+            "rate": 0.084
+          },
+          {
+            "from": 20000,
+            "rate": 0.088
+          },
+          {
+            "from": 25000,
+            "rate": 0.094
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          },
+          {
+            "from": 40000,
+            "rate": 0.122
+          },
+          {
+            "from": 50000,
+            "rate": 0.135
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=24282",
+      "notes": "62 Del. Laws c 56 schedule for years after 1979 (64 Del. Laws c 317 restates it for years before 1985). Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $600 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.042
+          },
+          {
+            "from": 4000,
+            "rate": 0.052
+          },
+          {
+            "from": 5000,
+            "rate": 0.062
+          },
+          {
+            "from": 6000,
+            "rate": 0.072
+          },
+          {
+            "from": 8000,
+            "rate": 0.08
+          },
+          {
+            "from": 10000,
+            "rate": 0.082
+          },
+          {
+            "from": 15000,
+            "rate": 0.084
+          },
+          {
+            "from": 20000,
+            "rate": 0.088
+          },
+          {
+            "from": 25000,
+            "rate": 0.094
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          },
+          {
+            "from": 40000,
+            "rate": 0.122
+          },
+          {
+            "from": 50000,
+            "rate": 0.135
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=24282",
+      "notes": "62 Del. Laws c 56 schedule for years after 1979 (64 Del. Laws c 317 restates it for years before 1985). Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $600 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.042
+          },
+          {
+            "from": 4000,
+            "rate": 0.052
+          },
+          {
+            "from": 5000,
+            "rate": 0.062
+          },
+          {
+            "from": 6000,
+            "rate": 0.072
+          },
+          {
+            "from": 8000,
+            "rate": 0.08
+          },
+          {
+            "from": 10000,
+            "rate": 0.082
+          },
+          {
+            "from": 15000,
+            "rate": 0.084
+          },
+          {
+            "from": 20000,
+            "rate": 0.088
+          },
+          {
+            "from": 25000,
+            "rate": 0.094
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          },
+          {
+            "from": 40000,
+            "rate": 0.122
+          },
+          {
+            "from": 50000,
+            "rate": 0.135
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=24282",
+      "notes": "62 Del. Laws c 56 schedule for years after 1979 (64 Del. Laws c 317 restates it for years before 1985). Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $600 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.042
+          },
+          {
+            "from": 4000,
+            "rate": 0.052
+          },
+          {
+            "from": 5000,
+            "rate": 0.062
+          },
+          {
+            "from": 6000,
+            "rate": 0.072
+          },
+          {
+            "from": 8000,
+            "rate": 0.08
+          },
+          {
+            "from": 10000,
+            "rate": 0.082
+          },
+          {
+            "from": 15000,
+            "rate": 0.084
+          },
+          {
+            "from": 20000,
+            "rate": 0.088
+          },
+          {
+            "from": 25000,
+            "rate": 0.094
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          },
+          {
+            "from": 40000,
+            "rate": 0.122
+          },
+          {
+            "from": 50000,
+            "rate": 0.135
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=24282",
+      "notes": "62 Del. Laws c 56 schedule for years after 1979 (64 Del. Laws c 317 restates it for years before 1985). Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $600 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.042
+          },
+          {
+            "from": 4000,
+            "rate": 0.052
+          },
+          {
+            "from": 5000,
+            "rate": 0.062
+          },
+          {
+            "from": 6000,
+            "rate": 0.072
+          },
+          {
+            "from": 8000,
+            "rate": 0.08
+          },
+          {
+            "from": 10000,
+            "rate": 0.082
+          },
+          {
+            "from": 15000,
+            "rate": 0.084
+          },
+          {
+            "from": 20000,
+            "rate": 0.088
+          },
+          {
+            "from": 25000,
+            "rate": 0.094
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          },
+          {
+            "from": 40000,
+            "rate": 0.122
+          },
+          {
+            "from": 50000,
+            "rate": 0.135
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=23581",
+      "notes": "62 Del. Laws c 56 schedule for years after 1979 (64 Del. Laws c 317 restates it for years before 1985). Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $600 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.013
+          },
+          {
+            "from": 1000,
+            "rate": 0.018
+          },
+          {
+            "from": 2000,
+            "rate": 0.027
+          },
+          {
+            "from": 3000,
+            "rate": 0.038
+          },
+          {
+            "from": 4000,
+            "rate": 0.047
+          },
+          {
+            "from": 5000,
+            "rate": 0.056
+          },
+          {
+            "from": 6000,
+            "rate": 0.065
+          },
+          {
+            "from": 8000,
+            "rate": 0.072
+          },
+          {
+            "from": 10000,
+            "rate": 0.074
+          },
+          {
+            "from": 15000,
+            "rate": 0.076
+          },
+          {
+            "from": 20000,
+            "rate": 0.079
+          },
+          {
+            "from": 25000,
+            "rate": 0.085
+          },
+          {
+            "from": 30000,
+            "rate": 0.099
+          },
+          {
+            "from": 40000,
+            "rate": 0.107
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=23584",
+      "notes": "64 Del. Laws c 325 schedule (top 10.7% over $40,000); exemption $800 (64 Del. Laws c 330). Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $800 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.012
+          },
+          {
+            "from": 1000,
+            "rate": 0.016
+          },
+          {
+            "from": 2000,
+            "rate": 0.025
+          },
+          {
+            "from": 3000,
+            "rate": 0.035
+          },
+          {
+            "from": 4000,
+            "rate": 0.043
+          },
+          {
+            "from": 5000,
+            "rate": 0.051
+          },
+          {
+            "from": 6000,
+            "rate": 0.059
+          },
+          {
+            "from": 8000,
+            "rate": 0.066
+          },
+          {
+            "from": 10000,
+            "rate": 0.067
+          },
+          {
+            "from": 15000,
+            "rate": 0.069
+          },
+          {
+            "from": 20000,
+            "rate": 0.072
+          },
+          {
+            "from": 25000,
+            "rate": 0.077
+          },
+          {
+            "from": 30000,
+            "rate": 0.09
+          },
+          {
+            "from": 40000,
+            "rate": 0.097
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=22909",
+      "notes": "65 Del. Laws c 204 schedule; exemption $1,000 (65 Del. Laws c 147). Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $1000 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1000,
+            "rate": 0.014
+          },
+          {
+            "from": 2000,
+            "rate": 0.023
+          },
+          {
+            "from": 3000,
+            "rate": 0.032
+          },
+          {
+            "from": 4000,
+            "rate": 0.039
+          },
+          {
+            "from": 5000,
+            "rate": 0.046
+          },
+          {
+            "from": 6000,
+            "rate": 0.054
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.061
+          },
+          {
+            "from": 15000,
+            "rate": 0.063
+          },
+          {
+            "from": 20000,
+            "rate": 0.065
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          },
+          {
+            "from": 30000,
+            "rate": 0.082
+          },
+          {
+            "from": 40000,
+            "rate": 0.088
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=23128",
+      "notes": "65 Del. Laws c 394 schedule (top 8.8%). Same schedule for all filing statuses. Standard deduction was 10% of AGI up to $1,000 ($500 married separate) - income-dependent, not modelled; deduction = $1000 personal exemption(s) only. Federal income tax paid was deductible (capped; repealed 1988) - not modelled."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.032
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 20000,
+            "rate": 0.066
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          },
+          {
+            "from": 30000,
+            "rate": 0.076
+          },
+          {
+            "from": 40000,
+            "rate": 0.077
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2550,
+        "marriedJoint": 4100
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=22333",
+      "notes": "66 Del. Laws c 86 schedule (applies 1988-1995 per 70 Del. Laws c 117). Same schedule all filers. Deduction = standard deduction $1,300/$1,600 (66 Del. Laws c 95) + $1,250 exemption each (70 Del. Laws c 116 confirms $1,250 before 1996). Extra exemption age 60+ not modelled."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.032
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 20000,
+            "rate": 0.066
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          },
+          {
+            "from": 30000,
+            "rate": 0.076
+          },
+          {
+            "from": 40000,
+            "rate": 0.077
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2550,
+        "marriedJoint": 4100
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=22333",
+      "notes": "66 Del. Laws c 86 schedule (applies 1988-1995 per 70 Del. Laws c 117). Same schedule all filers. Deduction = standard deduction $1,300/$1,600 (66 Del. Laws c 95) + $1,250 exemption each (70 Del. Laws c 116 confirms $1,250 before 1996). Extra exemption age 60+ not modelled."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.032
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 20000,
+            "rate": 0.066
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          },
+          {
+            "from": 30000,
+            "rate": 0.076
+          },
+          {
+            "from": 40000,
+            "rate": 0.077
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2550,
+        "marriedJoint": 4100
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=22333",
+      "notes": "66 Del. Laws c 86 schedule (applies 1988-1995 per 70 Del. Laws c 117). Same schedule all filers. Deduction = standard deduction $1,300/$1,600 (66 Del. Laws c 95) + $1,250 exemption each (70 Del. Laws c 116 confirms $1,250 before 1996). Extra exemption age 60+ not modelled."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.032
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 20000,
+            "rate": 0.066
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          },
+          {
+            "from": 30000,
+            "rate": 0.076
+          },
+          {
+            "from": 40000,
+            "rate": 0.077
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2550,
+        "marriedJoint": 4100
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=22333",
+      "notes": "66 Del. Laws c 86 schedule (applies 1988-1995 per 70 Del. Laws c 117). Same schedule all filers. Deduction = standard deduction $1,300/$1,600 (66 Del. Laws c 95) + $1,250 exemption each (70 Del. Laws c 116 confirms $1,250 before 1996). Extra exemption age 60+ not modelled."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.032
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 20000,
+            "rate": 0.066
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          },
+          {
+            "from": 30000,
+            "rate": 0.076
+          },
+          {
+            "from": 40000,
+            "rate": 0.077
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2550,
+        "marriedJoint": 4100
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=22333",
+      "notes": "66 Del. Laws c 86 schedule (applies 1988-1995 per 70 Del. Laws c 117). Same schedule all filers. Deduction = standard deduction $1,300/$1,600 (66 Del. Laws c 95) + $1,250 exemption each (70 Del. Laws c 116 confirms $1,250 before 1996). Extra exemption age 60+ not modelled."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.032
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 20000,
+            "rate": 0.066
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          },
+          {
+            "from": 30000,
+            "rate": 0.076
+          },
+          {
+            "from": 40000,
+            "rate": 0.077
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2550,
+        "marriedJoint": 4100
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=22333",
+      "notes": "66 Del. Laws c 86 schedule (applies 1988-1995 per 70 Del. Laws c 117). Same schedule all filers. Deduction = standard deduction $1,300/$1,600 (66 Del. Laws c 95) + $1,250 exemption each (70 Del. Laws c 116 confirms $1,250 before 1996). Extra exemption age 60+ not modelled."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.032
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 20000,
+            "rate": 0.066
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          },
+          {
+            "from": 30000,
+            "rate": 0.076
+          },
+          {
+            "from": 40000,
+            "rate": 0.077
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2550,
+        "marriedJoint": 4100
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=22333",
+      "notes": "66 Del. Laws c 86 schedule (applies 1988-1995 per 70 Del. Laws c 117). Same schedule all filers. Deduction = standard deduction $1,300/$1,600 (66 Del. Laws c 95) + $1,250 exemption each (70 Del. Laws c 116 confirms $1,250 before 1996). Extra exemption age 60+ not modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.032
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 20000,
+            "rate": 0.066
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          },
+          {
+            "from": 30000,
+            "rate": 0.076
+          },
+          {
+            "from": 40000,
+            "rate": 0.077
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2550,
+        "marriedJoint": 4100
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=22333",
+      "notes": "66 Del. Laws c 86 schedule (applies 1988-1995 per 70 Del. Laws c 117). Same schedule all filers. Deduction = standard deduction $1,300/$1,600 (66 Del. Laws c 95) + $1,250 exemption each (70 Del. Laws c 116 confirms $1,250 before 1996). Extra exemption age 60+ not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.032
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 20000,
+            "rate": 0.0635
+          },
+          {
+            "from": 25000,
+            "rate": 0.0665
+          },
+          {
+            "from": 30000,
+            "rate": 0.071
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1300,
+        "marriedJoint": 1600
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=20451",
+      "notes": "70 Del. Laws c 117. Exemptions replaced by a $100 per-person personal credit (70 Del. Laws c 116; not in deduction). Deduction = standard deduction $1,300/$1,600."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.031
+          },
+          {
+            "from": 5000,
+            "rate": 0.0485
+          },
+          {
+            "from": 10000,
+            "rate": 0.058
+          },
+          {
+            "from": 20000,
+            "rate": 0.0615
+          },
+          {
+            "from": 25000,
+            "rate": 0.0645
+          },
+          {
+            "from": 30000,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1300,
+        "marriedJoint": 1600
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=20779",
+      "notes": "70 Del. Laws c 454, top rate 6.9% per c 455. $100 per-person credit not modelled. Deduction = standard deduction $1,300/$1,600."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.031
+          },
+          {
+            "from": 5000,
+            "rate": 0.0485
+          },
+          {
+            "from": 10000,
+            "rate": 0.058
+          },
+          {
+            "from": 20000,
+            "rate": 0.0615
+          },
+          {
+            "from": 25000,
+            "rate": 0.0645
+          },
+          {
+            "from": 30000,
+            "rate": 0.069
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1300,
+        "marriedJoint": 1600
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=20779",
+      "notes": "70 Del. Laws c 454, top rate 6.9% per c 455. $100 per-person credit not modelled. Deduction = standard deduction $1,300/$1,600."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.026
+          },
+          {
+            "from": 5000,
+            "rate": 0.043
+          },
+          {
+            "from": 10000,
+            "rate": 0.052
+          },
+          {
+            "from": 20000,
+            "rate": 0.056
+          },
+          {
+            "from": 25000,
+            "rate": 0.0595
+          },
+          {
+            "from": 60000,
+            "rate": 0.064
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 4000
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=20188",
+      "notes": "71 Del. Laws c 347 (brackets to $25,000, standard deduction $3,250/$4,000) and c 350 (5.95% to $60,000, 6.4% above). $100 per-person credit not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.0595
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=19638",
+      "notes": "72 Del. Laws c 248 (2.2%-5.55%) and c 242 (5.95% over $60,000), effective 2000; no form for this year checked (2009 booklet shows the same schedule). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.0595
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=19638",
+      "notes": "72 Del. Laws c 248 (2.2%-5.55%) and c 242 (5.95% over $60,000), effective 2000; no form for this year checked (2009 booklet shows the same schedule). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.0595
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=19638",
+      "notes": "72 Del. Laws c 248 (2.2%-5.55%) and c 242 (5.95% over $60,000), effective 2000; no form for this year checked (2009 booklet shows the same schedule). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.0595
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=19638",
+      "notes": "72 Del. Laws c 248 (2.2%-5.55%) and c 242 (5.95% over $60,000), effective 2000; no form for this year checked (2009 booklet shows the same schedule). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.0595
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=19638",
+      "notes": "72 Del. Laws c 248 (2.2%-5.55%) and c 242 (5.95% over $60,000), effective 2000; no form for this year checked (2009 booklet shows the same schedule). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.0595
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=19638",
+      "notes": "72 Del. Laws c 248 (2.2%-5.55%) and c 242 (5.95% over $60,000), effective 2000; no form for this year checked (2009 booklet shows the same schedule). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.0595
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=19638",
+      "notes": "72 Del. Laws c 248 (2.2%-5.55%) and c 242 (5.95% over $60,000), effective 2000; no form for this year checked (2009 booklet shows the same schedule). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.0595
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=19638",
+      "notes": "72 Del. Laws c 248 (2.2%-5.55%) and c 242 (5.95% over $60,000), effective 2000; no form for this year checked (2009 booklet shows the same schedule). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.0595
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://legis.delaware.gov/SessionLaws/Chapter?id=19638",
+      "notes": "72 Del. Laws c 248 (2.2%-5.55%) and c 242 (5.95% over $60,000), effective 2000; no form for this year checked (2009 booklet shows the same schedule). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.0595
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DE/2009/TY09_booklet_res.pdf",
+      "notes": "Rate schedule per resident booklet/tax table ($2,943.50 tax at $60,000). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.0695
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DE/2010/TY10_booklet_res.pdf",
+      "notes": "Rate schedule per resident booklet/tax table ($2,943.50 tax at $60,000). Top rate 6.95% for 2010-2011. Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.0695
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DE/2011/TY11_booklet_res.pdf",
+      "notes": "Rate schedule per resident booklet/tax table ($2,943.50 tax at $60,000). Top rate 6.95% for 2010-2011. Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DE/2012/TY09_DirLetr_Res.pmd%20-%20TY12_booklet_res.pdf",
+      "notes": "Same schedule as adjacent years (top rate per booklet notes / DEFAC history). Top rate 6.75% for 2012-2013. Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DE/2013/TY13_booklet_res.pdf",
+      "notes": "Rate schedule per resident booklet/tax table ($2,943.50 tax at $60,000). Top rate 6.75% for 2012-2013. Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DE/2014/TY14_booklet_res.pdf",
+      "notes": "Rate schedule per resident booklet/tax table ($2,943.50 tax at $60,000). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DE/2015/TY15_booklet_res.pdf",
+      "notes": "Rate schedule per resident booklet/tax table ($2,943.50 tax at $60,000). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DE/2016/TY16_booklet_res.pdf",
+      "notes": "Rate schedule per resident booklet/tax table ($2,943.50 tax at $60,000). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DE/2017/TY17_booklet_res.pdf",
+      "notes": "Rate schedule per resident booklet/tax table ($2,943.50 tax at $60,000). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DE/2018/TY18_booklet_res.pdf",
+      "notes": "Rate schedule per resident booklet/tax table ($2,943.50 tax at $60,000). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DE/2019/TY19_%20200-01I.pdf",
+      "notes": "Same schedule as adjacent years (top rate per booklet notes / DEFAC history). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DE/2020/TY20_200-01I.pdf",
+      "notes": "Same schedule as adjacent years (top rate per booklet notes / DEFAC history). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DE/2021/PIT-RES_TY21_2021-01_Instructions.pdf",
+      "notes": "Same schedule as adjacent years (top rate per booklet notes / DEFAC history). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DE/2022/PIT-RES_TY22_2022-02_Instructions.pdf",
+      "notes": "Same schedule as adjacent years (top rate per booklet notes / DEFAC history). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DE/2023/TY23_taxtable.pdf",
+      "notes": "Rate schedule per resident booklet/tax table ($2,943.50 tax at $60,000). Deduction = standard deduction $3,250/$6,500 (72 Del. Laws c 241). $110 per-person personal credit not modelled."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://revenuefiles.delaware.gov/2024/PIT_2024_Forms/TY24_taxtable.pdf",
+      "notes": "Lower bracket thresholds are derived from the official tax table (only the top step is printed as a schedule). The $110 per person exemption is a credit and is left out."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://revenuefiles.delaware.gov/2025/TY25_taxtable.pdf",
+      "notes": "Lower bracket thresholds are derived from the official tax table (only the top step is printed as a schedule). The $110 per person exemption is a credit and is left out."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2000,
+            "rate": 0.022
+          },
+          {
+            "from": 5000,
+            "rate": 0.039
+          },
+          {
+            "from": 10000,
+            "rate": 0.048
+          },
+          {
+            "from": 20000,
+            "rate": 0.052
+          },
+          {
+            "from": 25000,
+            "rate": 0.0555
+          },
+          {
+            "from": 60000,
+            "rate": 0.066
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3250,
+        "marriedJoint": 6500
+      },
+      "source": "https://delcode.delaware.gov/title30/c011/sc01/index.html",
+      "notes": "The $110 per person exemption is a credit and is left out."
+    }
+  }
+}

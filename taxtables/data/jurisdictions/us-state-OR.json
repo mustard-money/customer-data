@@ -1,0 +1,2927 @@
+{
+  "id": "us-state-OR",
+  "kind": "state",
+  "region": "Oregon",
+  "state": "OR",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 500,
+            "rate": 0.05
+          },
+          {
+            "from": 1000,
+            "rate": 0.06
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 3000,
+            "rate": 0.08
+          },
+          {
+            "from": 4000,
+            "rate": 0.09
+          },
+          {
+            "from": 5000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          },
+          {
+            "from": 8000,
+            "rate": 0.09
+          },
+          {
+            "from": 10000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 625,
+        "marriedJoint": 1250
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the personal exemption deduction ($625 single / $1,250 joint). Standard deduction (based on federal AGI and exemptions) depends on income and is left out. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 500,
+            "rate": 0.05
+          },
+          {
+            "from": 1000,
+            "rate": 0.06
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 3000,
+            "rate": 0.08
+          },
+          {
+            "from": 4000,
+            "rate": 0.09
+          },
+          {
+            "from": 5000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          },
+          {
+            "from": 8000,
+            "rate": 0.09
+          },
+          {
+            "from": 10000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 675,
+        "marriedJoint": 1350
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the personal exemption deduction ($675 single / $1,350 joint). Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 500,
+            "rate": 0.05
+          },
+          {
+            "from": 1000,
+            "rate": 0.06
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 3000,
+            "rate": 0.08
+          },
+          {
+            "from": 4000,
+            "rate": 0.09
+          },
+          {
+            "from": 5000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          },
+          {
+            "from": 8000,
+            "rate": 0.09
+          },
+          {
+            "from": 10000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 675,
+        "marriedJoint": 1350
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the personal exemption deduction ($675 single / $1,350 joint). Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 500,
+            "rate": 0.05
+          },
+          {
+            "from": 1000,
+            "rate": 0.06
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 3000,
+            "rate": 0.08
+          },
+          {
+            "from": 4000,
+            "rate": 0.09
+          },
+          {
+            "from": 5000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          },
+          {
+            "from": 8000,
+            "rate": 0.09
+          },
+          {
+            "from": 10000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 675,
+        "marriedJoint": 1350
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the personal exemption deduction ($675 single / $1,350 joint). Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 500,
+            "rate": 0.05
+          },
+          {
+            "from": 1000,
+            "rate": 0.06
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 3000,
+            "rate": 0.08
+          },
+          {
+            "from": 4000,
+            "rate": 0.09
+          },
+          {
+            "from": 5000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          },
+          {
+            "from": 8000,
+            "rate": 0.09
+          },
+          {
+            "from": 10000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 675,
+        "marriedJoint": 1350
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the personal exemption deduction ($675 single / $1,350 joint). Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 500,
+            "rate": 0.05
+          },
+          {
+            "from": 1000,
+            "rate": 0.06
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 3000,
+            "rate": 0.08
+          },
+          {
+            "from": 4000,
+            "rate": 0.09
+          },
+          {
+            "from": 5000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          },
+          {
+            "from": 8000,
+            "rate": 0.09
+          },
+          {
+            "from": 10000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the personal exemption deduction ($750 single / $1,500 joint). Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 500,
+            "rate": 0.05
+          },
+          {
+            "from": 1000,
+            "rate": 0.06
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 3000,
+            "rate": 0.08
+          },
+          {
+            "from": 4000,
+            "rate": 0.09
+          },
+          {
+            "from": 5000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          },
+          {
+            "from": 8000,
+            "rate": 0.09
+          },
+          {
+            "from": 10000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the personal exemption deduction ($750 single / $1,500 joint). Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 500,
+            "rate": 0.05
+          },
+          {
+            "from": 1000,
+            "rate": 0.06
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 3000,
+            "rate": 0.08
+          },
+          {
+            "from": 4000,
+            "rate": 0.09
+          },
+          {
+            "from": 5000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          },
+          {
+            "from": 8000,
+            "rate": 0.09
+          },
+          {
+            "from": 10000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the personal exemption deduction ($750 single / $1,500 joint). Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 500,
+            "rate": 0.05
+          },
+          {
+            "from": 1000,
+            "rate": 0.06
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 3000,
+            "rate": 0.08
+          },
+          {
+            "from": 4000,
+            "rate": 0.09
+          },
+          {
+            "from": 5000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          },
+          {
+            "from": 8000,
+            "rate": 0.09
+          },
+          {
+            "from": 10000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the personal exemption deduction ($750 single / $1,500 joint). Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 500,
+            "rate": 0.05
+          },
+          {
+            "from": 1000,
+            "rate": 0.06
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 3000,
+            "rate": 0.08
+          },
+          {
+            "from": 4000,
+            "rate": 0.09
+          },
+          {
+            "from": 5000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          },
+          {
+            "from": 8000,
+            "rate": 0.09
+          },
+          {
+            "from": 10000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the personal exemption deduction ($1,000 single / $2,000 joint). Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 500,
+            "rate": 0.05
+          },
+          {
+            "from": 1000,
+            "rate": 0.06
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 3000,
+            "rate": 0.08
+          },
+          {
+            "from": 4000,
+            "rate": 0.09
+          },
+          {
+            "from": 5000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          },
+          {
+            "from": 8000,
+            "rate": 0.09
+          },
+          {
+            "from": 10000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the personal exemption deduction ($1,000 single / $2,000 joint). Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 500,
+            "rate": 0.05
+          },
+          {
+            "from": 1000,
+            "rate": 0.06
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 3000,
+            "rate": 0.08
+          },
+          {
+            "from": 4000,
+            "rate": 0.09
+          },
+          {
+            "from": 5000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          },
+          {
+            "from": 8000,
+            "rate": 0.09
+          },
+          {
+            "from": 10000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the personal exemption deduction ($1,000 single / $2,000 joint). Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.042
+          },
+          {
+            "from": 500,
+            "rate": 0.053
+          },
+          {
+            "from": 1000,
+            "rate": 0.065
+          },
+          {
+            "from": 2000,
+            "rate": 0.076
+          },
+          {
+            "from": 3000,
+            "rate": 0.087
+          },
+          {
+            "from": 4000,
+            "rate": 0.098
+          },
+          {
+            "from": 5000,
+            "rate": 0.108
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.042
+          },
+          {
+            "from": 1000,
+            "rate": 0.053
+          },
+          {
+            "from": 2000,
+            "rate": 0.065
+          },
+          {
+            "from": 4000,
+            "rate": 0.076
+          },
+          {
+            "from": 6000,
+            "rate": 0.087
+          },
+          {
+            "from": 8000,
+            "rate": 0.098
+          },
+          {
+            "from": 10000,
+            "rate": 0.108
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Temporary rate increase (4.2%-10.8%) for 1982-1984. Deduction is the personal exemption deduction ($1,000 single / $2,000 joint). Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.042
+          },
+          {
+            "from": 500,
+            "rate": 0.053
+          },
+          {
+            "from": 1000,
+            "rate": 0.065
+          },
+          {
+            "from": 2000,
+            "rate": 0.076
+          },
+          {
+            "from": 3000,
+            "rate": 0.087
+          },
+          {
+            "from": 4000,
+            "rate": 0.098
+          },
+          {
+            "from": 5000,
+            "rate": 0.108
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.042
+          },
+          {
+            "from": 1000,
+            "rate": 0.053
+          },
+          {
+            "from": 2000,
+            "rate": 0.065
+          },
+          {
+            "from": 4000,
+            "rate": 0.076
+          },
+          {
+            "from": 6000,
+            "rate": 0.087
+          },
+          {
+            "from": 8000,
+            "rate": 0.098
+          },
+          {
+            "from": 10000,
+            "rate": 0.108
+          }
+        ]
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Temporary rate increase (4.2%-10.8%) for 1982-1984. Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. $85 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.042
+          },
+          {
+            "from": 500,
+            "rate": 0.053
+          },
+          {
+            "from": 1000,
+            "rate": 0.065
+          },
+          {
+            "from": 2000,
+            "rate": 0.076
+          },
+          {
+            "from": 3000,
+            "rate": 0.087
+          },
+          {
+            "from": 4000,
+            "rate": 0.098
+          },
+          {
+            "from": 5000,
+            "rate": 0.108
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.042
+          },
+          {
+            "from": 1000,
+            "rate": 0.053
+          },
+          {
+            "from": 2000,
+            "rate": 0.065
+          },
+          {
+            "from": 4000,
+            "rate": 0.076
+          },
+          {
+            "from": 6000,
+            "rate": 0.087
+          },
+          {
+            "from": 8000,
+            "rate": 0.098
+          },
+          {
+            "from": 10000,
+            "rate": 0.108
+          }
+        ]
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Temporary rate increase (4.2%-10.8%) for 1982-1984. Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. $85 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 500,
+            "rate": 0.05
+          },
+          {
+            "from": 1000,
+            "rate": 0.06
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 3000,
+            "rate": 0.08
+          },
+          {
+            "from": 4000,
+            "rate": 0.09
+          },
+          {
+            "from": 5000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          },
+          {
+            "from": 8000,
+            "rate": 0.09
+          },
+          {
+            "from": 10000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. $85 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 500,
+            "rate": 0.05
+          },
+          {
+            "from": 1000,
+            "rate": 0.06
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 3000,
+            "rate": 0.08
+          },
+          {
+            "from": 4000,
+            "rate": 0.09
+          },
+          {
+            "from": 5000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 6000,
+            "rate": 0.08
+          },
+          {
+            "from": 8000,
+            "rate": 0.09
+          },
+          {
+            "from": 10000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Standard deduction (greater of $1,050 or 13% of federal AGI, max $1,500) depends on income and is left out. $85 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 5000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,800 / $3,000 standard deduction. $86 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 5000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,800 / $3,000 standard deduction. $89 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 5000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,800 / $3,000 standard deduction. $94 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 5000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,800 / $3,000 standard deduction. $98 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 5000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,800 / $3,000 standard deduction. $104 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.07
+          },
+          {
+            "from": 5000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,800 / $3,000 standard deduction. $109 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2050,
+            "rate": 0.07
+          },
+          {
+            "from": 5150,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 4100,
+            "rate": 0.07
+          },
+          {
+            "from": 10300,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,800 / $3,000 standard deduction. $113 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2100,
+            "rate": 0.07
+          },
+          {
+            "from": 5250,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 4200,
+            "rate": 0.07
+          },
+          {
+            "from": 10500,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,800 / $3,000 standard deduction. $116 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2150,
+            "rate": 0.07
+          },
+          {
+            "from": 5400,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 4300,
+            "rate": 0.07
+          },
+          {
+            "from": 10800,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,800 / $3,000 standard deduction. $120 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2200,
+            "rate": 0.07
+          },
+          {
+            "from": 5550,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 4400,
+            "rate": 0.07
+          },
+          {
+            "from": 11100,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,800 / $3,000 standard deduction. $124 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2250,
+            "rate": 0.07
+          },
+          {
+            "from": 5700,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 4500,
+            "rate": 0.07
+          },
+          {
+            "from": 11400,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,800 / $3,000 standard deduction. $128 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2300,
+            "rate": 0.07
+          },
+          {
+            "from": 5800,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 4600,
+            "rate": 0.07
+          },
+          {
+            "from": 11600,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,800 / $3,000 standard deduction. $132 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2350,
+            "rate": 0.07
+          },
+          {
+            "from": 5900,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 4700,
+            "rate": 0.07
+          },
+          {
+            "from": 11800,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,800 / $3,000 standard deduction. $134 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2450,
+            "rate": 0.07
+          },
+          {
+            "from": 6100,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 4900,
+            "rate": 0.07
+          },
+          {
+            "from": 12200,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,800 / $3,000 standard deduction. $139 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2500,
+            "rate": 0.07
+          },
+          {
+            "from": 6300,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 12600,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,800 / $3,000 standard deduction. $142 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2500,
+            "rate": 0.07
+          },
+          {
+            "from": 6250,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 12500,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1640,
+        "marriedJoint": 3280
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,640 / $3,280 standard deduction. $145 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2550,
+            "rate": 0.07
+          },
+          {
+            "from": 6350,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 5100,
+            "rate": 0.07
+          },
+          {
+            "from": 12700,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1670,
+        "marriedJoint": 3345
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/101-406-05.pdf",
+      "notes": "Deduction is the $1,670 / $3,345 standard deduction. $147 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2600,
+            "rate": 0.07
+          },
+          {
+            "from": 6500,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 5200,
+            "rate": 0.07
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1720,
+        "marriedJoint": 3445
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/101-406-06.pdf",
+      "notes": "Deduction is the $1,720 / $3,445 standard deduction. $151 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2650,
+            "rate": 0.07
+          },
+          {
+            "from": 6650,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 5300,
+            "rate": 0.07
+          },
+          {
+            "from": 13300,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1770,
+        "marriedJoint": 3545
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,770 / $3,545 standard deduction. $159 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2750,
+            "rate": 0.07
+          },
+          {
+            "from": 6850,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 5500,
+            "rate": 0.07
+          },
+          {
+            "from": 13700,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1840,
+        "marriedJoint": 3685
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,840 / $3,685 standard deduction. $159 per-exemption tax credit not modelled. Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2850,
+            "rate": 0.07
+          },
+          {
+            "from": 7150,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 5700,
+            "rate": 0.07
+          },
+          {
+            "from": 14300,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1825,
+        "marriedJoint": 3650
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,825 / $3,650 standard deduction. $165 per-exemption tax credit not modelled (phased out at higher incomes). Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 2900,
+            "rate": 0.07
+          },
+          {
+            "from": 7300,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 5800,
+            "rate": 0.07
+          },
+          {
+            "from": 14600,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1865,
+        "marriedJoint": 3735
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,865 / $3,735 standard deduction. $169 per-exemption tax credit not modelled (phased out at higher incomes). Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 3050,
+            "rate": 0.07
+          },
+          {
+            "from": 7600,
+            "rate": 0.09
+          },
+          {
+            "from": 125000,
+            "rate": 0.108
+          },
+          {
+            "from": 250000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 6100,
+            "rate": 0.07
+          },
+          {
+            "from": 15200,
+            "rate": 0.09
+          },
+          {
+            "from": 250000,
+            "rate": 0.108
+          },
+          {
+            "from": 500000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1945,
+        "marriedJoint": 3895
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,945 / $3,895 standard deduction. $176 per-exemption tax credit not modelled (phased out at higher incomes). Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 3050,
+            "rate": 0.07
+          },
+          {
+            "from": 7650,
+            "rate": 0.09
+          },
+          {
+            "from": 125000,
+            "rate": 0.108
+          },
+          {
+            "from": 250000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 6100,
+            "rate": 0.07
+          },
+          {
+            "from": 15300,
+            "rate": 0.09
+          },
+          {
+            "from": 250000,
+            "rate": 0.108
+          },
+          {
+            "from": 500000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1950,
+        "marriedJoint": 3900
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/OR/2010/101-043-10.pdf",
+      "notes": "Deduction is the $1,950 / $3,900 standard deduction. $177 per-exemption tax credit not modelled (phased out at higher incomes). Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 3100,
+            "rate": 0.07
+          },
+          {
+            "from": 7750,
+            "rate": 0.09
+          },
+          {
+            "from": 125000,
+            "rate": 0.108
+          },
+          {
+            "from": 250000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 6200,
+            "rate": 0.07
+          },
+          {
+            "from": 15500,
+            "rate": 0.09
+          },
+          {
+            "from": 250000,
+            "rate": 0.108
+          },
+          {
+            "from": 500000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1980,
+        "marriedJoint": 3960
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $1,980 / $3,960 standard deduction. $179 per-exemption tax credit not modelled (phased out at higher incomes). Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 3150,
+            "rate": 0.07
+          },
+          {
+            "from": 7950,
+            "rate": 0.09
+          },
+          {
+            "from": 125000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 6300,
+            "rate": 0.07
+          },
+          {
+            "from": 15900,
+            "rate": 0.09
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2025,
+        "marriedJoint": 4055
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $2,025 / $4,055 standard deduction. $183 per-exemption tax credit not modelled (phased out at higher incomes). Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 3250,
+            "rate": 0.07
+          },
+          {
+            "from": 8150,
+            "rate": 0.09
+          },
+          {
+            "from": 125000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 6500,
+            "rate": 0.07
+          },
+          {
+            "from": 16300,
+            "rate": 0.09
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2080,
+        "marriedJoint": 4160
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/OR/2013/full-year-income-tax_101-043_2013.pdf",
+      "notes": "Deduction is the $2,080 / $4,160 standard deduction. $188 per-exemption tax credit not modelled (phased out at higher incomes). Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 3300,
+            "rate": 0.07
+          },
+          {
+            "from": 8250,
+            "rate": 0.09
+          },
+          {
+            "from": 125000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 6600,
+            "rate": 0.07
+          },
+          {
+            "from": 16500,
+            "rate": 0.09
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2115,
+        "marriedJoint": 4230
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $2,115 / $4,230 standard deduction. $191 per-exemption tax credit not modelled (phased out at higher incomes). Subtraction for federal income tax paid (capped) not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 3350,
+            "rate": 0.07
+          },
+          {
+            "from": 8400,
+            "rate": 0.09
+          },
+          {
+            "from": 125000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 6700,
+            "rate": 0.07
+          },
+          {
+            "from": 16800,
+            "rate": 0.09
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2145,
+        "marriedJoint": 4295
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $2,145 / $4,295 standard deduction. $194 per-exemption tax credit not modelled (phased out at higher incomes). Subtraction for federal income tax paid (capped) not modelled. Optional reduced rates on qualifying pass-through business income not modelled."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 3350,
+            "rate": 0.07
+          },
+          {
+            "from": 8450,
+            "rate": 0.09
+          },
+          {
+            "from": 125000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 6700,
+            "rate": 0.07
+          },
+          {
+            "from": 16900,
+            "rate": 0.09
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2155,
+        "marriedJoint": 4315
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $2,155 / $4,315 standard deduction. $195 per-exemption tax credit not modelled (phased out at higher incomes). Subtraction for federal income tax paid (capped) not modelled. Optional reduced rates on qualifying pass-through business income not modelled."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 3400,
+            "rate": 0.07
+          },
+          {
+            "from": 8500,
+            "rate": 0.09
+          },
+          {
+            "from": 125000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 6800,
+            "rate": 0.07
+          },
+          {
+            "from": 17000,
+            "rate": 0.09
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2175,
+        "marriedJoint": 4350
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $2,175 / $4,350 standard deduction. $197 per-exemption tax credit not modelled (phased out at higher incomes). Subtraction for federal income tax paid (capped) not modelled. Optional reduced rates on qualifying pass-through business income not modelled."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 3450,
+            "rate": 0.07
+          },
+          {
+            "from": 8700,
+            "rate": 0.09
+          },
+          {
+            "from": 125000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 6900,
+            "rate": 0.07
+          },
+          {
+            "from": 17400,
+            "rate": 0.09
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2215,
+        "marriedJoint": 4435
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $2,215 / $4,435 standard deduction. $201 per-exemption tax credit not modelled (phased out at higher incomes). Subtraction for federal income tax paid (capped) not modelled. Optional reduced rates on qualifying pass-through business income not modelled."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 3550,
+            "rate": 0.07
+          },
+          {
+            "from": 8900,
+            "rate": 0.09
+          },
+          {
+            "from": 125000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 7100,
+            "rate": 0.07
+          },
+          {
+            "from": 17800,
+            "rate": 0.09
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2270,
+        "marriedJoint": 4545
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Personal%20Income%20Brackets%20and%20Tax%20Rates.pdf",
+      "notes": "Deduction is the $2,270 / $4,545 standard deduction. $206 per-exemption tax credit not modelled (phased out at higher incomes). Subtraction for federal income tax paid (capped) not modelled. Optional reduced rates on qualifying pass-through business income not modelled."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0475
+          },
+          {
+            "from": 3600,
+            "rate": 0.0675
+          },
+          {
+            "from": 9050,
+            "rate": 0.0875
+          },
+          {
+            "from": 125000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0475
+          },
+          {
+            "from": 7200,
+            "rate": 0.0675
+          },
+          {
+            "from": 18100,
+            "rate": 0.0875
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2315,
+        "marriedJoint": 4630
+      },
+      "source": "https://www.oregon.gov/dor/forms/FormsPubs/form-or-40-inst_101-040-1_2020.pdf",
+      "notes": "Deduction is the $2,315 / $4,630 standard deduction. $210 per-exemption tax credit not modelled (phased out at higher incomes). Subtraction for federal income tax paid (capped) not modelled. Optional reduced rates on qualifying pass-through business income not modelled."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0475
+          },
+          {
+            "from": 3650,
+            "rate": 0.0675
+          },
+          {
+            "from": 9200,
+            "rate": 0.0875
+          },
+          {
+            "from": 125000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0475
+          },
+          {
+            "from": 7300,
+            "rate": 0.0675
+          },
+          {
+            "from": 18400,
+            "rate": 0.0875
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2350,
+        "marriedJoint": 4700
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/TY%202021%20Oregon%20Personal%20Income%20Tax%20Statistics%20Report%20150-101-406.pdf",
+      "notes": "Deduction is the $2,350 / $4,700 standard deduction. Per-exemption tax credit (income-limited) not modelled. Subtraction for federal income tax paid (capped) not modelled. Optional reduced rates on qualifying pass-through business income not modelled."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0475
+          },
+          {
+            "from": 3750,
+            "rate": 0.0675
+          },
+          {
+            "from": 9450,
+            "rate": 0.0875
+          },
+          {
+            "from": 125000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0475
+          },
+          {
+            "from": 7500,
+            "rate": 0.0675
+          },
+          {
+            "from": 18900,
+            "rate": 0.0875
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2420,
+        "marriedJoint": 4840
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/TY%202022%20Oregon%20Personal%20Income%20Tax%20Statistics%20Report%20150-101-406%20REVISED.pdf",
+      "notes": "Deduction is the $2,420 / $4,840 standard deduction. Per-exemption tax credit (income-limited) not modelled. Subtraction for federal income tax paid (capped) not modelled. Optional reduced rates on qualifying pass-through business income not modelled."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0475
+          },
+          {
+            "from": 4050,
+            "rate": 0.0675
+          },
+          {
+            "from": 10200,
+            "rate": 0.0875
+          },
+          {
+            "from": 125000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0475
+          },
+          {
+            "from": 8100,
+            "rate": 0.0675
+          },
+          {
+            "from": 20400,
+            "rate": 0.0875
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2605,
+        "marriedJoint": 5210
+      },
+      "source": "https://www.oregon.gov/dor/programs/gov-research/Documents/TY%202023%20Oregon%20Personal%20Income%20Tax%20Statistics%20Report%20150-101-406%20(Secured)%20Revised.pdf",
+      "notes": "Deduction is the $2,605 / $5,210 standard deduction. Per-exemption tax credit (income-limited) not modelled. Subtraction for federal income tax paid (capped) not modelled. Optional reduced rates on qualifying pass-through business income not modelled."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0475
+          },
+          {
+            "from": 4300,
+            "rate": 0.0675
+          },
+          {
+            "from": 10750,
+            "rate": 0.0875
+          },
+          {
+            "from": 125000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0475
+          },
+          {
+            "from": 8600,
+            "rate": 0.0675
+          },
+          {
+            "from": 21500,
+            "rate": 0.0875
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2745,
+        "marriedJoint": 5495
+      },
+      "source": "https://www.oregon.gov/dor/forms/FormsPubs/form-or-40-inst_101-040-1_2024.pdf",
+      "notes": "The $249 exemption credit and the capped federal tax subtraction are left out."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0475
+          },
+          {
+            "from": 4400,
+            "rate": 0.0675
+          },
+          {
+            "from": 11050,
+            "rate": 0.0875
+          },
+          {
+            "from": 125000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0475
+          },
+          {
+            "from": 8800,
+            "rate": 0.0675
+          },
+          {
+            "from": 22100,
+            "rate": 0.0875
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2835,
+        "marriedJoint": 5670
+      },
+      "source": "https://www.oregon.gov/dor/forms/FormsPubs/form-or-40-inst_101-040-1_2025.pdf",
+      "notes": "The $256 exemption credit and the capped federal tax subtraction are left out."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0475
+          },
+          {
+            "from": 4550,
+            "rate": 0.0675
+          },
+          {
+            "from": 11400,
+            "rate": 0.0875
+          },
+          {
+            "from": 125000,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0475
+          },
+          {
+            "from": 9100,
+            "rate": 0.0675
+          },
+          {
+            "from": 22800,
+            "rate": 0.0875
+          },
+          {
+            "from": 250000,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2910,
+        "marriedJoint": 5820
+      },
+      "source": "https://www.oregon.gov/dor/forms/FormsPubs/withholding-tax-formulas_206-436_2026.pdf",
+      "notes": "The $263 exemption credit and the capped federal tax subtraction are left out."
+    }
+  }
+}

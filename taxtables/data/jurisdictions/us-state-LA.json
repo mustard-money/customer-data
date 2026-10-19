@@ -1,0 +1,1953 @@
+{
+  "id": "us-state-LA",
+  "kind": "state",
+  "region": "Louisiana",
+  "state": "LA",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "The personal exemption ($2,500 single / $5,000 joint plus $400 per dependent per the ACIR tables for 1976 and 1980) is a credit against net income taken from the 2% bracket, so it works as a $50 / $100 credit and is left out. Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the schedule in force in July 1976; R.S. 47:32 was not amended between Acts 1969, No. 124 and Acts 1977, 1st Ex. Sess., No. 2, so the same schedule applied to 1970. Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "The personal exemption ($2,500 single / $5,000 joint plus $400 per dependent per the ACIR tables for 1976 and 1980) is a credit against net income taken from the 2% bracket, so it works as a $50 / $100 credit and is left out. Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the schedule in force in July 1976; R.S. 47:32 was not amended between Acts 1969, No. 124 and Acts 1977, 1st Ex. Sess., No. 2, so the same schedule applied to 1971. Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "The personal exemption ($2,500 single / $5,000 joint plus $400 per dependent per the ACIR tables for 1976 and 1980) is a credit against net income taken from the 2% bracket, so it works as a $50 / $100 credit and is left out. Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the schedule in force in July 1976; R.S. 47:32 was not amended between Acts 1969, No. 124 and Acts 1977, 1st Ex. Sess., No. 2, so the same schedule applied to 1972. Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "The personal exemption ($2,500 single / $5,000 joint plus $400 per dependent per the ACIR tables for 1976 and 1980) is a credit against net income taken from the 2% bracket, so it works as a $50 / $100 credit and is left out. Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the schedule in force in July 1976; R.S. 47:32 was not amended between Acts 1969, No. 124 and Acts 1977, 1st Ex. Sess., No. 2, so the same schedule applied to 1973. Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "The personal exemption ($2,500 single / $5,000 joint plus $400 per dependent per the ACIR tables for 1976 and 1980) is a credit against net income taken from the 2% bracket, so it works as a $50 / $100 credit and is left out. Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the schedule in force in July 1976; R.S. 47:32 was not amended between Acts 1969, No. 124 and Acts 1977, 1st Ex. Sess., No. 2, so the same schedule applied to 1974. Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "The personal exemption ($2,500 single / $5,000 joint plus $400 per dependent per the ACIR tables for 1976 and 1980) is a credit against net income taken from the 2% bracket, so it works as a $50 / $100 credit and is left out. Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the schedule in force in July 1976; R.S. 47:32 was not amended between Acts 1969, No. 124 and Acts 1977, 1st Ex. Sess., No. 2, so the same schedule applied to 1975. Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "The personal exemption ($2,500 single / $5,000 joint plus $400 per dependent per the ACIR tables for 1976 and 1980) is a credit against net income taken from the 2% bracket, so it works as a $50 / $100 credit and is left out. Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the schedule in force in July 1976; R.S. 47:32 was not amended between Acts 1969, No. 124 and Acts 1977, 1st Ex. Sess., No. 2, so the same schedule applied to 1976. Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=181819",
+      "notes": "The personal exemption ($2,500 single / $5,000 joint plus $400 per dependent per the ACIR tables for 1976 and 1980) is a credit against net income taken from the 2% bracket, so it works as a $50 / $100 credit and is left out. Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. Source is the 2002 Act 51 (Stelly) enrolled bill, which strikes the pre-2003 text of R.S. 47:32(A). The ACIR tables for 1976, 1980 and 1983 show the same schedule. R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=181819",
+      "notes": "The personal exemption ($2,500 single / $5,000 joint plus $400 per dependent per the ACIR tables for 1976 and 1980) is a credit against net income taken from the 2% bracket, so it works as a $50 / $100 credit and is left out. Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. Source is the 2002 Act 51 (Stelly) enrolled bill, which strikes the pre-2003 text of R.S. 47:32(A). The ACIR tables for 1976, 1980 and 1983 show the same schedule. R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=181819",
+      "notes": "The personal exemption ($2,500 single / $5,000 joint plus $400 per dependent per the ACIR tables for 1976 and 1980) is a credit against net income taken from the 2% bracket, so it works as a $50 / $100 credit and is left out. Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. Source is the 2002 Act 51 (Stelly) enrolled bill, which strikes the pre-2003 text of R.S. 47:32(A). The ACIR tables for 1976, 1980 and 1983 show the same schedule. R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "The personal exemption ($2,500 single / $5,000 joint plus $400 per dependent per the ACIR tables for 1976 and 1980) is a credit against net income taken from the 2% bracket, so it works as a $50 / $100 credit and is left out. Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 82 (rates, July 1, 1980). R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=181819",
+      "notes": "The personal exemption comes off the 2% bracket and is left out (ACIR shows $2,500 / $5,000 in 1980 and the $4,500 / $9,000 combined exemption-standard deduction by 1983). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. Source is the 2002 Act 51 (Stelly) enrolled bill, which strikes the pre-2003 text of R.S. 47:32(A). The ACIR tables for 1976, 1980 and 1983 show the same schedule. R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=181819",
+      "notes": "The personal exemption comes off the 2% bracket and is left out (ACIR shows $2,500 / $5,000 in 1980 and the $4,500 / $9,000 combined exemption-standard deduction by 1983). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. Source is the 2002 Act 51 (Stelly) enrolled bill, which strikes the pre-2003 text of R.S. 47:32(A). The ACIR tables for 1976, 1980 and 1983 show the same schedule. R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1982-1983.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 48 (rates for 1983). R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1984.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 53 (rates for 1984). R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1985-1986.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 56 (rates for 1985). R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 51 (rates for tax year 1986). R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1988-Vol-1.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 16 (rates for tax year 1987). R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1989-Vol-1.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 19 (rates for tax year 1988). R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1990-Vol-1.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 19 (rates for tax year 1989). R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1991-Vol-1.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 22 (rates for tax year 1990). R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1992-Vol-1.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 22 (rates, 1991). R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff-1993-vol-1.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 22 (rates, 1992). R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1994-Vol-1.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 20 (rates, 1993). R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1995-Vol-1.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. ACIR Significant Features of Fiscal Federalism, Table 19 (rates, 1994). R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text). Joint brackets are double the single ones (community-property income splitting; stated in the ACIR 1986-87 tables and shown by the LDR 1995-98 tax tables)."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://web.archive.org/web/19961114002622/http://www.rev.state.la.us:80/ittab96.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. Wayback copy of the LDR 1995 tax tables. R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text)."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://web.archive.org/web/19970104113701/http://www.rev.state.la.us:80/ittab96.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. Wayback copy of the LDR 1996 tax tables. R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text)."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://web.archive.org/web/20000817111724/http://www.rev.state.la.us:80/taxforms/IT540i97.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. Wayback copy of the 1997 IT-540 booklet (tax tables). R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text)."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://web.archive.org/web/20000901012550/http://www.rev.state.la.us:80/taxforms/IT54098bk.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint. Wayback copy of the 1998 IT-540 booklet (tax tables). R.S. 47:32(A) (2% on the first $10,000 of net income above the exemptions, 4% on the next $40,000, 6% above $50,000) was not amended between Acts 1977, 1st Ex. Sess., No. 2 and Acts 2002, No. 51 (legis.la.gov amendment history; the 2002 enrolled act prints the struck text)."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://dam.ldr.la.gov/taxforms/TTRB(1_99).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://dam.ldr.la.gov/taxforms/TTRB(1_00).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://dam.ldr.la.gov/taxforms/TTRB(1_01).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://dam.ldr.la.gov/taxforms/TTRB(1_02).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Pre-Stelly brackets: 2% to $10,000 / $20,000 joint."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://dam.ldr.la.gov/taxforms/TTRB(1_03).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). Stelly plan (Act 51 of 2002) widened the 2% bracket to $12,500 / $25,000 from 2003."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://dam.ldr.la.gov/taxforms/TTRB(1_04).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled)."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://dam.ldr.la.gov/taxforms/IT540TT(07).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). No 2005/2006/2008 tax table found; schedule carried over the unchanged 2003-2021 span (checked 2003, 2007, 2009, 2012, 2016, 2021 tables)."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://dam.ldr.la.gov/taxforms/IT540TT(07).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). No 2005/2006/2008 tax table found; schedule carried over the unchanged 2003-2021 span (checked 2003, 2007, 2009, 2012, 2016, 2021 tables)."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://dam.ldr.la.gov/taxforms/IT540TT(07).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled)."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://dam.ldr.la.gov/taxforms/IT540TT(07).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled). No 2005/2006/2008 tax table found; schedule carried over the unchanged 2003-2021 span (checked 2003, 2007, 2009, 2012, 2016, 2021 tables)."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/LA/2009/IT-540TT(09).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled)."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/LA/2010/IT540(2010).TBLS.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled)."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/LA/2011/IT540(2011)TTRB.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled)."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/LA/2012/IT540(2012)TTRB.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled)."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/LA/2013/IT540(2013)TTRB.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled)."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/LA/2014/IT540i(2014)F.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled)."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/LA/2015/IT540i(2015)TT.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled)."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/LA/2016/IT540i(2016)TT.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled)."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/LA/2017/IT540iTT(2017).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled)."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/LA/2018/IT540iTT(2018).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled)."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/LA/2019/IT540iTT(2019).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled)."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/LA/2020/IT540iTT(2020).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled)."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 12500,
+            "rate": 0.04
+          },
+          {
+            "from": 50000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 25000,
+            "rate": 0.04
+          },
+          {
+            "from": 100000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/LA/2021/IT540TT%20(2021).pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $90 / $180 credit and is left out ($1,000 per extra exemption likewise). Federal income tax paid was deductible (not modelled)."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0185
+          },
+          {
+            "from": 12500,
+            "rate": 0.035
+          },
+          {
+            "from": 50000,
+            "rate": 0.0425
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0185
+          },
+          {
+            "from": 25000,
+            "rate": 0.035
+          },
+          {
+            "from": 100000,
+            "rate": 0.0425
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/LA/2022/IT540(2022)%20Tax%20Table.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $83.25 / $166.5 credit and is left out ($1,000 per extra exemption likewise). Rates cut to 1.85% / 3.5% / 4.25% from 2022 (federal income tax deduction no longer in the 2022 instructions)."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0185
+          },
+          {
+            "from": 12500,
+            "rate": 0.035
+          },
+          {
+            "from": 50000,
+            "rate": 0.0425
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0185
+          },
+          {
+            "from": 25000,
+            "rate": 0.035
+          },
+          {
+            "from": 100000,
+            "rate": 0.0425
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/LA/2023/IT540(2023)%20TT.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the lowest bracket rather than shifting the brackets, so it works as a $83.25 / $166.5 credit and is left out ($1,000 per extra exemption likewise)."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0185
+          },
+          {
+            "from": 12500,
+            "rate": 0.035
+          },
+          {
+            "from": 50000,
+            "rate": 0.0425
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0185
+          },
+          {
+            "from": 25000,
+            "rate": 0.035
+          },
+          {
+            "from": 100000,
+            "rate": 0.0425
+          }
+        ]
+      },
+      "source": "https://dam.ldr.la.gov/taxforms/IT540i-WEB-2024.pdf",
+      "notes": "The $4,500 / $9,000 combined personal exemption-standard deduction comes off the 1.85% bracket rather than shifting the brackets, so it works as a $83.25 / $166.50 credit and is left out."
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 12500,
+        "marriedJoint": 25000
+      },
+      "source": "https://dam.ldr.la.gov/taxforms/IT540i-WEB-2025.pdf",
+      "notes": "Flat 3% from 2025 (Act 11 of the 2024 Third Extraordinary Session), which also repealed the personal exemptions."
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 12875,
+        "marriedJoint": 25750
+      },
+      "source": "https://dam.ldr.la.gov/lawspolicies/1501-OSR.pdf",
+      "notes": "Standard deduction is indexed from 2026; LDR says final amounts may differ slightly."
+    }
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "id": "us-local-portland-mi",
+  "kind": "local",
+  "region": "Portland, MI",
+  "state": "MI",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "Uniform City Income Tax Ordinance rate: 1% on residents and corporations, 0.5% on nonresidents (MCL 141.611). Year adopted and the rate as of 2007 are from the House Fiscal Agency table in the analysis of HB 4120 (2007)."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "Statutory Uniform City Income Tax Ordinance rate of 1% on residents (MCL 141.611); the city levied 1% in 2007 (House Fiscal Agency table) and in 2024 (city sources). Year-specific city forms were not checked."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.cityofeastlansing.com/Faq.aspx?QID=405"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.cityofeastlansing.com/Faq.aspx?QID=405"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.cityofeastlansing.com/Faq.aspx?QID=405"
+    }
+  }
+}

@@ -1,0 +1,2273 @@
+{
+  "id": "us-state-UT",
+  "kind": "state",
+  "region": "Utah",
+  "state": "UT",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.065
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://files.tax.utah.gov/tax/esu/history/history.pdf",
+      "notes": "Pre-1973 Utah net-income tax (rates set by HB 81 of 1965, effective 1966): 2%-6.5% on net income in excess of credits, one schedule for all filers. Deduction = $600 personal exemption credit per person (Tax Commission income.xlsx 'IIT Exemption and Deductions'). Standard deduction (lesser of $1,000 or 10% of AGI minus federal taxes) is income-dependent and left out."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.065
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://files.tax.utah.gov/tax/esu/history/history.pdf",
+      "notes": "Pre-1973 Utah net-income tax (rates set by HB 81 of 1965, effective 1966): 2%-6.5% on net income in excess of credits, one schedule for all filers. Deduction = $600 personal exemption credit per person (Tax Commission income.xlsx 'IIT Exemption and Deductions'). Standard deduction (lesser of $1,000 or 10% of AGI minus federal taxes) is income-dependent and left out."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.065
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://files.tax.utah.gov/tax/esu/history/history.pdf",
+      "notes": "Pre-1973 Utah net-income tax (rates set by HB 81 of 1965, effective 1966): 2%-6.5% on net income in excess of credits, one schedule for all filers. Deduction = $600 personal exemption credit per person (Tax Commission income.xlsx 'IIT Exemption and Deductions'). Standard deduction (lesser of $1,000 or 10% of AGI minus federal taxes) is income-dependent and left out."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 750,
+            "rate": 0.0325
+          },
+          {
+            "from": 1500,
+            "rate": 0.0425
+          },
+          {
+            "from": 2250,
+            "rate": 0.0525
+          },
+          {
+            "from": 3000,
+            "rate": 0.0625
+          },
+          {
+            "from": 3750,
+            "rate": 0.0725
+          },
+          {
+            "from": 4500,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 1500,
+            "rate": 0.0375
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 4500,
+            "rate": 0.0575
+          },
+          {
+            "from": 6000,
+            "rate": 0.0675
+          },
+          {
+            "from": 7500,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1976-77 ed. Vol. II, Table 106 (State Individual Income Taxes: Rates, July 1, 1976), Table 107 (personal exemptions, July 1, 1976) and Table 108 (standard deduction, July 1, 1976). Table 106 prints a joint schedule (2.75%-7.75% on $1,500 steps to $7,500) and, in the special-rates column, a separate single schedule: 2.25% on the first $750 rising by 1% per $750 step to 7.25% on $3,751-$4,500 and 7.75% over $4,500. Table 107 fn: personal exemptions same as federal ($750 in 1976); Table 108 fn: standard deduction same as federal. Starts from federal taxable income. Deduction = $750 personal exemption per person; the standard deduction (Utah follows the federal definition, income-dependent with a low-income allowance) is left out as in this file's later years. Federal income tax deductible (not modelled)."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 750,
+            "rate": 0.0325
+          },
+          {
+            "from": 1500,
+            "rate": 0.0425
+          },
+          {
+            "from": 2250,
+            "rate": 0.0525
+          },
+          {
+            "from": 3000,
+            "rate": 0.0625
+          },
+          {
+            "from": 3750,
+            "rate": 0.0725
+          },
+          {
+            "from": 4500,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 1500,
+            "rate": 0.0375
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 4500,
+            "rate": 0.0575
+          },
+          {
+            "from": 6000,
+            "rate": 0.0675
+          },
+          {
+            "from": 7500,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://files.tax.utah.gov/tax/esu/history/history.pdf",
+      "notes": "Bridged: no ACIR edition describes 1977. The 1976-77 ed. (Table 106, July 1, 1976) and the 1979-80 ed. (Table 82, July 1, 1980) print the same single (2.25%-7.25% on $750 steps to $4,500, 7.75% over) and joint (2.75%-7.75% on $1,500 steps) schedules, and the Tax Commission's History of the Utah Tax Structure (the source cited; individual income tax legislative history) lists no rate change between HB 74 (1976, effective for 1976) and HB 168 (1981); its rate table (income.xlsx, 'Individual Income Brackets', 1975-1981 column) gives the same rates. SB 32 (1979) let heads of household use the joint schedule from 1980. Starts from federal taxable income with Utah exemptions/deductions frozen at 1974 federal law: deduction = $750 personal exemption per person (Tax Commission income.xlsx 'IIT Exemption and Deductions', $750 for 1973-1986); the standard deduction (15% of AGI, min $1,300, max $2,000, income-dependent) is left out as in this file's other years. Federal income tax deductible (not modelled)."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 750,
+            "rate": 0.0325
+          },
+          {
+            "from": 1500,
+            "rate": 0.0425
+          },
+          {
+            "from": 2250,
+            "rate": 0.0525
+          },
+          {
+            "from": 3000,
+            "rate": 0.0625
+          },
+          {
+            "from": 3750,
+            "rate": 0.0725
+          },
+          {
+            "from": 4500,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 1500,
+            "rate": 0.0375
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 4500,
+            "rate": 0.0575
+          },
+          {
+            "from": 6000,
+            "rate": 0.0675
+          },
+          {
+            "from": 7500,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://files.tax.utah.gov/tax/esu/history/history.pdf",
+      "notes": "Bridged: no ACIR edition describes 1978. The 1976-77 ed. (Table 106, July 1, 1976) and the 1979-80 ed. (Table 82, July 1, 1980) print the same single (2.25%-7.25% on $750 steps to $4,500, 7.75% over) and joint (2.75%-7.75% on $1,500 steps) schedules, and the Tax Commission's History of the Utah Tax Structure (the source cited; individual income tax legislative history) lists no rate change between HB 74 (1976, effective for 1976) and HB 168 (1981); its rate table (income.xlsx, 'Individual Income Brackets', 1975-1981 column) gives the same rates. SB 32 (1979) let heads of household use the joint schedule from 1980. Starts from federal taxable income with Utah exemptions/deductions frozen at 1974 federal law: deduction = $750 personal exemption per person (Tax Commission income.xlsx 'IIT Exemption and Deductions', $750 for 1973-1986); the standard deduction (15% of AGI, min $1,300, max $2,000, income-dependent) is left out as in this file's other years. Federal income tax deductible (not modelled)."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 750,
+            "rate": 0.0325
+          },
+          {
+            "from": 1500,
+            "rate": 0.0425
+          },
+          {
+            "from": 2250,
+            "rate": 0.0525
+          },
+          {
+            "from": 3000,
+            "rate": 0.0625
+          },
+          {
+            "from": 3750,
+            "rate": 0.0725
+          },
+          {
+            "from": 4500,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 1500,
+            "rate": 0.0375
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 4500,
+            "rate": 0.0575
+          },
+          {
+            "from": 6000,
+            "rate": 0.0675
+          },
+          {
+            "from": 7500,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://files.tax.utah.gov/tax/esu/history/history.pdf",
+      "notes": "Bridged: no ACIR edition describes 1979. The 1976-77 ed. (Table 106, July 1, 1976) and the 1979-80 ed. (Table 82, July 1, 1980) print the same single (2.25%-7.25% on $750 steps to $4,500, 7.75% over) and joint (2.75%-7.75% on $1,500 steps) schedules, and the Tax Commission's History of the Utah Tax Structure (the source cited; individual income tax legislative history) lists no rate change between HB 74 (1976, effective for 1976) and HB 168 (1981); its rate table (income.xlsx, 'Individual Income Brackets', 1975-1981 column) gives the same rates. SB 32 (1979) let heads of household use the joint schedule from 1980. Starts from federal taxable income with Utah exemptions/deductions frozen at 1974 federal law: deduction = $750 personal exemption per person (Tax Commission income.xlsx 'IIT Exemption and Deductions', $750 for 1973-1986); the standard deduction (15% of AGI, min $1,300, max $2,000, income-dependent) is left out as in this file's other years. Federal income tax deductible (not modelled)."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 750,
+            "rate": 0.0325
+          },
+          {
+            "from": 1500,
+            "rate": 0.0425
+          },
+          {
+            "from": 2250,
+            "rate": 0.0525
+          },
+          {
+            "from": 3000,
+            "rate": 0.0625
+          },
+          {
+            "from": 3750,
+            "rate": 0.0725
+          },
+          {
+            "from": 4500,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 1500,
+            "rate": 0.0375
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 4500,
+            "rate": 0.0575
+          },
+          {
+            "from": 6000,
+            "rate": 0.0675
+          },
+          {
+            "from": 7500,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1979-80 ed., Table 82 (State Individual Income Taxes: Rates, July 1, 1980), Table 83 (personal exemptions) and Table 84 (standard deduction). Same joint (2.75%-7.75% on $1,500 steps) and single (2.25%-7.25% on $750 steps to $4,500, 7.75% over $4,500) schedules as in 1976. Table 83 prints $750 / $1,500 personal exemptions; Table 84 prints a 15% standard deduction, max $2,000 single / $2,000 joint, with a low-income allowance. Starts from federal taxable income. Deduction = $750 personal exemption per person; the standard deduction (Utah follows the federal definition, income-dependent with a low-income allowance) is left out as in this file's later years. Federal income tax deductible (not modelled)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 750,
+            "rate": 0.0325
+          },
+          {
+            "from": 1500,
+            "rate": 0.0425
+          },
+          {
+            "from": 2250,
+            "rate": 0.0525
+          },
+          {
+            "from": 3000,
+            "rate": 0.0625
+          },
+          {
+            "from": 3750,
+            "rate": 0.0725
+          },
+          {
+            "from": 4500,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 1500,
+            "rate": 0.0375
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 4500,
+            "rate": 0.0575
+          },
+          {
+            "from": 6000,
+            "rate": 0.0675
+          },
+          {
+            "from": 7500,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://files.tax.utah.gov/tax/esu/history/income.xlsx",
+      "notes": "UNCERTAIN (no form found): rates from the Utah State Tax Commission rate history table (income.xlsx, 'Individual Income Brackets', 1975-1981 column: single 2.25%-7.25% on $750 steps to $4,500 and 7.75% over, joint 2.75%-7.75% on $1,500 steps), the schedules the ACIR 1979-80 ed. prints for July 1, 1980. HB 168 (1981), effective May 12, 1981, made all separate filers pay the same rates; the Tax Commission's table shows that change from 1982, so 1981 is recorded with the earlier single schedule. Starts from federal taxable income with Utah exemptions/deductions frozen at 1974 federal law: deduction = $750 personal exemption per person (Tax Commission income.xlsx 'IIT Exemption and Deductions', $750 for 1973-1986); the standard deduction (15% of AGI, min $1,300, max $2,000, income-dependent) is left out as in this file's other years. Federal income tax deductible (not modelled)."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 750,
+            "rate": 0.0375
+          },
+          {
+            "from": 1500,
+            "rate": 0.0475
+          },
+          {
+            "from": 2250,
+            "rate": 0.0575
+          },
+          {
+            "from": 3000,
+            "rate": 0.0675
+          },
+          {
+            "from": 3750,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 1500,
+            "rate": 0.0375
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 4500,
+            "rate": 0.0575
+          },
+          {
+            "from": 6000,
+            "rate": 0.0675
+          },
+          {
+            "from": 7500,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://files.tax.utah.gov/tax/esu/history/income.xlsx",
+      "notes": "UNCERTAIN (no form found): rates from the Utah State Tax Commission rate history table (income.xlsx, 'Individual Income Brackets', 1982 column): after HB 168 (1981, effective May 12, 1981; Tax Commission history: all individuals filing separate returns pay the same rates) single filers use the married-separate schedule, 2.75%-7.75% on $750 steps (half the joint brackets); joint 2.75%-7.75% on $1,500 steps unchanged. Same schedules as this file's 1983-1987 entries. Starts from federal taxable income with Utah exemptions/deductions frozen at 1974 federal law: deduction = $750 personal exemption per person (Tax Commission income.xlsx 'IIT Exemption and Deductions', $750 for 1973-1986); the standard deduction (15% of AGI, min $1,300, max $2,000, income-dependent) is left out as in this file's other years. Federal income tax deductible (not modelled)."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 750,
+            "rate": 0.0375
+          },
+          {
+            "from": 1500,
+            "rate": 0.0475
+          },
+          {
+            "from": 2250,
+            "rate": 0.0575
+          },
+          {
+            "from": 3000,
+            "rate": 0.0675
+          },
+          {
+            "from": 3750,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 1500,
+            "rate": 0.0375
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 4500,
+            "rate": 0.0575
+          },
+          {
+            "from": 6000,
+            "rate": 0.0675
+          },
+          {
+            "from": 7500,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://files.tax.utah.gov/tax/esu/history/income.xlsx",
+      "notes": "UNCERTAIN (no form found): rates from Utah State Tax Commission rate history table (income.xlsx, 1983-1987 column); brackets are the 1973 Act brackets ($750 steps single, doubled for joint), unchanged until 2001 per Tax Commission/legislative history. Starts from federal taxable income with Utah exemptions/deductions frozen at 1974 federal law: $750 per exemption (in deduction); standard deduction 15% of AGI (min $1,300, max $2,000) is income-dependent and left out. Federal income tax was deductible (not modelled)."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 750,
+            "rate": 0.0375
+          },
+          {
+            "from": 1500,
+            "rate": 0.0475
+          },
+          {
+            "from": 2250,
+            "rate": 0.0575
+          },
+          {
+            "from": 3000,
+            "rate": 0.0675
+          },
+          {
+            "from": 3750,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 1500,
+            "rate": 0.0375
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 4500,
+            "rate": 0.0575
+          },
+          {
+            "from": 6000,
+            "rate": 0.0675
+          },
+          {
+            "from": 7500,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://files.tax.utah.gov/tax/esu/history/income.xlsx",
+      "notes": "UNCERTAIN (no form found): rates from Utah State Tax Commission rate history table (income.xlsx, 1983-1987 column); brackets are the 1973 Act brackets ($750 steps single, doubled for joint), unchanged until 2001 per Tax Commission/legislative history. Starts from federal taxable income with Utah exemptions/deductions frozen at 1974 federal law: $750 per exemption (in deduction); standard deduction 15% of AGI (min $1,300, max $2,000) is income-dependent and left out. Federal income tax was deductible (not modelled)."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 750,
+            "rate": 0.0375
+          },
+          {
+            "from": 1500,
+            "rate": 0.0475
+          },
+          {
+            "from": 2250,
+            "rate": 0.0575
+          },
+          {
+            "from": 3000,
+            "rate": 0.0675
+          },
+          {
+            "from": 3750,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 1500,
+            "rate": 0.0375
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 4500,
+            "rate": 0.0575
+          },
+          {
+            "from": 6000,
+            "rate": 0.0675
+          },
+          {
+            "from": 7500,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://files.tax.utah.gov/tax/esu/history/income.xlsx",
+      "notes": "UNCERTAIN (no form found): rates from Utah State Tax Commission rate history table (income.xlsx, 1983-1987 column); brackets are the 1973 Act brackets ($750 steps single, doubled for joint), unchanged until 2001 per Tax Commission/legislative history. Starts from federal taxable income with Utah exemptions/deductions frozen at 1974 federal law: $750 per exemption (in deduction); standard deduction 15% of AGI (min $1,300, max $2,000) is income-dependent and left out. Federal income tax was deductible (not modelled)."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 750,
+            "rate": 0.0375
+          },
+          {
+            "from": 1500,
+            "rate": 0.0475
+          },
+          {
+            "from": 2250,
+            "rate": 0.0575
+          },
+          {
+            "from": 3000,
+            "rate": 0.0675
+          },
+          {
+            "from": 3750,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 1500,
+            "rate": 0.0375
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 4500,
+            "rate": 0.0575
+          },
+          {
+            "from": 6000,
+            "rate": 0.0675
+          },
+          {
+            "from": 7500,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://files.tax.utah.gov/tax/esu/history/income.xlsx",
+      "notes": "UNCERTAIN (no form found): rates from Utah State Tax Commission rate history table (income.xlsx, 1983-1987 column); brackets are the 1973 Act brackets ($750 steps single, doubled for joint), unchanged until 2001 per Tax Commission/legislative history. Starts from federal taxable income with Utah exemptions/deductions frozen at 1974 federal law: $750 per exemption (in deduction); standard deduction 15% of AGI (min $1,300, max $2,000) is income-dependent and left out. Federal income tax was deductible (not modelled). A 4% educational funding surtax was imposed on 1986 tax (HB 7, 1986 4th Special Session; not modelled)."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 750,
+            "rate": 0.0375
+          },
+          {
+            "from": 1500,
+            "rate": 0.0475
+          },
+          {
+            "from": 2250,
+            "rate": 0.0575
+          },
+          {
+            "from": 3000,
+            "rate": 0.0675
+          },
+          {
+            "from": 3750,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 1500,
+            "rate": 0.0375
+          },
+          {
+            "from": 3000,
+            "rate": 0.0475
+          },
+          {
+            "from": 4500,
+            "rate": 0.0575
+          },
+          {
+            "from": 6000,
+            "rate": 0.0675
+          },
+          {
+            "from": 7500,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3965,
+        "marriedJoint": 6610
+      },
+      "source": "https://files.tax.utah.gov/tax/esu/history/income.xlsx",
+      "notes": "UNCERTAIN (no form found): rates from Tax Commission rate history table (1983-1987); brackets $750 steps single, doubled for joint. HB 103 (1987): federal standard deduction plus 75% of federal personal exemption ($1425 each; deduction = federal standard deduction + Utah exemptions); federal income tax deduction repealed."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.026
+          },
+          {
+            "from": 750,
+            "rate": 0.0355
+          },
+          {
+            "from": 1500,
+            "rate": 0.045
+          },
+          {
+            "from": 2250,
+            "rate": 0.0545
+          },
+          {
+            "from": 3000,
+            "rate": 0.064
+          },
+          {
+            "from": 3750,
+            "rate": 0.0735
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.026
+          },
+          {
+            "from": 1500,
+            "rate": 0.0355
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 4500,
+            "rate": 0.0545
+          },
+          {
+            "from": 6000,
+            "rate": 0.064
+          },
+          {
+            "from": 7500,
+            "rate": 0.0735
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4462,
+        "marriedJoint": 7924
+      },
+      "source": "https://files.tax.utah.gov/tax/esu/history/income.xlsx",
+      "notes": "UNCERTAIN (no form found): rates from Tax Commission rate history table (1988 column; SB 2 of 1988 2nd Special Session cut rates). Brackets $750 steps single, doubled for joint. Deduction = federal standard deduction + Utah exemption (75% of federal, $1462 each). One-third of federal income tax deductible (not modelled)."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 750,
+            "rate": 0.035
+          },
+          {
+            "from": 1500,
+            "rate": 0.044
+          },
+          {
+            "from": 2250,
+            "rate": 0.0535
+          },
+          {
+            "from": 3000,
+            "rate": 0.0625
+          },
+          {
+            "from": 3750,
+            "rate": 0.072
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 1500,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.044
+          },
+          {
+            "from": 4500,
+            "rate": 0.0535
+          },
+          {
+            "from": 6000,
+            "rate": 0.0625
+          },
+          {
+            "from": 7500,
+            "rate": 0.072
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4600,
+        "marriedJoint": 8200
+      },
+      "source": "https://files.tax.utah.gov/tax/commission/reports/fy95report.pdf",
+      "notes": "Rates effective for tax years from 1989 per Utah State Tax Commission FY95 Annual Report (and rate history table, 1989-1995). Starts from federal taxable income; deduction = federal standard deduction + Utah personal exemption (75% of federal, $1500 each). One-half of federal income tax deductible from 1989 (HB 18, 1989 2nd Special Session; not modelled)."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 750,
+            "rate": 0.035
+          },
+          {
+            "from": 1500,
+            "rate": 0.044
+          },
+          {
+            "from": 2250,
+            "rate": 0.0535
+          },
+          {
+            "from": 3000,
+            "rate": 0.0625
+          },
+          {
+            "from": 3750,
+            "rate": 0.072
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 1500,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.044
+          },
+          {
+            "from": 4500,
+            "rate": 0.0535
+          },
+          {
+            "from": 6000,
+            "rate": 0.0625
+          },
+          {
+            "from": 7500,
+            "rate": 0.072
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4788,
+        "marriedJoint": 8526
+      },
+      "source": "https://files.tax.utah.gov/tax/commission/reports/fy95report.pdf",
+      "notes": "Rates effective for tax years from 1989 per Utah State Tax Commission FY95 Annual Report (and rate history table, 1989-1995). Starts from federal taxable income; deduction = federal standard deduction + Utah personal exemption (75% of federal, $1538 each). One-half of federal income tax deductible from 1989 (HB 18, 1989 2nd Special Session; not modelled)."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 750,
+            "rate": 0.035
+          },
+          {
+            "from": 1500,
+            "rate": 0.044
+          },
+          {
+            "from": 2250,
+            "rate": 0.0535
+          },
+          {
+            "from": 3000,
+            "rate": 0.0625
+          },
+          {
+            "from": 3750,
+            "rate": 0.072
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 1500,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.044
+          },
+          {
+            "from": 4500,
+            "rate": 0.0535
+          },
+          {
+            "from": 6000,
+            "rate": 0.0625
+          },
+          {
+            "from": 7500,
+            "rate": 0.072
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5013,
+        "marriedJoint": 8926
+      },
+      "source": "https://files.tax.utah.gov/tax/commission/reports/fy95report.pdf",
+      "notes": "Rates effective for tax years from 1989 per Utah State Tax Commission FY95 Annual Report (and rate history table, 1989-1995). Starts from federal taxable income; deduction = federal standard deduction + Utah personal exemption (75% of federal, $1613 each). One-half of federal income tax deductible from 1989 (HB 18, 1989 2nd Special Session; not modelled)."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 750,
+            "rate": 0.035
+          },
+          {
+            "from": 1500,
+            "rate": 0.044
+          },
+          {
+            "from": 2250,
+            "rate": 0.0535
+          },
+          {
+            "from": 3000,
+            "rate": 0.0625
+          },
+          {
+            "from": 3750,
+            "rate": 0.072
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 1500,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.044
+          },
+          {
+            "from": 4500,
+            "rate": 0.0535
+          },
+          {
+            "from": 6000,
+            "rate": 0.0625
+          },
+          {
+            "from": 7500,
+            "rate": 0.072
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5325,
+        "marriedJoint": 9450
+      },
+      "source": "https://files.tax.utah.gov/tax/commission/reports/fy95report.pdf",
+      "notes": "Rates effective for tax years from 1989 per Utah State Tax Commission FY95 Annual Report (and rate history table, 1989-1995). Starts from federal taxable income; deduction = federal standard deduction + Utah personal exemption (75% of federal, $1725 each). One-half of federal income tax deductible from 1989 (HB 18, 1989 2nd Special Session; not modelled)."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 750,
+            "rate": 0.035
+          },
+          {
+            "from": 1500,
+            "rate": 0.044
+          },
+          {
+            "from": 2250,
+            "rate": 0.0535
+          },
+          {
+            "from": 3000,
+            "rate": 0.0625
+          },
+          {
+            "from": 3750,
+            "rate": 0.072
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 1500,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.044
+          },
+          {
+            "from": 4500,
+            "rate": 0.0535
+          },
+          {
+            "from": 6000,
+            "rate": 0.0625
+          },
+          {
+            "from": 7500,
+            "rate": 0.072
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5463,
+        "marriedJoint": 9726
+      },
+      "source": "https://files.tax.utah.gov/tax/commission/reports/fy95report.pdf",
+      "notes": "Rates effective for tax years from 1989 per Utah State Tax Commission FY95 Annual Report (and rate history table, 1989-1995). Starts from federal taxable income; deduction = federal standard deduction + Utah personal exemption (75% of federal, $1763 each). One-half of federal income tax deductible from 1989 (HB 18, 1989 2nd Special Session; not modelled)."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 750,
+            "rate": 0.035
+          },
+          {
+            "from": 1500,
+            "rate": 0.044
+          },
+          {
+            "from": 2250,
+            "rate": 0.0535
+          },
+          {
+            "from": 3000,
+            "rate": 0.0625
+          },
+          {
+            "from": 3750,
+            "rate": 0.072
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 1500,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.044
+          },
+          {
+            "from": 4500,
+            "rate": 0.0535
+          },
+          {
+            "from": 6000,
+            "rate": 0.0625
+          },
+          {
+            "from": 7500,
+            "rate": 0.072
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5638,
+        "marriedJoint": 10026
+      },
+      "source": "https://files.tax.utah.gov/tax/commission/reports/fy95report.pdf",
+      "notes": "Rates effective for tax years from 1989 per Utah State Tax Commission FY95 Annual Report (and rate history table, 1989-1995). Starts from federal taxable income; deduction = federal standard deduction + Utah personal exemption (75% of federal, $1838 each). One-half of federal income tax deductible from 1989 (HB 18, 1989 2nd Special Session; not modelled)."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 750,
+            "rate": 0.035
+          },
+          {
+            "from": 1500,
+            "rate": 0.044
+          },
+          {
+            "from": 2250,
+            "rate": 0.0535
+          },
+          {
+            "from": 3000,
+            "rate": 0.0625
+          },
+          {
+            "from": 3750,
+            "rate": 0.072
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 1500,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.044
+          },
+          {
+            "from": 4500,
+            "rate": 0.0535
+          },
+          {
+            "from": 6000,
+            "rate": 0.0625
+          },
+          {
+            "from": 7500,
+            "rate": 0.072
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5775,
+        "marriedJoint": 10300
+      },
+      "source": "https://files.tax.utah.gov/tax/commission/reports/fy95report.pdf",
+      "notes": "Rates effective for tax years from 1989 per Utah State Tax Commission FY95 Annual Report (and rate history table, 1989-1995). Starts from federal taxable income; deduction = federal standard deduction + Utah personal exemption (75% of federal, $1875 each). One-half of federal income tax deductible from 1989 (HB 18, 1989 2nd Special Session; not modelled)."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 750,
+            "rate": 0.035
+          },
+          {
+            "from": 1500,
+            "rate": 0.044
+          },
+          {
+            "from": 2250,
+            "rate": 0.0535
+          },
+          {
+            "from": 3000,
+            "rate": 0.06
+          },
+          {
+            "from": 3750,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0255
+          },
+          {
+            "from": 1500,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.044
+          },
+          {
+            "from": 4500,
+            "rate": 0.0535
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 7500,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5913,
+        "marriedJoint": 10526
+      },
+      "source": "https://le.utah.gov/~2001/bills/sbillenr/SB0036.htm",
+      "notes": "1996 schedule as shown (repealed text) in Utah Code 59-10-104 in 2001 S.B. 36 (taxable years beginning in 1996); same in Tax Commission FY96-97 Annual Report. Deduction = federal standard deduction + Utah exemption (75% of federal, $1913 each). Half of federal income tax deductible (not modelled)."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 750,
+            "rate": 0.033
+          },
+          {
+            "from": 1500,
+            "rate": 0.042
+          },
+          {
+            "from": 2250,
+            "rate": 0.052
+          },
+          {
+            "from": 3000,
+            "rate": 0.06
+          },
+          {
+            "from": 3750,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 1500,
+            "rate": 0.033
+          },
+          {
+            "from": 3000,
+            "rate": 0.042
+          },
+          {
+            "from": 4500,
+            "rate": 0.052
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 7500,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6138,
+        "marriedJoint": 10876
+      },
+      "source": "https://le.utah.gov/~2001/bills/sbillenr/SB0036.htm",
+      "notes": "Schedule for tax years from 1997 (Utah Code 59-10-104 as shown in 2001 S.B. 36; Tax Commission annual reports list it for 1998 and 1999). Deduction = federal standard deduction + Utah exemption (75% of federal, $1988 each). Half of federal income tax deductible (not modelled)."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 750,
+            "rate": 0.033
+          },
+          {
+            "from": 1500,
+            "rate": 0.042
+          },
+          {
+            "from": 2250,
+            "rate": 0.052
+          },
+          {
+            "from": 3000,
+            "rate": 0.06
+          },
+          {
+            "from": 3750,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 1500,
+            "rate": 0.033
+          },
+          {
+            "from": 3000,
+            "rate": 0.042
+          },
+          {
+            "from": 4500,
+            "rate": 0.052
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 7500,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6275,
+        "marriedJoint": 11150
+      },
+      "source": "https://files.tax.utah.gov/tax/commission/reports/fy99report.pdf",
+      "notes": "Schedule for tax years from 1997 (Utah Code 59-10-104 as shown in 2001 S.B. 36; Tax Commission annual reports list it for 1998 and 1999). Deduction = federal standard deduction + Utah exemption (75% of federal, $2025 each). Half of federal income tax deductible (not modelled)."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 750,
+            "rate": 0.033
+          },
+          {
+            "from": 1500,
+            "rate": 0.042
+          },
+          {
+            "from": 2250,
+            "rate": 0.052
+          },
+          {
+            "from": 3000,
+            "rate": 0.06
+          },
+          {
+            "from": 3750,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 1500,
+            "rate": 0.033
+          },
+          {
+            "from": 3000,
+            "rate": 0.042
+          },
+          {
+            "from": 4500,
+            "rate": 0.052
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 7500,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6363,
+        "marriedJoint": 11326
+      },
+      "source": "https://files.tax.utah.gov/tax/commission/reports/fy00report.pdf",
+      "notes": "Schedule for tax years from 1997 (Utah Code 59-10-104 as shown in 2001 S.B. 36; Tax Commission annual reports list it for 1998 and 1999). Deduction = federal standard deduction + Utah exemption (75% of federal, $2063 each). Half of federal income tax deductible (not modelled)."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 750,
+            "rate": 0.033
+          },
+          {
+            "from": 1500,
+            "rate": 0.042
+          },
+          {
+            "from": 2250,
+            "rate": 0.052
+          },
+          {
+            "from": 3000,
+            "rate": 0.06
+          },
+          {
+            "from": 3750,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 1500,
+            "rate": 0.033
+          },
+          {
+            "from": 3000,
+            "rate": 0.042
+          },
+          {
+            "from": 4500,
+            "rate": 0.052
+          },
+          {
+            "from": 6000,
+            "rate": 0.06
+          },
+          {
+            "from": 7500,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6500,
+        "marriedJoint": 11550
+      },
+      "source": "https://le.utah.gov/~2001/bills/sbillenr/SB0036.htm",
+      "notes": "Schedule for tax years from 1997 (Utah Code 59-10-104 as shown in 2001 S.B. 36; Tax Commission annual reports list it for 1998 and 1999). Deduction = federal standard deduction + Utah exemption (75% of federal, $2100 each). Half of federal income tax deductible (not modelled)."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 863,
+            "rate": 0.033
+          },
+          {
+            "from": 1726,
+            "rate": 0.042
+          },
+          {
+            "from": 2588,
+            "rate": 0.052
+          },
+          {
+            "from": 3450,
+            "rate": 0.06
+          },
+          {
+            "from": 4313,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 1726,
+            "rate": 0.033
+          },
+          {
+            "from": 3450,
+            "rate": 0.042
+          },
+          {
+            "from": 5176,
+            "rate": 0.052
+          },
+          {
+            "from": 6900,
+            "rate": 0.06
+          },
+          {
+            "from": 8626,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6725,
+        "marriedJoint": 11950
+      },
+      "source": "https://files.tax.utah.gov/tax/commission/reports/fy01report.pdf",
+      "notes": "Brackets widened by 2001 S.B. 36 for tax years from 2001 (Tax Commission FY01 report lists the 2001 schedule; 2006 S.B. 4001 shows the same schedule as the law it amended, in force through 2005). Deduction = federal standard deduction + Utah exemption (75% of federal, $2175 each). Half of federal income tax deductible (not modelled)."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 863,
+            "rate": 0.033
+          },
+          {
+            "from": 1726,
+            "rate": 0.042
+          },
+          {
+            "from": 2588,
+            "rate": 0.052
+          },
+          {
+            "from": 3450,
+            "rate": 0.06
+          },
+          {
+            "from": 4313,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 1726,
+            "rate": 0.033
+          },
+          {
+            "from": 3450,
+            "rate": 0.042
+          },
+          {
+            "from": 5176,
+            "rate": 0.052
+          },
+          {
+            "from": 6900,
+            "rate": 0.06
+          },
+          {
+            "from": 8626,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6950,
+        "marriedJoint": 12350
+      },
+      "source": "https://le.utah.gov/~2006S4/bills/sbillenr/sb4001.htm",
+      "notes": "Brackets widened by 2001 S.B. 36 for tax years from 2001 (Tax Commission FY01 report lists the 2001 schedule; 2006 S.B. 4001 shows the same schedule as the law it amended, in force through 2005). Deduction = federal standard deduction + Utah exemption (75% of federal, $2250 each). Half of federal income tax deductible (not modelled)."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 863,
+            "rate": 0.033
+          },
+          {
+            "from": 1726,
+            "rate": 0.042
+          },
+          {
+            "from": 2588,
+            "rate": 0.052
+          },
+          {
+            "from": 3450,
+            "rate": 0.06
+          },
+          {
+            "from": 4313,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 1726,
+            "rate": 0.033
+          },
+          {
+            "from": 3450,
+            "rate": 0.042
+          },
+          {
+            "from": 5176,
+            "rate": 0.052
+          },
+          {
+            "from": 6900,
+            "rate": 0.06
+          },
+          {
+            "from": 8626,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7038,
+        "marriedJoint": 14076
+      },
+      "source": "https://le.utah.gov/~2006S4/bills/sbillenr/sb4001.htm",
+      "notes": "Brackets widened by 2001 S.B. 36 for tax years from 2001 (Tax Commission FY01 report lists the 2001 schedule; 2006 S.B. 4001 shows the same schedule as the law it amended, in force through 2005). Deduction = federal standard deduction + Utah exemption (75% of federal, $2288 each). Half of federal income tax deductible (not modelled)."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 863,
+            "rate": 0.033
+          },
+          {
+            "from": 1726,
+            "rate": 0.042
+          },
+          {
+            "from": 2588,
+            "rate": 0.052
+          },
+          {
+            "from": 3450,
+            "rate": 0.06
+          },
+          {
+            "from": 4313,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 1726,
+            "rate": 0.033
+          },
+          {
+            "from": 3450,
+            "rate": 0.042
+          },
+          {
+            "from": 5176,
+            "rate": 0.052
+          },
+          {
+            "from": 6900,
+            "rate": 0.06
+          },
+          {
+            "from": 8626,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7175,
+        "marriedJoint": 14350
+      },
+      "source": "https://le.utah.gov/~2006S4/bills/sbillenr/sb4001.htm",
+      "notes": "Brackets widened by 2001 S.B. 36 for tax years from 2001 (Tax Commission FY01 report lists the 2001 schedule; 2006 S.B. 4001 shows the same schedule as the law it amended, in force through 2005). Deduction = federal standard deduction + Utah exemption (75% of federal, $2325 each). Half of federal income tax deductible (not modelled)."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 863,
+            "rate": 0.033
+          },
+          {
+            "from": 1726,
+            "rate": 0.042
+          },
+          {
+            "from": 2588,
+            "rate": 0.052
+          },
+          {
+            "from": 3450,
+            "rate": 0.06
+          },
+          {
+            "from": 4313,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 1726,
+            "rate": 0.033
+          },
+          {
+            "from": 3450,
+            "rate": 0.042
+          },
+          {
+            "from": 5176,
+            "rate": 0.052
+          },
+          {
+            "from": 6900,
+            "rate": 0.06
+          },
+          {
+            "from": 8626,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7400,
+        "marriedJoint": 14800
+      },
+      "source": "https://le.utah.gov/~2006S4/bills/sbillenr/sb4001.htm",
+      "notes": "Brackets widened by 2001 S.B. 36 for tax years from 2001 (Tax Commission FY01 report lists the 2001 schedule; 2006 S.B. 4001 shows the same schedule as the law it amended, in force through 2005). Deduction = federal standard deduction + Utah exemption (75% of federal, $2400 each). Half of federal income tax deductible (not modelled)."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 1000,
+            "rate": 0.033
+          },
+          {
+            "from": 2000,
+            "rate": 0.042
+          },
+          {
+            "from": 3000,
+            "rate": 0.052
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5500,
+            "rate": 0.0698
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 2000,
+            "rate": 0.033
+          },
+          {
+            "from": 4000,
+            "rate": 0.042
+          },
+          {
+            "from": 6000,
+            "rate": 0.052
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 11000,
+            "rate": 0.0698
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7625,
+        "marriedJoint": 15250
+      },
+      "source": "https://le.utah.gov/~2006S4/bills/sbillenr/sb4001.htm",
+      "notes": "2006 S.B. 4001 (4th Special Session) brackets and 6.98% top rate for tax years from 2006 (Tax Commission FY07 report confirms the 6.98% top rate over $5,500 single/$11,000 joint for 2006). Deduction = federal standard deduction + Utah exemption (75% of federal, $2475 each). Half of federal income tax deductible (not modelled)."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 1000,
+            "rate": 0.033
+          },
+          {
+            "from": 2000,
+            "rate": 0.042
+          },
+          {
+            "from": 3000,
+            "rate": 0.052
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5500,
+            "rate": 0.0698
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.023
+          },
+          {
+            "from": 2000,
+            "rate": 0.033
+          },
+          {
+            "from": 4000,
+            "rate": 0.042
+          },
+          {
+            "from": 6000,
+            "rate": 0.052
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 11000,
+            "rate": 0.0698
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7900,
+        "marriedJoint": 15800
+      },
+      "source": "https://le.utah.gov/~2006S4/bills/sbillenr/sb4001.htm",
+      "notes": "2006 S.B. 4001 (4th Special Session) brackets and 6.98% top rate for tax years from 2006 (Tax Commission FY07 report confirms the 6.98% top rate over $5,500 single/$11,000 joint for 2006). Deduction = federal standard deduction + Utah exemption (75% of federal, $2550 each). Half of federal income tax deductible (not modelled). For 2007 only, taxpayers could instead elect a 5.35% single-rate tax on adjusted gross income less some deductions (not modelled)."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://files.tax.utah.gov/tax/commission/reports/fy08report.pdf",
+      "notes": "5% single rate (S.B. 223 of 2007, from 2008); Tax Commission history gives 5% through 2017; checked on the 2009 and 2017 TC-40 instructions. Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/UT/2009/tc-40inst.pdf",
+      "notes": "5% single rate (S.B. 223 of 2007, from 2008); Tax Commission history gives 5% through 2017; checked on the 2009 and 2017 TC-40 instructions. Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://files.tax.utah.gov/tax/esu/history/history.pdf",
+      "notes": "5% single rate (S.B. 223 of 2007, from 2008); Tax Commission history gives 5% through 2017; checked on the 2009 and 2017 TC-40 instructions. Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://files.tax.utah.gov/tax/esu/history/history.pdf",
+      "notes": "5% single rate (S.B. 223 of 2007, from 2008); Tax Commission history gives 5% through 2017; checked on the 2009 and 2017 TC-40 instructions. Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/UT/2012/tc-40.pdf",
+      "notes": "5% single rate (S.B. 223 of 2007, from 2008); Tax Commission history gives 5% through 2017; checked on the 2009 and 2017 TC-40 instructions. Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://files.tax.utah.gov/tax/esu/history/history.pdf",
+      "notes": "5% single rate (S.B. 223 of 2007, from 2008); Tax Commission history gives 5% through 2017; checked on the 2009 and 2017 TC-40 instructions. Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://files.tax.utah.gov/tax/esu/history/history.pdf",
+      "notes": "5% single rate (S.B. 223 of 2007, from 2008); Tax Commission history gives 5% through 2017; checked on the 2009 and 2017 TC-40 instructions. Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://files.tax.utah.gov/tax/esu/history/history.pdf",
+      "notes": "5% single rate (S.B. 223 of 2007, from 2008); Tax Commission history gives 5% through 2017; checked on the 2009 and 2017 TC-40 instructions. Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://files.tax.utah.gov/tax/esu/history/history.pdf",
+      "notes": "5% single rate (S.B. 223 of 2007, from 2008); Tax Commission history gives 5% through 2017; checked on the 2009 and 2017 TC-40 instructions. Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.05,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/UT/2017/tc-40inst.pdf",
+      "notes": "5% single rate (S.B. 223 of 2007, from 2008); Tax Commission history gives 5% through 2017; checked on the 2009 and 2017 TC-40 instructions. Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.0495,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/UT/2018/tc-40inst.pdf",
+      "notes": "4.95% (H.B. 293 of 2018) for 2018-2021 per Tax Commission history; checked on the 2018 and 2021 TC-40 instructions. Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out. A Utah personal exemption for dependents feeds the credit (not modelled)."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.0495,
+      "source": "https://files.tax.utah.gov/tax/esu/history/history.pdf",
+      "notes": "4.95% (H.B. 293 of 2018) for 2018-2021 per Tax Commission history; checked on the 2018 and 2021 TC-40 instructions. Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out. A Utah personal exemption for dependents feeds the credit (not modelled)."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.0495,
+      "source": "https://files.tax.utah.gov/tax/esu/history/history.pdf",
+      "notes": "4.95% (H.B. 293 of 2018) for 2018-2021 per Tax Commission history; checked on the 2018 and 2021 TC-40 instructions. Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out. A Utah personal exemption for dependents feeds the credit (not modelled)."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.0495,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/UT/2021/tc-40inst.pdf",
+      "notes": "4.95% (H.B. 293 of 2018) for 2018-2021 per Tax Commission history; checked on the 2018 and 2021 TC-40 instructions. Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out. A Utah personal exemption for dependents feeds the credit (not modelled)."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.0485,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/UT/2022/tc-40inst.pdf",
+      "notes": "4.85% for 2022 (TC-40 instructions; Tax Commission history). Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.0465,
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/UT/2023/tc-40inst.pdf",
+      "notes": "4.65% for 2023 (TC-40 instructions; Tax Commission history). Standard deduction and personal exemptions now work through a nonrefundable taxpayer tax credit (6% of federal standard/itemized deduction plus 75% of exemptions) that phases out with income, so it is left out."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.0455,
+      "source": "https://incometax.utah.gov/paying/tax-rates",
+      "notes": "Rate cut to 4.55% for all of 2024. The standard deduction is a phased-out credit (6% of the federal deduction) and is left out."
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.045,
+      "source": "https://incometax.utah.gov/paying/tax-rates",
+      "notes": "Rate cut to 4.5% from January 2025. The standard deduction is a phased-out credit (6% of the federal deduction) and is left out."
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.0445,
+      "source": "https://files.tax.utah.gov/tax/forms/pubs/pub-14.pdf",
+      "notes": "Rate cut to 4.45% by S.B. 60 (2026). The standard deduction is a phased-out credit (6% of the federal deduction) and is left out."
+    }
+  }
+}

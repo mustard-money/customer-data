@@ -1,0 +1,347 @@
+{
+  "id": "us-local-kansas-city",
+  "kind": "local",
+  "region": "Kansas City, MO",
+  "state": "MO",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.005,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "Kansas City 0.5% on salaries, wages, commissions and other compensation: ACIR Significant Features of Fiscal Federalism 1970-71 ed. (M-57), Table 43 (p. 101, rates at December 31, 1970). The 1972 ed. lists 1.0% at December 31, 1971; the date of the increase is not documented."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "Kansas City 1.0%: ACIR Significant Features of Fiscal Federalism 1972 ed. (M-74), Table 99 (p. 227, rates at December 31, 1971). The 1970-71 ed. lists 0.5% at December 31, 1970, so the increase to 1.0% (the state ceiling) took effect during 1971 on a date not documented; the year-end rate is recorded."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "Carried between the ACIR tables for December 31, 1971 (M-74) and July 1, 1973 (M-79), which both give Kansas City 1.0% (the state ceiling for the city's earnings tax); no document for this year was located and the code history on Municode does not cover amendments before the 1993 code."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "Kansas City 1.0%: ACIR Significant Features of Fiscal Federalism 1973-74 ed. (M-79), Table 150 (p. 293, rates at July 1, 1973)."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Carried between the ACIR tables for July 1, 1973 (M-79) and July 1, 1976, which both give Kansas City 1.0% (the state ceiling for the city's earnings tax); no document for this year was located and the code history on Municode does not cover amendments before the 1993 code."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Carried between the ACIR tables for July 1, 1973 (M-79) and July 1, 1976, which both give Kansas City 1.0% (the state ceiling for the city's earnings tax); no document for this year was located and the code history on Municode does not cover amendments before the 1993 code."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Kansas City 1.0% on salaries, wages, commissions and other compensation: ACIR Significant Features 1976-77 ed. vol. II, Table 116 (rates as of July 1, 1976)."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "Carried between the ACIR tables for 1976 and 1979, which both give Kansas City 1.0% (the state ceiling for the city's earnings tax); no document for this year was located and the code history on Municode does not cover amendments before the 1993 code."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "Carried between the ACIR tables for 1976 and 1979, which both give Kansas City 1.0% (the state ceiling for the city's earnings tax); no document for this year was located and the code history on Municode does not cover amendments before the 1993 code."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "Kansas City 1.0%: ACIR Significant Features 1979-80 ed., Table 88 (rates as of October 1, 1979)."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "Carried between the ACIR tables for 1979 and 1986, which both give Kansas City 1.0% (the state ceiling for the city's earnings tax); no document for this year was located and the code history on Municode does not cover amendments before the 1993 code."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "Carried between the ACIR tables for 1979 and 1986, which both give Kansas City 1.0% (the state ceiling for the city's earnings tax); no document for this year was located and the code history on Municode does not cover amendments before the 1993 code."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "Carried between the ACIR tables for 1979 and 1986, which both give Kansas City 1.0% (the state ceiling for the city's earnings tax); no document for this year was located and the code history on Municode does not cover amendments before the 1993 code."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "Carried between the ACIR tables for 1979 and 1986, which both give Kansas City 1.0% (the state ceiling for the city's earnings tax); no document for this year was located and the code history on Municode does not cover amendments before the 1993 code."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "Carried between the ACIR tables for 1979 and 1986, which both give Kansas City 1.0% (the state ceiling for the city's earnings tax); no document for this year was located and the code history on Municode does not cover amendments before the 1993 code."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "Carried between the ACIR tables for 1979 and 1986, which both give Kansas City 1.0% (the state ceiling for the city's earnings tax); no document for this year was located and the code history on Municode does not cover amendments before the 1993 code."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "Kansas City (Jackson) 1.0% residents and nonresidents: ACIR Significant Features 1987 ed., Table 56 (local income tax rates, 1986)."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1988-Vol-1.pdf",
+      "notes": "Kansas City (Jackson) 1.0% residents and nonresidents: ACIR 1988 ed. vol. 1, Table 20 (1987)."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1990-Vol-1.pdf",
+      "notes": "Carried between the ACIR tables for 1987 and 1989, which both give Kansas City 1.0% (the state ceiling for the city's earnings tax); no document for this year was located and the code history on Municode does not cover amendments before the 1993 code."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1990-Vol-1.pdf",
+      "notes": "Kansas City (Jackson) 1.0% residents and nonresidents: ACIR 1990 ed. vol. 1, Table 21 (1989)."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1992-Vol-1.pdf",
+      "notes": "Carried between the ACIR tables for 1989 and 1991, which both give Kansas City 1.0% (the state ceiling for the city's earnings tax); no document for this year was located and the code history on Municode does not cover amendments before the 1993 code."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1992-Vol-1.pdf",
+      "notes": "Kansas City (Jackson) 1.0% residents and nonresidents: ACIR 1992 ed. vol. 1, Table 24 (November 1991)."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff-1993-vol-1.pdf",
+      "notes": "Kansas City (Jackson) 1.0% residents and nonresidents: ACIR 1993 ed. vol. 1, Table 24 (November 1992)."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1994-Vol-1.pdf",
+      "notes": "Kansas City (Jackson) 1.0% residents and nonresidents: ACIR 1994 ed. vol. 1, Table 22 (November 1993)."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=COORKAMIVOII_CH68TA_ARTVIEAPRTA_S68-382IMTA",
+      "notes": "Code of Ordinances sec. 68-382(a): 1.0% on all earnings of residents and on nonresidents' earnings for services in the city; the section's history (Code of Gen. Ords. 1967, sec. 32.141; Ord. No. 931336, 12-9-93) lists no amendment after December 1993, and the ACIR November 1994 table and the city's 2024 earnings tax page both give 1%. Year-specific forms not located."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.kcmo.gov/city-hall/departments/finance/earnings-tax"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.kcmo.gov/city-hall/departments/finance/earnings-tax"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.kcmo.gov/city-hall/departments/finance/earnings-tax"
+    }
+  }
+}

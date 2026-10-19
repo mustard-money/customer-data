@@ -1,0 +1,216 @@
+{
+  "id": "us-local-multnomah-pfa",
+  "kind": "local",
+  "region": "Multnomah County, OR",
+  "state": "OR",
+  "since": 2021,
+  "years": {
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 125000,
+            "rate": 0.015
+          },
+          {
+            "from": 250000,
+            "rate": 0.03
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 200000,
+            "rate": 0.015
+          },
+          {
+            "from": 400000,
+            "rate": 0.03
+          }
+        ]
+      },
+      "source": "https://www.portland.gov/revenue/personal-tax",
+      "notes": "Multnomah County Preschool for All tax took effect January 1, 2021: 1.5% over $125,000 single / $200,000 joint plus an additional 1.5% over $250,000 / $400,000."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 125000,
+            "rate": 0.015
+          },
+          {
+            "from": 250000,
+            "rate": 0.03
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 200000,
+            "rate": 0.015
+          },
+          {
+            "from": 400000,
+            "rate": 0.03
+          }
+        ]
+      },
+      "source": "https://www.portland.gov/revenue/personal-tax",
+      "notes": "Multnomah County Preschool for All tax took effect January 1, 2021: 1.5% over $125,000 single / $200,000 joint plus an additional 1.5% over $250,000 / $400,000."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 125000,
+            "rate": 0.015
+          },
+          {
+            "from": 250000,
+            "rate": 0.03
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 200000,
+            "rate": 0.015
+          },
+          {
+            "from": 400000,
+            "rate": 0.03
+          }
+        ]
+      },
+      "source": "https://www.portland.gov/revenue/personal-tax",
+      "notes": "Multnomah County Preschool for All tax took effect January 1, 2021: 1.5% over $125,000 single / $200,000 joint plus an additional 1.5% over $250,000 / $400,000."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 125000,
+            "rate": 0.015
+          },
+          {
+            "from": 250000,
+            "rate": 0.03
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 200000,
+            "rate": 0.015
+          },
+          {
+            "from": 400000,
+            "rate": 0.03
+          }
+        ]
+      },
+      "source": "https://www.portland.gov/revenue/personal-tax"
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 125000,
+            "rate": 0.015
+          },
+          {
+            "from": 250000,
+            "rate": 0.03
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 200000,
+            "rate": 0.015
+          },
+          {
+            "from": 400000,
+            "rate": 0.03
+          }
+        ]
+      },
+      "source": "https://www.portland.gov/revenue/personal-tax"
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 125000,
+            "rate": 0.015
+          },
+          {
+            "from": 250000,
+            "rate": 0.03
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 200000,
+            "rate": 0.015
+          },
+          {
+            "from": 400000,
+            "rate": 0.03
+          }
+        ]
+      },
+      "source": "https://www.portland.gov/revenue/personal-tax"
+    }
+  }
+}

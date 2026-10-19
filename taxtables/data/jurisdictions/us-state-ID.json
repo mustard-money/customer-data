@@ -1,0 +1,3919 @@
+{
+  "id": "us-state-ID",
+  "kind": "state",
+  "region": "Idaho",
+  "state": "ID",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 3000,
+            "rate": 0.07
+          },
+          {
+            "from": 4000,
+            "rate": 0.08
+          },
+          {
+            "from": 5000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 6000,
+            "rate": 0.07
+          },
+          {
+            "from": 8000,
+            "rate": 0.08
+          },
+          {
+            "from": 10000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 625,
+        "marriedJoint": 1250
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_vol2_1971.pdf",
+      "notes": "Rates per 63-3024 as amended through SLH 1971 ch. 302 (2.5%-9%). Joint returns (and heads of household) pay twice the tax on half the income. Federal income tax was deductible (63-3022(c)) until 1972. Idaho taxable income is federal taxable income: deduction is the federal personal exemption; the federal percentage standard deduction is not modelled. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 1000,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.06
+          },
+          {
+            "from": 3000,
+            "rate": 0.07
+          },
+          {
+            "from": 4000,
+            "rate": 0.08
+          },
+          {
+            "from": 5000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 6000,
+            "rate": 0.07
+          },
+          {
+            "from": 8000,
+            "rate": 0.08
+          },
+          {
+            "from": 10000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 675,
+        "marriedJoint": 1350
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_vol2_1971.pdf",
+      "notes": "Rates per 63-3024 as amended through SLH 1971 ch. 302 (2.5%-9%). Joint returns (and heads of household) pay twice the tax on half the income. Federal income tax was deductible (63-3022(c)) until 1972. Idaho taxable income is federal taxable income: deduction is the federal personal exemption; the federal percentage standard deduction is not modelled. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1972.pdf",
+      "notes": "Rates per SLH 1972 ch. 398 (taxable years from 1972; restated unchanged through SLH 1986). Joint returns pay twice the tax on half the income. Federal income tax deduction repealed from 1972. Idaho taxable income is federal taxable income: deduction is the federal personal exemption; the federal percentage standard deduction is not modelled. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1972.pdf",
+      "notes": "Rates per SLH 1972 ch. 398 (taxable years from 1972; restated unchanged through SLH 1986). Joint returns pay twice the tax on half the income. Federal income tax deduction repealed from 1972. Idaho taxable income is federal taxable income: deduction is the federal personal exemption; the federal percentage standard deduction is not modelled. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1972.pdf",
+      "notes": "Rates per SLH 1972 ch. 398 (taxable years from 1972; restated unchanged through SLH 1986). Joint returns pay twice the tax on half the income. Federal income tax deduction repealed from 1972. Idaho taxable income is federal taxable income: deduction is the federal personal exemption; the federal percentage standard deduction is not modelled. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1975.pdf",
+      "notes": "Rates per SLH 1972 ch. 398 (taxable years from 1972; restated unchanged through SLH 1986). Joint returns pay twice the tax on half the income. Federal income tax deduction repealed from 1972. Idaho taxable income is federal taxable income: deduction is the federal personal exemption; the federal percentage standard deduction is not modelled. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1975.pdf",
+      "notes": "Rates per SLH 1972 ch. 398 (taxable years from 1972; restated unchanged through SLH 1986). Joint returns pay twice the tax on half the income. Federal income tax deduction repealed from 1972. Idaho taxable income is federal taxable income: deduction is the federal personal exemption; the federal percentage standard deduction is not modelled. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1975.pdf",
+      "notes": "Rates per SLH 1972 ch. 398 (taxable years from 1972; restated unchanged through SLH 1986). Joint returns pay twice the tax on half the income. Federal income tax deduction repealed from 1972. Deduction is the federal exemption; SLH 1977 ch. 84 allowed the standard deduction of IRC secs. 141-144 (amount not modelled). $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2950,
+        "marriedJoint": 4700
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1975.pdf",
+      "notes": "Rates per SLH 1972 ch. 398 (taxable years from 1972; restated unchanged through SLH 1986). Joint returns pay twice the tax on half the income. Federal income tax deduction repealed from 1972. Deduction is the federal zero bracket amount ($2,200 / $3,200, allowed as the standard deduction under 63-3022 from 1978) plus the federal exemption. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3300,
+        "marriedJoint": 5400
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1986.pdf",
+      "notes": "Rates per SLH 1972 ch. 398 (taxable years from 1972; restated unchanged through SLH 1986). Joint returns pay twice the tax on half the income. Federal income tax deduction repealed from 1972. Deduction is the federal zero bracket amount ($2,300 / $3,400, allowed as the standard deduction under 63-3022 from 1978) plus the federal exemption. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3300,
+        "marriedJoint": 5400
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1986.pdf",
+      "notes": "Rates per SLH 1972 ch. 398 (taxable years from 1972; restated unchanged through SLH 1986). Joint returns pay twice the tax on half the income. Federal income tax deduction repealed from 1972. Deduction is the federal zero bracket amount ($2,300 / $3,400, allowed as the standard deduction under 63-3022 from 1978) plus the federal exemption. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3300,
+        "marriedJoint": 5400
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1986.pdf",
+      "notes": "Rates per SLH 1972 ch. 398 (taxable years from 1972; restated unchanged through SLH 1986). Joint returns pay twice the tax on half the income. Federal income tax deduction repealed from 1972. Deduction is the federal zero bracket amount ($2,300 / $3,400, allowed as the standard deduction under 63-3022 from 1978) plus the federal exemption. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3300,
+        "marriedJoint": 5400
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1986.pdf",
+      "notes": "Rates per SLH 1972 ch. 398 (taxable years from 1972; restated unchanged through SLH 1986). Joint returns pay twice the tax on half the income. Federal income tax deduction repealed from 1972. Deduction is the federal zero bracket amount ($2,300 / $3,400, allowed as the standard deduction under 63-3022 from 1978) plus the federal exemption. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3300,
+        "marriedJoint": 5400
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1986.pdf",
+      "notes": "Rates per SLH 1972 ch. 398 (taxable years from 1972; restated unchanged through SLH 1986). Joint returns pay twice the tax on half the income. Federal income tax deduction repealed from 1972. Deduction is the federal zero bracket amount ($2,300 / $3,400, allowed as the standard deduction under 63-3022 from 1978) plus the federal exemption. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3300,
+        "marriedJoint": 5400
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1986.pdf",
+      "notes": "Rates per SLH 1972 ch. 398 (taxable years from 1972; restated unchanged through SLH 1986). Joint returns pay twice the tax on half the income. Federal income tax deduction repealed from 1972. Deduction is the federal zero bracket amount ($2,300 / $3,400, allowed as the standard deduction under 63-3022 from 1978) plus the federal exemption. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3430,
+        "marriedJoint": 5620
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1986.pdf",
+      "notes": "Rates per SLH 1972 ch. 398 (taxable years from 1972; restated unchanged through SLH 1986). Joint returns pay twice the tax on half the income. Federal income tax deduction repealed from 1972. Deduction is the federal zero bracket amount ($2,390 / $3,540, allowed as the standard deduction under 63-3022 from 1978) plus the federal exemption. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3560,
+        "marriedJoint": 5830
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1986.pdf",
+      "notes": "Rates per SLH 1972 ch. 398 (taxable years from 1972; restated unchanged through SLH 1986). Joint returns pay twice the tax on half the income. Federal income tax deduction repealed from 1972. Deduction is the federal zero bracket amount ($2,480 / $3,670, allowed as the standard deduction under 63-3022 from 1978) plus the federal exemption. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          },
+          {
+            "from": 7500,
+            "rate": 0.078
+          },
+          {
+            "from": 20000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 15000,
+            "rate": 0.078
+          },
+          {
+            "from": 40000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4440,
+        "marriedJoint": 7560
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1987.pdf",
+      "notes": "Rates per SLH 1987 ch. 342 (2%-8.2%; restated unchanged in SLH 1992 ch. 11 and SLH 1995 ch. 111). Joint returns pay twice the tax on half the income. Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          },
+          {
+            "from": 7500,
+            "rate": 0.078
+          },
+          {
+            "from": 20000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 15000,
+            "rate": 0.078
+          },
+          {
+            "from": 40000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4950,
+        "marriedJoint": 8900
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1987.pdf",
+      "notes": "Rates per SLH 1987 ch. 342 (2%-8.2%; restated unchanged in SLH 1992 ch. 11 and SLH 1995 ch. 111). Joint returns pay twice the tax on half the income. Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          },
+          {
+            "from": 7500,
+            "rate": 0.078
+          },
+          {
+            "from": 20000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 15000,
+            "rate": 0.078
+          },
+          {
+            "from": 40000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5100,
+        "marriedJoint": 9200
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1987.pdf",
+      "notes": "Rates per SLH 1987 ch. 342 (2%-8.2%; restated unchanged in SLH 1992 ch. 11 and SLH 1995 ch. 111). Joint returns pay twice the tax on half the income. Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          },
+          {
+            "from": 7500,
+            "rate": 0.078
+          },
+          {
+            "from": 20000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 15000,
+            "rate": 0.078
+          },
+          {
+            "from": 40000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5300,
+        "marriedJoint": 9550
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1987.pdf",
+      "notes": "Rates per SLH 1987 ch. 342 (2%-8.2%; restated unchanged in SLH 1992 ch. 11 and SLH 1995 ch. 111). Joint returns pay twice the tax on half the income. Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          },
+          {
+            "from": 7500,
+            "rate": 0.078
+          },
+          {
+            "from": 20000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 15000,
+            "rate": 0.078
+          },
+          {
+            "from": 40000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5550,
+        "marriedJoint": 10000
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1987.pdf",
+      "notes": "Rates per SLH 1987 ch. 342 (2%-8.2%; restated unchanged in SLH 1992 ch. 11 and SLH 1995 ch. 111). Joint returns pay twice the tax on half the income. Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          },
+          {
+            "from": 7500,
+            "rate": 0.078
+          },
+          {
+            "from": 20000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 15000,
+            "rate": 0.078
+          },
+          {
+            "from": 40000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5900,
+        "marriedJoint": 10600
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1987.pdf",
+      "notes": "Rates per SLH 1987 ch. 342 (2%-8.2%; restated unchanged in SLH 1992 ch. 11 and SLH 1995 ch. 111). Joint returns pay twice the tax on half the income. Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          },
+          {
+            "from": 7500,
+            "rate": 0.078
+          },
+          {
+            "from": 20000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 15000,
+            "rate": 0.078
+          },
+          {
+            "from": 40000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6050,
+        "marriedJoint": 10900
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1987.pdf",
+      "notes": "Rates per SLH 1987 ch. 342 (2%-8.2%; restated unchanged in SLH 1992 ch. 11 and SLH 1995 ch. 111). Joint returns pay twice the tax on half the income. Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          },
+          {
+            "from": 7500,
+            "rate": 0.078
+          },
+          {
+            "from": 20000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 15000,
+            "rate": 0.078
+          },
+          {
+            "from": 40000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6250,
+        "marriedJoint": 11250
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_1987.pdf",
+      "notes": "Rates per SLH 1987 ch. 342 (2%-8.2%; restated unchanged in SLH 1992 ch. 11 and SLH 1995 ch. 111). Joint returns pay twice the tax on half the income. Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          },
+          {
+            "from": 7500,
+            "rate": 0.078
+          },
+          {
+            "from": 20000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 15000,
+            "rate": 0.078
+          },
+          {
+            "from": 40000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6400,
+        "marriedJoint": 11550
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_vol1_1995.pdf",
+      "notes": "Rates per SLH 1987 ch. 342 (2%-8.2%; restated unchanged in SLH 1992 ch. 11 and SLH 1995 ch. 111). Joint returns pay twice the tax on half the income. Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          },
+          {
+            "from": 7500,
+            "rate": 0.078
+          },
+          {
+            "from": 20000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 15000,
+            "rate": 0.078
+          },
+          {
+            "from": 40000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6550,
+        "marriedJoint": 11800
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_vol1_1995.pdf",
+      "notes": "Rates per SLH 1987 ch. 342 (2%-8.2%; restated unchanged in SLH 1992 ch. 11 and SLH 1995 ch. 111). Joint returns pay twice the tax on half the income. Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          },
+          {
+            "from": 7500,
+            "rate": 0.078
+          },
+          {
+            "from": 20000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 15000,
+            "rate": 0.078
+          },
+          {
+            "from": 40000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6800,
+        "marriedJoint": 12200
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_vol1_1995.pdf",
+      "notes": "Rates per SLH 1987 ch. 342 (2%-8.2%; restated unchanged in SLH 1992 ch. 11 and SLH 1995 ch. 111). Joint returns pay twice the tax on half the income. Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          },
+          {
+            "from": 7500,
+            "rate": 0.078
+          },
+          {
+            "from": 20000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 15000,
+            "rate": 0.078
+          },
+          {
+            "from": 40000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6950,
+        "marriedJoint": 12500
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_vol1_1995.pdf",
+      "notes": "Rates per SLH 1987 ch. 342 (2%-8.2%; restated unchanged in SLH 1992 ch. 11 and SLH 1995 ch. 111). Joint returns pay twice the tax on half the income. Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.055
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 5000,
+            "rate": 0.075
+          },
+          {
+            "from": 7500,
+            "rate": 0.078
+          },
+          {
+            "from": 20000,
+            "rate": 0.082
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.045
+          },
+          {
+            "from": 6000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 15000,
+            "rate": 0.078
+          },
+          {
+            "from": 40000,
+            "rate": 0.082
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7050,
+        "marriedJoint": 12700
+      },
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessionlaws/sessionlaws_vol1_1995.pdf",
+      "notes": "Rates per SLH 1987 ch. 342 (2%-8.2%; restated unchanged in SLH 1992 ch. 11 and SLH 1995 ch. 111). Joint returns pay twice the tax on half the income. Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.019
+          },
+          {
+            "from": 1022,
+            "rate": 0.039
+          },
+          {
+            "from": 2044,
+            "rate": 0.044
+          },
+          {
+            "from": 3066,
+            "rate": 0.054
+          },
+          {
+            "from": 4088,
+            "rate": 0.064
+          },
+          {
+            "from": 5110,
+            "rate": 0.074
+          },
+          {
+            "from": 7666,
+            "rate": 0.077
+          },
+          {
+            "from": 20442,
+            "rate": 0.081
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.019
+          },
+          {
+            "from": 2044,
+            "rate": 0.039
+          },
+          {
+            "from": 4088,
+            "rate": 0.044
+          },
+          {
+            "from": 6132,
+            "rate": 0.054
+          },
+          {
+            "from": 8176,
+            "rate": 0.064
+          },
+          {
+            "from": 10220,
+            "rate": 0.074
+          },
+          {
+            "from": 15332,
+            "rate": 0.077
+          },
+          {
+            "from": 40884,
+            "rate": 0.081
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7200,
+        "marriedJoint": 12950
+      },
+      "source": "https://adminrules.idaho.gov/rules/2005/35/0101.pdf",
+      "notes": "Idaho State Tax Commission Income Tax Administrative Rules, IDAPA 35.01.01 Rule 075 (Tax on Individuals, Estates and Trusts; Idaho Code 63-3024), table \"For taxable years beginning in 2000\": IAC 2005 (rule text dated 3-20-04), Subsection 075.03.b; rates and brackets are for single individuals or married filing separately, and a joint return (also surviving spouse and head of household) pays twice the tax on half the income, so the joint brackets are double (Subsection 075.02). Brackets indexed for inflation from 2000 (Idaho Code 63-3024(b)); rates 1.6%-7.8% from 2001 (1.9%-8.1% in 2000). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1056,
+            "rate": 0.036
+          },
+          {
+            "from": 2113,
+            "rate": 0.041
+          },
+          {
+            "from": 3169,
+            "rate": 0.051
+          },
+          {
+            "from": 4226,
+            "rate": 0.061
+          },
+          {
+            "from": 5282,
+            "rate": 0.071
+          },
+          {
+            "from": 7923,
+            "rate": 0.074
+          },
+          {
+            "from": 21129,
+            "rate": 0.078
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2112,
+            "rate": 0.036
+          },
+          {
+            "from": 4226,
+            "rate": 0.041
+          },
+          {
+            "from": 6338,
+            "rate": 0.051
+          },
+          {
+            "from": 8452,
+            "rate": 0.061
+          },
+          {
+            "from": 10564,
+            "rate": 0.071
+          },
+          {
+            "from": 15846,
+            "rate": 0.074
+          },
+          {
+            "from": 42258,
+            "rate": 0.078
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7450,
+        "marriedJoint": 13400
+      },
+      "source": "https://adminrules.idaho.gov/rules/2005/35/0101.pdf",
+      "notes": "Idaho State Tax Commission Income Tax Administrative Rules, IDAPA 35.01.01 Rule 075 (Tax on Individuals, Estates and Trusts; Idaho Code 63-3024), table \"For taxable years beginning in 2001\": IAC 2005 (rule text dated 3-20-04), Subsection 075.03.c; rates and brackets are for single individuals or married filing separately, and a joint return (also surviving spouse and head of household) pays twice the tax on half the income, so the joint brackets are double (Subsection 075.02). Brackets indexed for inflation from 2000 (Idaho Code 63-3024(b)); rates 1.6%-7.8% from 2001 (1.9%-8.1% in 2000). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1087,
+            "rate": 0.036
+          },
+          {
+            "from": 2173,
+            "rate": 0.041
+          },
+          {
+            "from": 3260,
+            "rate": 0.051
+          },
+          {
+            "from": 4346,
+            "rate": 0.061
+          },
+          {
+            "from": 5433,
+            "rate": 0.071
+          },
+          {
+            "from": 8149,
+            "rate": 0.074
+          },
+          {
+            "from": 21730,
+            "rate": 0.078
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2174,
+            "rate": 0.036
+          },
+          {
+            "from": 4346,
+            "rate": 0.041
+          },
+          {
+            "from": 6520,
+            "rate": 0.051
+          },
+          {
+            "from": 8692,
+            "rate": 0.061
+          },
+          {
+            "from": 10866,
+            "rate": 0.071
+          },
+          {
+            "from": 16298,
+            "rate": 0.074
+          },
+          {
+            "from": 43460,
+            "rate": 0.078
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7700,
+        "marriedJoint": 13850
+      },
+      "source": "https://adminrules.idaho.gov/rules/2005/35/0101.pdf",
+      "notes": "Idaho State Tax Commission Income Tax Administrative Rules, IDAPA 35.01.01 Rule 075 (Tax on Individuals, Estates and Trusts; Idaho Code 63-3024), table \"For taxable years beginning in 2002\": IAC 2005 (rule text dated 3-20-04), Subsection 075.03.d; rates and brackets are for single individuals or married filing separately, and a joint return (also surviving spouse and head of household) pays twice the tax on half the income, so the joint brackets are double (Subsection 075.02). Brackets indexed for inflation from 2000 (Idaho Code 63-3024(b)); rates 1.6%-7.8% from 2001 (1.9%-8.1% in 2000). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1104,
+            "rate": 0.036
+          },
+          {
+            "from": 2207,
+            "rate": 0.041
+          },
+          {
+            "from": 3311,
+            "rate": 0.051
+          },
+          {
+            "from": 4415,
+            "rate": 0.061
+          },
+          {
+            "from": 5518,
+            "rate": 0.071
+          },
+          {
+            "from": 8278,
+            "rate": 0.074
+          },
+          {
+            "from": 22074,
+            "rate": 0.078
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2208,
+            "rate": 0.036
+          },
+          {
+            "from": 4414,
+            "rate": 0.041
+          },
+          {
+            "from": 6622,
+            "rate": 0.051
+          },
+          {
+            "from": 8830,
+            "rate": 0.061
+          },
+          {
+            "from": 11036,
+            "rate": 0.071
+          },
+          {
+            "from": 16556,
+            "rate": 0.074
+          },
+          {
+            "from": 44148,
+            "rate": 0.078
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7800,
+        "marriedJoint": 15600
+      },
+      "source": "https://adminrules.idaho.gov/rules/2005/35/0101.pdf",
+      "notes": "Idaho State Tax Commission Income Tax Administrative Rules, IDAPA 35.01.01 Rule 075 (Tax on Individuals, Estates and Trusts; Idaho Code 63-3024), table \"For taxable years beginning in 2003\": IAC 2005 (rule text dated 3-20-04), Subsection 075.03.e; rates and brackets are for single individuals or married filing separately, and a joint return (also surviving spouse and head of household) pays twice the tax on half the income, so the joint brackets are double (Subsection 075.02). Brackets indexed for inflation from 2000 (Idaho Code 63-3024(b)); rates 1.6%-7.8% from 2001 (1.9%-8.1% in 2000). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1129,
+            "rate": 0.036
+          },
+          {
+            "from": 2258,
+            "rate": 0.041
+          },
+          {
+            "from": 3387,
+            "rate": 0.051
+          },
+          {
+            "from": 4515,
+            "rate": 0.061
+          },
+          {
+            "from": 5644,
+            "rate": 0.071
+          },
+          {
+            "from": 8466,
+            "rate": 0.074
+          },
+          {
+            "from": 22577,
+            "rate": 0.078
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2258,
+            "rate": 0.036
+          },
+          {
+            "from": 4516,
+            "rate": 0.041
+          },
+          {
+            "from": 6774,
+            "rate": 0.051
+          },
+          {
+            "from": 9030,
+            "rate": 0.061
+          },
+          {
+            "from": 11288,
+            "rate": 0.071
+          },
+          {
+            "from": 16932,
+            "rate": 0.074
+          },
+          {
+            "from": 45154,
+            "rate": 0.078
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7950,
+        "marriedJoint": 15900
+      },
+      "source": "https://adminrules.idaho.gov/rules/2005/35/0101.pdf",
+      "notes": "Idaho State Tax Commission Income Tax Administrative Rules, IDAPA 35.01.01 Rule 075 (Tax on Individuals, Estates and Trusts; Idaho Code 63-3024), table \"For taxable years beginning in 2004\": IAC 2005 (rule text dated 3-20-04), Subsection 075.03.f; rates and brackets are for single individuals or married filing separately, and a joint return (also surviving spouse and head of household) pays twice the tax on half the income, so the joint brackets are double (Subsection 075.02). Brackets indexed for inflation from 2000 (Idaho Code 63-3024(b)); rates 1.6%-7.8% from 2001 (1.9%-8.1% in 2000). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1159,
+            "rate": 0.036
+          },
+          {
+            "from": 2318,
+            "rate": 0.041
+          },
+          {
+            "from": 3477,
+            "rate": 0.051
+          },
+          {
+            "from": 4636,
+            "rate": 0.061
+          },
+          {
+            "from": 5794,
+            "rate": 0.071
+          },
+          {
+            "from": 8692,
+            "rate": 0.074
+          },
+          {
+            "from": 23178,
+            "rate": 0.078
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2318,
+            "rate": 0.036
+          },
+          {
+            "from": 4636,
+            "rate": 0.041
+          },
+          {
+            "from": 6954,
+            "rate": 0.051
+          },
+          {
+            "from": 9272,
+            "rate": 0.061
+          },
+          {
+            "from": 11588,
+            "rate": 0.071
+          },
+          {
+            "from": 17384,
+            "rate": 0.074
+          },
+          {
+            "from": 46356,
+            "rate": 0.078
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8200,
+        "marriedJoint": 16400
+      },
+      "source": "https://adminrules.idaho.gov/rules/2008/35/0101.pdf",
+      "notes": "Idaho State Tax Commission Income Tax Administrative Rules, IDAPA 35.01.01 Rule 075 (Tax on Individuals, Estates and Trusts; Idaho Code 63-3024), table \"For taxable years beginning in 2005\": IAC 2008, Subsection 075.03.g (same table in IAC 2010, 075.03.a); rates and brackets are for single individuals or married filing separately, and a joint return (also surviving spouse and head of household) pays twice the tax on half the income, so the joint brackets are double (Subsection 075.02). Brackets indexed for inflation from 2000 (Idaho Code 63-3024(b)); rates 1.6%-7.8% from 2001 (1.9%-8.1% in 2000). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1198,
+            "rate": 0.036
+          },
+          {
+            "from": 2396,
+            "rate": 0.041
+          },
+          {
+            "from": 3594,
+            "rate": 0.051
+          },
+          {
+            "from": 4793,
+            "rate": 0.061
+          },
+          {
+            "from": 5991,
+            "rate": 0.071
+          },
+          {
+            "from": 8986,
+            "rate": 0.074
+          },
+          {
+            "from": 23963,
+            "rate": 0.078
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2396,
+            "rate": 0.036
+          },
+          {
+            "from": 4792,
+            "rate": 0.041
+          },
+          {
+            "from": 7188,
+            "rate": 0.051
+          },
+          {
+            "from": 9586,
+            "rate": 0.061
+          },
+          {
+            "from": 11982,
+            "rate": 0.071
+          },
+          {
+            "from": 17972,
+            "rate": 0.074
+          },
+          {
+            "from": 47926,
+            "rate": 0.078
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8450,
+        "marriedJoint": 16900
+      },
+      "source": "https://adminrules.idaho.gov/rules/2008/35/0101.pdf",
+      "notes": "Idaho State Tax Commission Income Tax Administrative Rules, IDAPA 35.01.01 Rule 075 (Tax on Individuals, Estates and Trusts; Idaho Code 63-3024), table \"For taxable years beginning in 2006\": IAC 2008, Subsection 075.03.h (same table in IAC 2010, 075.03.b); rates and brackets are for single individuals or married filing separately, and a joint return (also surviving spouse and head of household) pays twice the tax on half the income, so the joint brackets are double (Subsection 075.02). Brackets \"as calculated on June 7, 2006\". Brackets indexed for inflation from 2000 (Idaho Code 63-3024(b)); rates 1.6%-7.8% from 2001 (1.9%-8.1% in 2000). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1237,
+            "rate": 0.036
+          },
+          {
+            "from": 2474,
+            "rate": 0.041
+          },
+          {
+            "from": 3710,
+            "rate": 0.051
+          },
+          {
+            "from": 4947,
+            "rate": 0.061
+          },
+          {
+            "from": 6184,
+            "rate": 0.071
+          },
+          {
+            "from": 9276,
+            "rate": 0.074
+          },
+          {
+            "from": 24736,
+            "rate": 0.078
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2474,
+            "rate": 0.036
+          },
+          {
+            "from": 4948,
+            "rate": 0.041
+          },
+          {
+            "from": 7420,
+            "rate": 0.051
+          },
+          {
+            "from": 9894,
+            "rate": 0.061
+          },
+          {
+            "from": 12368,
+            "rate": 0.071
+          },
+          {
+            "from": 18552,
+            "rate": 0.074
+          },
+          {
+            "from": 49472,
+            "rate": 0.078
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8750,
+        "marriedJoint": 17500
+      },
+      "source": "https://adminrules.idaho.gov/rules/2010/35/0101.pdf",
+      "notes": "Idaho State Tax Commission Income Tax Administrative Rules, IDAPA 35.01.01 Rule 075 (Tax on Individuals, Estates and Trusts; Idaho Code 63-3024), table \"For taxable years beginning in 2007\": IAC 2010, Subsection 075.03.c (same table in IAC 2008, 075.03.i); rates and brackets are for single individuals or married filing separately, and a joint return (also surviving spouse and head of household) pays twice the tax on half the income, so the joint brackets are double (Subsection 075.02). Brackets \"as calculated on May 17, 2007\". Brackets indexed for inflation from 2000 (Idaho Code 63-3024(b)); rates 1.6%-7.8% from 2001 (1.9%-8.1% in 2000). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1272,
+            "rate": 0.036
+          },
+          {
+            "from": 2544,
+            "rate": 0.041
+          },
+          {
+            "from": 3816,
+            "rate": 0.051
+          },
+          {
+            "from": 5088,
+            "rate": 0.061
+          },
+          {
+            "from": 6360,
+            "rate": 0.071
+          },
+          {
+            "from": 9540,
+            "rate": 0.074
+          },
+          {
+            "from": 25441,
+            "rate": 0.078
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2544,
+            "rate": 0.036
+          },
+          {
+            "from": 5088,
+            "rate": 0.041
+          },
+          {
+            "from": 7632,
+            "rate": 0.051
+          },
+          {
+            "from": 10176,
+            "rate": 0.061
+          },
+          {
+            "from": 12720,
+            "rate": 0.071
+          },
+          {
+            "from": 19080,
+            "rate": 0.074
+          },
+          {
+            "from": 50882,
+            "rate": 0.078
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8950,
+        "marriedJoint": 17900
+      },
+      "source": "https://adminrules.idaho.gov/rules/2010/35/0101.pdf",
+      "notes": "Idaho State Tax Commission Income Tax Administrative Rules, IDAPA 35.01.01 Rule 075 (Tax on Individuals, Estates and Trusts; Idaho Code 63-3024), table \"For taxable years beginning in 2008\": IAC 2010, Subsection 075.03.d; rates and brackets are for single individuals or married filing separately, and a joint return (also surviving spouse and head of household) pays twice the tax on half the income, so the joint brackets are double (Subsection 075.02). Brackets \"as calculated on March 12, 2008\". Brackets indexed for inflation from 2000 (Idaho Code 63-3024(b)); rates 1.6%-7.8% from 2001 (1.9%-8.1% in 2000). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1321,
+            "rate": 0.036
+          },
+          {
+            "from": 2642,
+            "rate": 0.041
+          },
+          {
+            "from": 3963,
+            "rate": 0.051
+          },
+          {
+            "from": 5284,
+            "rate": 0.061
+          },
+          {
+            "from": 6604,
+            "rate": 0.071
+          },
+          {
+            "from": 9907,
+            "rate": 0.074
+          },
+          {
+            "from": 26418,
+            "rate": 0.078
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2642,
+            "rate": 0.036
+          },
+          {
+            "from": 5284,
+            "rate": 0.041
+          },
+          {
+            "from": 7926,
+            "rate": 0.051
+          },
+          {
+            "from": 10568,
+            "rate": 0.061
+          },
+          {
+            "from": 13208,
+            "rate": 0.071
+          },
+          {
+            "from": 19814,
+            "rate": 0.074
+          },
+          {
+            "from": 52836,
+            "rate": 0.078
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "source": "https://adminrules.idaho.gov/rules/2010/35/0101.pdf",
+      "notes": "Idaho State Tax Commission Income Tax Administrative Rules, IDAPA 35.01.01 Rule 075 (Tax on Individuals, Estates and Trusts; Idaho Code 63-3024), table \"For taxable years beginning in 2009\": IAC 2010, Subsection 075.03.e; rates and brackets are for single individuals or married filing separately, and a joint return (also surviving spouse and head of household) pays twice the tax on half the income, so the joint brackets are double (Subsection 075.02). Brackets \"as calculated on April 28, 2009\". Brackets indexed for inflation from 2000 (Idaho Code 63-3024(b)); rates 1.6%-7.8% from 2001 (1.9%-8.1% in 2000). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1316,
+            "rate": 0.036
+          },
+          {
+            "from": 2632,
+            "rate": 0.041
+          },
+          {
+            "from": 3948,
+            "rate": 0.051
+          },
+          {
+            "from": 5264,
+            "rate": 0.061
+          },
+          {
+            "from": 6580,
+            "rate": 0.071
+          },
+          {
+            "from": 9870,
+            "rate": 0.074
+          },
+          {
+            "from": 26320,
+            "rate": 0.078
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2632,
+            "rate": 0.036
+          },
+          {
+            "from": 5264,
+            "rate": 0.041
+          },
+          {
+            "from": 7896,
+            "rate": 0.051
+          },
+          {
+            "from": 10528,
+            "rate": 0.061
+          },
+          {
+            "from": 13160,
+            "rate": 0.071
+          },
+          {
+            "from": 19740,
+            "rate": 0.074
+          },
+          {
+            "from": 52640,
+            "rate": 0.078
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "source": "https://web.archive.org/web/20101110010622/http://tax.idaho.gov/i-1110.cfm",
+      "notes": "Tax Commission 2010 rate schedule (inflation index 1.316; Wayback copy of tax.idaho.gov/i-1110.cfm); joint brackets double. The 2010 Form 40 instruction booklet's rate schedule for $100,000+ ($7,466 single / $7,134 joint plus 7.8%) is within $2 of this schedule. Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1338,
+            "rate": 0.036
+          },
+          {
+            "from": 2676,
+            "rate": 0.041
+          },
+          {
+            "from": 4014,
+            "rate": 0.051
+          },
+          {
+            "from": 5352,
+            "rate": 0.061
+          },
+          {
+            "from": 6690,
+            "rate": 0.071
+          },
+          {
+            "from": 10035,
+            "rate": 0.074
+          },
+          {
+            "from": 26760,
+            "rate": 0.078
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2676,
+            "rate": 0.036
+          },
+          {
+            "from": 5352,
+            "rate": 0.041
+          },
+          {
+            "from": 8028,
+            "rate": 0.051
+          },
+          {
+            "from": 10704,
+            "rate": 0.061
+          },
+          {
+            "from": 13380,
+            "rate": 0.071
+          },
+          {
+            "from": 20070,
+            "rate": 0.074
+          },
+          {
+            "from": 53520,
+            "rate": 0.078
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9500,
+        "marriedJoint": 19000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ID/2011/Income%20Tax%20Rate%20Schedule%20%20%20Idaho%20State%20Tax%20Commission.pdf",
+      "notes": "Tax Commission 2011 rate schedule (inflation index 1.338); joint brackets double. Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1380,
+            "rate": 0.036
+          },
+          {
+            "from": 2760,
+            "rate": 0.041
+          },
+          {
+            "from": 4140,
+            "rate": 0.051
+          },
+          {
+            "from": 5520,
+            "rate": 0.061
+          },
+          {
+            "from": 6900,
+            "rate": 0.071
+          },
+          {
+            "from": 10350,
+            "rate": 0.074
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2760,
+            "rate": 0.036
+          },
+          {
+            "from": 5520,
+            "rate": 0.041
+          },
+          {
+            "from": 8280,
+            "rate": 0.051
+          },
+          {
+            "from": 11040,
+            "rate": 0.061
+          },
+          {
+            "from": 13800,
+            "rate": 0.071
+          },
+          {
+            "from": 20700,
+            "rate": 0.074
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9750,
+        "marriedJoint": 19500
+      },
+      "source": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
+      "notes": "Tax Commission rate schedule (bracket thresholds indexed). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1409,
+            "rate": 0.036
+          },
+          {
+            "from": 2818,
+            "rate": 0.041
+          },
+          {
+            "from": 4227,
+            "rate": 0.051
+          },
+          {
+            "from": 5636,
+            "rate": 0.061
+          },
+          {
+            "from": 7045,
+            "rate": 0.071
+          },
+          {
+            "from": 10568,
+            "rate": 0.074
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2818,
+            "rate": 0.036
+          },
+          {
+            "from": 5636,
+            "rate": 0.041
+          },
+          {
+            "from": 8454,
+            "rate": 0.051
+          },
+          {
+            "from": 11272,
+            "rate": 0.061
+          },
+          {
+            "from": 14090,
+            "rate": 0.071
+          },
+          {
+            "from": 21136,
+            "rate": 0.074
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10000,
+        "marriedJoint": 20000
+      },
+      "source": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
+      "notes": "Tax Commission rate schedule (bracket thresholds indexed). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1429,
+            "rate": 0.036
+          },
+          {
+            "from": 2858,
+            "rate": 0.041
+          },
+          {
+            "from": 4287,
+            "rate": 0.051
+          },
+          {
+            "from": 5716,
+            "rate": 0.061
+          },
+          {
+            "from": 7145,
+            "rate": 0.071
+          },
+          {
+            "from": 10718,
+            "rate": 0.074
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2858,
+            "rate": 0.036
+          },
+          {
+            "from": 5716,
+            "rate": 0.041
+          },
+          {
+            "from": 8574,
+            "rate": 0.051
+          },
+          {
+            "from": 11432,
+            "rate": 0.061
+          },
+          {
+            "from": 14290,
+            "rate": 0.071
+          },
+          {
+            "from": 21436,
+            "rate": 0.074
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10150,
+        "marriedJoint": 20300
+      },
+      "source": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
+      "notes": "Tax Commission rate schedule (bracket thresholds indexed). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1452,
+            "rate": 0.036
+          },
+          {
+            "from": 2904,
+            "rate": 0.041
+          },
+          {
+            "from": 4356,
+            "rate": 0.051
+          },
+          {
+            "from": 5808,
+            "rate": 0.061
+          },
+          {
+            "from": 7260,
+            "rate": 0.071
+          },
+          {
+            "from": 10890,
+            "rate": 0.074
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2904,
+            "rate": 0.036
+          },
+          {
+            "from": 5808,
+            "rate": 0.041
+          },
+          {
+            "from": 8712,
+            "rate": 0.051
+          },
+          {
+            "from": 11616,
+            "rate": 0.061
+          },
+          {
+            "from": 14520,
+            "rate": 0.071
+          },
+          {
+            "from": 21780,
+            "rate": 0.074
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10300,
+        "marriedJoint": 20600
+      },
+      "source": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
+      "notes": "Tax Commission rate schedule (bracket thresholds indexed). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1454,
+            "rate": 0.036
+          },
+          {
+            "from": 2908,
+            "rate": 0.041
+          },
+          {
+            "from": 4362,
+            "rate": 0.051
+          },
+          {
+            "from": 5816,
+            "rate": 0.061
+          },
+          {
+            "from": 7270,
+            "rate": 0.071
+          },
+          {
+            "from": 10905,
+            "rate": 0.074
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2908,
+            "rate": 0.036
+          },
+          {
+            "from": 5816,
+            "rate": 0.041
+          },
+          {
+            "from": 8724,
+            "rate": 0.051
+          },
+          {
+            "from": 11632,
+            "rate": 0.061
+          },
+          {
+            "from": 14540,
+            "rate": 0.071
+          },
+          {
+            "from": 21810,
+            "rate": 0.074
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10350,
+        "marriedJoint": 20700
+      },
+      "source": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
+      "notes": "Tax Commission rate schedule (bracket thresholds indexed). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 1472,
+            "rate": 0.036
+          },
+          {
+            "from": 2945,
+            "rate": 0.041
+          },
+          {
+            "from": 4417,
+            "rate": 0.051
+          },
+          {
+            "from": 5890,
+            "rate": 0.061
+          },
+          {
+            "from": 7362,
+            "rate": 0.071
+          },
+          {
+            "from": 11043,
+            "rate": 0.074
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2944,
+            "rate": 0.036
+          },
+          {
+            "from": 5890,
+            "rate": 0.041
+          },
+          {
+            "from": 8834,
+            "rate": 0.051
+          },
+          {
+            "from": 11780,
+            "rate": 0.061
+          },
+          {
+            "from": 14724,
+            "rate": 0.071
+          },
+          {
+            "from": 22086,
+            "rate": 0.074
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10400,
+        "marriedJoint": 20800
+      },
+      "source": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
+      "notes": "Tax Commission rate schedule (bracket thresholds indexed). Idaho uses federal taxable income: deduction is the federal standard deduction plus personal exemptions for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01125
+          },
+          {
+            "from": 1504,
+            "rate": 0.03125
+          },
+          {
+            "from": 3008,
+            "rate": 0.03625
+          },
+          {
+            "from": 4511,
+            "rate": 0.04625
+          },
+          {
+            "from": 6015,
+            "rate": 0.05625
+          },
+          {
+            "from": 7519,
+            "rate": 0.06625
+          },
+          {
+            "from": 11279,
+            "rate": 0.06925
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01125
+          },
+          {
+            "from": 3008,
+            "rate": 0.03125
+          },
+          {
+            "from": 6016,
+            "rate": 0.03625
+          },
+          {
+            "from": 9022,
+            "rate": 0.04625
+          },
+          {
+            "from": 12030,
+            "rate": 0.05625
+          },
+          {
+            "from": 15038,
+            "rate": 0.06625
+          },
+          {
+            "from": 22558,
+            "rate": 0.06925
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12000,
+        "marriedJoint": 24000
+      },
+      "source": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
+      "notes": "Tax Commission rate schedule (bracket thresholds indexed). Idaho uses federal taxable income: deduction is the federal standard deduction (no personal exemptions from 2018) for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01125
+          },
+          {
+            "from": 1541,
+            "rate": 0.03125
+          },
+          {
+            "from": 3081,
+            "rate": 0.03625
+          },
+          {
+            "from": 4622,
+            "rate": 0.04625
+          },
+          {
+            "from": 6162,
+            "rate": 0.05625
+          },
+          {
+            "from": 7703,
+            "rate": 0.06625
+          },
+          {
+            "from": 11554,
+            "rate": 0.06925
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01125
+          },
+          {
+            "from": 3082,
+            "rate": 0.03125
+          },
+          {
+            "from": 6162,
+            "rate": 0.03625
+          },
+          {
+            "from": 9244,
+            "rate": 0.04625
+          },
+          {
+            "from": 12324,
+            "rate": 0.05625
+          },
+          {
+            "from": 15406,
+            "rate": 0.06625
+          },
+          {
+            "from": 23108,
+            "rate": 0.06925
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12200,
+        "marriedJoint": 24400
+      },
+      "source": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
+      "notes": "Tax Commission rate schedule (bracket thresholds indexed). Idaho uses federal taxable income: deduction is the federal standard deduction (no personal exemptions from 2018) for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01125
+          },
+          {
+            "from": 1568,
+            "rate": 0.03125
+          },
+          {
+            "from": 3136,
+            "rate": 0.03625
+          },
+          {
+            "from": 4704,
+            "rate": 0.04625
+          },
+          {
+            "from": 6272,
+            "rate": 0.05625
+          },
+          {
+            "from": 7840,
+            "rate": 0.06625
+          },
+          {
+            "from": 11760,
+            "rate": 0.06925
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01125
+          },
+          {
+            "from": 3136,
+            "rate": 0.03125
+          },
+          {
+            "from": 6272,
+            "rate": 0.03625
+          },
+          {
+            "from": 9408,
+            "rate": 0.04625
+          },
+          {
+            "from": 12544,
+            "rate": 0.05625
+          },
+          {
+            "from": 15680,
+            "rate": 0.06625
+          },
+          {
+            "from": 23520,
+            "rate": 0.06925
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12400,
+        "marriedJoint": 24800
+      },
+      "source": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
+      "notes": "Tax Commission rate schedule (bracket thresholds indexed). Idaho uses federal taxable income: deduction is the federal standard deduction (no personal exemptions from 2018) for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1588,
+            "rate": 0.031
+          },
+          {
+            "from": 4763,
+            "rate": 0.045
+          },
+          {
+            "from": 6351,
+            "rate": 0.055
+          },
+          {
+            "from": 7939,
+            "rate": 0.065
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3176,
+            "rate": 0.031
+          },
+          {
+            "from": 9526,
+            "rate": 0.045
+          },
+          {
+            "from": 12702,
+            "rate": 0.055
+          },
+          {
+            "from": 15878,
+            "rate": 0.065
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12550,
+        "marriedJoint": 25100
+      },
+      "source": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
+      "notes": "Tax Commission rate schedule (bracket thresholds indexed). Idaho uses federal taxable income: deduction is the federal standard deduction (no personal exemptions from 2018) for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1662,
+            "rate": 0.03
+          },
+          {
+            "from": 4987,
+            "rate": 0.045
+          },
+          {
+            "from": 8311,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3324,
+            "rate": 0.03
+          },
+          {
+            "from": 9974,
+            "rate": 0.045
+          },
+          {
+            "from": 16622,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12950,
+        "marriedJoint": 25900
+      },
+      "source": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
+      "notes": "Tax Commission rate schedule (bracket thresholds indexed). Idaho uses federal taxable income: deduction is the federal standard deduction (no personal exemptions from 2018) for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 4489,
+            "rate": 0.058
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 8978,
+            "rate": 0.058
+          }
+        ]
+      },
+      "deduction": {
+        "single": 13850,
+        "marriedJoint": 27700
+      },
+      "source": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
+      "notes": "Flat 5.8% above the first $4,489 ($8,978 joint), per the Tax Commission rate schedule. Idaho uses federal taxable income: deduction is the federal standard deduction (no personal exemptions from 2018) for the year. $10 permanent building fund tax per return and grocery credit not modelled."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 4673,
+            "rate": 0.05695
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 9346,
+            "rate": 0.05695
+          }
+        ]
+      },
+      "deduction": {
+        "single": 14600,
+        "marriedJoint": 29200
+      },
+      "source": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
+      "notes": "Rate cut to 5.695% for all of 2024. Idaho uses the federal standard deduction."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 4811,
+            "rate": 0.053
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 9622,
+            "rate": 0.053
+          }
+        ]
+      },
+      "deduction": {
+        "single": 15750,
+        "marriedJoint": 31500
+      },
+      "source": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
+      "notes": "Rate cut to 5.3% effective January 2025. Idaho conforms to the federal standard deduction as amended by the One Big Beautiful Bill Act."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 4811,
+            "rate": 0.053
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 9622,
+            "rate": 0.053
+          }
+        ]
+      },
+      "deduction": {
+        "single": 15750,
+        "marriedJoint": 31500
+      },
+      "source": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
+      "notes": "The 2026 zero-rate threshold isn't published yet, so this is 2025 throughout, including the 2025 federal standard deduction Idaho conforms to."
+    }
+  }
+}

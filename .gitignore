@@ -1,0 +1,18 @@
+# Binaries
+/bin/
+/customer-data
+*.exe
+*.test
+*.out
+
+# Local env
+.env
+.env.*
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Local database dumps (db-dump.sh): customer data, password hashes, sessions
+/db/dumps/

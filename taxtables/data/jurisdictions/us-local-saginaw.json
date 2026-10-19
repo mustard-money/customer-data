@@ -1,0 +1,347 @@
+{
+  "id": "us-local-saginaw",
+  "kind": "local",
+  "region": "Saginaw",
+  "state": "MI",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1965 (HFA 2007 table). Statutory 1% rate; Saginaw was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/saginaw/latest/saginaw_mi/0-0-0-1386",
+      "notes": "1% on residents / 0.5% on nonresidents through June 30, 1989 and 1.5% / 0.75% on income earned on and after July 1, 1989 (Saginaw Code sec. 33.04, Ord. D-1582, passed 2-13-1989, effective 7-1-1989, under MCL 141.503c). Recorded at the year-end rate."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/saginaw/latest/saginaw_mi/0-0-0-1386",
+      "notes": "1.5% on residents / 0.75% on nonresidents since July 1, 1989 (Saginaw Code sec. 33.04, Ord. D-1582, effective 7-1-1989; no later amendment in the section history); the Senate Fiscal Agency (Nov. 1995) and ACIR tables for Nov. 1992-1994 list Saginaw at 1.5%."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/saginaw/latest/saginaw_mi/0-0-0-1386",
+      "notes": "1.5% on residents / 0.75% on nonresidents since July 1, 1989 (Saginaw Code sec. 33.04, Ord. D-1582, effective 7-1-1989; no later amendment in the section history); the Senate Fiscal Agency (Nov. 1995) and ACIR tables for Nov. 1992-1994 list Saginaw at 1.5%."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/saginaw/latest/saginaw_mi/0-0-0-1386",
+      "notes": "1.5% on residents / 0.75% on nonresidents since July 1, 1989 (Saginaw Code sec. 33.04, Ord. D-1582, effective 7-1-1989; no later amendment in the section history); the Senate Fiscal Agency (Nov. 1995) and ACIR tables for Nov. 1992-1994 list Saginaw at 1.5%."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/saginaw/latest/saginaw_mi/0-0-0-1386",
+      "notes": "1.5% on residents / 0.75% on nonresidents since July 1, 1989 (Saginaw Code sec. 33.04, Ord. D-1582, effective 7-1-1989; no later amendment in the section history); the Senate Fiscal Agency (Nov. 1995) and ACIR tables for Nov. 1992-1994 list Saginaw at 1.5%."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/saginaw/latest/saginaw_mi/0-0-0-1386",
+      "notes": "1.5% on residents / 0.75% on nonresidents since July 1, 1989 (Saginaw Code sec. 33.04, Ord. D-1582, effective 7-1-1989; no later amendment in the section history); the Senate Fiscal Agency (Nov. 1995) and ACIR tables for Nov. 1992-1994 list Saginaw at 1.5%."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.legislature.mi.gov/documents/1995-1996/billanalysis/Senate/pdf/1995-SFA-4587-A.pdf",
+      "notes": "1.5% residents / 0.75% nonresidents (Senate Fiscal Agency, Nov. 1995)."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "1.5% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "1.5% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "1.5% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "1.5% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "1.5% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "1.5% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "1.5% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "1.5% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "1.5% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "1.5% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "1.5% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "1.5% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax",
+      "notes": "1.5% in 2007 (House Fiscal Agency table) and currently (city Income Tax page); year-specific forms were not checked."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.saginaw-mi.com/416/Income-Tax"
+    }
+  }
+}

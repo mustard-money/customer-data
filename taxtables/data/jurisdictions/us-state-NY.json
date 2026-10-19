@@ -1,0 +1,3721 @@
+{
+  "id": "us-state-NY",
+  "kind": "state",
+  "region": "New York",
+  "state": "NY",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.1
+          },
+          {
+            "from": 17000,
+            "rate": 0.11
+          },
+          {
+            "from": 19000,
+            "rate": 0.12
+          },
+          {
+            "from": 21000,
+            "rate": 0.13
+          },
+          {
+            "from": 23000,
+            "rate": 0.14
+          }
+        ]
+      },
+      "source": "https://babel.hathitrust.org/cgi/pt?id=uc1.b4378127&seq=972",
+      "notes": "Laws of New York 1968, ch. 246 (HathiTrust uc1.b4378127, full view, seq 972-973) rewrote Tax Law s. 602 with a schedule for taxable years beginning on and after January 1, 1968: 2% of the first $1,000 rising by 1% per $2,000 bracket to 14% over $23,000 (each bracket's base amount checked against the rates). Laws 1970, ch. 1005 (uc1.b4378132, seq 1499-1503) raised the standard deduction and added s. 602(d), the 3% minimum tax, without changing the rates, and the 1977 act cited below lists ch. 246 of 1968 and ch. 1 of 1972 as the only earlier amendments of s. 602. ACIR Significant Features of Fiscal Federalism 1970-71 ed. (M-57), Table 36, rates as of December 31, 1970 (p. 79) prints the same 2%-14% schedule (14% over $23,000). The New York Department of Taxation and Finance's 1995 study 'Progressive Improvement' (Table 1) gives 15% over $25,000 for this year; the statute and ACIR show that bracket began with taxable years ending after December 31, 1971 (Laws 1972, ch. 1, as shown in the prior-law text of Laws 1977, ch. 70), so the study was not followed. No joint schedule: spouses were taxed separately on this schedule, as in this file's later entries. No deduction recorded, as in this file's other years (personal exemptions and an income-based standard deduction applied). Not modelled: the household credit, the minimum tax on tax preference items, and the no-tax threshold for low New York adjusted gross income. "
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.1
+          },
+          {
+            "from": 17000,
+            "rate": 0.11
+          },
+          {
+            "from": 19000,
+            "rate": 0.12
+          },
+          {
+            "from": 21000,
+            "rate": 0.13
+          },
+          {
+            "from": 23000,
+            "rate": 0.14
+          }
+        ]
+      },
+      "source": "https://babel.hathitrust.org/cgi/pt?id=uc1.b4378127&seq=972",
+      "notes": "Laws of New York 1968, ch. 246 (HathiTrust uc1.b4378127, full view, seq 972-973) rewrote Tax Law s. 602 with a schedule for taxable years beginning on and after January 1, 1968: 2% of the first $1,000 rising by 1% per $2,000 bracket to 14% over $23,000 (each bracket's base amount checked against the rates). Laws 1970, ch. 1005 (uc1.b4378132, seq 1499-1503) raised the standard deduction and added s. 602(d), the 3% minimum tax, without changing the rates, and the 1977 act cited below lists ch. 246 of 1968 and ch. 1 of 1972 as the only earlier amendments of s. 602. ACIR Significant Features of Fiscal Federalism 1971-72 ed. (M-74), Table 91, rates as of December 31, 1971 (p. 205) prints the same 2%-14% schedule (14% over $23,000). The New York Department of Taxation and Finance's 1995 study 'Progressive Improvement' (Table 1) gives 15% over $25,000 for this year; the statute and ACIR show that bracket began with taxable years ending after December 31, 1971 (Laws 1972, ch. 1, as shown in the prior-law text of Laws 1977, ch. 70), so the study was not followed. No joint schedule: spouses were taxed separately on this schedule, as in this file's later entries. No deduction recorded, as in this file's other years (personal exemptions and an income-based standard deduction applied). Not modelled: the household credit, the minimum tax on tax preference items, and the no-tax threshold for low New York adjusted gross income. "
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.1
+          },
+          {
+            "from": 17000,
+            "rate": 0.11
+          },
+          {
+            "from": 19000,
+            "rate": 0.12
+          },
+          {
+            "from": 21000,
+            "rate": 0.13
+          },
+          {
+            "from": 23000,
+            "rate": 0.14
+          },
+          {
+            "from": 25000,
+            "rate": 0.15
+          }
+        ]
+      },
+      "source": "https://babel.hathitrust.org/cgi/pt?id=nyp.33433057658126&seq=918",
+      "notes": "Laws of New York 1977, ch. 70 (Sess. 200, v. 1; HathiTrust nyp.33433057658126, full view, seq 918-919), which shows the prior text of Tax Law s. 602 with its deletions in brackets: subsection (b), as amended by Laws 1972, ch. 1 and applying to taxable years ending after December 31, 1971, taxed 2% of the first $1,000 rising to 14% over $23,000 and 15% over $25,000 ($2,060 plus 15% of the excess); ch. 70 rewrote subsection (a) to apply that schedule to taxable years beginning on and after January 1, 1971 through those ending in 1977, and moved the 15% bracket to over $30,000 in (b) for taxable years ending after December 31, 1977. So 1972 has the 2%-15% schedule (15% over $25,000), the one ACIR prints for July 1, 1973 (this file's 1973 entry). Laws 1972, ch. 1 itself is in a search-only volume. No joint schedule: spouses were taxed separately on this schedule, as in this file's later entries. No deduction recorded, as in this file's other years (personal exemptions and an income-based standard deduction applied). Not modelled: the household credit, the minimum tax on tax preference items, and the no-tax threshold for low New York adjusted gross income. The 2.5% surcharge on tax for 1972 (DTF 'Progressive Improvement' study, Table 1 note b) is not modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.1
+          },
+          {
+            "from": 17000,
+            "rate": 0.11
+          },
+          {
+            "from": 19000,
+            "rate": 0.12
+          },
+          {
+            "from": 21000,
+            "rate": 0.13
+          },
+          {
+            "from": 23000,
+            "rate": 0.14
+          },
+          {
+            "from": 25000,
+            "rate": 0.15
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1973-74 ed. (M-79), Table 141 (State Individual Income Taxes: Rates, July 1, 1973), Table 142 (personal exemptions) and Table 143 (standard deduction). Full statutory 2%-15% schedule as printed (identical to this file's 1976 entry). No joint schedule printed; as in this file's 1976 and 1978 entries, spouses were taxed separately on this schedule. No deduction recorded (as in the 1976 entry): Table 142 gives a $650 personal exemption ($1,300 married) and Table 143 a 15% standard deduction, max $2,000, with a low-income allowance. Not modelled: credit (full credit if tax is $100 or less, $200 minus tax if $100-$200); 6% minimum tax on NY minimum taxable income; no tax if NYAGI is $2,500 or less ($5,000 married, head of household or surviving spouse). The 2.5% surcharge was suspended for 1973 and 1974 (NY DTF 'Progressive Improvement' study, Table 1 note b; the ACIR table says it resumes 1/1/74)."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.1
+          },
+          {
+            "from": 17000,
+            "rate": 0.11
+          },
+          {
+            "from": 19000,
+            "rate": 0.12
+          },
+          {
+            "from": 21000,
+            "rate": 0.13
+          },
+          {
+            "from": 23000,
+            "rate": 0.14
+          },
+          {
+            "from": 25000,
+            "rate": 0.15
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1973-74 ed. (M-79), Table 141 (State Individual Income Taxes: Rates, July 1, 1973), Table 142 (personal exemptions) and Table 143 (standard deduction): full statutory 2%-15% schedule. Bridged: the July 1, 1973 ACIR table and the July 1, 1976 ACIR table (this file's 1973 and 1976 entries) print the same schedule, exemption and standard deduction, and the NY DTF 'Progressive Improvement' study (tax.ny.gov, Table 1) lists the top rate as 15% over $25,000 for every year 1973-1976; no NY statute history for Tax Law §601 is online, so this rests on the identical adjacent editions and the DTF year table. No joint schedule printed; as in this file's 1976 and 1978 entries, spouses were taxed separately on this schedule. No deduction recorded (as in the 1976 entry): $650 personal exemption ($1,300 married); 15% standard deduction, max $2,000, with a low-income allowance. Not modelled: credit (full credit if tax is $100 or less, $200 minus tax if $100-$200); 6% minimum tax; no tax if NYAGI is $2,500 or less ($5,000 married, head of household or surviving spouse). The 2.5% surcharge was suspended for 1973 and 1974 (DTF study, Table 1 note b)."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.1
+          },
+          {
+            "from": 17000,
+            "rate": 0.11
+          },
+          {
+            "from": 19000,
+            "rate": 0.12
+          },
+          {
+            "from": 21000,
+            "rate": 0.13
+          },
+          {
+            "from": 23000,
+            "rate": 0.14
+          },
+          {
+            "from": 25000,
+            "rate": 0.15
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1976-77 ed. Vol. II, Table 106 (State Individual Income Taxes: Rates, July 1, 1976), Table 107 (personal exemptions) and Table 108 (standard deduction): full statutory 2%-15% schedule. Bridged: the July 1, 1973 ACIR table and the July 1, 1976 ACIR table (this file's 1973 and 1976 entries) print the same schedule, exemption and standard deduction, and the NY DTF 'Progressive Improvement' study (tax.ny.gov, Table 1) lists the top rate as 15% over $25,000 for every year 1973-1976; no NY statute history for Tax Law §601 is online, so this rests on the identical adjacent editions and the DTF year table. No joint schedule printed; as in this file's 1976 and 1978 entries, spouses were taxed separately on this schedule. No deduction recorded (as in the 1976 entry): $650 personal exemption ($1,300 married); 15% standard deduction, max $2,000, with a low-income allowance. Not modelled: 2.5% surcharge on the regular and minimum income tax before credits (in force for 1975 per DTF study Table 1 note b, top rate 15.375%); 6% minimum tax; household credit; no tax if NYAGI is $2,500 or less ($5,000 married, head of household or surviving spouse)."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.1
+          },
+          {
+            "from": 17000,
+            "rate": 0.11
+          },
+          {
+            "from": 19000,
+            "rate": 0.12
+          },
+          {
+            "from": 21000,
+            "rate": 0.13
+          },
+          {
+            "from": 23000,
+            "rate": 0.14
+          },
+          {
+            "from": 25000,
+            "rate": 0.15
+          }
+        ]
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1976-77 ed. Vol. II, Table 106 (State Individual Income Taxes: Rates, July 1, 1976), Table 107 (personal exemptions, July 1, 1976) and Table 108 (standard deduction, July 1, 1976). Full statutory 2%-15% schedule as printed (no maximum tax on personal service income mentioned). No joint schedule printed; as in this file's 1978 entry, spouses were taxed separately on this schedule. No deduction recorded (as in the 1978 entry): Table 107 gives a $650 personal exemption ($1,300 married) and Table 108 a 15% standard deduction, max $2,000, with a low-income allowance. Not modelled: 2.5% surcharge on the regular and minimum income tax (before credits); 6% minimum tax on tax preference items; household credit (full credit if tax is $110 or less, $137.50 minus 25% of tax if $110-$550); no tax if NYAGI is $2,500 or less ($5,000 married, head of household or surviving spouse)."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.1
+          },
+          {
+            "from": 17000,
+            "rate": 0.11
+          },
+          {
+            "from": 19000,
+            "rate": 0.12
+          },
+          {
+            "from": 21000,
+            "rate": 0.13
+          },
+          {
+            "from": 23000,
+            "rate": 0.14
+          },
+          {
+            "from": 25000,
+            "rate": 0.15
+          }
+        ]
+      },
+      "source": "https://babel.hathitrust.org/cgi/pt?id=nyp.33433057658126&seq=918",
+      "notes": "Laws of New York 1977, ch. 70 (Sess. 200, v. 1; HathiTrust nyp.33433057658126, full view, seq 918-919), which shows the prior text of Tax Law s. 602 with its deletions in brackets: subsection (b), as amended by Laws 1972, ch. 1 and applying to taxable years ending after December 31, 1971, taxed 2% of the first $1,000 rising to 14% over $23,000 and 15% over $25,000 ($2,060 plus 15% of the excess); ch. 70 rewrote subsection (a) to apply that schedule to taxable years beginning on and after January 1, 1971 through those ending in 1977, and moved the 15% bracket to over $30,000 in (b) for taxable years ending after December 31, 1977. So calendar 1977 has the 2%-15% schedule (15% over $25,000), as in 1973-1976; the $30,000 top bracket of this file's 1978 entry starts with 1978 (a fiscal year spanning 1977 and 1978 prorates the two, s. 602(c)). No joint schedule: spouses were taxed separately on this schedule, as in this file's later entries. No deduction recorded, as in this file's other years (personal exemptions and an income-based standard deduction applied). Not modelled: the household credit, the minimum tax on tax preference items, and the no-tax threshold for low New York adjusted gross income. The 2.5% surcharge was repealed from 1977 (DTF study, Table 1 note b)."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.1
+          },
+          {
+            "from": 17000,
+            "rate": 0.11
+          },
+          {
+            "from": 19000,
+            "rate": 0.12
+          }
+        ]
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m78_14i.pdf",
+      "notes": "No joint schedule: spouses were taxed separately (combined return allowed), each on this schedule. Shown capped at the 12% maximum tax on personal service income (wages), per TSB-M-78(14)I; the statutory schedule continues 13% from $21,000, 14% from $23,000 and 15% over $30,000 for other income. Brackets below $11,000 (2%-7%) are those printed in TSB-M-87(10)I and match the $520 tax at $11,000 in TSB-M-85(9)I and the $1,780 tax at $23,000 in TSB-M-78(9)I. Personal exemption for 1978 not found; deduction left out. Standard deduction was 16% of NYAGI (min $1,400/$1,900, max $2,400); income-based, left out."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.1
+          },
+          {
+            "from": 17000,
+            "rate": 0.11
+          },
+          {
+            "from": 19000,
+            "rate": 0.12
+          }
+        ]
+      },
+      "deduction": {
+        "single": 700,
+        "marriedJoint": 1400
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m78_14i.pdf",
+      "notes": "No joint schedule: spouses were taxed separately (combined return allowed), each on this schedule. Shown capped at the 12% maximum tax on personal service income (wages), per TSB-M-78(14)I; the statutory schedule continues 13% from $21,000, 14% from $23,000 for other income. Brackets below $11,000 (2%-7%) are those printed in TSB-M-87(10)I and match the $520 tax at $11,000 in TSB-M-85(9)I and the $1,780 tax at $23,000 in TSB-M-78(9)I. Deduction is the $700 personal exemption (TSB-M-78(11)I). Standard deduction was 16% of NYAGI (min $1,400/$1,900, max $2,400); income-based, left out."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.1
+          },
+          {
+            "from": 17000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m78_14i.pdf",
+      "notes": "No joint schedule: spouses were taxed separately (combined return allowed), each on this schedule. Capped at the 11% maximum tax on personal service income (statutory 12%-14% above $19,000 for other income). Brackets below $11,000 (2%-7%) are those printed in TSB-M-87(10)I and match the $520 tax at $11,000 in TSB-M-85(9)I and the $1,780 tax at $23,000 in TSB-M-78(9)I. Deduction is the $750 personal exemption. Standard deduction 16% of NYAGI (min/max) left out."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m78_14i.pdf",
+      "notes": "No joint schedule: spouses were taxed separately (combined return allowed), each on this schedule. Capped at the 10% maximum tax on personal service income (TSB-M-78(14)I); statutory rates rise to 14% over $23,000 for other income. Brackets below $11,000 (2%-7%) are those printed in TSB-M-87(10)I and match the $520 tax at $11,000 in TSB-M-85(9)I and the $1,780 tax at $23,000 in TSB-M-78(9)I. Deduction is the $750 personal exemption (TSB-M-82(1)I). Standard deduction 17% of NYAGI (min $1,500/$2,000, max $2,500) left out."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m82_1i.pdf",
+      "notes": "No joint schedule: spouses were taxed separately (combined return allowed), each on this schedule. Capped at the 10% maximum tax on personal service income (TSB-M-78(14)I); statutory rates rise to 14% over $23,000 for other income. Brackets below $11,000 (2%-7%) are those printed in TSB-M-87(10)I and match the $520 tax at $11,000 in TSB-M-85(9)I and the $1,780 tax at $23,000 in TSB-M-78(9)I. Deduction is the $800 personal exemption (TSB-M-82(1)I). Standard deduction 17% of NYAGI (min $1,500/$2,000, max $2,500) left out."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m82_1i.pdf",
+      "notes": "No joint schedule: spouses were taxed separately (combined return allowed), each on this schedule. Capped at the 10% maximum tax on personal service income (TSB-M-78(14)I); statutory rates rise to 14% over $23,000 for other income. Brackets below $11,000 (2%-7%) are those printed in TSB-M-87(10)I and match the $520 tax at $11,000 in TSB-M-85(9)I and the $1,780 tax at $23,000 in TSB-M-78(9)I. Deduction is the $800 personal exemption (TSB-M-82(1)I). Standard deduction 17% of NYAGI (min $1,500/$2,000, max $2,500) left out."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m82_1i.pdf",
+      "notes": "No joint schedule: spouses were taxed separately (combined return allowed), each on this schedule. Capped at the 10% maximum tax on personal service income (TSB-M-78(14)I); statutory rates rise to 14% over $23,000 for other income. Brackets below $11,000 (2%-7%) are those printed in TSB-M-87(10)I and match the $520 tax at $11,000 in TSB-M-85(9)I and the $1,780 tax at $23,000 in TSB-M-78(9)I. Deduction is the $800 personal exemption (TSB-M-82(1)I). Standard deduction 17% of NYAGI (min $1,500/$2,000, max $2,500) left out."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 15000,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3350,
+        "marriedJoint": 4450
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m85_9i.pdf",
+      "notes": "No joint schedule: spouses were taxed separately (combined return allowed), each on this schedule. Capped at the 9.5% maximum tax on personal service income (TSB-M-85(9)I; cap from $15,000 per the 1995 Act report table); statutory top 13.75% over $23,000 for other income. Brackets below $11,000 (2%-7%) are those printed in TSB-M-87(10)I and match the $520 tax at $11,000 in TSB-M-85(9)I and the $1,780 tax at $23,000 in TSB-M-78(9)I. Deduction: standard deduction $2,500 single/$2,750 others (2004 Sourcebook Table C41) plus $850 exemptions (TSB-M-85(11)I)."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 13500,
+            "rate": 0.09
+          },
+          {
+            "from": 16000,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3450,
+        "marriedJoint": 4700
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m85_9i.pdf",
+      "notes": "No joint schedule: spouses were taxed separately (combined return allowed), each on this schedule. Widened brackets from TSB-M-85(9)I, capped at the 9.5% maximum tax on personal service income from $16,000 (1995 Act report table); statutory 10%-13.5% above $16,000 for other income. Brackets below $11,000 (2%-7%) are those printed in TSB-M-87(10)I and match the $520 tax at $11,000 in TSB-M-85(9)I and the $1,780 tax at $23,000 in TSB-M-78(9)I. Deduction: standard deduction $2,600 single/$3,000 others (Sourcebook Table C41) plus $850 exemptions."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 14000,
+            "rate": 0.0875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1700,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 8300,
+            "rate": 0.05
+          },
+          {
+            "from": 11700,
+            "rate": 0.06
+          },
+          {
+            "from": 15000,
+            "rate": 0.07
+          },
+          {
+            "from": 18300,
+            "rate": 0.08
+          },
+          {
+            "from": 23300,
+            "rate": 0.0875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4500,
+        "marriedJoint": 7100
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m87_10i.pdf",
+      "notes": "Deduction: standard deduction $3,600/$5,300 plus $900 personal exemptions (Sourcebook Table C41). Surcharge on unearned income over $100,000 NYAGI not modelled."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5100,
+            "rate": 0.05
+          },
+          {
+            "from": 7300,
+            "rate": 0.06
+          },
+          {
+            "from": 9400,
+            "rate": 0.07
+          },
+          {
+            "from": 12400,
+            "rate": 0.08
+          },
+          {
+            "from": 17000,
+            "rate": 0.08375
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10200,
+            "rate": 0.05
+          },
+          {
+            "from": 14600,
+            "rate": 0.06
+          },
+          {
+            "from": 18800,
+            "rate": 0.07
+          },
+          {
+            "from": 24800,
+            "rate": 0.08
+          },
+          {
+            "from": 34000,
+            "rate": 0.08375
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 8500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m87_10i.pdf",
+      "notes": "Deduction is the standard deduction (personal exemption repealed; Sourcebook Table C41). Surcharge on unearned income not modelled."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 5500,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 11000,
+            "rate": 0.07
+          },
+          {
+            "from": 13000,
+            "rate": 0.07875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 11000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 22000,
+            "rate": 0.07
+          },
+          {
+            "from": 26000,
+            "rate": 0.07875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m87_10i.pdf",
+      "notes": "1989 rate schedule kept through 1994 as later rate cuts were deferred (TSB-M-90(3)I, 92(1)I, 93(1)I, 94(1)I; 1995 Act report Table 2 for 1994). Deduction is the standard deduction."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 5500,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 11000,
+            "rate": 0.07
+          },
+          {
+            "from": 13000,
+            "rate": 0.07875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 11000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 22000,
+            "rate": 0.07
+          },
+          {
+            "from": 26000,
+            "rate": 0.07875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m90_3i.pdf",
+      "notes": "1989 rate schedule kept through 1994 as later rate cuts were deferred (TSB-M-90(3)I, 92(1)I, 93(1)I, 94(1)I; 1995 Act report Table 2 for 1994). Deduction is the standard deduction."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 5500,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 11000,
+            "rate": 0.07
+          },
+          {
+            "from": 13000,
+            "rate": 0.07875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 11000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 22000,
+            "rate": 0.07
+          },
+          {
+            "from": 26000,
+            "rate": 0.07875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m92_1i.pdf",
+      "notes": "1989 rate schedule kept through 1994 as later rate cuts were deferred (TSB-M-90(3)I, 92(1)I, 93(1)I, 94(1)I; 1995 Act report Table 2 for 1994). Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 5500,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 11000,
+            "rate": 0.07
+          },
+          {
+            "from": 13000,
+            "rate": 0.07875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 11000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 22000,
+            "rate": 0.07
+          },
+          {
+            "from": 26000,
+            "rate": 0.07875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m93_1i.pdf",
+      "notes": "1989 rate schedule kept through 1994 as later rate cuts were deferred (TSB-M-90(3)I, 92(1)I, 93(1)I, 94(1)I; 1995 Act report Table 2 for 1994). Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 5500,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 11000,
+            "rate": 0.07
+          },
+          {
+            "from": 13000,
+            "rate": 0.07875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 11000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 22000,
+            "rate": 0.07
+          },
+          {
+            "from": 26000,
+            "rate": 0.07875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m94_1i.pdf",
+      "notes": "1989 rate schedule kept through 1994 as later rate cuts were deferred (TSB-M-90(3)I, 92(1)I, 93(1)I, 94(1)I; 1995 Act report Table 2 for 1994). Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 5500,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 11000,
+            "rate": 0.07
+          },
+          {
+            "from": 13000,
+            "rate": 0.07875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 11000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 22000,
+            "rate": 0.07
+          },
+          {
+            "from": 26000,
+            "rate": 0.07875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/stats/stat_pit/income_tax_reduction_act_of_1995.pdf",
+      "notes": "1989 rate schedule kept through 1994 as later rate cuts were deferred (TSB-M-90(3)I, 92(1)I, 93(1)I, 94(1)I; 1995 Act report Table 2 for 1994). Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0455
+          },
+          {
+            "from": 6500,
+            "rate": 0.0555
+          },
+          {
+            "from": 9500,
+            "rate": 0.0655
+          },
+          {
+            "from": 12500,
+            "rate": 0.0759375
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0455
+          },
+          {
+            "from": 13000,
+            "rate": 0.0555
+          },
+          {
+            "from": 19000,
+            "rate": 0.0655
+          },
+          {
+            "from": 25000,
+            "rate": 0.0759375
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6600,
+        "marriedJoint": 10800
+      },
+      "source": "https://www.tax.ny.gov/pdf/1995/inc/1995_tax_tables.pdf",
+      "notes": "Brackets of the 1992 schedule in TSB-M-90(3)I with the 7.59375% blended top rate; checked against the 1995 tax table at several incomes. Standard deduction from IT-2105.9-I (1995). Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 5500,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 11000,
+            "rate": 0.07
+          },
+          {
+            "from": 13000,
+            "rate": 0.07125
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 11000,
+            "rate": 0.05
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 22000,
+            "rate": 0.07
+          },
+          {
+            "from": 26000,
+            "rate": 0.07125
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7400,
+        "marriedJoint": 12350
+      },
+      "source": "https://www.tax.ny.gov/pdf/1996/inc/it201i_1996.pdf",
+      "notes": "Brackets derived from the 1996 tax table (1989 brackets, top rate 7.125%). Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0685
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0685
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 13000
+      },
+      "source": "https://www.tax.ny.gov/pdf/1997/inc/it201i_1997.pdf",
+      "notes": "Schedule from the 1995 Act report (Table 2); checked against the tax table. Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0685
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0685
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 13000
+      },
+      "source": "https://www.tax.ny.gov/pdf/1998/inc/it201i_1998.pdf",
+      "notes": "Schedule from the 1995 Act report (Table 2); checked against the tax table. Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0685
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0685
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 13000
+      },
+      "source": "https://www.tax.ny.gov/pdf/1999/inc/it201i_1999.pdf",
+      "notes": "Schedule from the 1995 Act report (Table 2); checked against the tax table. Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0685
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0685
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 13000
+      },
+      "source": "https://www.tax.ny.gov/pdf/2000/inc/it201i_2000.pdf",
+      "notes": "Schedule from the 1995 Act report (Table 2); checked against the tax table. Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0685
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0685
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 13400
+      },
+      "source": "https://www.tax.ny.gov/pdf/2001/inc/it201i_2001.pdf",
+      "notes": "Schedule from the 1995 Act report (Table 2); checked against the tax table. Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0685
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0685
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 14200
+      },
+      "source": "https://www.tax.ny.gov/pdf/2002/inc/it201i_2002.pdf",
+      "notes": "Schedule from the 1995 Act report (Table 2); checked against the tax table. Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0685
+          },
+          {
+            "from": 100000,
+            "rate": 0.075
+          },
+          {
+            "from": 500000,
+            "rate": 0.077
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0685
+          },
+          {
+            "from": 150000,
+            "rate": 0.075
+          },
+          {
+            "from": 500000,
+            "rate": 0.077
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 14600
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m03_6i.pdf",
+      "notes": "Temporary 2003-2005 brackets (TSB-M-03(6)I: second-highest rate 7.5% in 2003, falling 0.125 point a year). Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0685
+          },
+          {
+            "from": 100000,
+            "rate": 0.07375
+          },
+          {
+            "from": 500000,
+            "rate": 0.077
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0685
+          },
+          {
+            "from": 150000,
+            "rate": 0.07375
+          },
+          {
+            "from": 500000,
+            "rate": 0.077
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 14600
+      },
+      "source": "https://www.tax.ny.gov/pdf/2004/inc/it201i_2004.pdf",
+      "notes": "Temporary 2003-2005 brackets (TSB-M-03(6)I: second-highest rate 7.5% in 2003, falling 0.125 point a year). Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0685
+          },
+          {
+            "from": 100000,
+            "rate": 0.0725
+          },
+          {
+            "from": 500000,
+            "rate": 0.077
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0685
+          },
+          {
+            "from": 150000,
+            "rate": 0.0725
+          },
+          {
+            "from": 500000,
+            "rate": 0.077
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 14600
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m03_6i.pdf",
+      "notes": "Temporary 2003-2005 brackets (TSB-M-03(6)I: second-highest rate 7.5% in 2003, falling 0.125 point a year). Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0685
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0685
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://www.tax.ny.gov/pdf/2006/inc/it201i_2006.pdf",
+      "notes": "Schedule from the 1995 Act report (Table 2); checked against the tax table. Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0685
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0685
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://www.tax.ny.gov/pdf/2007/inc/it201i_2007.pdf",
+      "notes": "Schedule from the 1995 Act report (Table 2); checked against the tax table. Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0685
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0685
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NY/2008/it150_201i_2008.pdf",
+      "notes": "Schedule from the 1995 Act report (Table 2); checked against the tax table. Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0685
+          },
+          {
+            "from": 200000,
+            "rate": 0.0785
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0685
+          },
+          {
+            "from": 300000,
+            "rate": 0.0785
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m09_11i.pdf",
+      "notes": "Temporary 2009-2011 brackets (TSB-M-09(11)I). Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0685
+          },
+          {
+            "from": 200000,
+            "rate": 0.0785
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0685
+          },
+          {
+            "from": 300000,
+            "rate": 0.0785
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m09_11i.pdf",
+      "notes": "Temporary 2009-2011 brackets (TSB-M-09(11)I). Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0685
+          },
+          {
+            "from": 200000,
+            "rate": 0.0785
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0685
+          },
+          {
+            "from": 300000,
+            "rate": 0.0785
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://www.tax.ny.gov/pdf/2011/inc/it201i_2011.pdf",
+      "notes": "Temporary 2009-2011 brackets (TSB-M-09(11)I). Deduction is the standard deduction. Supplemental tax (benefit recapture) for high NYAGI not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8000,
+            "rate": 0.045
+          },
+          {
+            "from": 11000,
+            "rate": 0.0525
+          },
+          {
+            "from": 13000,
+            "rate": 0.059
+          },
+          {
+            "from": 20000,
+            "rate": 0.0645
+          },
+          {
+            "from": 75000,
+            "rate": 0.0665
+          },
+          {
+            "from": 200000,
+            "rate": 0.0685
+          },
+          {
+            "from": 1000000,
+            "rate": 0.0882
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16000,
+            "rate": 0.045
+          },
+          {
+            "from": 22000,
+            "rate": 0.0525
+          },
+          {
+            "from": 26000,
+            "rate": 0.059
+          },
+          {
+            "from": 40000,
+            "rate": 0.0645
+          },
+          {
+            "from": 150000,
+            "rate": 0.0665
+          },
+          {
+            "from": 300000,
+            "rate": 0.0685
+          },
+          {
+            "from": 2000000,
+            "rate": 0.0882
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://www.tax.ny.gov/pdf/2012/inc/it201i_2012.pdf",
+      "notes": "Deduction is the standard deduction (dependent exemptions only). Above $100,000-$107,650 NYAGI the supplemental tax (benefit recapture) claws back the lower brackets; not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8200,
+            "rate": 0.045
+          },
+          {
+            "from": 11300,
+            "rate": 0.0525
+          },
+          {
+            "from": 13350,
+            "rate": 0.059
+          },
+          {
+            "from": 20550,
+            "rate": 0.0645
+          },
+          {
+            "from": 77150,
+            "rate": 0.0665
+          },
+          {
+            "from": 205850,
+            "rate": 0.0685
+          },
+          {
+            "from": 1029250,
+            "rate": 0.0882
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16450,
+            "rate": 0.045
+          },
+          {
+            "from": 22600,
+            "rate": 0.0525
+          },
+          {
+            "from": 26750,
+            "rate": 0.059
+          },
+          {
+            "from": 41150,
+            "rate": 0.0645
+          },
+          {
+            "from": 154350,
+            "rate": 0.0665
+          },
+          {
+            "from": 308750,
+            "rate": 0.0685
+          },
+          {
+            "from": 2058550,
+            "rate": 0.0882
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7700,
+        "marriedJoint": 15400
+      },
+      "source": "https://www.tax.ny.gov/pdf/2013/inc/it201i_2013.pdf",
+      "notes": "Deduction is the standard deduction (dependent exemptions only). Above $100,000-$107,650 NYAGI the supplemental tax (benefit recapture) claws back the lower brackets; not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8300,
+            "rate": 0.045
+          },
+          {
+            "from": 11450,
+            "rate": 0.0525
+          },
+          {
+            "from": 13550,
+            "rate": 0.059
+          },
+          {
+            "from": 20850,
+            "rate": 0.0645
+          },
+          {
+            "from": 78400,
+            "rate": 0.0665
+          },
+          {
+            "from": 209250,
+            "rate": 0.0685
+          },
+          {
+            "from": 1046350,
+            "rate": 0.0882
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16700,
+            "rate": 0.045
+          },
+          {
+            "from": 22950,
+            "rate": 0.0525
+          },
+          {
+            "from": 27150,
+            "rate": 0.059
+          },
+          {
+            "from": 41800,
+            "rate": 0.0645
+          },
+          {
+            "from": 156900,
+            "rate": 0.0665
+          },
+          {
+            "from": 313850,
+            "rate": 0.0685
+          },
+          {
+            "from": 2092800,
+            "rate": 0.0882
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7800,
+        "marriedJoint": 15650
+      },
+      "source": "https://www.tax.ny.gov/pdf/2014/inc/it201i_2014.pdf",
+      "notes": "Deduction is the standard deduction (dependent exemptions only). Above $100,000-$107,650 NYAGI the supplemental tax (benefit recapture) claws back the lower brackets; not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8400,
+            "rate": 0.045
+          },
+          {
+            "from": 11600,
+            "rate": 0.0525
+          },
+          {
+            "from": 13750,
+            "rate": 0.059
+          },
+          {
+            "from": 21150,
+            "rate": 0.0645
+          },
+          {
+            "from": 79600,
+            "rate": 0.0665
+          },
+          {
+            "from": 212500,
+            "rate": 0.0685
+          },
+          {
+            "from": 1062650,
+            "rate": 0.0882
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 16950,
+            "rate": 0.045
+          },
+          {
+            "from": 23300,
+            "rate": 0.0525
+          },
+          {
+            "from": 27550,
+            "rate": 0.059
+          },
+          {
+            "from": 42450,
+            "rate": 0.0645
+          },
+          {
+            "from": 159350,
+            "rate": 0.0665
+          },
+          {
+            "from": 318750,
+            "rate": 0.0685
+          },
+          {
+            "from": 2125450,
+            "rate": 0.0882
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7900,
+        "marriedJoint": 15850
+      },
+      "source": "https://www.tax.ny.gov/pdf/2015/inc/it201i_2015.pdf",
+      "notes": "Deduction is the standard deduction (dependent exemptions only). Above $100,000-$107,650 NYAGI the supplemental tax (benefit recapture) claws back the lower brackets; not modelled."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8450,
+            "rate": 0.045
+          },
+          {
+            "from": 11650,
+            "rate": 0.0525
+          },
+          {
+            "from": 13850,
+            "rate": 0.059
+          },
+          {
+            "from": 21300,
+            "rate": 0.0645
+          },
+          {
+            "from": 80150,
+            "rate": 0.0665
+          },
+          {
+            "from": 214000,
+            "rate": 0.0685
+          },
+          {
+            "from": 1070350,
+            "rate": 0.0882
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 17050,
+            "rate": 0.045
+          },
+          {
+            "from": 23450,
+            "rate": 0.0525
+          },
+          {
+            "from": 27750,
+            "rate": 0.059
+          },
+          {
+            "from": 42750,
+            "rate": 0.0645
+          },
+          {
+            "from": 160500,
+            "rate": 0.0665
+          },
+          {
+            "from": 321050,
+            "rate": 0.0685
+          },
+          {
+            "from": 2140900,
+            "rate": 0.0882
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7950,
+        "marriedJoint": 15950
+      },
+      "source": "https://www.tax.ny.gov/pdf/2016/inc/it201i_2016.pdf",
+      "notes": "Deduction is the standard deduction (dependent exemptions only). Above $100,000-$107,650 NYAGI the supplemental tax (benefit recapture) claws back the lower brackets; not modelled."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8500,
+            "rate": 0.045
+          },
+          {
+            "from": 11700,
+            "rate": 0.0525
+          },
+          {
+            "from": 13900,
+            "rate": 0.059
+          },
+          {
+            "from": 21400,
+            "rate": 0.0645
+          },
+          {
+            "from": 80650,
+            "rate": 0.0665
+          },
+          {
+            "from": 215400,
+            "rate": 0.0685
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0882
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 17150,
+            "rate": 0.045
+          },
+          {
+            "from": 23600,
+            "rate": 0.0525
+          },
+          {
+            "from": 27900,
+            "rate": 0.059
+          },
+          {
+            "from": 43000,
+            "rate": 0.0645
+          },
+          {
+            "from": 161550,
+            "rate": 0.0665
+          },
+          {
+            "from": 323200,
+            "rate": 0.0685
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0882
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2017/inc/it201i_2017.pdf",
+      "notes": "Deduction is the standard deduction (dependent exemptions only). Above $100,000-$107,650 NYAGI the supplemental tax (benefit recapture) claws back the lower brackets; not modelled."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8500,
+            "rate": 0.045
+          },
+          {
+            "from": 11700,
+            "rate": 0.0525
+          },
+          {
+            "from": 13900,
+            "rate": 0.059
+          },
+          {
+            "from": 21400,
+            "rate": 0.0633
+          },
+          {
+            "from": 80650,
+            "rate": 0.0657
+          },
+          {
+            "from": 215400,
+            "rate": 0.0685
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0882
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 17150,
+            "rate": 0.045
+          },
+          {
+            "from": 23600,
+            "rate": 0.0525
+          },
+          {
+            "from": 27900,
+            "rate": 0.059
+          },
+          {
+            "from": 43000,
+            "rate": 0.0633
+          },
+          {
+            "from": 161550,
+            "rate": 0.0657
+          },
+          {
+            "from": 323200,
+            "rate": 0.0685
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0882
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2018/inc/it201i_2018.pdf",
+      "notes": "Deduction is the standard deduction (dependent exemptions only). Above $100,000-$107,650 NYAGI the supplemental tax (benefit recapture) claws back the lower brackets; not modelled."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8500,
+            "rate": 0.045
+          },
+          {
+            "from": 11700,
+            "rate": 0.0525
+          },
+          {
+            "from": 13900,
+            "rate": 0.059
+          },
+          {
+            "from": 21400,
+            "rate": 0.0621
+          },
+          {
+            "from": 80650,
+            "rate": 0.0649
+          },
+          {
+            "from": 215400,
+            "rate": 0.0685
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0882
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 17150,
+            "rate": 0.045
+          },
+          {
+            "from": 23600,
+            "rate": 0.0525
+          },
+          {
+            "from": 27900,
+            "rate": 0.059
+          },
+          {
+            "from": 43000,
+            "rate": 0.0621
+          },
+          {
+            "from": 161550,
+            "rate": 0.0649
+          },
+          {
+            "from": 323200,
+            "rate": 0.0685
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0882
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2019/inc/it201i_2019.pdf",
+      "notes": "Deduction is the standard deduction (dependent exemptions only). Above $100,000-$107,650 NYAGI the supplemental tax (benefit recapture) claws back the lower brackets; not modelled."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8500,
+            "rate": 0.045
+          },
+          {
+            "from": 11700,
+            "rate": 0.0525
+          },
+          {
+            "from": 13900,
+            "rate": 0.059
+          },
+          {
+            "from": 21400,
+            "rate": 0.0609
+          },
+          {
+            "from": 80650,
+            "rate": 0.0641
+          },
+          {
+            "from": 215400,
+            "rate": 0.0685
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0882
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 17150,
+            "rate": 0.045
+          },
+          {
+            "from": 23600,
+            "rate": 0.0525
+          },
+          {
+            "from": 27900,
+            "rate": 0.059
+          },
+          {
+            "from": 43000,
+            "rate": 0.0609
+          },
+          {
+            "from": 161550,
+            "rate": 0.0641
+          },
+          {
+            "from": 323200,
+            "rate": 0.0685
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0882
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2020/inc/it201i_2020.pdf",
+      "notes": "Deduction is the standard deduction (dependent exemptions only). Above $100,000-$107,650 NYAGI the supplemental tax (benefit recapture) claws back the lower brackets; not modelled."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8500,
+            "rate": 0.045
+          },
+          {
+            "from": 11700,
+            "rate": 0.0525
+          },
+          {
+            "from": 13900,
+            "rate": 0.059
+          },
+          {
+            "from": 21400,
+            "rate": 0.0597
+          },
+          {
+            "from": 80650,
+            "rate": 0.0633
+          },
+          {
+            "from": 215400,
+            "rate": 0.0685
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0965
+          },
+          {
+            "from": 5000000,
+            "rate": 0.103
+          },
+          {
+            "from": 25000000,
+            "rate": 0.109
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 17150,
+            "rate": 0.045
+          },
+          {
+            "from": 23600,
+            "rate": 0.0525
+          },
+          {
+            "from": 27900,
+            "rate": 0.059
+          },
+          {
+            "from": 43000,
+            "rate": 0.0597
+          },
+          {
+            "from": 161550,
+            "rate": 0.0633
+          },
+          {
+            "from": 323200,
+            "rate": 0.0685
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0965
+          },
+          {
+            "from": 5000000,
+            "rate": 0.103
+          },
+          {
+            "from": 25000000,
+            "rate": 0.109
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2021/inc/it201i_2021.pdf",
+      "notes": "Deduction is the standard deduction (dependent exemptions only). Above $100,000-$107,650 NYAGI the supplemental tax (benefit recapture) claws back the lower brackets; not modelled."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8500,
+            "rate": 0.045
+          },
+          {
+            "from": 11700,
+            "rate": 0.0525
+          },
+          {
+            "from": 13900,
+            "rate": 0.0585
+          },
+          {
+            "from": 80650,
+            "rate": 0.0625
+          },
+          {
+            "from": 215400,
+            "rate": 0.0685
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0965
+          },
+          {
+            "from": 5000000,
+            "rate": 0.103
+          },
+          {
+            "from": 25000000,
+            "rate": 0.109
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 17150,
+            "rate": 0.045
+          },
+          {
+            "from": 23600,
+            "rate": 0.0525
+          },
+          {
+            "from": 27900,
+            "rate": 0.0585
+          },
+          {
+            "from": 161550,
+            "rate": 0.0625
+          },
+          {
+            "from": 323200,
+            "rate": 0.0685
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0965
+          },
+          {
+            "from": 5000000,
+            "rate": 0.103
+          },
+          {
+            "from": 25000000,
+            "rate": 0.109
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NY/2022/it201i-2022.pdf",
+      "notes": "Deduction is the standard deduction (dependent exemptions only). Above $100,000-$107,650 NYAGI the supplemental tax (benefit recapture) claws back the lower brackets; not modelled."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8500,
+            "rate": 0.045
+          },
+          {
+            "from": 11700,
+            "rate": 0.0525
+          },
+          {
+            "from": 13900,
+            "rate": 0.055
+          },
+          {
+            "from": 80650,
+            "rate": 0.06
+          },
+          {
+            "from": 215400,
+            "rate": 0.0685
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0965
+          },
+          {
+            "from": 5000000,
+            "rate": 0.103
+          },
+          {
+            "from": 25000000,
+            "rate": 0.109
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 17150,
+            "rate": 0.045
+          },
+          {
+            "from": 23600,
+            "rate": 0.0525
+          },
+          {
+            "from": 27900,
+            "rate": 0.055
+          },
+          {
+            "from": 161550,
+            "rate": 0.06
+          },
+          {
+            "from": 323200,
+            "rate": 0.0685
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0965
+          },
+          {
+            "from": 5000000,
+            "rate": 0.103
+          },
+          {
+            "from": 25000000,
+            "rate": 0.109
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NY/2023/it201i-2023.pdf",
+      "notes": "Deduction is the standard deduction (dependent exemptions only). Above $100,000-$107,650 NYAGI the supplemental tax (benefit recapture) claws back the lower brackets; not modelled."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8500,
+            "rate": 0.045
+          },
+          {
+            "from": 11700,
+            "rate": 0.0525
+          },
+          {
+            "from": 13900,
+            "rate": 0.055
+          },
+          {
+            "from": 80650,
+            "rate": 0.06
+          },
+          {
+            "from": 215400,
+            "rate": 0.0685
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0965
+          },
+          {
+            "from": 5000000,
+            "rate": 0.103
+          },
+          {
+            "from": 25000000,
+            "rate": 0.109
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 17150,
+            "rate": 0.045
+          },
+          {
+            "from": 23600,
+            "rate": 0.0525
+          },
+          {
+            "from": 27900,
+            "rate": 0.055
+          },
+          {
+            "from": 161550,
+            "rate": 0.06
+          },
+          {
+            "from": 323200,
+            "rate": 0.0685
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0965
+          },
+          {
+            "from": 5000000,
+            "rate": 0.103
+          },
+          {
+            "from": 25000000,
+            "rate": 0.109
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2024/inc/it201i_2024.pdf",
+      "notes": "Above $107,650 AGI the supplemental tax (benefit recapture) claws back the lower brackets, so high earners pay more than these brackets suggest."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 8500,
+            "rate": 0.045
+          },
+          {
+            "from": 11700,
+            "rate": 0.0525
+          },
+          {
+            "from": 13900,
+            "rate": 0.055
+          },
+          {
+            "from": 80650,
+            "rate": 0.06
+          },
+          {
+            "from": 215400,
+            "rate": 0.0685
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0965
+          },
+          {
+            "from": 5000000,
+            "rate": 0.103
+          },
+          {
+            "from": 25000000,
+            "rate": 0.109
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 17150,
+            "rate": 0.045
+          },
+          {
+            "from": 23600,
+            "rate": 0.0525
+          },
+          {
+            "from": 27900,
+            "rate": 0.055
+          },
+          {
+            "from": 161550,
+            "rate": 0.06
+          },
+          {
+            "from": 323200,
+            "rate": 0.0685
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0965
+          },
+          {
+            "from": 5000000,
+            "rate": 0.103
+          },
+          {
+            "from": 25000000,
+            "rate": 0.109
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/forms/html-instructions/2025/it/it201i-2025.htm",
+      "notes": "Above $107,650 AGI the supplemental tax (benefit recapture) claws back the lower brackets, so high earners pay more than these brackets suggest."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.039
+          },
+          {
+            "from": 8500,
+            "rate": 0.044
+          },
+          {
+            "from": 11700,
+            "rate": 0.0515
+          },
+          {
+            "from": 13900,
+            "rate": 0.054
+          },
+          {
+            "from": 80650,
+            "rate": 0.059
+          },
+          {
+            "from": 215400,
+            "rate": 0.0685
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0965
+          },
+          {
+            "from": 5000000,
+            "rate": 0.103
+          },
+          {
+            "from": 25000000,
+            "rate": 0.109
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.039
+          },
+          {
+            "from": 17150,
+            "rate": 0.044
+          },
+          {
+            "from": 23600,
+            "rate": 0.0515
+          },
+          {
+            "from": 27900,
+            "rate": 0.054
+          },
+          {
+            "from": 161550,
+            "rate": 0.059
+          },
+          {
+            "from": 323200,
+            "rate": 0.0685
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0965
+          },
+          {
+            "from": 5000000,
+            "rate": 0.103
+          },
+          {
+            "from": 25000000,
+            "rate": 0.109
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.nysenate.gov/legislation/laws/TAX/601",
+      "notes": "Above $107,650 AGI the supplemental tax (benefit recapture) claws back the lower brackets, so high earners pay more than these brackets suggest."
+    }
+  }
+}

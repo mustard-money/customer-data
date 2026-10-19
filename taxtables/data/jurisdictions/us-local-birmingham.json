@@ -1,0 +1,348 @@
+{
+  "id": "us-local-birmingham",
+  "kind": "local",
+  "region": "Birmingham, AL",
+  "state": "AL",
+  "since": 1970,
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184). The tax applied only to December 1970; recorded as the year-end rate, so earnings from January to November 1970 are overstated by it."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA",
+      "notes": "City Code sec. 3A-2-33(a): occupational license fee of 1% of gross receipts and compensation for work in the city on and after December 1, 1970 (Ord. 97-184)."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://library.municode.com/al/birmingham/codes/code_of_ordinances?nodeId=PT1THCOGEOR_TIT3ARETA_CH2OCTA"
+    }
+  }
+}

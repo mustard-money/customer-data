@@ -1,0 +1,347 @@
+{
+  "id": "us-local-st-louis",
+  "kind": "local",
+  "region": "St. Louis",
+  "state": "MO",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/general-fund-revenues.cfm",
+      "notes": "The current 1% earnings tax rate was imposed in 1959 (Collector of Revenue)."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/individual-earnings-tax-info.cfm"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/individual-earnings-tax-info.cfm"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/individual-earnings-tax-info.cfm"
+    }
+  }
+}

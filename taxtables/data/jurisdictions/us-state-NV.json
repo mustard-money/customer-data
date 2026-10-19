@@ -1,0 +1,290 @@
+{
+  "id": "us-state-NV",
+  "kind": "state",
+  "region": "Nevada",
+  "state": "NV",
+  "years": {
+    "1970": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1971": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1972": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1973": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1974": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1975": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1976": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1977": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1978": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1979": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1980": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1981": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1982": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1983": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1984": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1985": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1986": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1987": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1988": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1989": {
+      "type": "none",
+      "source": "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada",
+      "notes": "Nevada levied no personal income tax. The constitutional prohibition (Nev. Const. art. 10, sec. 1(9)) was added after the 1988 and 1990 general elections; before that no statute imposed one."
+    },
+    "1990": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "1991": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "1992": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "1993": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "1994": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "1995": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "1996": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "1997": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "1998": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "1999": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2000": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2001": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2002": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2003": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2004": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2005": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2006": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2007": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2008": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2009": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2010": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2011": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2012": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2013": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2014": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2015": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2016": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2017": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2018": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2019": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2020": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2021": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2022": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2023": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html",
+      "notes": "No personal income tax; Nev. Const. art. 10, sec. 1(9): no income tax shall be levied upon the wages or personal income of natural persons (added after the 1988/1990 elections)."
+    },
+    "2024": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html"
+    },
+    "2025": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html"
+    },
+    "2026": {
+      "type": "none",
+      "source": "https://www.leg.state.nv.us/Const/NvConst.html"
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "us-local-portland-metro-shs",
+  "kind": "local",
+  "region": "Portland Metro",
+  "state": "OR",
+  "since": 2021,
+  "years": {
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 125000,
+            "rate": 0.01
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 200000,
+            "rate": 0.01
+          }
+        ]
+      },
+      "source": "https://www.portland.gov/revenue/personal-tax",
+      "notes": "Metro Supportive Housing Services tax took effect January 1, 2021: 1% of Metro taxable income over $125,000 single / $200,000 joint (thresholds unchanged 2021-2025)."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 125000,
+            "rate": 0.01
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 200000,
+            "rate": 0.01
+          }
+        ]
+      },
+      "source": "https://www.portland.gov/revenue/personal-tax",
+      "notes": "Metro Supportive Housing Services tax took effect January 1, 2021: 1% of Metro taxable income over $125,000 single / $200,000 joint (thresholds unchanged 2021-2025)."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 125000,
+            "rate": 0.01
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 200000,
+            "rate": 0.01
+          }
+        ]
+      },
+      "source": "https://www.portland.gov/revenue/personal-tax",
+      "notes": "Metro Supportive Housing Services tax took effect January 1, 2021: 1% of Metro taxable income over $125,000 single / $200,000 joint (thresholds unchanged 2021-2025)."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 125000,
+            "rate": 0.01
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 200000,
+            "rate": 0.01
+          }
+        ]
+      },
+      "source": "https://www.portland.gov/revenue/personal-tax"
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 125000,
+            "rate": 0.01
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 200000,
+            "rate": 0.01
+          }
+        ]
+      },
+      "source": "https://www.portland.gov/revenue/personal-tax"
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 128000,
+            "rate": 0.01
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 205000,
+            "rate": 0.01
+          }
+        ]
+      },
+      "source": "https://www.portland.gov/revenue/personal-tax"
+    }
+  }
+}

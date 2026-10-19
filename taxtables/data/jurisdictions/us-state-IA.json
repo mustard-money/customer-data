@@ -1,0 +1,2791 @@
+{
+  "id": "us-state-IA",
+  "kind": "state",
+  "region": "Iowa",
+  "state": "IA",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0075
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.0225
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.0375
+          },
+          {
+            "from": 7000,
+            "rate": 0.045
+          },
+          {
+            "from": 9000,
+            "rate": 0.0525
+          }
+        ]
+      },
+      "source": "https://www.legis.iowa.gov/docs/shelves/code/ocr/1971%20Iowa%20Code.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); top 5.25% = 4.5% plus 0.75% additional tax over $9,000. Optional standard deduction 5% of net income (max $250) not modelled; personal exemption credits $15 single / $30 joint, $10 per dependent."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0075
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "source": "https://www.legis.iowa.gov/docs/shelves/code/ocr/1973%20Iowa%20Code.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); rates per 64GA ch 165 (from 1971). Percentage optional standard deduction (5% max $250; 10% max $500 by the 1975 Code) not modelled; personal exemption credits $15 single / $30 joint."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0075
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "source": "https://www.legis.iowa.gov/docs/shelves/code/ocr/1973%20Iowa%20Code.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); rates per 64GA ch 165 (from 1971). Percentage optional standard deduction (5% max $250; 10% max $500 by the 1975 Code) not modelled; personal exemption credits $15 single / $30 joint."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0075
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "source": "https://www.legis.iowa.gov/docs/shelves/code/ocr/1973%20Iowa%20Code.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); rates per 64GA ch 165 (from 1971). Percentage optional standard deduction (5% max $250; 10% max $500 by the 1975 Code) not modelled; personal exemption credits $15 single / $30 joint."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0075
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "source": "https://www.legis.iowa.gov/docs/shelves/code/ocr/1973%20Iowa%20Code.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); rates per 64GA ch 165 (from 1971). Percentage optional standard deduction (5% max $250; 10% max $500 by the 1975 Code) not modelled; personal exemption credits $15 single / $30 joint."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.0125
+          },
+          {
+            "from": 2000,
+            "rate": 0.0275
+          },
+          {
+            "from": 3000,
+            "rate": 0.035
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 15000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.09
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          },
+          {
+            "from": 40000,
+            "rate": 0.12
+          },
+          {
+            "from": 75000,
+            "rate": 0.13
+          }
+        ]
+      },
+      "source": "https://www.legis.iowa.gov/docs/shelves/code/ocr/1977%20Iowa%20Code.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); 13-bracket schedule from 66GA ch 207 (retroactive to 1975). Optional standard deduction 10% of net income, max $1,000 single/joint, not modelled; personal exemption credits $15 single / $30 joint."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.0125
+          },
+          {
+            "from": 2000,
+            "rate": 0.0275
+          },
+          {
+            "from": 3000,
+            "rate": 0.035
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 15000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.09
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          },
+          {
+            "from": 40000,
+            "rate": 0.12
+          },
+          {
+            "from": 75000,
+            "rate": 0.13
+          }
+        ]
+      },
+      "source": "https://www.legis.iowa.gov/docs/shelves/code/ocr/1977%20Iowa%20Code.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); 13-bracket schedule from 66GA ch 207 (retroactive to 1975). Optional standard deduction 10% of net income, max $1,000 single/joint, not modelled; personal exemption credits $15 single / $30 joint."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.0125
+          },
+          {
+            "from": 2000,
+            "rate": 0.0275
+          },
+          {
+            "from": 3000,
+            "rate": 0.035
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 15000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.09
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          },
+          {
+            "from": 40000,
+            "rate": 0.12
+          },
+          {
+            "from": 75000,
+            "rate": 0.13
+          }
+        ]
+      },
+      "source": "https://www.legis.iowa.gov/docs/shelves/code/ocr/1977%20Iowa%20Code.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); 13-bracket schedule from 66GA ch 207 (retroactive to 1975). Optional standard deduction 10% of net income, max $1,000 single/joint, not modelled; personal exemption credits $15 single / $30 joint."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.0125
+          },
+          {
+            "from": 2000,
+            "rate": 0.0275
+          },
+          {
+            "from": 3000,
+            "rate": 0.035
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.07
+          },
+          {
+            "from": 15000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.09
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          },
+          {
+            "from": 40000,
+            "rate": 0.12
+          },
+          {
+            "from": 75000,
+            "rate": 0.13
+          }
+        ]
+      },
+      "source": "https://www.legis.iowa.gov/docs/shelves/code/ocr/1977%20Iowa%20Code.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); 13-bracket schedule from 66GA ch 207 (retroactive to 1975). Optional standard deduction 10% of net income, max $1,000 single/joint, not modelled; personal exemption credits $15 single / $30 joint."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1023,
+            "rate": 0.0125
+          },
+          {
+            "from": 2046,
+            "rate": 0.0275
+          },
+          {
+            "from": 3069,
+            "rate": 0.035
+          },
+          {
+            "from": 4092,
+            "rate": 0.05
+          },
+          {
+            "from": 7161,
+            "rate": 0.06
+          },
+          {
+            "from": 9207,
+            "rate": 0.07
+          },
+          {
+            "from": 15345,
+            "rate": 0.08
+          },
+          {
+            "from": 20460,
+            "rate": 0.09
+          },
+          {
+            "from": 25575,
+            "rate": 0.1
+          },
+          {
+            "from": 30690,
+            "rate": 0.11
+          },
+          {
+            "from": 40920,
+            "rate": 0.12
+          },
+          {
+            "from": 76725,
+            "rate": 0.13
+          }
+        ]
+      },
+      "source": "https://www.legis.iowa.gov/docs/shelves/code/ocr/1981%20Iowa%20Code.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); Code 1981 §422.4(18): brackets = statutory brackets x 1979 annual inflation factor 102.3% (Code §422.4), rounded to the dollar; top $76,725 matches IDR rate history. Optional standard deduction 15% of net income (max $1,200 single, $3,000 joint) not modelled; exemption credits $15/$30."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1023,
+            "rate": 0.0125
+          },
+          {
+            "from": 2046,
+            "rate": 0.0275
+          },
+          {
+            "from": 3069,
+            "rate": 0.035
+          },
+          {
+            "from": 4092,
+            "rate": 0.05
+          },
+          {
+            "from": 7161,
+            "rate": 0.06
+          },
+          {
+            "from": 9207,
+            "rate": 0.07
+          },
+          {
+            "from": 15345,
+            "rate": 0.08
+          },
+          {
+            "from": 20460,
+            "rate": 0.09
+          },
+          {
+            "from": 25575,
+            "rate": 0.1
+          },
+          {
+            "from": 30690,
+            "rate": 0.11
+          },
+          {
+            "from": 40920,
+            "rate": 0.12
+          },
+          {
+            "from": 76725,
+            "rate": 0.13
+          }
+        ]
+      },
+      "source": "https://revenue.iowa.gov/resources/law-policy-information/iowa-tax-rate-history",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); IDR rate history: one-time 1979 indexation (top bracket $76,725), next change 1987; brackets carried from 1979. Statute allowed further indexing only if the general fund balance was >= $60M, which the history indicates did not occur. Optional standard deduction 15% of net income (max $1,200 single, $3,000 joint) not modelled; exemption credits $15/$30."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1023,
+            "rate": 0.0125
+          },
+          {
+            "from": 2046,
+            "rate": 0.0275
+          },
+          {
+            "from": 3069,
+            "rate": 0.035
+          },
+          {
+            "from": 4092,
+            "rate": 0.05
+          },
+          {
+            "from": 7161,
+            "rate": 0.06
+          },
+          {
+            "from": 9207,
+            "rate": 0.07
+          },
+          {
+            "from": 15345,
+            "rate": 0.08
+          },
+          {
+            "from": 20460,
+            "rate": 0.09
+          },
+          {
+            "from": 25575,
+            "rate": 0.1
+          },
+          {
+            "from": 30690,
+            "rate": 0.11
+          },
+          {
+            "from": 40920,
+            "rate": 0.12
+          },
+          {
+            "from": 76725,
+            "rate": 0.13
+          }
+        ]
+      },
+      "source": "https://revenue.iowa.gov/resources/law-policy-information/iowa-tax-rate-history",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); IDR rate history: one-time 1979 indexation (top bracket $76,725), next change 1987; brackets carried from 1979. Statute allowed further indexing only if the general fund balance was >= $60M, which the history indicates did not occur. Optional standard deduction 15% of net income (max $1,200 single, $3,000 joint) not modelled; exemption credits $15/$30."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1023,
+            "rate": 0.0125
+          },
+          {
+            "from": 2046,
+            "rate": 0.0275
+          },
+          {
+            "from": 3069,
+            "rate": 0.035
+          },
+          {
+            "from": 4092,
+            "rate": 0.05
+          },
+          {
+            "from": 7161,
+            "rate": 0.06
+          },
+          {
+            "from": 9207,
+            "rate": 0.07
+          },
+          {
+            "from": 15345,
+            "rate": 0.08
+          },
+          {
+            "from": 20460,
+            "rate": 0.09
+          },
+          {
+            "from": 25575,
+            "rate": 0.1
+          },
+          {
+            "from": 30690,
+            "rate": 0.11
+          },
+          {
+            "from": 40920,
+            "rate": 0.12
+          },
+          {
+            "from": 76725,
+            "rate": 0.13
+          }
+        ]
+      },
+      "source": "https://revenue.iowa.gov/resources/law-policy-information/iowa-tax-rate-history",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); IDR rate history: one-time 1979 indexation (top bracket $76,725), next change 1987; brackets carried from 1979. Statute allowed further indexing only if the general fund balance was >= $60M, which the history indicates did not occur. Optional standard deduction 15% of net income (max $1,200 single, $3,000 joint) not modelled; exemption credits $15/$30."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1023,
+            "rate": 0.0125
+          },
+          {
+            "from": 2046,
+            "rate": 0.0275
+          },
+          {
+            "from": 3069,
+            "rate": 0.035
+          },
+          {
+            "from": 4092,
+            "rate": 0.05
+          },
+          {
+            "from": 7161,
+            "rate": 0.06
+          },
+          {
+            "from": 9207,
+            "rate": 0.07
+          },
+          {
+            "from": 15345,
+            "rate": 0.08
+          },
+          {
+            "from": 20460,
+            "rate": 0.09
+          },
+          {
+            "from": 25575,
+            "rate": 0.1
+          },
+          {
+            "from": 30690,
+            "rate": 0.11
+          },
+          {
+            "from": 40920,
+            "rate": 0.12
+          },
+          {
+            "from": 76725,
+            "rate": 0.13
+          }
+        ]
+      },
+      "source": "https://revenue.iowa.gov/resources/law-policy-information/iowa-tax-rate-history",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); IDR rate history: one-time 1979 indexation (top bracket $76,725), next change 1987; brackets carried from 1979. Statute allowed further indexing only if the general fund balance was >= $60M, which the history indicates did not occur. Optional standard deduction 15% of net income (max $1,200 single, $3,000 joint) not modelled; exemption credits $15/$30."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1023,
+            "rate": 0.0125
+          },
+          {
+            "from": 2046,
+            "rate": 0.0275
+          },
+          {
+            "from": 3069,
+            "rate": 0.035
+          },
+          {
+            "from": 4092,
+            "rate": 0.05
+          },
+          {
+            "from": 7161,
+            "rate": 0.06
+          },
+          {
+            "from": 9207,
+            "rate": 0.07
+          },
+          {
+            "from": 15345,
+            "rate": 0.08
+          },
+          {
+            "from": 20460,
+            "rate": 0.09
+          },
+          {
+            "from": 25575,
+            "rate": 0.1
+          },
+          {
+            "from": 30690,
+            "rate": 0.11
+          },
+          {
+            "from": 40920,
+            "rate": 0.12
+          },
+          {
+            "from": 76725,
+            "rate": 0.13
+          }
+        ]
+      },
+      "source": "https://revenue.iowa.gov/resources/law-policy-information/iowa-tax-rate-history",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); IDR rate history: one-time 1979 indexation (top bracket $76,725), next change 1987; brackets carried from 1979. Statute allowed further indexing only if the general fund balance was >= $60M, which the history indicates did not occur. Optional standard deduction 15% of net income (max $1,200 single, $3,000 joint) not modelled; exemption credits $15/$30."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1023,
+            "rate": 0.0125
+          },
+          {
+            "from": 2046,
+            "rate": 0.0275
+          },
+          {
+            "from": 3069,
+            "rate": 0.035
+          },
+          {
+            "from": 4092,
+            "rate": 0.05
+          },
+          {
+            "from": 7161,
+            "rate": 0.06
+          },
+          {
+            "from": 9207,
+            "rate": 0.07
+          },
+          {
+            "from": 15345,
+            "rate": 0.08
+          },
+          {
+            "from": 20460,
+            "rate": 0.09
+          },
+          {
+            "from": 25575,
+            "rate": 0.1
+          },
+          {
+            "from": 30690,
+            "rate": 0.11
+          },
+          {
+            "from": 40920,
+            "rate": 0.12
+          },
+          {
+            "from": 76725,
+            "rate": 0.13
+          }
+        ]
+      },
+      "source": "https://revenue.iowa.gov/resources/law-policy-information/iowa-tax-rate-history",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); IDR rate history: one-time 1979 indexation (top bracket $76,725), next change 1987; brackets carried from 1979. Statute allowed further indexing only if the general fund balance was >= $60M, which the history indicates did not occur. Optional standard deduction 15% of net income (max $1,200 single, $3,000 joint) not modelled; exemption credits $15/$30."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1023,
+            "rate": 0.0125
+          },
+          {
+            "from": 2046,
+            "rate": 0.0275
+          },
+          {
+            "from": 3069,
+            "rate": 0.035
+          },
+          {
+            "from": 4092,
+            "rate": 0.05
+          },
+          {
+            "from": 7161,
+            "rate": 0.06
+          },
+          {
+            "from": 9207,
+            "rate": 0.07
+          },
+          {
+            "from": 15345,
+            "rate": 0.08
+          },
+          {
+            "from": 20460,
+            "rate": 0.09
+          },
+          {
+            "from": 25575,
+            "rate": 0.1
+          },
+          {
+            "from": 30690,
+            "rate": 0.11
+          },
+          {
+            "from": 40920,
+            "rate": 0.12
+          },
+          {
+            "from": 76725,
+            "rate": 0.13
+          }
+        ]
+      },
+      "source": "https://revenue.iowa.gov/resources/law-policy-information/iowa-tax-rate-history",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); IDR rate history: one-time 1979 indexation (top bracket $76,725), next change 1987; brackets carried from 1979. Statute allowed further indexing only if the general fund balance was >= $60M, which the history indicates did not occur. Optional standard deduction 15% of net income (max $1,200 single, $3,000 joint) not modelled; exemption credits $15/$30."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 1000,
+            "rate": 0.008
+          },
+          {
+            "from": 2000,
+            "rate": 0.027
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 9000,
+            "rate": 0.068
+          },
+          {
+            "from": 15000,
+            "rate": 0.072
+          },
+          {
+            "from": 20000,
+            "rate": 0.0755
+          },
+          {
+            "from": 30000,
+            "rate": 0.088
+          },
+          {
+            "from": 45000,
+            "rate": 0.0998
+          }
+        ]
+      },
+      "source": "https://revenue.iowa.gov/resources/law-policy-information/iowa-tax-rate-history",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); IDR rate history: 0.4%-9.98% over 9 brackets, top $45,000, from 1987; bracket amounts per Code 1989 §422.5. 1987 standard deduction not confirmed (left out); exemption credits $15/$30."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 1000,
+            "rate": 0.008
+          },
+          {
+            "from": 2000,
+            "rate": 0.027
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 9000,
+            "rate": 0.068
+          },
+          {
+            "from": 15000,
+            "rate": 0.072
+          },
+          {
+            "from": 20000,
+            "rate": 0.0755
+          },
+          {
+            "from": 30000,
+            "rate": 0.088
+          },
+          {
+            "from": 45000,
+            "rate": 0.0998
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1230,
+        "marriedJoint": 3030
+      },
+      "source": "https://www.legis.iowa.gov/docs/shelves/code/ocr/1989%20Iowa%20Code.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction $1,230 / $3,030 (88 Acts ch 1028, retroactive to 1988; inflation factor for 1988 = 100%). Exemption credits $15 single / $30 joint, $10 per dependent."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 1016,
+            "rate": 0.008
+          },
+          {
+            "from": 2032,
+            "rate": 0.027
+          },
+          {
+            "from": 4064,
+            "rate": 0.05
+          },
+          {
+            "from": 9144,
+            "rate": 0.068
+          },
+          {
+            "from": 15240,
+            "rate": 0.072
+          },
+          {
+            "from": 20320,
+            "rate": 0.0755
+          },
+          {
+            "from": 30480,
+            "rate": 0.088
+          },
+          {
+            "from": 45720,
+            "rate": 0.0998
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1230,
+        "marriedJoint": 3030
+      },
+      "source": "https://archive.org/details/micro_IA40706938_0439/page/n7",
+      "notes": "1989 Iowa Individual Income Tax Annual Statistical Report (Department of Revenue and Finance; Internet Archive state-documents microfiche), 'Overview of relevant features of tax law - tax year 1989', PDF page index 7: 'Net taxable income reported on 1989 Iowa returns was subject to the following rates: 0.40% from $0 through $1,016 ... 9.98% from $45,720' (brackets indexed upward by 1.6% for 1989) and 'a standard deduction of $1,230 for single filers and for each married individual filing separately; $3,030 for married filing jointly, head of household or qualifying widow(er)' (the report notes the $1,230 / $3,030 amounts applied from 1987 through 1989). The same 1989 schedule is reprinted in the 1995 IA 1040X instructions (this file's 1995 source). Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return). Personal exemption credits ($20 per taxpayer, $15 per dependent) left out; the no-tax threshold, the alternate maximum-rate computation for non-single filers, the minimum tax and the lump-sum tax are not modelled. School district surtax not modelled."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 1038,
+            "rate": 0.008
+          },
+          {
+            "from": 2076,
+            "rate": 0.027
+          },
+          {
+            "from": 4152,
+            "rate": 0.05
+          },
+          {
+            "from": 9342,
+            "rate": 0.068
+          },
+          {
+            "from": 15570,
+            "rate": 0.072
+          },
+          {
+            "from": 20760,
+            "rate": 0.0755
+          },
+          {
+            "from": 31140,
+            "rate": 0.088
+          },
+          {
+            "from": 46710,
+            "rate": 0.0998
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1260,
+        "marriedJoint": 3100
+      },
+      "source": "https://archive.org/details/micro_IA40706942_0144/page/n5",
+      "notes": "1990 Iowa Individual Income Tax Annual Statistical Report (Department of Revenue and Finance; Internet Archive state-documents microfiche), 'Overview of relevant features of tax law - tax year 1990', PDF page index 5: 'Net taxable income reported on 1990 Iowa returns was subject to the following rates: 0.40% from $0 through $1,038 ... 7.20% from $15,570 through $20,760, 7.55% from $20,760 through $31,140 ... 9.98% from $46,710' (brackets indexed upward by 2.2% for 1990) and (page n4) 'a standard deduction of $1,260 for single filers and for each married individual filing separately; $3,100' for joint, head of household and qualifying widow(er) filers. ACIR Significant Features of Fiscal Federalism 1991 ed. Vol. 1, Table 22 prints the same schedule except '$23,760' for the start of the 7.55% bracket, an ACIR misprint corrected here; the 1995 IA 1040X instructions (this file's 1995 source) also print $20,760. Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return). Personal exemption credits ($20 per taxpayer, $15 per dependent) left out; the no-tax threshold, the alternate maximum-rate computation for non-single filers, the minimum tax and the lump-sum tax are not modelled. School district surtax not modelled."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 1060,
+            "rate": 0.008
+          },
+          {
+            "from": 2120,
+            "rate": 0.027
+          },
+          {
+            "from": 4240,
+            "rate": 0.05
+          },
+          {
+            "from": 9540,
+            "rate": 0.068
+          },
+          {
+            "from": 15900,
+            "rate": 0.072
+          },
+          {
+            "from": 21200,
+            "rate": 0.0755
+          },
+          {
+            "from": 31800,
+            "rate": 0.088
+          },
+          {
+            "from": 47700,
+            "rate": 0.0998
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1280,
+        "marriedJoint": 3160
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1992-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1992 ed. Vol. 1, Table 22 (State Individual Income Taxes: Rates, 1991, compiled October 1991; rates for single individuals or married filing separately) and Table 18 (summary of exemptions and standard deductions, as of October 1991). Brackets for 1991 as printed (0-$1,060 0.4% ... over $47,700 9.98%). Deduction = standard deduction $1,280 single / $3,160 joint (Table 18). Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return). Personal exemption credits ($20 single / $40 joint / $15 per dependent) left out; the no-tax threshold and the alternate maximum-rate computation for non-single filers are not modelled. School district surtax not modelled."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 1060,
+            "rate": 0.008
+          },
+          {
+            "from": 2120,
+            "rate": 0.027
+          },
+          {
+            "from": 4240,
+            "rate": 0.05
+          },
+          {
+            "from": 9540,
+            "rate": 0.068
+          },
+          {
+            "from": 15900,
+            "rate": 0.072
+          },
+          {
+            "from": 21200,
+            "rate": 0.0755
+          },
+          {
+            "from": 31800,
+            "rate": 0.088
+          },
+          {
+            "from": 47700,
+            "rate": 0.0998
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1310,
+        "marriedJoint": 3220
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff-1993-vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1993 ed. Vol. 1, Table 22 (State Individual Income Taxes: Rates, 1992, compiled October 1992; rates for single individuals or married filing separately) and Table 18 (summary of exemptions and standard deductions, as of November 1992). Brackets for 1992 as printed (unchanged from 1991: 0-$1,060 0.4% ... over $47,700 9.98%). Deduction = standard deduction $1,310 single / $3,220 joint (Table 18). Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return). Personal exemption credits ($20 single / $40 joint / $15 per dependent) left out; the no-tax threshold and the alternate maximum-rate computation for non-single filers are not modelled. School district surtax not modelled."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 1060,
+            "rate": 0.008
+          },
+          {
+            "from": 2120,
+            "rate": 0.027
+          },
+          {
+            "from": 4240,
+            "rate": 0.05
+          },
+          {
+            "from": 9540,
+            "rate": 0.068
+          },
+          {
+            "from": 15900,
+            "rate": 0.072
+          },
+          {
+            "from": 21200,
+            "rate": 0.0755
+          },
+          {
+            "from": 31800,
+            "rate": 0.088
+          },
+          {
+            "from": 47700,
+            "rate": 0.0998
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1330,
+        "marriedJoint": 3270
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1994-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1994 ed. Vol. 1, Table 20 (State Individual Income Taxes: Rates, 1993, compiled October 1993; rates for single individuals or married filing separately) and Table 16 (summary of exemptions and standard deductions, as of November 1993). Brackets for 1993 as printed (unchanged: 0-$1,060 0.4% ... over $47,700 9.98%). Deduction = standard deduction $1,330 single / $3,270 joint (Table 16). Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return). Personal exemption credits ($20 single / $40 joint / $15 per dependent) left out; the no-tax threshold and the alternate maximum-rate computation for non-single filers are not modelled. School district surtax not modelled."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 1060,
+            "rate": 0.008
+          },
+          {
+            "from": 2120,
+            "rate": 0.027
+          },
+          {
+            "from": 4240,
+            "rate": 0.05
+          },
+          {
+            "from": 9540,
+            "rate": 0.068
+          },
+          {
+            "from": 15900,
+            "rate": 0.072
+          },
+          {
+            "from": 21200,
+            "rate": 0.0755
+          },
+          {
+            "from": 31800,
+            "rate": 0.088
+          },
+          {
+            "from": 47700,
+            "rate": 0.0998
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1340,
+        "marriedJoint": 3310
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1995-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1995 ed. Vol. 1, Table 19 (State Individual Income Taxes: Rates, 1994, compiled October 1994; rates for single individuals or married filing separately) and Table 15 (summary of exemptions and standard deductions, as of November 1994). Brackets for 1994 as printed (unchanged: 0-$1,060 0.4% ... over $47,700 9.98%). Deduction = standard deduction $1,340 single / $3,310 joint (Table 15). Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return). Personal exemption credits ($20 single / $40 joint / $15 per dependent) left out; the no-tax threshold and the alternate maximum-rate computation for non-single filers are not modelled. School district surtax not modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 1071,
+            "rate": 0.008
+          },
+          {
+            "from": 2142,
+            "rate": 0.027
+          },
+          {
+            "from": 4284,
+            "rate": 0.05
+          },
+          {
+            "from": 9639,
+            "rate": 0.068
+          },
+          {
+            "from": 16065,
+            "rate": 0.072
+          },
+          {
+            "from": 21420,
+            "rate": 0.0755
+          },
+          {
+            "from": 32130,
+            "rate": 0.088
+          },
+          {
+            "from": 48195,
+            "rate": 0.0998
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1360,
+        "marriedJoint": 3350
+      },
+      "source": "https://web.archive.org/web/19961126054739/http://www.state.ia.us/government/drf/1995/individ/1040xi.pdf",
+      "notes": "IA 1040X instructions (Department of Revenue and Finance, 1995 forms; Wayback copy of the department's site), page 2 '1995 Tax Rate Schedule' (0.40% on $0-$1,071 ... 9.98% over $48,195; brackets indexed) and page 1 line 8: 'For 1995, the standard deduction is: Status 1, $1,360; Status 3 or 4, $1,360 per spouse; Status 2, 5, or 6, $3,350.' The same pages reprint the 1989, 1990 and 1991-1994 schedules and the 1992-1994 standard deductions, which match this file's entries for those years. Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return). Personal exemption credits ($20 per taxpayer, $40 per dependent for tax years beginning on or after January 1, 1995) left out; the no-tax threshold, the alternate maximum-rate computation for non-single filers, the minimum tax and the lump-sum tax are not modelled. School district surtax not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 1089,
+            "rate": 0.008
+          },
+          {
+            "from": 2178,
+            "rate": 0.027
+          },
+          {
+            "from": 4356,
+            "rate": 0.05
+          },
+          {
+            "from": 9801,
+            "rate": 0.068
+          },
+          {
+            "from": 16335,
+            "rate": 0.072
+          },
+          {
+            "from": 21780,
+            "rate": 0.0755
+          },
+          {
+            "from": 32670,
+            "rate": 0.088
+          },
+          {
+            "from": 49005,
+            "rate": 0.0998
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1380,
+        "marriedJoint": 3400
+      },
+      "source": "https://web.archive.org/web/19970125063213/http://www.state.ia.us/government/drf/1996/1040i96.pdf",
+      "notes": "1996 IA 1040 instructions, 'Iowa 1996 Tax Rate Schedule' (p. 22) and standard deduction ($1,380 filing statuses 1, 3, 4; $3,400 statuses 2, 5, 6). Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); brackets and standard deduction indexed. Personal exemption credits (not in deduction) and school district / EMS surtaxes not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 1112,
+            "rate": 0.008
+          },
+          {
+            "from": 2224,
+            "rate": 0.027
+          },
+          {
+            "from": 4448,
+            "rate": 0.05
+          },
+          {
+            "from": 10008,
+            "rate": 0.068
+          },
+          {
+            "from": 16680,
+            "rate": 0.072
+          },
+          {
+            "from": 22240,
+            "rate": 0.0755
+          },
+          {
+            "from": 33360,
+            "rate": 0.088
+          },
+          {
+            "from": 50040,
+            "rate": 0.0998
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1410,
+        "marriedJoint": 3480
+      },
+      "source": "https://publications.iowa.gov/5487/1/97increp.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($20 per taxpayer, $40 per dependent) left out. School district surtax not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1136,
+            "rate": 0.0072
+          },
+          {
+            "from": 2272,
+            "rate": 0.0243
+          },
+          {
+            "from": 4544,
+            "rate": 0.045
+          },
+          {
+            "from": 10224,
+            "rate": 0.0612
+          },
+          {
+            "from": 17040,
+            "rate": 0.0648
+          },
+          {
+            "from": 22720,
+            "rate": 0.068
+          },
+          {
+            "from": 34080,
+            "rate": 0.0792
+          },
+          {
+            "from": 51120,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1440,
+        "marriedJoint": 3550
+      },
+      "source": "https://publications.iowa.gov/5488/1/98increp.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1148,
+            "rate": 0.0072
+          },
+          {
+            "from": 2296,
+            "rate": 0.0243
+          },
+          {
+            "from": 4592,
+            "rate": 0.045
+          },
+          {
+            "from": 10332,
+            "rate": 0.0612
+          },
+          {
+            "from": 17220,
+            "rate": 0.0648
+          },
+          {
+            "from": 22960,
+            "rate": 0.068
+          },
+          {
+            "from": 34440,
+            "rate": 0.0792
+          },
+          {
+            "from": 51660,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1460,
+        "marriedJoint": 3590
+      },
+      "source": "https://publications.iowa.gov/5489/1/99increp.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1162,
+            "rate": 0.0072
+          },
+          {
+            "from": 2324,
+            "rate": 0.0243
+          },
+          {
+            "from": 4648,
+            "rate": 0.045
+          },
+          {
+            "from": 10458,
+            "rate": 0.0612
+          },
+          {
+            "from": 17430,
+            "rate": 0.0648
+          },
+          {
+            "from": 23240,
+            "rate": 0.068
+          },
+          {
+            "from": 34860,
+            "rate": 0.0792
+          },
+          {
+            "from": 52290,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1470,
+        "marriedJoint": 3630
+      },
+      "source": "https://publications.iowa.gov/5490/1/00increp.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1185,
+            "rate": 0.0072
+          },
+          {
+            "from": 2370,
+            "rate": 0.0243
+          },
+          {
+            "from": 4740,
+            "rate": 0.045
+          },
+          {
+            "from": 10665,
+            "rate": 0.0612
+          },
+          {
+            "from": 17775,
+            "rate": 0.0648
+          },
+          {
+            "from": 23700,
+            "rate": 0.068
+          },
+          {
+            "from": 35550,
+            "rate": 0.0792
+          },
+          {
+            "from": 53325,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3700
+      },
+      "source": "https://publications.iowa.gov/5491/1/01increp.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1211,
+            "rate": 0.0072
+          },
+          {
+            "from": 2422,
+            "rate": 0.0243
+          },
+          {
+            "from": 4844,
+            "rate": 0.045
+          },
+          {
+            "from": 10899,
+            "rate": 0.0612
+          },
+          {
+            "from": 18165,
+            "rate": 0.0648
+          },
+          {
+            "from": 24220,
+            "rate": 0.068
+          },
+          {
+            "from": 36330,
+            "rate": 0.0792
+          },
+          {
+            "from": 54495,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1540,
+        "marriedJoint": 3780
+      },
+      "source": "https://publications.iowa.gov/5492/1/02increp.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1224,
+            "rate": 0.0072
+          },
+          {
+            "from": 2448,
+            "rate": 0.0243
+          },
+          {
+            "from": 4896,
+            "rate": 0.045
+          },
+          {
+            "from": 11016,
+            "rate": 0.0612
+          },
+          {
+            "from": 18360,
+            "rate": 0.0648
+          },
+          {
+            "from": 24480,
+            "rate": 0.068
+          },
+          {
+            "from": 36720,
+            "rate": 0.0792
+          },
+          {
+            "from": 55080,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1550,
+        "marriedJoint": 3830
+      },
+      "source": "https://publications.iowa.gov/5493/1/03increp.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1242,
+            "rate": 0.0072
+          },
+          {
+            "from": 2484,
+            "rate": 0.0243
+          },
+          {
+            "from": 4968,
+            "rate": 0.045
+          },
+          {
+            "from": 11178,
+            "rate": 0.0612
+          },
+          {
+            "from": 18630,
+            "rate": 0.0648
+          },
+          {
+            "from": 24840,
+            "rate": 0.068
+          },
+          {
+            "from": 37260,
+            "rate": 0.0792
+          },
+          {
+            "from": 55890,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1580,
+        "marriedJoint": 3880
+      },
+      "source": "https://publications.iowa.gov/5494/1/04increp.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1269,
+            "rate": 0.0072
+          },
+          {
+            "from": 2538,
+            "rate": 0.0243
+          },
+          {
+            "from": 5076,
+            "rate": 0.045
+          },
+          {
+            "from": 11421,
+            "rate": 0.0612
+          },
+          {
+            "from": 19035,
+            "rate": 0.0648
+          },
+          {
+            "from": 25380,
+            "rate": 0.068
+          },
+          {
+            "from": 38070,
+            "rate": 0.0792
+          },
+          {
+            "from": 57105,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1610,
+        "marriedJoint": 3970
+      },
+      "source": "https://publications.iowa.gov/5495/1/05increp.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1300,
+            "rate": 0.0072
+          },
+          {
+            "from": 2600,
+            "rate": 0.0243
+          },
+          {
+            "from": 5200,
+            "rate": 0.045
+          },
+          {
+            "from": 11700,
+            "rate": 0.0612
+          },
+          {
+            "from": 19500,
+            "rate": 0.0648
+          },
+          {
+            "from": 26000,
+            "rate": 0.068
+          },
+          {
+            "from": 39000,
+            "rate": 0.0792
+          },
+          {
+            "from": 58500,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1650,
+        "marriedJoint": 4060
+      },
+      "source": "https://publications.iowa.gov/6305/1/06increp.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1343,
+            "rate": 0.0072
+          },
+          {
+            "from": 2686,
+            "rate": 0.0243
+          },
+          {
+            "from": 5372,
+            "rate": 0.045
+          },
+          {
+            "from": 12087,
+            "rate": 0.0612
+          },
+          {
+            "from": 20145,
+            "rate": 0.0648
+          },
+          {
+            "from": 26860,
+            "rate": 0.068
+          },
+          {
+            "from": 40290,
+            "rate": 0.0792
+          },
+          {
+            "from": 60435,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1700,
+        "marriedJoint": 4200
+      },
+      "source": "https://publications.iowa.gov/7643/1/07increp.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1379,
+            "rate": 0.0072
+          },
+          {
+            "from": 2758,
+            "rate": 0.0243
+          },
+          {
+            "from": 5516,
+            "rate": 0.045
+          },
+          {
+            "from": 12411,
+            "rate": 0.0612
+          },
+          {
+            "from": 20685,
+            "rate": 0.0648
+          },
+          {
+            "from": 27580,
+            "rate": 0.068
+          },
+          {
+            "from": 41370,
+            "rate": 0.0792
+          },
+          {
+            "from": 62055,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1750,
+        "marriedJoint": 4310
+      },
+      "source": "https://publications.iowa.gov/9529/1/08increp.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1407,
+            "rate": 0.0072
+          },
+          {
+            "from": 2814,
+            "rate": 0.0243
+          },
+          {
+            "from": 5628,
+            "rate": 0.045
+          },
+          {
+            "from": 12663,
+            "rate": 0.0612
+          },
+          {
+            "from": 21105,
+            "rate": 0.0648
+          },
+          {
+            "from": 28140,
+            "rate": 0.068
+          },
+          {
+            "from": 42210,
+            "rate": 0.0792
+          },
+          {
+            "from": 63315,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1780,
+        "marriedJoint": 4390
+      },
+      "source": "https://publications.iowa.gov/40526/1/09increp.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1428,
+            "rate": 0.0072
+          },
+          {
+            "from": 2856,
+            "rate": 0.0243
+          },
+          {
+            "from": 5712,
+            "rate": 0.045
+          },
+          {
+            "from": 12852,
+            "rate": 0.0612
+          },
+          {
+            "from": 21420,
+            "rate": 0.0648
+          },
+          {
+            "from": 28560,
+            "rate": 0.068
+          },
+          {
+            "from": 42840,
+            "rate": 0.0792
+          },
+          {
+            "from": 64260,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1810,
+        "marriedJoint": 4460
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/IA/2010/1078914.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1439,
+            "rate": 0.0072
+          },
+          {
+            "from": 2878,
+            "rate": 0.0243
+          },
+          {
+            "from": 5756,
+            "rate": 0.045
+          },
+          {
+            "from": 12951,
+            "rate": 0.0612
+          },
+          {
+            "from": 21585,
+            "rate": 0.0648
+          },
+          {
+            "from": 28780,
+            "rate": 0.068
+          },
+          {
+            "from": 43170,
+            "rate": 0.0792
+          },
+          {
+            "from": 64755,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1830,
+        "marriedJoint": 4500
+      },
+      "source": "https://publications.iowa.gov/40628/1/11increp.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1469,
+            "rate": 0.0072
+          },
+          {
+            "from": 2938,
+            "rate": 0.0243
+          },
+          {
+            "from": 5876,
+            "rate": 0.045
+          },
+          {
+            "from": 13221,
+            "rate": 0.0612
+          },
+          {
+            "from": 22035,
+            "rate": 0.0648
+          },
+          {
+            "from": 29380,
+            "rate": 0.068
+          },
+          {
+            "from": 44070,
+            "rate": 0.0792
+          },
+          {
+            "from": 66105,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1860,
+        "marriedJoint": 4590
+      },
+      "source": "https://publications.iowa.gov/40629/1/12increp.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1494,
+            "rate": 0.0072
+          },
+          {
+            "from": 2988,
+            "rate": 0.0243
+          },
+          {
+            "from": 5976,
+            "rate": 0.045
+          },
+          {
+            "from": 13446,
+            "rate": 0.0612
+          },
+          {
+            "from": 22410,
+            "rate": 0.0648
+          },
+          {
+            "from": 29880,
+            "rate": 0.068
+          },
+          {
+            "from": 44820,
+            "rate": 0.0792
+          },
+          {
+            "from": 67230,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1900,
+        "marriedJoint": 4670
+      },
+      "source": "https://publications.iowa.gov/40688/1/Individual%20Income%20Tax%20Report%202013.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1515,
+            "rate": 0.0072
+          },
+          {
+            "from": 3030,
+            "rate": 0.0243
+          },
+          {
+            "from": 6060,
+            "rate": 0.045
+          },
+          {
+            "from": 13635,
+            "rate": 0.0612
+          },
+          {
+            "from": 22725,
+            "rate": 0.0648
+          },
+          {
+            "from": 30300,
+            "rate": 0.068
+          },
+          {
+            "from": 45450,
+            "rate": 0.0792
+          },
+          {
+            "from": 68175,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1920,
+        "marriedJoint": 4740
+      },
+      "source": "https://publications.iowa.gov/40689/1/Individual%20Income%20Tax%20Report%202014.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1539,
+            "rate": 0.0072
+          },
+          {
+            "from": 3078,
+            "rate": 0.0243
+          },
+          {
+            "from": 6156,
+            "rate": 0.045
+          },
+          {
+            "from": 13851,
+            "rate": 0.0612
+          },
+          {
+            "from": 23085,
+            "rate": 0.0648
+          },
+          {
+            "from": 30780,
+            "rate": 0.068
+          },
+          {
+            "from": 46170,
+            "rate": 0.0792
+          },
+          {
+            "from": 69255,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1950,
+        "marriedJoint": 4810
+      },
+      "source": "https://publications.iowa.gov/40691/1/Individual%20Income%20Tax%20Report%202015%20Revised.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1554,
+            "rate": 0.0072
+          },
+          {
+            "from": 3108,
+            "rate": 0.0243
+          },
+          {
+            "from": 6216,
+            "rate": 0.045
+          },
+          {
+            "from": 13986,
+            "rate": 0.0612
+          },
+          {
+            "from": 23310,
+            "rate": 0.0648
+          },
+          {
+            "from": 31080,
+            "rate": 0.068
+          },
+          {
+            "from": 46620,
+            "rate": 0.0792
+          },
+          {
+            "from": 69930,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1970,
+        "marriedJoint": 4860
+      },
+      "source": "https://publications.iowa.gov/40692/1/Individual%20Income%20Tax%20Report%202016%20%281%29.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1573,
+            "rate": 0.0072
+          },
+          {
+            "from": 3146,
+            "rate": 0.0243
+          },
+          {
+            "from": 6292,
+            "rate": 0.045
+          },
+          {
+            "from": 14157,
+            "rate": 0.0612
+          },
+          {
+            "from": 23595,
+            "rate": 0.0648
+          },
+          {
+            "from": 31460,
+            "rate": 0.068
+          },
+          {
+            "from": 47190,
+            "rate": 0.0792
+          },
+          {
+            "from": 70785,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4920
+      },
+      "source": "https://revenue.iowa.gov/media/3056/download",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0036
+          },
+          {
+            "from": 1598,
+            "rate": 0.0072
+          },
+          {
+            "from": 3196,
+            "rate": 0.0243
+          },
+          {
+            "from": 6392,
+            "rate": 0.045
+          },
+          {
+            "from": 14382,
+            "rate": 0.0612
+          },
+          {
+            "from": 23970,
+            "rate": 0.0648
+          },
+          {
+            "from": 31960,
+            "rate": 0.068
+          },
+          {
+            "from": 47940,
+            "rate": 0.0792
+          },
+          {
+            "from": 71910,
+            "rate": 0.0898
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2030,
+        "marriedJoint": 5000
+      },
+      "source": "https://publications.iowa.gov/40693/1/Individual%20Income%20Tax%20Report%202018.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0033
+          },
+          {
+            "from": 1638,
+            "rate": 0.0067
+          },
+          {
+            "from": 3276,
+            "rate": 0.0225
+          },
+          {
+            "from": 6552,
+            "rate": 0.0414
+          },
+          {
+            "from": 14742,
+            "rate": 0.0563
+          },
+          {
+            "from": 24570,
+            "rate": 0.0596
+          },
+          {
+            "from": 32760,
+            "rate": 0.0625
+          },
+          {
+            "from": 49140,
+            "rate": 0.0744
+          },
+          {
+            "from": 73710,
+            "rate": 0.0853
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2080,
+        "marriedJoint": 5120
+      },
+      "source": "https://publications.iowa.gov/40694/1/Individual%20Income%20Tax%20Report%202019.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0033
+          },
+          {
+            "from": 1666,
+            "rate": 0.0067
+          },
+          {
+            "from": 3332,
+            "rate": 0.0225
+          },
+          {
+            "from": 6664,
+            "rate": 0.0414
+          },
+          {
+            "from": 14994,
+            "rate": 0.0563
+          },
+          {
+            "from": 24990,
+            "rate": 0.0596
+          },
+          {
+            "from": 33320,
+            "rate": 0.0625
+          },
+          {
+            "from": 49980,
+            "rate": 0.0744
+          },
+          {
+            "from": 74970,
+            "rate": 0.0853
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2110,
+        "marriedJoint": 5210
+      },
+      "source": "https://publications.iowa.gov/40695/1/Individual%20Income%20Tax%20Report%202020.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0033
+          },
+          {
+            "from": 1676,
+            "rate": 0.0067
+          },
+          {
+            "from": 3352,
+            "rate": 0.0225
+          },
+          {
+            "from": 6704,
+            "rate": 0.0414
+          },
+          {
+            "from": 15084,
+            "rate": 0.0563
+          },
+          {
+            "from": 25140,
+            "rate": 0.0596
+          },
+          {
+            "from": 33520,
+            "rate": 0.0625
+          },
+          {
+            "from": 50280,
+            "rate": 0.0744
+          },
+          {
+            "from": 75420,
+            "rate": 0.0853
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2130,
+        "marriedJoint": 5240
+      },
+      "source": "https://publications.iowa.gov/49229/1/Individual%20Income%20Tax%20Report%202021.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0033
+          },
+          {
+            "from": 1743,
+            "rate": 0.0067
+          },
+          {
+            "from": 3486,
+            "rate": 0.0225
+          },
+          {
+            "from": 6972,
+            "rate": 0.0414
+          },
+          {
+            "from": 15687,
+            "rate": 0.0563
+          },
+          {
+            "from": 26145,
+            "rate": 0.0596
+          },
+          {
+            "from": 34860,
+            "rate": 0.0625
+          },
+          {
+            "from": 52290,
+            "rate": 0.0744
+          },
+          {
+            "from": 78435,
+            "rate": 0.0853
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2210,
+        "marriedJoint": 5450
+      },
+      "source": "https://publications.iowa.gov/49228/1/Individual%20Income%20Tax%20Report%202022%20Combined.pdf",
+      "notes": "Net federal income tax paid is deductible (not modelled). Same schedule for every filing status (married couples commonly file separately on a combined return); standard deduction indexed. Personal exemption credits ($40 per taxpayer, $40 per dependent) left out. Optional alternate tax for non-single filers (8.98%/8.53% of net income above $13,500) not modelled."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.044
+          },
+          {
+            "from": 6000,
+            "rate": 0.0482
+          },
+          {
+            "from": 30000,
+            "rate": 0.057
+          },
+          {
+            "from": 75000,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.044
+          },
+          {
+            "from": 12000,
+            "rate": 0.0482
+          },
+          {
+            "from": 60000,
+            "rate": 0.057
+          },
+          {
+            "from": 150000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 13850,
+        "marriedJoint": 27700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/IA/2023/TaxCalculationWorksheet(41026).pdf",
+      "notes": "Starts from federal taxable income from 2023, so the federal standard deduction ($13,850 / $27,700) applies; deduction for current-year federal tax paid no longer listed in the 2023 IDR report. $40 per person exemption credit left out. School district surtax not modelled. (IDR 2023 report misprints the third bracket start as $31,050; worksheet shows $30,000.)"
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.044
+          },
+          {
+            "from": 6210,
+            "rate": 0.0482
+          },
+          {
+            "from": 31050,
+            "rate": 0.057
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.044
+          },
+          {
+            "from": 12420,
+            "rate": 0.0482
+          },
+          {
+            "from": 62100,
+            "rate": 0.057
+          }
+        ]
+      },
+      "deduction": {
+        "single": 14600,
+        "marriedJoint": 29200
+      },
+      "source": "https://revenue.iowa.gov/media/4093/download?inline=",
+      "notes": "Starts from federal taxable income. The $40 per person exemption credit is left out."
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.038,
+      "deduction": {
+        "single": 15750,
+        "marriedJoint": 31500
+      },
+      "source": "https://revenue.iowa.gov/media/4400/download?inline=",
+      "notes": "Flat 3.8% from 2025. Starts from federal taxable income, and Iowa's rolling conformity carries the One Big Beautiful Bill Act standard deduction. The $40 per person exemption credit is left out."
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.038,
+      "deduction": {
+        "single": 16100,
+        "marriedJoint": 32200
+      },
+      "source": "https://revenue.iowa.gov/press-release/2025-10-21/idr-announces-2026-individual-income-tax-and-interest-rates",
+      "notes": "Starts from federal taxable income. The $40 per person exemption credit is left out."
+    }
+  }
+}

@@ -1,0 +1,2897 @@
+{
+  "id": "us-local-yonkers",
+  "kind": "local",
+  "region": "Yonkers",
+  "state": "NY",
+  "since": 1984,
+  "years": {
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.003
+          },
+          {
+            "from": 1000,
+            "rate": 0.0045
+          },
+          {
+            "from": 3000,
+            "rate": 0.006
+          },
+          {
+            "from": 5000,
+            "rate": 0.0075
+          },
+          {
+            "from": 7000,
+            "rate": 0.009
+          },
+          {
+            "from": 9000,
+            "rate": 0.0105
+          },
+          {
+            "from": 11000,
+            "rate": 0.012
+          },
+          {
+            "from": 13000,
+            "rate": 0.0135
+          },
+          {
+            "from": 15000,
+            "rate": 0.015
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m84_14i.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 1984 x 15%; deduction is the State deduction. TSB-M-84(14)I: surcharge of 15% of net State tax for tax years 1984-1988. State schedule for this year is the single-filer schedule (spouses taxed separately), capped as in the State file."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.003
+          },
+          {
+            "from": 1000,
+            "rate": 0.0045
+          },
+          {
+            "from": 3000,
+            "rate": 0.006
+          },
+          {
+            "from": 5000,
+            "rate": 0.0075
+          },
+          {
+            "from": 7000,
+            "rate": 0.009
+          },
+          {
+            "from": 9000,
+            "rate": 0.0105
+          },
+          {
+            "from": 11000,
+            "rate": 0.012
+          },
+          {
+            "from": 13000,
+            "rate": 0.0135
+          },
+          {
+            "from": 15000,
+            "rate": 0.01425
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3350,
+        "marriedJoint": 4450
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m84_14i.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 1985 x 15%; deduction is the State deduction. TSB-M-84(14)I: surcharge of 15% of net State tax for tax years 1984-1988. State schedule for this year is the single-filer schedule (spouses taxed separately), capped as in the State file."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.003
+          },
+          {
+            "from": 1000,
+            "rate": 0.0045
+          },
+          {
+            "from": 3000,
+            "rate": 0.006
+          },
+          {
+            "from": 5000,
+            "rate": 0.0075
+          },
+          {
+            "from": 7000,
+            "rate": 0.009
+          },
+          {
+            "from": 9000,
+            "rate": 0.0105
+          },
+          {
+            "from": 11000,
+            "rate": 0.012
+          },
+          {
+            "from": 13500,
+            "rate": 0.0135
+          },
+          {
+            "from": 16000,
+            "rate": 0.01425
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3450,
+        "marriedJoint": 4700
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m84_14i.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 1986 x 15%; deduction is the State deduction. TSB-M-84(14)I: surcharge of 15% of net State tax for tax years 1984-1988. State schedule for this year is the single-filer schedule (spouses taxed separately), capped as in the State file."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.003
+          },
+          {
+            "from": 1000,
+            "rate": 0.0045
+          },
+          {
+            "from": 3000,
+            "rate": 0.006
+          },
+          {
+            "from": 5000,
+            "rate": 0.0075
+          },
+          {
+            "from": 7000,
+            "rate": 0.009
+          },
+          {
+            "from": 9000,
+            "rate": 0.0105
+          },
+          {
+            "from": 11000,
+            "rate": 0.012
+          },
+          {
+            "from": 14000,
+            "rate": 0.013125
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.003
+          },
+          {
+            "from": 1700,
+            "rate": 0.0045
+          },
+          {
+            "from": 5000,
+            "rate": 0.006
+          },
+          {
+            "from": 8300,
+            "rate": 0.0075
+          },
+          {
+            "from": 11700,
+            "rate": 0.009
+          },
+          {
+            "from": 15000,
+            "rate": 0.0105
+          },
+          {
+            "from": 18300,
+            "rate": 0.012
+          },
+          {
+            "from": 23300,
+            "rate": 0.013125
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4500,
+        "marriedJoint": 7100
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m84_14i.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 1987 x 15%; deduction is the State deduction. TSB-M-84(14)I: surcharge of 15% of net State tax for tax years 1984-1988."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0045
+          },
+          {
+            "from": 3000,
+            "rate": 0.006
+          },
+          {
+            "from": 5100,
+            "rate": 0.0075
+          },
+          {
+            "from": 7300,
+            "rate": 0.009
+          },
+          {
+            "from": 9400,
+            "rate": 0.0105
+          },
+          {
+            "from": 12400,
+            "rate": 0.012
+          },
+          {
+            "from": 17000,
+            "rate": 0.0125625
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0045
+          },
+          {
+            "from": 6000,
+            "rate": 0.006
+          },
+          {
+            "from": 10200,
+            "rate": 0.0075
+          },
+          {
+            "from": 14600,
+            "rate": 0.009
+          },
+          {
+            "from": 18800,
+            "rate": 0.0105
+          },
+          {
+            "from": 24800,
+            "rate": 0.012
+          },
+          {
+            "from": 34000,
+            "rate": 0.0125625
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 8500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m84_14i.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 1988 x 15%; deduction is the State deduction. TSB-M-84(14)I: surcharge of 15% of net State tax for tax years 1984-1988."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 5500,
+            "rate": 0.0075
+          },
+          {
+            "from": 8000,
+            "rate": 0.009
+          },
+          {
+            "from": 11000,
+            "rate": 0.0105
+          },
+          {
+            "from": 13000,
+            "rate": 0.0118125
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 11000,
+            "rate": 0.0075
+          },
+          {
+            "from": 16000,
+            "rate": 0.009
+          },
+          {
+            "from": 22000,
+            "rate": 0.0105
+          },
+          {
+            "from": 26000,
+            "rate": 0.0118125
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m88_8i.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 1989 x 15%; deduction is the State deduction. TSB-M-88(8)I: 1989 Yonkers surcharge supplemental withholding rate 1.181% = 15% x 7.875%."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 5500,
+            "rate": 0.0075
+          },
+          {
+            "from": 8000,
+            "rate": 0.009
+          },
+          {
+            "from": 11000,
+            "rate": 0.0105
+          },
+          {
+            "from": 13000,
+            "rate": 0.0118125
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 11000,
+            "rate": 0.0075
+          },
+          {
+            "from": 16000,
+            "rate": 0.009
+          },
+          {
+            "from": 22000,
+            "rate": 0.0105
+          },
+          {
+            "from": 26000,
+            "rate": 0.0118125
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/1990/inc/it201i_1990.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 1990 x 15%; deduction is the State deduction. 1990 IT-201 instructions, Yonkers worksheet: \"Yonkers resident tax rate (15 percent)\"."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 5500,
+            "rate": 0.0075
+          },
+          {
+            "from": 8000,
+            "rate": 0.009
+          },
+          {
+            "from": 11000,
+            "rate": 0.0105
+          },
+          {
+            "from": 13000,
+            "rate": 0.0118125
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 11000,
+            "rate": 0.0075
+          },
+          {
+            "from": 16000,
+            "rate": 0.009
+          },
+          {
+            "from": 22000,
+            "rate": 0.0105
+          },
+          {
+            "from": 26000,
+            "rate": 0.0118125
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m92_1i.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 1991 x 15%; deduction is the State deduction. TSB-M-92(1)I: surcharge extended by Chapter 271 of 1991 and Yonkers Local Law 12-1991 to tax years before 1995; rate 15% of net State tax (TSB-M-84(14)I; cut to 10% only from 1999, TSB-M-99(3)I)."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 5500,
+            "rate": 0.0075
+          },
+          {
+            "from": 8000,
+            "rate": 0.009
+          },
+          {
+            "from": 11000,
+            "rate": 0.0105
+          },
+          {
+            "from": 13000,
+            "rate": 0.0118125
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 11000,
+            "rate": 0.0075
+          },
+          {
+            "from": 16000,
+            "rate": 0.009
+          },
+          {
+            "from": 22000,
+            "rate": 0.0105
+          },
+          {
+            "from": 26000,
+            "rate": 0.0118125
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m92_1i.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 1992 x 15%; deduction is the State deduction. TSB-M-92(1)I: surcharge extended by Chapter 271 of 1991 and Yonkers Local Law 12-1991 to tax years before 1995; rate 15% of net State tax (TSB-M-84(14)I; cut to 10% only from 1999, TSB-M-99(3)I)."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 5500,
+            "rate": 0.0075
+          },
+          {
+            "from": 8000,
+            "rate": 0.009
+          },
+          {
+            "from": 11000,
+            "rate": 0.0105
+          },
+          {
+            "from": 13000,
+            "rate": 0.0118125
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 11000,
+            "rate": 0.0075
+          },
+          {
+            "from": 16000,
+            "rate": 0.009
+          },
+          {
+            "from": 22000,
+            "rate": 0.0105
+          },
+          {
+            "from": 26000,
+            "rate": 0.0118125
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m94_1i.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 1993 x 15%; deduction is the State deduction. TSB-M-94(1)I: surcharge extended to tax years before 1996; rate 15% of net State tax (TSB-M-84(14)I; cut to 10% only from 1999, TSB-M-99(3)I)."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 5500,
+            "rate": 0.0075
+          },
+          {
+            "from": 8000,
+            "rate": 0.009
+          },
+          {
+            "from": 11000,
+            "rate": 0.0105
+          },
+          {
+            "from": 13000,
+            "rate": 0.0118125
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 11000,
+            "rate": 0.0075
+          },
+          {
+            "from": 16000,
+            "rate": 0.009
+          },
+          {
+            "from": 22000,
+            "rate": 0.0105
+          },
+          {
+            "from": 26000,
+            "rate": 0.0118125
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/1994/inc/it201i_1994.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 1994 x 15%; deduction is the State deduction. 1994 IT-201 instructions, Yonkers worksheet: \"Yonkers resident tax rate (15 percent)\"."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.006825
+          },
+          {
+            "from": 6500,
+            "rate": 0.008325
+          },
+          {
+            "from": 9500,
+            "rate": 0.009825
+          },
+          {
+            "from": 12500,
+            "rate": 0.0113906
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.006825
+          },
+          {
+            "from": 13000,
+            "rate": 0.008325
+          },
+          {
+            "from": 19000,
+            "rate": 0.009825
+          },
+          {
+            "from": 25000,
+            "rate": 0.0113906
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6600,
+        "marriedJoint": 10800
+      },
+      "source": "https://www.tax.ny.gov/pdf/1995/inc/it201i_1995.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 1995 x 15%; deduction is the State deduction. 1995 IT-201 instructions, Yonkers worksheet: \"Yonkers resident tax rate (15 percent)\"."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 5500,
+            "rate": 0.0075
+          },
+          {
+            "from": 8000,
+            "rate": 0.009
+          },
+          {
+            "from": 11000,
+            "rate": 0.0105
+          },
+          {
+            "from": 13000,
+            "rate": 0.0106875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 11000,
+            "rate": 0.0075
+          },
+          {
+            "from": 16000,
+            "rate": 0.009
+          },
+          {
+            "from": 22000,
+            "rate": 0.0105
+          },
+          {
+            "from": 26000,
+            "rate": 0.0106875
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7400,
+        "marriedJoint": 12350
+      },
+      "source": "https://www.tax.ny.gov/pdf/1996/inc/it201i_1996.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 1996 x 15%; deduction is the State deduction. 1996 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 15%."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 8000,
+            "rate": 0.00675
+          },
+          {
+            "from": 11000,
+            "rate": 0.007875
+          },
+          {
+            "from": 13000,
+            "rate": 0.00885
+          },
+          {
+            "from": 20000,
+            "rate": 0.010275
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 16000,
+            "rate": 0.00675
+          },
+          {
+            "from": 22000,
+            "rate": 0.007875
+          },
+          {
+            "from": 26000,
+            "rate": 0.00885
+          },
+          {
+            "from": 40000,
+            "rate": 0.010275
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 13000
+      },
+      "source": "https://www.tax.ny.gov/pdf/1997/inc/it201i_1997.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 1997 x 15%; deduction is the State deduction. 1997 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 15%."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 8000,
+            "rate": 0.00675
+          },
+          {
+            "from": 11000,
+            "rate": 0.007875
+          },
+          {
+            "from": 13000,
+            "rate": 0.00885
+          },
+          {
+            "from": 20000,
+            "rate": 0.010275
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 16000,
+            "rate": 0.00675
+          },
+          {
+            "from": 22000,
+            "rate": 0.007875
+          },
+          {
+            "from": 26000,
+            "rate": 0.00885
+          },
+          {
+            "from": 40000,
+            "rate": 0.010275
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 13000
+      },
+      "source": "https://www.tax.ny.gov/pdf/1998/inc/it201i_1998.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 1998 x 15%; deduction is the State deduction. 1998 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 15%."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 8000,
+            "rate": 0.0045
+          },
+          {
+            "from": 11000,
+            "rate": 0.00525
+          },
+          {
+            "from": 13000,
+            "rate": 0.0059
+          },
+          {
+            "from": 20000,
+            "rate": 0.00685
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 16000,
+            "rate": 0.0045
+          },
+          {
+            "from": 22000,
+            "rate": 0.00525
+          },
+          {
+            "from": 26000,
+            "rate": 0.0059
+          },
+          {
+            "from": 40000,
+            "rate": 0.00685
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 13000
+      },
+      "source": "https://www.tax.ny.gov/pdf/1999/inc/it201i_1999.pdf",
+      "notes": "Yonkers resident income tax surcharge: 10% of net New York State tax (after credits). Brackets are the State schedule for 1999 x 10%; deduction is the State deduction. 1999 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 10%."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.002
+          },
+          {
+            "from": 8000,
+            "rate": 0.00225
+          },
+          {
+            "from": 11000,
+            "rate": 0.002625
+          },
+          {
+            "from": 13000,
+            "rate": 0.00295
+          },
+          {
+            "from": 20000,
+            "rate": 0.003425
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.002
+          },
+          {
+            "from": 16000,
+            "rate": 0.00225
+          },
+          {
+            "from": 22000,
+            "rate": 0.002625
+          },
+          {
+            "from": 26000,
+            "rate": 0.00295
+          },
+          {
+            "from": 40000,
+            "rate": 0.003425
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 13000
+      },
+      "source": "https://www.tax.ny.gov/pdf/2000/inc/it201i_2000.pdf",
+      "notes": "Yonkers resident income tax surcharge: 5% of net New York State tax (after credits). Brackets are the State schedule for 2000 x 5%; deduction is the State deduction. 2000 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 5%."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.002
+          },
+          {
+            "from": 8000,
+            "rate": 0.00225
+          },
+          {
+            "from": 11000,
+            "rate": 0.002625
+          },
+          {
+            "from": 13000,
+            "rate": 0.00295
+          },
+          {
+            "from": 20000,
+            "rate": 0.003425
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.002
+          },
+          {
+            "from": 16000,
+            "rate": 0.00225
+          },
+          {
+            "from": 22000,
+            "rate": 0.002625
+          },
+          {
+            "from": 26000,
+            "rate": 0.00295
+          },
+          {
+            "from": 40000,
+            "rate": 0.003425
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 13400
+      },
+      "source": "https://www.tax.ny.gov/pdf/2001/inc/it201i_2001.pdf",
+      "notes": "Yonkers resident income tax surcharge: 5% of net New York State tax (after credits). Brackets are the State schedule for 2001 x 5%; deduction is the State deduction. 2001 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 5%."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.002
+          },
+          {
+            "from": 8000,
+            "rate": 0.00225
+          },
+          {
+            "from": 11000,
+            "rate": 0.002625
+          },
+          {
+            "from": 13000,
+            "rate": 0.00295
+          },
+          {
+            "from": 20000,
+            "rate": 0.003425
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.002
+          },
+          {
+            "from": 16000,
+            "rate": 0.00225
+          },
+          {
+            "from": 22000,
+            "rate": 0.002625
+          },
+          {
+            "from": 26000,
+            "rate": 0.00295
+          },
+          {
+            "from": 40000,
+            "rate": 0.003425
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 14200
+      },
+      "source": "https://www.tax.ny.gov/pdf/2002/inc/it201i_2002.pdf",
+      "notes": "Yonkers resident income tax surcharge: 5% of net New York State tax (after credits). Brackets are the State schedule for 2002 x 5%; deduction is the State deduction. 2002 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 5%."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.002
+          },
+          {
+            "from": 8000,
+            "rate": 0.00225
+          },
+          {
+            "from": 11000,
+            "rate": 0.002625
+          },
+          {
+            "from": 13000,
+            "rate": 0.00295
+          },
+          {
+            "from": 20000,
+            "rate": 0.003425
+          },
+          {
+            "from": 100000,
+            "rate": 0.00375
+          },
+          {
+            "from": 500000,
+            "rate": 0.00385
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.002
+          },
+          {
+            "from": 16000,
+            "rate": 0.00225
+          },
+          {
+            "from": 22000,
+            "rate": 0.002625
+          },
+          {
+            "from": 26000,
+            "rate": 0.00295
+          },
+          {
+            "from": 40000,
+            "rate": 0.003425
+          },
+          {
+            "from": 150000,
+            "rate": 0.00375
+          },
+          {
+            "from": 500000,
+            "rate": 0.00385
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 14600
+      },
+      "source": "https://www.tax.ny.gov/pdf/2003/inc/it201i_2003.pdf",
+      "notes": "Yonkers resident income tax surcharge: 5% of net New York State tax (after credits). Brackets are the State schedule for 2003 x 5%; deduction is the State deduction. 2003 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 5%."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.002
+          },
+          {
+            "from": 8000,
+            "rate": 0.00225
+          },
+          {
+            "from": 11000,
+            "rate": 0.002625
+          },
+          {
+            "from": 13000,
+            "rate": 0.00295
+          },
+          {
+            "from": 20000,
+            "rate": 0.003425
+          },
+          {
+            "from": 100000,
+            "rate": 0.0036875
+          },
+          {
+            "from": 500000,
+            "rate": 0.00385
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.002
+          },
+          {
+            "from": 16000,
+            "rate": 0.00225
+          },
+          {
+            "from": 22000,
+            "rate": 0.002625
+          },
+          {
+            "from": 26000,
+            "rate": 0.00295
+          },
+          {
+            "from": 40000,
+            "rate": 0.003425
+          },
+          {
+            "from": 150000,
+            "rate": 0.0036875
+          },
+          {
+            "from": 500000,
+            "rate": 0.00385
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 14600
+      },
+      "source": "https://www.tax.ny.gov/pdf/2004/inc/it201i_2004.pdf",
+      "notes": "Yonkers resident income tax surcharge: 5% of net New York State tax (after credits). Brackets are the State schedule for 2004 x 5%; deduction is the State deduction. 2004 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 5%."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 8000,
+            "rate": 0.0045
+          },
+          {
+            "from": 11000,
+            "rate": 0.00525
+          },
+          {
+            "from": 13000,
+            "rate": 0.0059
+          },
+          {
+            "from": 20000,
+            "rate": 0.00685
+          },
+          {
+            "from": 100000,
+            "rate": 0.00725
+          },
+          {
+            "from": 500000,
+            "rate": 0.0077
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 16000,
+            "rate": 0.0045
+          },
+          {
+            "from": 22000,
+            "rate": 0.00525
+          },
+          {
+            "from": 26000,
+            "rate": 0.0059
+          },
+          {
+            "from": 40000,
+            "rate": 0.00685
+          },
+          {
+            "from": 150000,
+            "rate": 0.00725
+          },
+          {
+            "from": 500000,
+            "rate": 0.0077
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 14600
+      },
+      "source": "https://www.tax.ny.gov/pdf/2005/inc/it150_201i_2005.pdf",
+      "notes": "Yonkers resident income tax surcharge: 10% of net New York State tax (after credits). Brackets are the State schedule for 2005 x 10%; deduction is the State deduction. 2005 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 10%."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 8000,
+            "rate": 0.0045
+          },
+          {
+            "from": 11000,
+            "rate": 0.00525
+          },
+          {
+            "from": 13000,
+            "rate": 0.0059
+          },
+          {
+            "from": 20000,
+            "rate": 0.00685
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 16000,
+            "rate": 0.0045
+          },
+          {
+            "from": 22000,
+            "rate": 0.00525
+          },
+          {
+            "from": 26000,
+            "rate": 0.0059
+          },
+          {
+            "from": 40000,
+            "rate": 0.00685
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://www.tax.ny.gov/pdf/2006/inc/it201i_2006.pdf",
+      "notes": "Yonkers resident income tax surcharge: 10% of net New York State tax (after credits). Brackets are the State schedule for 2006 x 10%; deduction is the State deduction. 2006 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 10%."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 8000,
+            "rate": 0.0045
+          },
+          {
+            "from": 11000,
+            "rate": 0.00525
+          },
+          {
+            "from": 13000,
+            "rate": 0.0059
+          },
+          {
+            "from": 20000,
+            "rate": 0.00685
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 16000,
+            "rate": 0.0045
+          },
+          {
+            "from": 22000,
+            "rate": 0.00525
+          },
+          {
+            "from": 26000,
+            "rate": 0.0059
+          },
+          {
+            "from": 40000,
+            "rate": 0.00685
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://www.tax.ny.gov/pdf/2007/inc/it201i_2007.pdf",
+      "notes": "Yonkers resident income tax surcharge: 10% of net New York State tax (after credits). Brackets are the State schedule for 2007 x 10%; deduction is the State deduction. 2007 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 10%."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 8000,
+            "rate": 0.0045
+          },
+          {
+            "from": 11000,
+            "rate": 0.00525
+          },
+          {
+            "from": 13000,
+            "rate": 0.0059
+          },
+          {
+            "from": 20000,
+            "rate": 0.00685
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 16000,
+            "rate": 0.0045
+          },
+          {
+            "from": 22000,
+            "rate": 0.00525
+          },
+          {
+            "from": 26000,
+            "rate": 0.0059
+          },
+          {
+            "from": 40000,
+            "rate": 0.00685
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NY/2008/it150_201i_2008.pdf",
+      "notes": "Yonkers resident income tax surcharge: 10% of net New York State tax (after credits). Brackets are the State schedule for 2008 x 10%; deduction is the State deduction. 2008 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 10%."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 8000,
+            "rate": 0.0045
+          },
+          {
+            "from": 11000,
+            "rate": 0.00525
+          },
+          {
+            "from": 13000,
+            "rate": 0.0059
+          },
+          {
+            "from": 20000,
+            "rate": 0.00685
+          },
+          {
+            "from": 200000,
+            "rate": 0.00785
+          },
+          {
+            "from": 500000,
+            "rate": 0.00897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 16000,
+            "rate": 0.0045
+          },
+          {
+            "from": 22000,
+            "rate": 0.00525
+          },
+          {
+            "from": 26000,
+            "rate": 0.0059
+          },
+          {
+            "from": 40000,
+            "rate": 0.00685
+          },
+          {
+            "from": 300000,
+            "rate": 0.00785
+          },
+          {
+            "from": 500000,
+            "rate": 0.00897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NY/2009/it150_201i_2009.pdf",
+      "notes": "Yonkers resident income tax surcharge: 10% of net New York State tax (after credits). Brackets are the State schedule for 2009 x 10%; deduction is the State deduction. 2009 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 10%."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 8000,
+            "rate": 0.0045
+          },
+          {
+            "from": 11000,
+            "rate": 0.00525
+          },
+          {
+            "from": 13000,
+            "rate": 0.0059
+          },
+          {
+            "from": 20000,
+            "rate": 0.00685
+          },
+          {
+            "from": 200000,
+            "rate": 0.00785
+          },
+          {
+            "from": 500000,
+            "rate": 0.00897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.004
+          },
+          {
+            "from": 16000,
+            "rate": 0.0045
+          },
+          {
+            "from": 22000,
+            "rate": 0.00525
+          },
+          {
+            "from": 26000,
+            "rate": 0.0059
+          },
+          {
+            "from": 40000,
+            "rate": 0.00685
+          },
+          {
+            "from": 300000,
+            "rate": 0.00785
+          },
+          {
+            "from": 500000,
+            "rate": 0.00897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NY/2010/it150_201i_2010.pdf",
+      "notes": "Yonkers resident income tax surcharge: 10% of net New York State tax (after credits). Brackets are the State schedule for 2010 x 10%; deduction is the State deduction. 2010 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 10%."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 8000,
+            "rate": 0.00675
+          },
+          {
+            "from": 11000,
+            "rate": 0.007875
+          },
+          {
+            "from": 13000,
+            "rate": 0.00885
+          },
+          {
+            "from": 20000,
+            "rate": 0.010275
+          },
+          {
+            "from": 200000,
+            "rate": 0.011775
+          },
+          {
+            "from": 500000,
+            "rate": 0.013455
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 16000,
+            "rate": 0.00675
+          },
+          {
+            "from": 22000,
+            "rate": 0.007875
+          },
+          {
+            "from": 26000,
+            "rate": 0.00885
+          },
+          {
+            "from": 40000,
+            "rate": 0.010275
+          },
+          {
+            "from": 300000,
+            "rate": 0.011775
+          },
+          {
+            "from": 500000,
+            "rate": 0.013455
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://www.tax.ny.gov/pdf/2011/inc/it201i_2011.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 2011 x 15%; deduction is the State deduction. 2011 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 15%."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 8000,
+            "rate": 0.00675
+          },
+          {
+            "from": 11000,
+            "rate": 0.007875
+          },
+          {
+            "from": 13000,
+            "rate": 0.00885
+          },
+          {
+            "from": 20000,
+            "rate": 0.009675
+          },
+          {
+            "from": 75000,
+            "rate": 0.009975
+          },
+          {
+            "from": 200000,
+            "rate": 0.010275
+          },
+          {
+            "from": 1000000,
+            "rate": 0.01323
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 16000,
+            "rate": 0.00675
+          },
+          {
+            "from": 22000,
+            "rate": 0.007875
+          },
+          {
+            "from": 26000,
+            "rate": 0.00885
+          },
+          {
+            "from": 40000,
+            "rate": 0.009675
+          },
+          {
+            "from": 150000,
+            "rate": 0.009975
+          },
+          {
+            "from": 300000,
+            "rate": 0.010275
+          },
+          {
+            "from": 2000000,
+            "rate": 0.01323
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://www.tax.ny.gov/pdf/2012/inc/it201i_2012.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 2012 x 15%; deduction is the State deduction. 2012 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 15%."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 8200,
+            "rate": 0.00675
+          },
+          {
+            "from": 11300,
+            "rate": 0.007875
+          },
+          {
+            "from": 13350,
+            "rate": 0.00885
+          },
+          {
+            "from": 20550,
+            "rate": 0.009675
+          },
+          {
+            "from": 77150,
+            "rate": 0.009975
+          },
+          {
+            "from": 205850,
+            "rate": 0.010275
+          },
+          {
+            "from": 1029250,
+            "rate": 0.01323
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.006
+          },
+          {
+            "from": 16450,
+            "rate": 0.00675
+          },
+          {
+            "from": 22600,
+            "rate": 0.007875
+          },
+          {
+            "from": 26750,
+            "rate": 0.00885
+          },
+          {
+            "from": 41150,
+            "rate": 0.009675
+          },
+          {
+            "from": 154350,
+            "rate": 0.009975
+          },
+          {
+            "from": 308750,
+            "rate": 0.010275
+          },
+          {
+            "from": 2058550,
+            "rate": 0.01323
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7700,
+        "marriedJoint": 15400
+      },
+      "source": "https://www.tax.ny.gov/pdf/2013/inc/it201i_2013.pdf",
+      "notes": "Yonkers resident income tax surcharge: 15% of net New York State tax (after credits). Brackets are the State schedule for 2013 x 15%; deduction is the State deduction. 2013 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 15%."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 8300,
+            "rate": 0.0075375
+          },
+          {
+            "from": 11450,
+            "rate": 0.0087938
+          },
+          {
+            "from": 13550,
+            "rate": 0.0098825
+          },
+          {
+            "from": 20850,
+            "rate": 0.0108038
+          },
+          {
+            "from": 78400,
+            "rate": 0.0111388
+          },
+          {
+            "from": 209250,
+            "rate": 0.0114738
+          },
+          {
+            "from": 1046350,
+            "rate": 0.0147735
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 16700,
+            "rate": 0.0075375
+          },
+          {
+            "from": 22950,
+            "rate": 0.0087938
+          },
+          {
+            "from": 27150,
+            "rate": 0.0098825
+          },
+          {
+            "from": 41800,
+            "rate": 0.0108038
+          },
+          {
+            "from": 156900,
+            "rate": 0.0111388
+          },
+          {
+            "from": 313850,
+            "rate": 0.0114738
+          },
+          {
+            "from": 2092800,
+            "rate": 0.0147735
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7800,
+        "marriedJoint": 15650
+      },
+      "source": "https://www.tax.ny.gov/pdf/2014/inc/it201i_2014.pdf",
+      "notes": "Yonkers resident income tax surcharge: 16.75% of net New York State tax (after credits). Brackets are the State schedule for 2014 x 16.75%; deduction is the State deduction. 2014 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 16.75%."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 8400,
+            "rate": 0.0075375
+          },
+          {
+            "from": 11600,
+            "rate": 0.0087938
+          },
+          {
+            "from": 13750,
+            "rate": 0.0098825
+          },
+          {
+            "from": 21150,
+            "rate": 0.0108038
+          },
+          {
+            "from": 79600,
+            "rate": 0.0111388
+          },
+          {
+            "from": 212500,
+            "rate": 0.0114738
+          },
+          {
+            "from": 1062650,
+            "rate": 0.0147735
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 16950,
+            "rate": 0.0075375
+          },
+          {
+            "from": 23300,
+            "rate": 0.0087938
+          },
+          {
+            "from": 27550,
+            "rate": 0.0098825
+          },
+          {
+            "from": 42450,
+            "rate": 0.0108038
+          },
+          {
+            "from": 159350,
+            "rate": 0.0111388
+          },
+          {
+            "from": 318750,
+            "rate": 0.0114738
+          },
+          {
+            "from": 2125450,
+            "rate": 0.0147735
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7900,
+        "marriedJoint": 15850
+      },
+      "source": "https://www.tax.ny.gov/pdf/2015/inc/it201i_2015.pdf",
+      "notes": "Yonkers resident income tax surcharge: 16.75% of net New York State tax (after credits). Brackets are the State schedule for 2015 x 16.75%; deduction is the State deduction. 2015 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 16.75%."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 8450,
+            "rate": 0.0075375
+          },
+          {
+            "from": 11650,
+            "rate": 0.0087938
+          },
+          {
+            "from": 13850,
+            "rate": 0.0098825
+          },
+          {
+            "from": 21300,
+            "rate": 0.0108038
+          },
+          {
+            "from": 80150,
+            "rate": 0.0111388
+          },
+          {
+            "from": 214000,
+            "rate": 0.0114738
+          },
+          {
+            "from": 1070350,
+            "rate": 0.0147735
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 17050,
+            "rate": 0.0075375
+          },
+          {
+            "from": 23450,
+            "rate": 0.0087938
+          },
+          {
+            "from": 27750,
+            "rate": 0.0098825
+          },
+          {
+            "from": 42750,
+            "rate": 0.0108038
+          },
+          {
+            "from": 160500,
+            "rate": 0.0111388
+          },
+          {
+            "from": 321050,
+            "rate": 0.0114738
+          },
+          {
+            "from": 2140900,
+            "rate": 0.0147735
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7950,
+        "marriedJoint": 15950
+      },
+      "source": "https://www.tax.ny.gov/pdf/2016/inc/it201i_2016.pdf",
+      "notes": "Yonkers resident income tax surcharge: 16.75% of net New York State tax (after credits). Brackets are the State schedule for 2016 x 16.75%; deduction is the State deduction. 2016 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 16.75%."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 8500,
+            "rate": 0.0075375
+          },
+          {
+            "from": 11700,
+            "rate": 0.0087938
+          },
+          {
+            "from": 13900,
+            "rate": 0.0098825
+          },
+          {
+            "from": 21400,
+            "rate": 0.0108038
+          },
+          {
+            "from": 80650,
+            "rate": 0.0111388
+          },
+          {
+            "from": 215400,
+            "rate": 0.0114738
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0147735
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 17150,
+            "rate": 0.0075375
+          },
+          {
+            "from": 23600,
+            "rate": 0.0087938
+          },
+          {
+            "from": 27900,
+            "rate": 0.0098825
+          },
+          {
+            "from": 43000,
+            "rate": 0.0108038
+          },
+          {
+            "from": 161550,
+            "rate": 0.0111388
+          },
+          {
+            "from": 323200,
+            "rate": 0.0114738
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0147735
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2017/inc/it201i_2017.pdf",
+      "notes": "Yonkers resident income tax surcharge: 16.75% of net New York State tax (after credits). Brackets are the State schedule for 2017 x 16.75%; deduction is the State deduction. 2017 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 16.75%."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 8500,
+            "rate": 0.0075375
+          },
+          {
+            "from": 11700,
+            "rate": 0.0087938
+          },
+          {
+            "from": 13900,
+            "rate": 0.0098825
+          },
+          {
+            "from": 21400,
+            "rate": 0.0106028
+          },
+          {
+            "from": 80650,
+            "rate": 0.0110048
+          },
+          {
+            "from": 215400,
+            "rate": 0.0114738
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0147735
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 17150,
+            "rate": 0.0075375
+          },
+          {
+            "from": 23600,
+            "rate": 0.0087938
+          },
+          {
+            "from": 27900,
+            "rate": 0.0098825
+          },
+          {
+            "from": 43000,
+            "rate": 0.0106028
+          },
+          {
+            "from": 161550,
+            "rate": 0.0110048
+          },
+          {
+            "from": 323200,
+            "rate": 0.0114738
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0147735
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2018/inc/it201i_2018.pdf",
+      "notes": "Yonkers resident income tax surcharge: 16.75% of net New York State tax (after credits). Brackets are the State schedule for 2018 x 16.75%; deduction is the State deduction. 2018 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 16.75%."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 8500,
+            "rate": 0.0075375
+          },
+          {
+            "from": 11700,
+            "rate": 0.0087938
+          },
+          {
+            "from": 13900,
+            "rate": 0.0098825
+          },
+          {
+            "from": 21400,
+            "rate": 0.0104018
+          },
+          {
+            "from": 80650,
+            "rate": 0.0108708
+          },
+          {
+            "from": 215400,
+            "rate": 0.0114738
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0147735
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 17150,
+            "rate": 0.0075375
+          },
+          {
+            "from": 23600,
+            "rate": 0.0087938
+          },
+          {
+            "from": 27900,
+            "rate": 0.0098825
+          },
+          {
+            "from": 43000,
+            "rate": 0.0104018
+          },
+          {
+            "from": 161550,
+            "rate": 0.0108708
+          },
+          {
+            "from": 323200,
+            "rate": 0.0114738
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0147735
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2019/inc/it201i_2019.pdf",
+      "notes": "Yonkers resident income tax surcharge: 16.75% of net New York State tax (after credits). Brackets are the State schedule for 2019 x 16.75%; deduction is the State deduction. 2019 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 16.75%."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 8500,
+            "rate": 0.0075375
+          },
+          {
+            "from": 11700,
+            "rate": 0.0087938
+          },
+          {
+            "from": 13900,
+            "rate": 0.0098825
+          },
+          {
+            "from": 21400,
+            "rate": 0.0102008
+          },
+          {
+            "from": 80650,
+            "rate": 0.0107368
+          },
+          {
+            "from": 215400,
+            "rate": 0.0114738
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0147735
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 17150,
+            "rate": 0.0075375
+          },
+          {
+            "from": 23600,
+            "rate": 0.0087938
+          },
+          {
+            "from": 27900,
+            "rate": 0.0098825
+          },
+          {
+            "from": 43000,
+            "rate": 0.0102008
+          },
+          {
+            "from": 161550,
+            "rate": 0.0107368
+          },
+          {
+            "from": 323200,
+            "rate": 0.0114738
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0147735
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2020/inc/it201i_2020.pdf",
+      "notes": "Yonkers resident income tax surcharge: 16.75% of net New York State tax (after credits). Brackets are the State schedule for 2020 x 16.75%; deduction is the State deduction. 2020 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 16.75%."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 8500,
+            "rate": 0.0075375
+          },
+          {
+            "from": 11700,
+            "rate": 0.0087938
+          },
+          {
+            "from": 13900,
+            "rate": 0.0098825
+          },
+          {
+            "from": 21400,
+            "rate": 0.0099998
+          },
+          {
+            "from": 80650,
+            "rate": 0.0106028
+          },
+          {
+            "from": 215400,
+            "rate": 0.0114738
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0161638
+          },
+          {
+            "from": 5000000,
+            "rate": 0.0172525
+          },
+          {
+            "from": 25000000,
+            "rate": 0.0182575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 17150,
+            "rate": 0.0075375
+          },
+          {
+            "from": 23600,
+            "rate": 0.0087938
+          },
+          {
+            "from": 27900,
+            "rate": 0.0098825
+          },
+          {
+            "from": 43000,
+            "rate": 0.0099998
+          },
+          {
+            "from": 161550,
+            "rate": 0.0106028
+          },
+          {
+            "from": 323200,
+            "rate": 0.0114738
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0161638
+          },
+          {
+            "from": 5000000,
+            "rate": 0.0172525
+          },
+          {
+            "from": 25000000,
+            "rate": 0.0182575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2021/inc/it201i_2021.pdf",
+      "notes": "Yonkers resident income tax surcharge: 16.75% of net New York State tax (after credits). Brackets are the State schedule for 2021 x 16.75%; deduction is the State deduction. 2021 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 16.75%."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 8500,
+            "rate": 0.0075375
+          },
+          {
+            "from": 11700,
+            "rate": 0.0087938
+          },
+          {
+            "from": 13900,
+            "rate": 0.0097988
+          },
+          {
+            "from": 80650,
+            "rate": 0.0104688
+          },
+          {
+            "from": 215400,
+            "rate": 0.0114738
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0161638
+          },
+          {
+            "from": 5000000,
+            "rate": 0.0172525
+          },
+          {
+            "from": 25000000,
+            "rate": 0.0182575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 17150,
+            "rate": 0.0075375
+          },
+          {
+            "from": 23600,
+            "rate": 0.0087938
+          },
+          {
+            "from": 27900,
+            "rate": 0.0097988
+          },
+          {
+            "from": 161550,
+            "rate": 0.0104688
+          },
+          {
+            "from": 323200,
+            "rate": 0.0114738
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0161638
+          },
+          {
+            "from": 5000000,
+            "rate": 0.0172525
+          },
+          {
+            "from": 25000000,
+            "rate": 0.0182575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NY/2022/it201i-2022.pdf",
+      "notes": "Yonkers resident income tax surcharge: 16.75% of net New York State tax (after credits). Brackets are the State schedule for 2022 x 16.75%; deduction is the State deduction. 2022 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 16.75%."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 8500,
+            "rate": 0.0075375
+          },
+          {
+            "from": 11700,
+            "rate": 0.0087938
+          },
+          {
+            "from": 13900,
+            "rate": 0.0092125
+          },
+          {
+            "from": 80650,
+            "rate": 0.01005
+          },
+          {
+            "from": 215400,
+            "rate": 0.0114738
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0161638
+          },
+          {
+            "from": 5000000,
+            "rate": 0.0172525
+          },
+          {
+            "from": 25000000,
+            "rate": 0.0182575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 17150,
+            "rate": 0.0075375
+          },
+          {
+            "from": 23600,
+            "rate": 0.0087938
+          },
+          {
+            "from": 27900,
+            "rate": 0.0092125
+          },
+          {
+            "from": 161550,
+            "rate": 0.01005
+          },
+          {
+            "from": 323200,
+            "rate": 0.0114738
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0161638
+          },
+          {
+            "from": 5000000,
+            "rate": 0.0172525
+          },
+          {
+            "from": 25000000,
+            "rate": 0.0182575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NY/2023/it201i-2023.pdf",
+      "notes": "Yonkers resident income tax surcharge: 16.75% of net New York State tax (after credits). Brackets are the State schedule for 2023 x 16.75%; deduction is the State deduction. 2023 IT-201 instructions, Yonkers worksheet: Yonkers resident tax rate 16.75%."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 8500,
+            "rate": 0.0075375
+          },
+          {
+            "from": 11700,
+            "rate": 0.0087938
+          },
+          {
+            "from": 13900,
+            "rate": 0.0092125
+          },
+          {
+            "from": 80650,
+            "rate": 0.01005
+          },
+          {
+            "from": 215400,
+            "rate": 0.0114738
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0161638
+          },
+          {
+            "from": 5000000,
+            "rate": 0.0172525
+          },
+          {
+            "from": 25000000,
+            "rate": 0.0182575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 17150,
+            "rate": 0.0075375
+          },
+          {
+            "from": 23600,
+            "rate": 0.0087938
+          },
+          {
+            "from": 27900,
+            "rate": 0.0092125
+          },
+          {
+            "from": 161550,
+            "rate": 0.01005
+          },
+          {
+            "from": 323200,
+            "rate": 0.0114738
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0161638
+          },
+          {
+            "from": 5000000,
+            "rate": 0.0172525
+          },
+          {
+            "from": 25000000,
+            "rate": 0.0182575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2024/inc/it201i_2024.pdf"
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 8500,
+            "rate": 0.0075375
+          },
+          {
+            "from": 11700,
+            "rate": 0.0087938
+          },
+          {
+            "from": 13900,
+            "rate": 0.0092125
+          },
+          {
+            "from": 80650,
+            "rate": 0.01005
+          },
+          {
+            "from": 215400,
+            "rate": 0.0114738
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0161638
+          },
+          {
+            "from": 5000000,
+            "rate": 0.0172525
+          },
+          {
+            "from": 25000000,
+            "rate": 0.0182575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0067
+          },
+          {
+            "from": 17150,
+            "rate": 0.0075375
+          },
+          {
+            "from": 23600,
+            "rate": 0.0087938
+          },
+          {
+            "from": 27900,
+            "rate": 0.0092125
+          },
+          {
+            "from": 161550,
+            "rate": 0.01005
+          },
+          {
+            "from": 323200,
+            "rate": 0.0114738
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0161638
+          },
+          {
+            "from": 5000000,
+            "rate": 0.0172525
+          },
+          {
+            "from": 25000000,
+            "rate": 0.0182575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2025/inc/it201i_2025.pdf"
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0065325
+          },
+          {
+            "from": 8500,
+            "rate": 0.00737
+          },
+          {
+            "from": 11700,
+            "rate": 0.0086263
+          },
+          {
+            "from": 13900,
+            "rate": 0.009045
+          },
+          {
+            "from": 80650,
+            "rate": 0.0098825
+          },
+          {
+            "from": 215400,
+            "rate": 0.0114738
+          },
+          {
+            "from": 1077550,
+            "rate": 0.0161638
+          },
+          {
+            "from": 5000000,
+            "rate": 0.0172525
+          },
+          {
+            "from": 25000000,
+            "rate": 0.0182575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0065325
+          },
+          {
+            "from": 17150,
+            "rate": 0.00737
+          },
+          {
+            "from": 23600,
+            "rate": 0.0086263
+          },
+          {
+            "from": 27900,
+            "rate": 0.009045
+          },
+          {
+            "from": 161550,
+            "rate": 0.0098825
+          },
+          {
+            "from": 323200,
+            "rate": 0.0114738
+          },
+          {
+            "from": 2155350,
+            "rate": 0.0161638
+          },
+          {
+            "from": 5000000,
+            "rate": 0.0172525
+          },
+          {
+            "from": 25000000,
+            "rate": 0.0182575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2026/inc/it2105i_2026.pdf"
+    }
+  }
+}

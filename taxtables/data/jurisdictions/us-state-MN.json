@@ -1,0 +1,2693 @@
+{
+  "id": "us-state-MN",
+  "kind": "state",
+  "region": "Minnesota",
+  "state": "MN",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 500,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.05
+          },
+          {
+            "from": 3000,
+            "rate": 0.06
+          },
+          {
+            "from": 4000,
+            "rate": 0.07
+          },
+          {
+            "from": 5000,
+            "rate": 0.08
+          },
+          {
+            "from": 7000,
+            "rate": 0.09
+          },
+          {
+            "from": 9000,
+            "rate": 0.1
+          },
+          {
+            "from": 12500,
+            "rate": 0.11
+          },
+          {
+            "from": 20000,
+            "rate": 0.12
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "DOR table column 1965-70. Single schedule; before 1985 there was no joint schedule (each spouse computed tax separately on own income). Federal income tax was deductible in computing MN taxable income (not modelled). Personal exemptions were tax credits, not deductions; the standard deduction was a percentage of income with a cap, so no deduction recorded. Bracket starts from the DOR table (listed as $1 above the boundary; +/- $1). Lower rates for non-itemizers under $10,000 (through 1971) not modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0155
+          },
+          {
+            "from": 1000,
+            "rate": 0.021
+          },
+          {
+            "from": 2000,
+            "rate": 0.0325
+          },
+          {
+            "from": 3000,
+            "rate": 0.054
+          },
+          {
+            "from": 4000,
+            "rate": 0.0665
+          },
+          {
+            "from": 5000,
+            "rate": 0.079
+          },
+          {
+            "from": 6000,
+            "rate": 0.091
+          },
+          {
+            "from": 7000,
+            "rate": 0.1025
+          },
+          {
+            "from": 9000,
+            "rate": 0.114
+          },
+          {
+            "from": 12500,
+            "rate": 0.125
+          },
+          {
+            "from": 20000,
+            "rate": 0.135
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Single schedule; before 1985 there was no joint schedule (each spouse computed tax separately on own income). Federal income tax was deductible in computing MN taxable income (not modelled). Personal exemptions were tax credits, not deductions; the standard deduction was a percentage of income with a cap, so no deduction recorded. Bracket starts from the DOR table (listed as $1 above the boundary; +/- $1). Lower rates for non-itemizers under $10,000 not modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 500,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.035
+          },
+          {
+            "from": 2000,
+            "rate": 0.058
+          },
+          {
+            "from": 3000,
+            "rate": 0.073
+          },
+          {
+            "from": 4000,
+            "rate": 0.088
+          },
+          {
+            "from": 5000,
+            "rate": 0.102
+          },
+          {
+            "from": 7000,
+            "rate": 0.115
+          },
+          {
+            "from": 9000,
+            "rate": 0.128
+          },
+          {
+            "from": 12500,
+            "rate": 0.14
+          },
+          {
+            "from": 20000,
+            "rate": 0.15
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "DOR table column 1972-77. Single schedule; before 1985 there was no joint schedule (each spouse computed tax separately on own income). Federal income tax was deductible in computing MN taxable income (not modelled). Personal exemptions were tax credits, not deductions; the standard deduction was a percentage of income with a cap, so no deduction recorded. Bracket starts from the DOR table (listed as $1 above the boundary; +/- $1)."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 500,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.035
+          },
+          {
+            "from": 2000,
+            "rate": 0.058
+          },
+          {
+            "from": 3000,
+            "rate": 0.073
+          },
+          {
+            "from": 4000,
+            "rate": 0.088
+          },
+          {
+            "from": 5000,
+            "rate": 0.102
+          },
+          {
+            "from": 7000,
+            "rate": 0.115
+          },
+          {
+            "from": 9000,
+            "rate": 0.128
+          },
+          {
+            "from": 12500,
+            "rate": 0.14
+          },
+          {
+            "from": 20000,
+            "rate": 0.15
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "DOR table column 1972-77. Single schedule; before 1985 there was no joint schedule (each spouse computed tax separately on own income). Federal income tax was deductible in computing MN taxable income (not modelled). Personal exemptions were tax credits, not deductions; the standard deduction was a percentage of income with a cap, so no deduction recorded. Bracket starts from the DOR table (listed as $1 above the boundary; +/- $1)."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 500,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.035
+          },
+          {
+            "from": 2000,
+            "rate": 0.058
+          },
+          {
+            "from": 3000,
+            "rate": 0.073
+          },
+          {
+            "from": 4000,
+            "rate": 0.088
+          },
+          {
+            "from": 5000,
+            "rate": 0.102
+          },
+          {
+            "from": 7000,
+            "rate": 0.115
+          },
+          {
+            "from": 9000,
+            "rate": 0.128
+          },
+          {
+            "from": 12500,
+            "rate": 0.14
+          },
+          {
+            "from": 20000,
+            "rate": 0.15
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "DOR table column 1972-77. Single schedule; before 1985 there was no joint schedule (each spouse computed tax separately on own income). Federal income tax was deductible in computing MN taxable income (not modelled). Personal exemptions were tax credits, not deductions; the standard deduction was a percentage of income with a cap, so no deduction recorded. Bracket starts from the DOR table (listed as $1 above the boundary; +/- $1)."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 500,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.035
+          },
+          {
+            "from": 2000,
+            "rate": 0.058
+          },
+          {
+            "from": 3000,
+            "rate": 0.073
+          },
+          {
+            "from": 4000,
+            "rate": 0.088
+          },
+          {
+            "from": 5000,
+            "rate": 0.102
+          },
+          {
+            "from": 7000,
+            "rate": 0.115
+          },
+          {
+            "from": 9000,
+            "rate": 0.128
+          },
+          {
+            "from": 12500,
+            "rate": 0.14
+          },
+          {
+            "from": 20000,
+            "rate": 0.15
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "DOR table column 1972-77. Single schedule; before 1985 there was no joint schedule (each spouse computed tax separately on own income). Federal income tax was deductible in computing MN taxable income (not modelled). Personal exemptions were tax credits, not deductions; the standard deduction was a percentage of income with a cap, so no deduction recorded. Bracket starts from the DOR table (listed as $1 above the boundary; +/- $1)."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 500,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.035
+          },
+          {
+            "from": 2000,
+            "rate": 0.058
+          },
+          {
+            "from": 3000,
+            "rate": 0.073
+          },
+          {
+            "from": 4000,
+            "rate": 0.088
+          },
+          {
+            "from": 5000,
+            "rate": 0.102
+          },
+          {
+            "from": 7000,
+            "rate": 0.115
+          },
+          {
+            "from": 9000,
+            "rate": 0.128
+          },
+          {
+            "from": 12500,
+            "rate": 0.14
+          },
+          {
+            "from": 20000,
+            "rate": 0.15
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "DOR table column 1972-77. Single schedule; before 1985 there was no joint schedule (each spouse computed tax separately on own income). Federal income tax was deductible in computing MN taxable income (not modelled). Personal exemptions were tax credits, not deductions; the standard deduction was a percentage of income with a cap, so no deduction recorded. Bracket starts from the DOR table (listed as $1 above the boundary; +/- $1)."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 500,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.035
+          },
+          {
+            "from": 2000,
+            "rate": 0.058
+          },
+          {
+            "from": 3000,
+            "rate": 0.073
+          },
+          {
+            "from": 4000,
+            "rate": 0.088
+          },
+          {
+            "from": 5000,
+            "rate": 0.102
+          },
+          {
+            "from": 7000,
+            "rate": 0.115
+          },
+          {
+            "from": 9000,
+            "rate": 0.128
+          },
+          {
+            "from": 12500,
+            "rate": 0.14
+          },
+          {
+            "from": 20000,
+            "rate": 0.15
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "DOR table column 1972-77. Single schedule; before 1985 there was no joint schedule (each spouse computed tax separately on own income). Federal income tax was deductible in computing MN taxable income (not modelled). Personal exemptions were tax credits, not deductions; the standard deduction was a percentage of income with a cap, so no deduction recorded. Bracket starts from the DOR table (listed as $1 above the boundary; +/- $1)."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 500,
+            "rate": 0.022
+          },
+          {
+            "from": 1000,
+            "rate": 0.035
+          },
+          {
+            "from": 2000,
+            "rate": 0.058
+          },
+          {
+            "from": 3000,
+            "rate": 0.073
+          },
+          {
+            "from": 4000,
+            "rate": 0.088
+          },
+          {
+            "from": 5000,
+            "rate": 0.102
+          },
+          {
+            "from": 7000,
+            "rate": 0.115
+          },
+          {
+            "from": 9000,
+            "rate": 0.128
+          },
+          {
+            "from": 12500,
+            "rate": 0.14
+          },
+          {
+            "from": 20000,
+            "rate": 0.15
+          },
+          {
+            "from": 27500,
+            "rate": 0.16
+          },
+          {
+            "from": 40000,
+            "rate": 0.17
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Single schedule; before 1985 there was no joint schedule (each spouse computed tax separately on own income). Federal income tax was deductible in computing MN taxable income (not modelled). Personal exemptions were tax credits, not deductions; the standard deduction was a percentage of income with a cap, so no deduction recorded. Bracket starts from the DOR table (listed as $1 above the boundary; +/- $1). MN DOR 1987 Tax Handbook history mentions an 18% top rate enacted 1977 and repealed 1978; the DOR rate table shows no 18% bracket for any tax year."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 551,
+            "rate": 0.022
+          },
+          {
+            "from": 1102,
+            "rate": 0.035
+          },
+          {
+            "from": 2203,
+            "rate": 0.058
+          },
+          {
+            "from": 3304,
+            "rate": 0.073
+          },
+          {
+            "from": 4405,
+            "rate": 0.088
+          },
+          {
+            "from": 5506,
+            "rate": 0.102
+          },
+          {
+            "from": 7708,
+            "rate": 0.115
+          },
+          {
+            "from": 9910,
+            "rate": 0.128
+          },
+          {
+            "from": 13764,
+            "rate": 0.14
+          },
+          {
+            "from": 22022,
+            "rate": 0.15
+          },
+          {
+            "from": 30280,
+            "rate": 0.16
+          },
+          {
+            "from": 44043,
+            "rate": 0.17
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Brackets indexed from 1979. Single schedule; before 1985 there was no joint schedule (each spouse computed tax separately on own income). Federal income tax was deductible in computing MN taxable income (not modelled). Personal exemptions were tax credits, not deductions; the standard deduction was a percentage of income with a cap, so no deduction recorded. Bracket starts from the DOR table (listed as $1 above the boundary; +/- $1)."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 560,
+            "rate": 0.022
+          },
+          {
+            "from": 1198,
+            "rate": 0.035
+          },
+          {
+            "from": 2394,
+            "rate": 0.058
+          },
+          {
+            "from": 3590,
+            "rate": 0.073
+          },
+          {
+            "from": 4786,
+            "rate": 0.088
+          },
+          {
+            "from": 5982,
+            "rate": 0.102
+          },
+          {
+            "from": 8374,
+            "rate": 0.115
+          },
+          {
+            "from": 10766,
+            "rate": 0.128
+          },
+          {
+            "from": 14952,
+            "rate": 0.14
+          },
+          {
+            "from": 23921,
+            "rate": 0.15
+          },
+          {
+            "from": 32890,
+            "rate": 0.16
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Brackets indexed from 1979. Single schedule; before 1985 there was no joint schedule (each spouse computed tax separately on own income). Federal income tax was deductible in computing MN taxable income (not modelled). Personal exemptions were tax credits, not deductions; the standard deduction was a percentage of income with a cap, so no deduction recorded. Bracket starts from the DOR table (listed as $1 above the boundary; +/- $1)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 654,
+            "rate": 0.022
+          },
+          {
+            "from": 1308,
+            "rate": 0.035
+          },
+          {
+            "from": 2614,
+            "rate": 0.058
+          },
+          {
+            "from": 3920,
+            "rate": 0.073
+          },
+          {
+            "from": 5226,
+            "rate": 0.088
+          },
+          {
+            "from": 6532,
+            "rate": 0.102
+          },
+          {
+            "from": 9144,
+            "rate": 0.115
+          },
+          {
+            "from": 11756,
+            "rate": 0.128
+          },
+          {
+            "from": 16327,
+            "rate": 0.14
+          },
+          {
+            "from": 26121,
+            "rate": 0.15
+          },
+          {
+            "from": 35915,
+            "rate": 0.16
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Brackets indexed from 1979. Single schedule; before 1985 there was no joint schedule (each spouse computed tax separately on own income). Federal income tax was deductible in computing MN taxable income (not modelled). Personal exemptions were tax credits, not deductions; the standard deduction was a percentage of income with a cap, so no deduction recorded. Bracket starts from the DOR table (listed as $1 above the boundary; +/- $1)."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01712
+          },
+          {
+            "from": 667,
+            "rate": 0.02354
+          },
+          {
+            "from": 1334,
+            "rate": 0.03745
+          },
+          {
+            "from": 2666,
+            "rate": 0.06206
+          },
+          {
+            "from": 3998,
+            "rate": 0.07811
+          },
+          {
+            "from": 5330,
+            "rate": 0.09416
+          },
+          {
+            "from": 6662,
+            "rate": 0.10914
+          },
+          {
+            "from": 9326,
+            "rate": 0.12305
+          },
+          {
+            "from": 11990,
+            "rate": 0.13696
+          },
+          {
+            "from": 16652,
+            "rate": 0.1498
+          },
+          {
+            "from": 26642,
+            "rate": 0.1605
+          },
+          {
+            "from": 36632,
+            "rate": 0.1712
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Includes the 7% surtax on tax (rates multiplied by 1.07). Brackets indexed from 1979. Single schedule; before 1985 there was no joint schedule (each spouse computed tax separately on own income). Federal income tax was deductible in computing MN taxable income (not modelled). Personal exemptions were tax credits, not deductions; the standard deduction was a percentage of income with a cap, so no deduction recorded. Bracket starts from the DOR table (listed as $1 above the boundary; +/- $1)."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0176
+          },
+          {
+            "from": 672,
+            "rate": 0.0242
+          },
+          {
+            "from": 1344,
+            "rate": 0.0385
+          },
+          {
+            "from": 2687,
+            "rate": 0.0638
+          },
+          {
+            "from": 4030,
+            "rate": 0.0803
+          },
+          {
+            "from": 5373,
+            "rate": 0.0968
+          },
+          {
+            "from": 6716,
+            "rate": 0.1122
+          },
+          {
+            "from": 9401,
+            "rate": 0.1265
+          },
+          {
+            "from": 12086,
+            "rate": 0.1408
+          },
+          {
+            "from": 16785,
+            "rate": 0.154
+          },
+          {
+            "from": 26855,
+            "rate": 0.165
+          },
+          {
+            "from": 36925,
+            "rate": 0.176
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Includes the 10% surtax on tax (rates multiplied by 1.1). Brackets indexed from 1979. Single schedule; before 1985 there was no joint schedule (each spouse computed tax separately on own income). Federal income tax was deductible in computing MN taxable income (not modelled). Personal exemptions were tax credits, not deductions; the standard deduction was a percentage of income with a cap, so no deduction recorded. Bracket starts from the DOR table (listed as $1 above the boundary; +/- $1)."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 690,
+            "rate": 0.022
+          },
+          {
+            "from": 1380,
+            "rate": 0.035
+          },
+          {
+            "from": 2760,
+            "rate": 0.058
+          },
+          {
+            "from": 4138,
+            "rate": 0.073
+          },
+          {
+            "from": 5517,
+            "rate": 0.088
+          },
+          {
+            "from": 6896,
+            "rate": 0.102
+          },
+          {
+            "from": 9653,
+            "rate": 0.115
+          },
+          {
+            "from": 12410,
+            "rate": 0.128
+          },
+          {
+            "from": 17236,
+            "rate": 0.14
+          },
+          {
+            "from": 27578,
+            "rate": 0.15
+          },
+          {
+            "from": 37920,
+            "rate": 0.16
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Brackets indexed from 1979. Single schedule; before 1985 there was no joint schedule (each spouse computed tax separately on own income). Federal income tax was deductible in computing MN taxable income (not modelled). Personal exemptions were tax credits, not deductions; the standard deduction was a percentage of income with a cap, so no deduction recorded. Bracket starts from the DOR table (listed as $1 above the boundary; +/- $1)."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 300,
+            "rate": 0.013
+          },
+          {
+            "from": 600,
+            "rate": 0.016
+          },
+          {
+            "from": 900,
+            "rate": 0.021
+          },
+          {
+            "from": 1300,
+            "rate": 0.027
+          },
+          {
+            "from": 2000,
+            "rate": 0.037
+          },
+          {
+            "from": 2800,
+            "rate": 0.045
+          },
+          {
+            "from": 4300,
+            "rate": 0.061
+          },
+          {
+            "from": 6400,
+            "rate": 0.075
+          },
+          {
+            "from": 9400,
+            "rate": 0.093
+          },
+          {
+            "from": 16200,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 1200,
+            "rate": 0.021
+          },
+          {
+            "from": 1700,
+            "rate": 0.023
+          },
+          {
+            "from": 2700,
+            "rate": 0.033
+          },
+          {
+            "from": 5600,
+            "rate": 0.053
+          },
+          {
+            "from": 9100,
+            "rate": 0.068
+          },
+          {
+            "from": 12600,
+            "rate": 0.085
+          },
+          {
+            "from": 17800,
+            "rate": 0.0932
+          },
+          {
+            "from": 30800,
+            "rate": 0.099
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-married.xlsx",
+      "notes": "Schedule for filers electing NOT to deduct federal income tax (deduction optional 1985-86; a higher 1.3%-14% single / 1.5%-14% joint schedule applied with the federal tax deduction, not recorded). First year of a separate married-joint schedule was 1985. Personal exemptions were credits; percentage standard deduction not recorded. Bracket starts +/- $1."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 310,
+            "rate": 0.013
+          },
+          {
+            "from": 620,
+            "rate": 0.016
+          },
+          {
+            "from": 930,
+            "rate": 0.021
+          },
+          {
+            "from": 1350,
+            "rate": 0.027
+          },
+          {
+            "from": 2070,
+            "rate": 0.037
+          },
+          {
+            "from": 2900,
+            "rate": 0.045
+          },
+          {
+            "from": 4460,
+            "rate": 0.061
+          },
+          {
+            "from": 6640,
+            "rate": 0.075
+          },
+          {
+            "from": 9750,
+            "rate": 0.093
+          },
+          {
+            "from": 16800,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 1240,
+            "rate": 0.021
+          },
+          {
+            "from": 1760,
+            "rate": 0.023
+          },
+          {
+            "from": 2800,
+            "rate": 0.033
+          },
+          {
+            "from": 5810,
+            "rate": 0.053
+          },
+          {
+            "from": 9440,
+            "rate": 0.068
+          },
+          {
+            "from": 13070,
+            "rate": 0.085
+          },
+          {
+            "from": 18460,
+            "rate": 0.0932
+          },
+          {
+            "from": 31940,
+            "rate": 0.099
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-married.xlsx",
+      "notes": "Schedule for filers electing NOT to deduct federal income tax (deduction optional 1985-86; a higher 1.3%-14% single / 1.5%-14% joint schedule applied with the federal tax deduction, not recorded). First year of a separate married-joint schedule was 1985. Personal exemptions were credits; percentage standard deduction not recorded. Bracket starts +/- $1."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.06
+          },
+          {
+            "from": 9000,
+            "rate": 0.08
+          },
+          {
+            "from": 16000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 21000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4440,
+        "marriedJoint": 7560
+      },
+      "source": "https://www.lrl.mn.gov/docs/pre2003/other/880206.pdf",
+      "notes": "Starting point became federal taxable income in 1987, so the federal standard deduction ($2,540/$3,760, 1987 Form 1040) plus $1,900 exemptions are used. Federal tax no longer deductible."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 13000,
+            "rate": 0.08
+          },
+          {
+            "from": 42700,
+            "rate": 0.085
+          },
+          {
+            "from": 93000,
+            "rate": 0.08
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 19000,
+            "rate": 0.08
+          },
+          {
+            "from": 75500,
+            "rate": 0.085
+          },
+          {
+            "from": 165000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4950,
+        "marriedJoint": 8900
+      },
+      "source": "https://www.lrl.mn.gov/docs/pre2003/other/880206.pdf",
+      "notes": "6%/8% plus a tax equal to 10% of the federal 5% surtax, shown as the DOR table's 0.5% surtax band (single $42,700-$93,000, joint $75,500-$165,000; DOR table gives the same band for 1988 and 1989-90; actual band follows the federal surtax range). Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 13000,
+            "rate": 0.08
+          },
+          {
+            "from": 42700,
+            "rate": 0.085
+          },
+          {
+            "from": 93000,
+            "rate": 0.08
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 19000,
+            "rate": 0.08
+          },
+          {
+            "from": 75500,
+            "rate": 0.085
+          },
+          {
+            "from": 165000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5100,
+        "marriedJoint": 9200
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "6%/8% plus a tax equal to 10% of the federal 5% surtax, shown as the DOR table's 0.5% surtax band (single $42,700-$93,000, joint $75,500-$165,000; DOR table gives the same band for 1988 and 1989-90; actual band follows the federal surtax range). Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 13000,
+            "rate": 0.08
+          },
+          {
+            "from": 42700,
+            "rate": 0.085
+          },
+          {
+            "from": 93000,
+            "rate": 0.08
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 19000,
+            "rate": 0.08
+          },
+          {
+            "from": 75500,
+            "rate": 0.085
+          },
+          {
+            "from": 165000,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5300,
+        "marriedJoint": 9550
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "6%/8% plus a tax equal to 10% of the federal 5% surtax, shown as the DOR table's 0.5% surtax band (single $42,700-$93,000, joint $75,500-$165,000; DOR table gives the same band for 1988 and 1989-90; actual band follows the federal surtax range). Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 13620,
+            "rate": 0.08
+          },
+          {
+            "from": 44750,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 19910,
+            "rate": 0.08
+          },
+          {
+            "from": 79120,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5550,
+        "marriedJoint": 10000
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1)."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 14340,
+            "rate": 0.08
+          },
+          {
+            "from": 47110,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 20960,
+            "rate": 0.08
+          },
+          {
+            "from": 83300,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5900,
+        "marriedJoint": 10600
+      },
+      "source": "https://www.lrl.mn.gov/docs/pre2003/other/930200.pdf",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets confirmed in MN DOR 1992 Tax Handbook."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 14780,
+            "rate": 0.08
+          },
+          {
+            "from": 48550,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 21600,
+            "rate": 0.08
+          },
+          {
+            "from": 85830,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6050,
+        "marriedJoint": 10900
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1)."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 15230,
+            "rate": 0.08
+          },
+          {
+            "from": 50030,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 22260,
+            "rate": 0.08
+          },
+          {
+            "from": 88460,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6250,
+        "marriedJoint": 11250
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1)."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 15620,
+            "rate": 0.08
+          },
+          {
+            "from": 51330,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 22840,
+            "rate": 0.08
+          },
+          {
+            "from": 90760,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6400,
+        "marriedJoint": 11550
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1)."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 16070,
+            "rate": 0.08
+          },
+          {
+            "from": 52790,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 23490,
+            "rate": 0.08
+          },
+          {
+            "from": 93340,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6550,
+        "marriedJoint": 11800
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1)."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 16510,
+            "rate": 0.08
+          },
+          {
+            "from": 54250,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 24140,
+            "rate": 0.08
+          },
+          {
+            "from": 95920,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6800,
+        "marriedJoint": 12200
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1)."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 16960,
+            "rate": 0.08
+          },
+          {
+            "from": 55730,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 24800,
+            "rate": 0.08
+          },
+          {
+            "from": 98540,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6950,
+        "marriedJoint": 12500
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1)."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.055
+          },
+          {
+            "from": 17250,
+            "rate": 0.0725
+          },
+          {
+            "from": 56680,
+            "rate": 0.08
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.055
+          },
+          {
+            "from": 25220,
+            "rate": 0.0725
+          },
+          {
+            "from": 100200,
+            "rate": 0.08
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7050,
+        "marriedJoint": 12700
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Rates cut to 5.5/7.25/8%. Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1)."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 17570,
+            "rate": 0.0705
+          },
+          {
+            "from": 57710,
+            "rate": 0.0785
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 25680,
+            "rate": 0.0705
+          },
+          {
+            "from": 102030,
+            "rate": 0.0785
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7200,
+        "marriedJoint": 12950
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1); no form available to check."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 18120,
+            "rate": 0.0705
+          },
+          {
+            "from": 59500,
+            "rate": 0.0785
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 26480,
+            "rate": 0.0705
+          },
+          {
+            "from": 105200,
+            "rate": 0.0785
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7450,
+        "marriedJoint": 13400
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1); no form available to check."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 18710,
+            "rate": 0.0705
+          },
+          {
+            "from": 61460,
+            "rate": 0.0785
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 27350,
+            "rate": 0.0705
+          },
+          {
+            "from": 108660,
+            "rate": 0.0785
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7700,
+        "marriedJoint": 13850
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1); no form available to check."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 19010,
+            "rate": 0.0705
+          },
+          {
+            "from": 62440,
+            "rate": 0.0785
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 27780,
+            "rate": 0.0705
+          },
+          {
+            "from": 110390,
+            "rate": 0.0785
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7800,
+        "marriedJoint": 15600
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1); no form available to check."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 19440,
+            "rate": 0.0705
+          },
+          {
+            "from": 63860,
+            "rate": 0.0785
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 28420,
+            "rate": 0.0705
+          },
+          {
+            "from": 112910,
+            "rate": 0.0785
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7950,
+        "marriedJoint": 15900
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1); no form available to check."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 19890,
+            "rate": 0.0705
+          },
+          {
+            "from": 65330,
+            "rate": 0.0785
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 29070,
+            "rate": 0.0705
+          },
+          {
+            "from": 115510,
+            "rate": 0.0785
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8200,
+        "marriedJoint": 16400
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1); no form available to check."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 20510,
+            "rate": 0.0705
+          },
+          {
+            "from": 67360,
+            "rate": 0.0785
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 29980,
+            "rate": 0.0705
+          },
+          {
+            "from": 119100,
+            "rate": 0.0785
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8450,
+        "marriedJoint": 16900
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1); no form available to check."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 21310,
+            "rate": 0.0705
+          },
+          {
+            "from": 69990,
+            "rate": 0.0785
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 31150,
+            "rate": 0.0705
+          },
+          {
+            "from": 123750,
+            "rate": 0.0785
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8750,
+        "marriedJoint": 17500
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1); no form available to check."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 21800,
+            "rate": 0.0705
+          },
+          {
+            "from": 71590,
+            "rate": 0.0785
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 31860,
+            "rate": 0.0705
+          },
+          {
+            "from": 126580,
+            "rate": 0.0785
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8950,
+        "marriedJoint": 17900
+      },
+      "source": "https://www.revenue.state.mn.us/sites/default/files/2023-08/tax-rates-single.xlsx",
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Brackets from DOR rate table (+/- $1); no form available to check."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 22730,
+            "rate": 0.0705
+          },
+          {
+            "from": 74650,
+            "rate": 0.0785
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 33220,
+            "rate": 0.0705
+          },
+          {
+            "from": 131970,
+            "rate": 0.0785
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MN/2009/m1_inst.pdf",
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 22770,
+            "rate": 0.0705
+          },
+          {
+            "from": 74780,
+            "rate": 0.0785
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 33280,
+            "rate": 0.0705
+          },
+          {
+            "from": 132220,
+            "rate": 0.0785
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MN/2010/m1_inst_10.pdf",
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 23100,
+            "rate": 0.0705
+          },
+          {
+            "from": 75890,
+            "rate": 0.0785
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 33770,
+            "rate": 0.0705
+          },
+          {
+            "from": 134170,
+            "rate": 0.0785
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MN/2011/m1_inst_11.pdf",
+      "deduction": {
+        "single": 9500,
+        "marriedJoint": 19000
+      },
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 23670,
+            "rate": 0.0705
+          },
+          {
+            "from": 77730,
+            "rate": 0.0785
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 34590,
+            "rate": 0.0705
+          },
+          {
+            "from": 137430,
+            "rate": 0.0785
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MN/2012/m1_inst_12.pdf",
+      "deduction": {
+        "single": 9750,
+        "marriedJoint": 19500
+      },
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 24270,
+            "rate": 0.0705
+          },
+          {
+            "from": 79730,
+            "rate": 0.0785
+          },
+          {
+            "from": 150000,
+            "rate": 0.0985
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 35480,
+            "rate": 0.0705
+          },
+          {
+            "from": 140960,
+            "rate": 0.0785
+          },
+          {
+            "from": 250000,
+            "rate": 0.0985
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MN/2013/m1_inst_13.pdf",
+      "deduction": {
+        "single": 10000,
+        "marriedJoint": 20000
+      },
+      "notes": "9.85% top bracket added. Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 24680,
+            "rate": 0.0705
+          },
+          {
+            "from": 81080,
+            "rate": 0.0785
+          },
+          {
+            "from": 152540,
+            "rate": 0.0985
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 36080,
+            "rate": 0.0705
+          },
+          {
+            "from": 143350,
+            "rate": 0.0785
+          },
+          {
+            "from": 254240,
+            "rate": 0.0985
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MN/2014/m1_inst_14.pdf",
+      "deduction": {
+        "single": 10150,
+        "marriedJoint": 20300
+      },
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 25070,
+            "rate": 0.0705
+          },
+          {
+            "from": 82360,
+            "rate": 0.0785
+          },
+          {
+            "from": 154950,
+            "rate": 0.0985
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 36650,
+            "rate": 0.0705
+          },
+          {
+            "from": 145620,
+            "rate": 0.0785
+          },
+          {
+            "from": 258260,
+            "rate": 0.0985
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MN/2015/m1_inst_15.pdf",
+      "deduction": {
+        "single": 10300,
+        "marriedJoint": 20600
+      },
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 25180,
+            "rate": 0.0705
+          },
+          {
+            "from": 82740,
+            "rate": 0.0785
+          },
+          {
+            "from": 155650,
+            "rate": 0.0985
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 36820,
+            "rate": 0.0705
+          },
+          {
+            "from": 146270,
+            "rate": 0.0785
+          },
+          {
+            "from": 259420,
+            "rate": 0.0985
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MN/2016/m1_inst_16.pdf",
+      "deduction": {
+        "single": 10350,
+        "marriedJoint": 20700
+      },
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 25390,
+            "rate": 0.0705
+          },
+          {
+            "from": 83400,
+            "rate": 0.0785
+          },
+          {
+            "from": 156900,
+            "rate": 0.0985
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 37110,
+            "rate": 0.0705
+          },
+          {
+            "from": 147450,
+            "rate": 0.0785
+          },
+          {
+            "from": 261510,
+            "rate": 0.0985
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MN/2017/m1_inst_17.pdf",
+      "deduction": {
+        "single": 10400,
+        "marriedJoint": 20800
+      },
+      "notes": "Deduction = federal standard deduction + personal exemptions for the year (MN tax base starts from federal taxable income); federal exemption phase-out (1991+) not modelled. Single 9.85% start $156,900 per instructions (DOR rate table shows $156,910)."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 25890,
+            "rate": 0.0705
+          },
+          {
+            "from": 85060,
+            "rate": 0.0785
+          },
+          {
+            "from": 160020,
+            "rate": 0.0985
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 37850,
+            "rate": 0.0705
+          },
+          {
+            "from": 150380,
+            "rate": 0.0785
+          },
+          {
+            "from": 266700,
+            "rate": 0.0985
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MN/2018/m1_inst_18.pdf",
+      "deduction": {
+        "single": 10650,
+        "marriedJoint": 21300
+      },
+      "notes": "MN decoupled from TCJA: MN standard deduction $6,500/$13,000 plus MN personal exemption $4,150 each (exemption phases out at high income, not modelled)."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 26520,
+            "rate": 0.068
+          },
+          {
+            "from": 87110,
+            "rate": 0.0785
+          },
+          {
+            "from": 161720,
+            "rate": 0.0985
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 38770,
+            "rate": 0.068
+          },
+          {
+            "from": 154020,
+            "rate": 0.0785
+          },
+          {
+            "from": 269010,
+            "rate": 0.0985
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MN/2019/m1_inst_19_0.pdf",
+      "notes": "Second rate cut to 6.80% (DOR rate table still shows 7.05% and a different joint top bracket for 2019; instructions used). MN standard deduction $12,200 / $24,400 is reduced at high income, so not recorded (as in 2024). From 2019 exemptions only for dependents."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 26960,
+            "rate": 0.068
+          },
+          {
+            "from": 88550,
+            "rate": 0.0785
+          },
+          {
+            "from": 164400,
+            "rate": 0.0985
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 39410,
+            "rate": 0.068
+          },
+          {
+            "from": 156570,
+            "rate": 0.0785
+          },
+          {
+            "from": 273470,
+            "rate": 0.0985
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MN/2020/m1_inst_20.pdf",
+      "notes": "MN standard deduction $12,400 / $24,800 is reduced at high income, so not recorded (as in 2024). From 2019 exemptions only for dependents."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 27230,
+            "rate": 0.068
+          },
+          {
+            "from": 89440,
+            "rate": 0.0785
+          },
+          {
+            "from": 166040,
+            "rate": 0.0985
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 39810,
+            "rate": 0.068
+          },
+          {
+            "from": 158140,
+            "rate": 0.0785
+          },
+          {
+            "from": 276200,
+            "rate": 0.0985
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MN/2021/m1_inst_21.pdf",
+      "notes": "MN standard deduction $12,525 / $25,050 is reduced at high income, so not recorded (as in 2024). From 2019 exemptions only for dependents."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 28080,
+            "rate": 0.068
+          },
+          {
+            "from": 92230,
+            "rate": 0.0785
+          },
+          {
+            "from": 171220,
+            "rate": 0.0985
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 41050,
+            "rate": 0.068
+          },
+          {
+            "from": 163060,
+            "rate": 0.0785
+          },
+          {
+            "from": 284810,
+            "rate": 0.0985
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MN/2022/m1_inst_22.pdf",
+      "notes": "MN standard deduction $12,900 / $25,800 is reduced at high income, so not recorded (as in 2024). From 2019 exemptions only for dependents."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 30070,
+            "rate": 0.068
+          },
+          {
+            "from": 98760,
+            "rate": 0.0785
+          },
+          {
+            "from": 183340,
+            "rate": 0.0985
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 43950,
+            "rate": 0.068
+          },
+          {
+            "from": 174610,
+            "rate": 0.0785
+          },
+          {
+            "from": 304970,
+            "rate": 0.0985
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MN/2023/m1-inst-23.pdf",
+      "notes": "MN standard deduction $13,825 / $27,650 is reduced at high income, so not recorded (as in 2024). From 2019 exemptions only for dependents."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 31690,
+            "rate": 0.068
+          },
+          {
+            "from": 104090,
+            "rate": 0.0785
+          },
+          {
+            "from": 193240,
+            "rate": 0.0985
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 46330,
+            "rate": 0.068
+          },
+          {
+            "from": 184040,
+            "rate": 0.0785
+          },
+          {
+            "from": 321450,
+            "rate": 0.0985
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/press-release/2023-12-12/minnesota-income-tax-brackets-standard-deduction-and-dependent-exemption",
+      "notes": "The $14,575 / $29,150 standard deduction phases out at high income."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 32570,
+            "rate": 0.068
+          },
+          {
+            "from": 106990,
+            "rate": 0.0785
+          },
+          {
+            "from": 198630,
+            "rate": 0.0985
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 47620,
+            "rate": 0.068
+          },
+          {
+            "from": 189180,
+            "rate": 0.0785
+          },
+          {
+            "from": 330410,
+            "rate": 0.0985
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/press-release/2024-12-16/minnesota-income-tax-brackets-standard-deduction-and-dependent-exemption",
+      "notes": "The $14,950 / $29,900 standard deduction phases out at high income."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 33310,
+            "rate": 0.068
+          },
+          {
+            "from": 109430,
+            "rate": 0.0785
+          },
+          {
+            "from": 203150,
+            "rate": 0.0985
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0535
+          },
+          {
+            "from": 48700,
+            "rate": 0.068
+          },
+          {
+            "from": 193480,
+            "rate": 0.0785
+          },
+          {
+            "from": 337930,
+            "rate": 0.0985
+          }
+        ]
+      },
+      "source": "https://www.revenue.state.mn.us/press-release/2025-12-16/minnesota-income-tax-brackets-standard-deduction-and-dependent-exemption",
+      "notes": "The $15,300 / $30,600 standard deduction phases out at high income."
+    }
+  }
+}

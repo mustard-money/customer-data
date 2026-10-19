@@ -1,0 +1,578 @@
+{
+  "id": "us-state-MI",
+  "kind": "state",
+  "region": "Michigan",
+  "state": "MI",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.026,
+      "deduction": {
+        "single": 1200,
+        "marriedJoint": 2400
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 2.6% of federal AGI (with MI adjustments) less a $1,200 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.0314,
+      "deduction": {
+        "single": 1200,
+        "marriedJoint": 2400
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 3.14% of federal AGI (with MI adjustments) less a $1,200 per-person exemption. Annual average rate for a mid-year change (2.6% to July 1971, 3.9% from Aug 1, 1971). Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.039,
+      "deduction": {
+        "single": 1200,
+        "marriedJoint": 2400
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 3.9% of federal AGI (with MI adjustments) less a $1,200 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.039,
+      "deduction": {
+        "single": 1200,
+        "marriedJoint": 2400
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 3.9% of federal AGI (with MI adjustments) less a $1,200 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.039,
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 3.9% of federal AGI (with MI adjustments) less a $1,500 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.0437,
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.37% of federal AGI (with MI adjustments) less a $1,500 per-person exemption. Annual average rate for a mid-year change (3.9% to April, 4.6% from May 1, 1975). Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.046,
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.6% of federal AGI (with MI adjustments) less a $1,500 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.046,
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.6% of federal AGI (with MI adjustments) less a $1,500 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.046,
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.6% of federal AGI (with MI adjustments) less a $1,500 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.046,
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.6% of federal AGI (with MI adjustments) less a $1,500 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.046,
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.6% of federal AGI (with MI adjustments) less a $1,500 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.046,
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.6% of federal AGI (with MI adjustments) less a $1,500 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.051,
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 5.1% of federal AGI (with MI adjustments) less a $1,500 per-person exemption. Annual average rate for a mid-year change (5.6% Apr 1-Sep 30, 1982, 4.6% otherwise). Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.0635,
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 6.35% of federal AGI (with MI adjustments) less a $1,500 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.0585,
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 5.85% of federal AGI (with MI adjustments) less a $1,500 per-person exemption. Annual average rate for a mid-year change (6.1% to Aug, 5.35% from Sep 1, 1984). Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.0533,
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 5.33% of federal AGI (with MI adjustments) less a $1,500 per-person exemption. Annual average rate for a mid-year change (5.35% to Nov 10, 5.1% after). Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.046,
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.6% of federal AGI (with MI adjustments) less a $1,500 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. Treasury lists 4.60% for the whole year (cut from 5.1% enacted 1986). City income taxes not included."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.046,
+      "deduction": {
+        "single": 1600,
+        "marriedJoint": 3200
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.6% of federal AGI (with MI adjustments) less a $1,600 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.046,
+      "deduction": {
+        "single": 1800,
+        "marriedJoint": 3600
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.6% of federal AGI (with MI adjustments) less a $1,800 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.046,
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.6% of federal AGI (with MI adjustments) less a $2,000 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.046,
+      "deduction": {
+        "single": 2100,
+        "marriedJoint": 4200
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.6% of federal AGI (with MI adjustments) less a $2,100 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.046,
+      "deduction": {
+        "single": 2100,
+        "marriedJoint": 4200
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.6% of federal AGI (with MI adjustments) less a $2,100 per-person exemption. Rate from Treasury's table of average annual rates; exemption from the Treasury/House Fiscal Agency histories. City income taxes not included."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.046,
+      "deduction": {
+        "single": 2100,
+        "marriedJoint": 4200
+      },
+      "source": "https://www.michigan.gov/documents/IIT-2001_66767_7.pdf",
+      "notes": "Flat 4.6% of federal AGI (with MI adjustments) less a $2,100 per-person exemption. City income taxes not included."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.046,
+      "deduction": {
+        "single": 2100,
+        "marriedJoint": 4200
+      },
+      "source": "https://www.michigan.gov/documents/IIT-2001_66767_7.pdf",
+      "notes": "Flat 4.6% of federal AGI (with MI adjustments) less a $2,100 per-person exemption. City income taxes not included."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.0447,
+      "deduction": {
+        "single": 2100,
+        "marriedJoint": 4200
+      },
+      "source": "https://www.michigan.gov/documents/IIT-2001_66767_7.pdf",
+      "notes": "Flat 4.47% of federal AGI (with MI adjustments) less a $2,100 per-person exemption. Annual average rate for a mid-year change (4.6% to April, 4.4% from May 1, 1994). City income taxes not included."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.044,
+      "deduction": {
+        "single": 2400,
+        "marriedJoint": 4800
+      },
+      "source": "https://www.michigan.gov/documents/IIT-2001_66767_7.pdf",
+      "notes": "Flat 4.4% of federal AGI (with MI adjustments) less a $2,400 per-person exemption. City income taxes not included."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.044,
+      "deduction": {
+        "single": 2400,
+        "marriedJoint": 4800
+      },
+      "source": "https://www.michigan.gov/documents/IIT-2001_66767_7.pdf",
+      "notes": "Flat 4.4% of federal AGI (with MI adjustments) less a $2,400 per-person exemption. City income taxes not included."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.044,
+      "deduction": {
+        "single": 2500,
+        "marriedJoint": 5000
+      },
+      "source": "https://www.michigan.gov/documents/IIT-2001_66767_7.pdf",
+      "notes": "Flat 4.4% of federal AGI (with MI adjustments) less a $2,500 per-person exemption. City income taxes not included."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.044,
+      "deduction": {
+        "single": 2800,
+        "marriedJoint": 5600
+      },
+      "source": "https://www.michigan.gov/documents/IIT-2001_66767_7.pdf",
+      "notes": "Flat 4.4% of federal AGI (with MI adjustments) less a $2,800 per-person exemption. City income taxes not included."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.044,
+      "deduction": {
+        "single": 2800,
+        "marriedJoint": 5600
+      },
+      "source": "https://www.michigan.gov/documents/IIT-2001_66767_7.pdf",
+      "notes": "Flat 4.4% of federal AGI (with MI adjustments) less a $2,800 per-person exemption. City income taxes not included."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.042,
+      "deduction": {
+        "single": 2900,
+        "marriedJoint": 5800
+      },
+      "source": "https://www.michigan.gov/documents/IIT-2001_66767_7.pdf",
+      "notes": "Flat 4.2% of federal AGI (with MI adjustments) less a $2,900 per-person exemption. City income taxes not included."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.042,
+      "deduction": {
+        "single": 2900,
+        "marriedJoint": 5800
+      },
+      "source": "https://www.michigan.gov/documents/IIT-2001_66767_7.pdf",
+      "notes": "Flat 4.2% of federal AGI (with MI adjustments) less a $2,900 per-person exemption. City income taxes not included."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.041,
+      "deduction": {
+        "single": 3000,
+        "marriedJoint": 6000
+      },
+      "source": "https://www.michigan.gov/documents/IIT-2001_66767_7.pdf",
+      "notes": "Flat 4.1% of federal AGI (with MI adjustments) less a $3,000 per-person exemption. City income taxes not included."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.04,
+      "deduction": {
+        "single": 3100,
+        "marriedJoint": 6200
+      },
+      "source": "https://www.michigan.gov/documents/treasury/IIT_2009_359461_7.pdf",
+      "notes": "Flat 4.0% of federal AGI (with MI adjustments) less a $3,100 per-person exemption. City income taxes not included."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.0395,
+      "deduction": {
+        "single": 3100,
+        "marriedJoint": 6200
+      },
+      "source": "https://www.michigan.gov/documents/treasury/IIT_2009_359461_7.pdf",
+      "notes": "Flat 3.95% of federal AGI (with MI adjustments) less a $3,100 per-person exemption. Annual average rate for a mid-year change (4.0% to June, 3.9% from July 1, 2004). City income taxes not included."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.039,
+      "deduction": {
+        "single": 3200,
+        "marriedJoint": 6400
+      },
+      "source": "https://www.michigan.gov/documents/treasury/IIT_2009_359461_7.pdf",
+      "notes": "Flat 3.9% of federal AGI (with MI adjustments) less a $3,200 per-person exemption. City income taxes not included."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.039,
+      "deduction": {
+        "single": 3300,
+        "marriedJoint": 6600
+      },
+      "source": "https://www.michigan.gov/documents/treasury/IIT_2009_359461_7.pdf",
+      "notes": "Flat 3.9% of federal AGI (with MI adjustments) less a $3,300 per-person exemption. City income taxes not included."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.0401,
+      "deduction": {
+        "single": 3400,
+        "marriedJoint": 6800
+      },
+      "source": "https://www.michigan.gov/documents/treasury/IIT_2009_359461_7.pdf",
+      "notes": "Flat 4.01% of federal AGI (with MI adjustments) less a $3,400 per-person exemption. Annual average rate for a mid-year change (3.9% to Sep, 4.35% from Oct 1, 2007). City income taxes not included."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.0435,
+      "deduction": {
+        "single": 3500,
+        "marriedJoint": 7000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/IIT_2009_359461_7.pdf",
+      "notes": "Flat 4.35% of federal AGI (with MI adjustments) less a $3,500 per-person exemption. City income taxes not included."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.0435,
+      "deduction": {
+        "single": 3600,
+        "marriedJoint": 7200
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MI/2009/MI-1040_305378_7.pdf",
+      "notes": "Flat 4.35% of federal AGI (with MI adjustments) less a $3,600 per-person exemption. City income taxes not included."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.0435,
+      "deduction": {
+        "single": 3600,
+        "marriedJoint": 7200
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.35% of federal AGI (with MI adjustments) less a $3,600 per-person exemption. City income taxes not included."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.0435,
+      "deduction": {
+        "single": 3700,
+        "marriedJoint": 7400
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.35% of federal AGI (with MI adjustments) less a $3,700 per-person exemption. City income taxes not included."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.0433,
+      "deduction": {
+        "single": 3763,
+        "marriedJoint": 7526
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MI/2012/MI-1040_406570_7.pdf",
+      "notes": "Flat 4.33% of federal AGI (with MI adjustments) less a $3,763 per-person exemption. Annual average rate for a mid-year change (4.35% to Sep, 4.25% from Oct 1, 2012; exemption $3,700 then $3,950, blended to $3,763). City income taxes not included."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.0425,
+      "deduction": {
+        "single": 3950,
+        "marriedJoint": 7900
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.25% of federal AGI (with MI adjustments) less a $3,950 per-person exemption. City income taxes not included."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.0425,
+      "deduction": {
+        "single": 4000,
+        "marriedJoint": 8000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.25% of federal AGI (with MI adjustments) less a $4,000 per-person exemption. City income taxes not included."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.0425,
+      "deduction": {
+        "single": 4000,
+        "marriedJoint": 8000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.25% of federal AGI (with MI adjustments) less a $4,000 per-person exemption. City income taxes not included."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.0425,
+      "deduction": {
+        "single": 4000,
+        "marriedJoint": 8000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.25% of federal AGI (with MI adjustments) less a $4,000 per-person exemption. City income taxes not included."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.0425,
+      "deduction": {
+        "single": 4000,
+        "marriedJoint": 8000
+      },
+      "source": "https://www.michigan.gov/documents/treasury/Individual_Income_Tax_2017_674196_7.pdf",
+      "notes": "Flat 4.25% of federal AGI (with MI adjustments) less a $4,000 per-person exemption. City income taxes not included."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.0425,
+      "deduction": {
+        "single": 4050,
+        "marriedJoint": 8100
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MI/2018/MI-1040_642214_7.pdf",
+      "notes": "Flat 4.25% of federal AGI (with MI adjustments) less a $4,050 per-person exemption. City income taxes not included."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.0425,
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 8800
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MI/2019/MI-1040_674435_7.pdf",
+      "notes": "Flat 4.25% of federal AGI (with MI adjustments) less a $4,400 per-person exemption. City income taxes not included."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.0425,
+      "deduction": {
+        "single": 4750,
+        "marriedJoint": 9500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MI/2020/MI-1040_711857_7.pdf",
+      "notes": "Flat 4.25% of federal AGI (with MI adjustments) less a $4,750 per-person exemption. City income taxes not included."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.0425,
+      "deduction": {
+        "single": 4900,
+        "marriedJoint": 9800
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MI/2021/MI-1040.pdf",
+      "notes": "Flat 4.25% of federal AGI (with MI adjustments) less a $4,900 per-person exemption. City income taxes not included."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.0425,
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 10000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MI/2022/MI-1040.pdf",
+      "notes": "Flat 4.25% of federal AGI (with MI adjustments) less a $5,000 per-person exemption. City income taxes not included."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.0405,
+      "deduction": {
+        "single": 5400,
+        "marriedJoint": 10800
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MI/2023/MI-1040.pdf",
+      "notes": "Flat 4.05% of federal AGI (with MI adjustments) less a $5,400 per-person exemption. One-year cut from 4.25% under the statutory trigger. City income taxes not included."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.0425,
+      "deduction": {
+        "single": 5600,
+        "marriedJoint": 11200
+      },
+      "source": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/SUW/TY2024/446_Withholding-Guide_2024.pdf",
+      "notes": "Rate back to 4.25% after the one-year 4.05% in 2023. Deduction is the $5,600 per person exemption."
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.0425,
+      "deduction": {
+        "single": 5800,
+        "marriedJoint": 11600
+      },
+      "source": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/SUW/TY2025/446_Withholding-Guide_2025.pdf",
+      "notes": "Deduction is the $5,800 per person exemption."
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.0425,
+      "deduction": {
+        "single": 5900,
+        "marriedJoint": 11800
+      },
+      "source": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/SUW/TY2026/446_Withholding-Guide_2026.pdf",
+      "notes": "Deduction is the $5,900 per person exemption."
+    }
+  }
+}

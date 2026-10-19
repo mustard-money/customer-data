@@ -1,0 +1,2079 @@
+{
+  "id": "us-state-DC",
+  "kind": "state",
+  "region": "District of Columbia",
+  "state": "DC",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 12000,
+            "rate": 0.08
+          },
+          {
+            "from": 17000,
+            "rate": 0.09
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts 'History of major changes' table (new rates and brackets effective FY1970; printed as bracket widths: 2% first $1k ... 10% over $25k). Effective tax year assumed 1970; no form checked. Exemption/standard deduction amounts not found - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 12000,
+            "rate": 0.08
+          },
+          {
+            "from": 17000,
+            "rate": 0.09
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts 'History of major changes' table (new rates and brackets effective FY1970; printed as bracket widths: 2% first $1k ... 10% over $25k). Effective tax year assumed 1970; no form checked. Exemption/standard deduction amounts not found - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 12000,
+            "rate": 0.08
+          },
+          {
+            "from": 17000,
+            "rate": 0.09
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts 'History of major changes' table (new rates and brackets effective FY1970; printed as bracket widths: 2% first $1k ... 10% over $25k). Effective tax year assumed 1970; no form checked. Exemption/standard deduction amounts not found - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 12000,
+            "rate": 0.08
+          },
+          {
+            "from": 17000,
+            "rate": 0.09
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts 'History of major changes' table (new rates and brackets effective FY1970; printed as bracket widths: 2% first $1k ... 10% over $25k). Effective tax year assumed 1970; no form checked. Exemption/standard deduction amounts not found - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 12000,
+            "rate": 0.08
+          },
+          {
+            "from": 17000,
+            "rate": 0.09
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts 'History of major changes' table (new rates and brackets effective FY1970; printed as bracket widths: 2% first $1k ... 10% over $25k). Effective tax year assumed 1970; no form checked. Exemption/standard deduction amounts not found - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 8000,
+            "rate": 0.07
+          },
+          {
+            "from": 12000,
+            "rate": 0.08
+          },
+          {
+            "from": 17000,
+            "rate": 0.09
+          },
+          {
+            "from": 25000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts 'History of major changes' table (new rates and brackets effective FY1970; printed as bracket widths: 2% first $1k ... 10% over $25k). Effective tax year assumed 1970; no form checked. Exemption/standard deduction amounts not found - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 17000,
+            "rate": 0.1
+          },
+          {
+            "from": 25000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts history table (new rates and brackets effective FY1976; 2% first $1k ... 11% over $25k); no later rate change listed before 1987. No form checked. Personal exemptions conformed to federal in 1976 and standard deduction was $1,000 before 1987 (per Tax Facts) but exact rules not confirmed - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 17000,
+            "rate": 0.1
+          },
+          {
+            "from": 25000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts history table (new rates and brackets effective FY1976; 2% first $1k ... 11% over $25k); no later rate change listed before 1987. No form checked. Personal exemptions conformed to federal in 1976 and standard deduction was $1,000 before 1987 (per Tax Facts) but exact rules not confirmed - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 17000,
+            "rate": 0.1
+          },
+          {
+            "from": 25000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts history table (new rates and brackets effective FY1976; 2% first $1k ... 11% over $25k); no later rate change listed before 1987. No form checked. Personal exemptions conformed to federal in 1976 and standard deduction was $1,000 before 1987 (per Tax Facts) but exact rules not confirmed - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 17000,
+            "rate": 0.1
+          },
+          {
+            "from": 25000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts history table (new rates and brackets effective FY1976; 2% first $1k ... 11% over $25k); no later rate change listed before 1987. No form checked. Personal exemptions conformed to federal in 1976 and standard deduction was $1,000 before 1987 (per Tax Facts) but exact rules not confirmed - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 17000,
+            "rate": 0.1
+          },
+          {
+            "from": 25000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts history table (new rates and brackets effective FY1976; 2% first $1k ... 11% over $25k); no later rate change listed before 1987. No form checked. Personal exemptions conformed to federal in 1976 and standard deduction was $1,000 before 1987 (per Tax Facts) but exact rules not confirmed - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 17000,
+            "rate": 0.1
+          },
+          {
+            "from": 25000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts history table (new rates and brackets effective FY1976; 2% first $1k ... 11% over $25k); no later rate change listed before 1987. No form checked. Personal exemptions conformed to federal in 1976 and standard deduction was $1,000 before 1987 (per Tax Facts) but exact rules not confirmed - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 17000,
+            "rate": 0.1
+          },
+          {
+            "from": 25000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts history table (new rates and brackets effective FY1976; 2% first $1k ... 11% over $25k); no later rate change listed before 1987. No form checked. Personal exemptions conformed to federal in 1976 and standard deduction was $1,000 before 1987 (per Tax Facts) but exact rules not confirmed - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 17000,
+            "rate": 0.1
+          },
+          {
+            "from": 25000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts history table (new rates and brackets effective FY1976; 2% first $1k ... 11% over $25k); no later rate change listed before 1987. No form checked. Personal exemptions conformed to federal in 1976 and standard deduction was $1,000 before 1987 (per Tax Facts) but exact rules not confirmed - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 17000,
+            "rate": 0.1
+          },
+          {
+            "from": 25000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts history table (new rates and brackets effective FY1976; 2% first $1k ... 11% over $25k); no later rate change listed before 1987. No form checked. Personal exemptions conformed to federal in 1976 and standard deduction was $1,000 before 1987 (per Tax Facts) but exact rules not confirmed - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 17000,
+            "rate": 0.1
+          },
+          {
+            "from": 25000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts history table (new rates and brackets effective FY1976; 2% first $1k ... 11% over $25k); no later rate change listed before 1987. No form checked. Personal exemptions conformed to federal in 1976 and standard deduction was $1,000 before 1987 (per Tax Facts) but exact rules not confirmed - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 2000,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.06
+          },
+          {
+            "from": 5000,
+            "rate": 0.07
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 13000,
+            "rate": 0.09
+          },
+          {
+            "from": 17000,
+            "rate": 0.1
+          },
+          {
+            "from": 25000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "Brackets from the CFO Tax Facts history table (new rates and brackets effective FY1976; 2% first $1k ... 11% over $25k); no later rate change listed before 1987. No form checked. Personal exemptions conformed to federal in 1976 and standard deduction was $1,000 before 1987 (per Tax Facts) but exact rules not confirmed - deduction omitted. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2885,
+        "marriedJoint": 3770
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(1)/(2). Deduction = $2,000 standard deduction (same for joint filers) + personal exemption $885 each (Tax Facts: $885 1987, $1,025 1988, $1,160 1989, $1,270 1990, $1,370 1991+). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3025,
+        "marriedJoint": 4050
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(1)/(2). Deduction = $2,000 standard deduction (same for joint filers) + personal exemption $1025 each (Tax Facts: $885 1987, $1,025 1988, $1,160 1989, $1,270 1990, $1,370 1991+). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3160,
+        "marriedJoint": 4320
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(1)/(2). Deduction = $2,000 standard deduction (same for joint filers) + personal exemption $1160 each (Tax Facts: $885 1987, $1,025 1988, $1,160 1989, $1,270 1990, $1,370 1991+). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3270,
+        "marriedJoint": 4540
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(1)/(2). Deduction = $2,000 standard deduction (same for joint filers) + personal exemption $1270 each (Tax Facts: $885 1987, $1,025 1988, $1,160 1989, $1,270 1990, $1,370 1991+). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3370,
+        "marriedJoint": 4740
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(1)/(2). Deduction = $2,000 standard deduction (same for joint filers) + personal exemption $1370 each (Tax Facts: $885 1987, $1,025 1988, $1,160 1989, $1,270 1990, $1,370 1991+). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3370,
+        "marriedJoint": 4740
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(1)/(2). Deduction = $2,000 standard deduction (same for joint filers) + personal exemption $1370 each (Tax Facts: $885 1987, $1,025 1988, $1,160 1989, $1,270 1990, $1,370 1991+). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3370,
+        "marriedJoint": 4740
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(1)/(2). Deduction = $2,000 standard deduction (same for joint filers) + personal exemption $1370 each (Tax Facts: $885 1987, $1,025 1988, $1,160 1989, $1,270 1990, $1,370 1991+). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3370,
+        "marriedJoint": 4740
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(1)/(2). Deduction = $2,000 standard deduction (same for joint filers) + personal exemption $1370 each (Tax Facts: $885 1987, $1,025 1988, $1,160 1989, $1,270 1990, $1,370 1991+). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3370,
+        "marriedJoint": 4740
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(1)/(2). Deduction = $2,000 standard deduction (same for joint filers) + personal exemption $1370 each (Tax Facts: $885 1987, $1,025 1988, $1,160 1989, $1,270 1990, $1,370 1991+). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3370,
+        "marriedJoint": 4740
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(1)/(2). Deduction = $2,000 standard deduction (same for joint filers) + personal exemption $1370 each (Tax Facts: $885 1987, $1,025 1988, $1,160 1989, $1,270 1990, $1,370 1991+). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3370,
+        "marriedJoint": 4740
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(1)/(2). Deduction = $2,000 standard deduction (same for joint filers) + personal exemption $1370 each (Tax Facts: $885 1987, $1,025 1988, $1,160 1989, $1,270 1990, $1,370 1991+). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3370,
+        "marriedJoint": 4740
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(1)/(2). Deduction = $2,000 standard deduction (same for joint filers) + personal exemption $1370 each (Tax Facts: $885 1987, $1,025 1988, $1,160 1989, $1,270 1990, $1,370 1991+). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.08
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3370,
+        "marriedJoint": 4740
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(1)/(2). Deduction = $2,000 standard deduction (same for joint filers) + personal exemption $1370 each (Tax Facts: $885 1987, $1,025 1988, $1,160 1989, $1,270 1990, $1,370 1991+). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3370,
+        "marriedJoint": 4740
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "Tax Parity Act; DC Code 47-1806.03(a)(3). Deduction = $2,000 standard + $1,370 exemption each. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 30000,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3370,
+        "marriedJoint": 4740
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(4)(A) (tax years after 2000). Further scheduled Tax Parity cuts were suspended (Tax Facts: 2003 suspension; top rate 9.3% to 9.0% effective FY2005). Deduction = $2,000 standard + $1,370 exemption each. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 30000,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3370,
+        "marriedJoint": 4740
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(4)(A) (tax years after 2000). Further scheduled Tax Parity cuts were suspended (Tax Facts: 2003 suspension; top rate 9.3% to 9.0% effective FY2005). Deduction = $2,000 standard + $1,370 exemption each. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 30000,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3370,
+        "marriedJoint": 4740
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(4)(A) (tax years after 2000). Further scheduled Tax Parity cuts were suspended (Tax Facts: 2003 suspension; top rate 9.3% to 9.0% effective FY2005). Deduction = $2,000 standard + $1,370 exemption each. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 30000,
+            "rate": 0.093
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3370,
+        "marriedJoint": 4740
+      },
+      "source": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1806.03",
+      "notes": "DC Code 47-1806.03(a)(4)(A) (tax years after 2000). Further scheduled Tax Parity cuts were suspended (Tax Facts: 2003 suspension; top rate 9.3% to 9.0% effective FY2005). UNCERTAIN: code lists 9.0% for years after 2003, but Tax Facts FY2004 shows the 9.0% top rate as of Jan 1, 2005; 9.3% recorded for 2004. Deduction = $2,000 standard + $1,370 exemption each. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 30000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3370,
+        "marriedJoint": 4740
+      },
+      "source": "https://cfo.dc.gov/sites/default/files/dc/sites/ocfo/publication/attachments/04TAXFACTS.pdf",
+      "notes": "Tax Facts FY2004 'present rates (January 1, 2005)'. Deduction = $2,000 standard + $1,370 exemption each. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.045
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          },
+          {
+            "from": 40000,
+            "rate": 0.087
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4000,
+        "marriedJoint": 5500
+      },
+      "source": "https://cfo.dc.gov/sites/default/files/dc/sites/ocfo/publication/attachments/05TAXFACTS.pdf",
+      "notes": "Tax Facts FY2005 'present rates (January 1, 2006)'. Deduction = $2,500 standard + $1,500 exemption each (Tax Facts history: raised in 2006). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4000,
+        "marriedJoint": 5500
+      },
+      "source": "https://cfo.dc.gov/sites/default/files/dc/sites/ocfo/publication/attachments/06TAXFACTS.pdf",
+      "notes": "Tax Facts FY2006 'present rates (January 1, 2007)': standard deduction $2,500, exemption $1,500 (rising to $4,000/$1,675 on 1/1/08). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5675,
+        "marriedJoint": 7350
+      },
+      "source": "https://cfo.dc.gov/sites/default/files/dc/sites/ocfo/publication/attachments/06TAXFACTS.pdf",
+      "notes": "Standard deduction $4,000 for single and joint filers + $1,675 exemption each (2009 booklet: single $5,675, joint $7,350). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5675,
+        "marriedJoint": 7350
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DC/2009/2009_d-40_d-40ez.pdf",
+      "notes": "Standard deduction $4,000 for single and joint filers + $1,675 exemption each (2009 booklet: single $5,675, joint $7,350). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5675,
+        "marriedJoint": 7350
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DC/2010/2010_d-40_d-40ez.with_line_23_correction_030211pdf.pdf",
+      "notes": "Standard deduction $4,000 for single and joint filers + $1,675 exemption each (2009 booklet: single $5,675, joint $7,350). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5675,
+        "marriedJoint": 7350
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DC/2011/2011_d-40_d-40ez_web_booklet.pdf",
+      "notes": "Standard deduction $4,000 for single and joint filers + $1,675 exemption each (2009 booklet: single $5,675, joint $7,350). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          },
+          {
+            "from": 350000,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5675,
+        "marriedJoint": 7350
+      },
+      "source": "https://ora-cfo.dc.gov/sites/default/files/dc/sites/ora-cfo/publication/attachments/Tax%20Facts%202025%20Report.pdf",
+      "notes": "8.95% bracket over $350,000 added effective FY2012 per Tax Facts history; 2012 booklet not machine-readable, schedule taken as in the 2013 booklet. Standard deduction $4000 (single and joint) + $1675 exemption each. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          },
+          {
+            "from": 350000,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5775,
+        "marriedJoint": 7450
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DC/2013/2013D-40D-40-EZBOOKLET121213.pdf",
+      "notes": "Standard deduction $4100 (single and joint) + $1675 exemption each. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          },
+          {
+            "from": 350000,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5875,
+        "marriedJoint": 7600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DC/2014/2014_D-40_and_D-40EZBooklet121914.pdf",
+      "notes": "Standard deduction $4150 (single and joint) + $1725 exemption each. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.07
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 350000,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6975,
+        "marriedJoint": 11900
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DC/2015/48364_D-40%20BOOK%2011916.pdf",
+      "notes": "Standard deduction $5,200 single / $8,350 joint + $1,775 exemption each. Exemption phase-out above $150,000 AGI not modelled. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 350000,
+            "rate": 0.0875
+          },
+          {
+            "from": 1000000,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6975,
+        "marriedJoint": 11900
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DC/2016/2016%20D-40_40EZ%20Booklet_Final.pdf",
+      "notes": "Standard deduction $5200 single / $8350 joint + $1,775 exemption each (booklet totals). Exemption phase-out above $150,000 AGI not modelled. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 350000,
+            "rate": 0.0875
+          },
+          {
+            "from": 1000000,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7425,
+        "marriedJoint": 13825
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DC/2017/2017%20FINAL%20D-40%20D-40EZ_BOOK%2010.31.17.pdf",
+      "notes": "Standard deduction $5650 single / $10275 joint + $1,775 exemption each (booklet totals). Exemption phase-out above $150,000 AGI not modelled. Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 350000,
+            "rate": 0.0875
+          },
+          {
+            "from": 1000000,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12000,
+        "marriedJoint": 24000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DC/2018/2018%20D-40%20D-40EZ%20Booklet_Rev011019_Optimized_0.pdf",
+      "notes": "Uses the federal standard deduction (no personal exemption from 2018). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 350000,
+            "rate": 0.0875
+          },
+          {
+            "from": 1000000,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12200,
+        "marriedJoint": 24400
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DC/2019/2019%20D-40_Booklet.pdf",
+      "notes": "Uses the federal standard deduction (no personal exemption from 2018). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 350000,
+            "rate": 0.0875
+          },
+          {
+            "from": 1000000,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12400,
+        "marriedJoint": 24800
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DC/2020/2020_D-40_Booklet_1.pdf",
+      "notes": "Uses the federal standard deduction (no personal exemption from 2018). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 350000,
+            "rate": 0.0875
+          },
+          {
+            "from": 1000000,
+            "rate": 0.0895
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12550,
+        "marriedJoint": 25100
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/DC/2021/52926_D-40_12.21.21_Final_Rev011122.pdf",
+      "notes": "Uses the federal standard deduction (no personal exemption from 2018). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 250000,
+            "rate": 0.0925
+          },
+          {
+            "from": 500000,
+            "rate": 0.0975
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12950,
+        "marriedJoint": 25900
+      },
+      "source": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2022_D-40_Booklet_Final_blk_01_23_23_Ordc.pdf",
+      "notes": "Uses the federal standard deduction (no personal exemption from 2018). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 250000,
+            "rate": 0.0925
+          },
+          {
+            "from": 500000,
+            "rate": 0.0975
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 13850,
+        "marriedJoint": 27700
+      },
+      "source": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2023_D40_Book_Final_041124.pdf",
+      "notes": "Uses the federal standard deduction (no personal exemption from 2018). Same brackets for all filing statuses (DC Code 47-1806.03)."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 250000,
+            "rate": 0.0925
+          },
+          {
+            "from": 500000,
+            "rate": 0.0975
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 250000,
+            "rate": 0.0925
+          },
+          {
+            "from": 500000,
+            "rate": 0.0975
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 14600,
+        "marriedJoint": 29200
+      },
+      "source": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2024_D40_Booklet_011525.pdf",
+      "notes": "Uses the federal standard deduction."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 250000,
+            "rate": 0.0925
+          },
+          {
+            "from": 500000,
+            "rate": 0.0975
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 250000,
+            "rate": 0.0925
+          },
+          {
+            "from": 500000,
+            "rate": 0.0975
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 15000,
+        "marriedJoint": 30000
+      },
+      "source": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2025_D40_Book_082026_v1.pdf",
+      "notes": "DC decoupled from the One Big Beautiful Bill Act (November 2025 law), so its 2025 standard deduction stays at $15,000 / $30,000."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 250000,
+            "rate": 0.0925
+          },
+          {
+            "from": 500000,
+            "rate": 0.0975
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 250000,
+            "rate": 0.0925
+          },
+          {
+            "from": 500000,
+            "rate": 0.0975
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 16100,
+        "marriedJoint": 32200
+      },
+      "source": "https://otr.cfo.dc.gov/page/dc-individual-and-fiduciary-income-tax-rates",
+      "notes": "Standard deduction per OTR's 2026 D-40ES; DC's attempt to decouple from the federal amount is still disputed after Congress's disapproval (P.L. 119-78)."
+    }
+  }
+}

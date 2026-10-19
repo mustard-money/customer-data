@@ -1,0 +1,2695 @@
+{
+  "id": "us-state-KS",
+  "kind": "state",
+  "region": "Kansas",
+  "state": "KS",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $600 personal exemption each; federal standard deduction (percentage-based, income-dependent) not modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $600 personal exemption each; federal standard deduction (percentage-based, income-dependent) not modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $600 personal exemption each; federal standard deduction (percentage-based, income-dependent) not modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $600 personal exemption each; federal standard deduction (percentage-based, income-dependent) not modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $600 personal exemption each; federal standard deduction (percentage-based, income-dependent) not modelled."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $600 personal exemption each; federal standard deduction (percentage-based, income-dependent) not modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          }
+        ]
+      },
+      "deduction": {
+        "single": 600,
+        "marriedJoint": 1200
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $600 personal exemption each; federal standard deduction (percentage-based, income-dependent) not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.085
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          },
+          {
+            "from": 50000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $750 personal exemption each; standard deduction frozen at 1976 federal levels (16% of AGI with min/max), income-dependent, not modelled. $750 exemption per S.B. 494 (1977) per KDOR 2025 testimony; first tax year of increase assumed 1977."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.085
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          },
+          {
+            "from": 50000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $750 personal exemption each; standard deduction frozen at 1976 federal levels (16% of AGI with min/max), income-dependent, not modelled. $750 exemption per S.B. 494 (1977) per KDOR 2025 testimony; first tax year of increase assumed 1977."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.085
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          },
+          {
+            "from": 50000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $1000 personal exemption each; standard deduction frozen at 1976 federal levels (16% of AGI with min/max), income-dependent, not modelled. $1,000 exemption per S.B. 149 (1979) per KDOR 2025 testimony; first tax year of increase assumed 1979."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.085
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          },
+          {
+            "from": 50000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $1000 personal exemption each; standard deduction frozen at 1976 federal levels (16% of AGI with min/max), income-dependent, not modelled."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.085
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          },
+          {
+            "from": 50000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $1000 personal exemption each; standard deduction frozen at 1976 federal levels (16% of AGI with min/max), income-dependent, not modelled."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.085
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          },
+          {
+            "from": 50000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $1000 personal exemption each; standard deduction frozen at 1976 federal levels (16% of AGI with min/max), income-dependent, not modelled."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.085
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          },
+          {
+            "from": 50000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $1000 personal exemption each; standard deduction frozen at 1976 federal levels (16% of AGI with min/max), income-dependent, not modelled."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.085
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          },
+          {
+            "from": 50000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $1000 personal exemption each; standard deduction frozen at 1976 federal levels (16% of AGI with min/max), income-dependent, not modelled."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.085
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          },
+          {
+            "from": 50000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $1000 personal exemption each; standard deduction frozen at 1976 federal levels (16% of AGI with min/max), income-dependent, not modelled."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.085
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          },
+          {
+            "from": 50000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $1000 personal exemption each; standard deduction frozen at 1976 federal levels (16% of AGI with min/max), income-dependent, not modelled."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.035
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 7000,
+            "rate": 0.065
+          },
+          {
+            "from": 10000,
+            "rate": 0.075
+          },
+          {
+            "from": 20000,
+            "rate": 0.085
+          },
+          {
+            "from": 25000,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.035
+          },
+          {
+            "from": 6000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          },
+          {
+            "from": 14000,
+            "rate": 0.065
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          },
+          {
+            "from": 50000,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductible (limited to the greater of $5,000/$10,000 or half of federal liability in 1983-84); not modelled. Joint brackets are double the single brackets (KLRD note a). Deduction = $1000 personal exemption each; standard deduction frozen at 1976 federal levels (16% of AGI with min/max), income-dependent, not modelled."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.048
+          },
+          {
+            "from": 27500,
+            "rate": 0.061
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0405
+          },
+          {
+            "from": 35000,
+            "rate": 0.053
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4950,
+        "marriedJoint": 8900
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal income tax deductibility repealed 1988. Deduction = standard deduction at 1988 federal levels ($3,000 / $5,000) + $1,950 exemption each (K.S.A. 79-32,121 as shown in 1998 S.B. 493)."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.045
+          },
+          {
+            "from": 27500,
+            "rate": 0.0595
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0365
+          },
+          {
+            "from": 35000,
+            "rate": 0.0515
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Optional higher rate schedule for taxpayers electing to deduct federal income tax (1989-91) not modelled. Deduction = 1988-federal-level standard deduction ($3,000 / $5,000) + $2,000 exemption each."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.045
+          },
+          {
+            "from": 27500,
+            "rate": 0.0595
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0365
+          },
+          {
+            "from": 35000,
+            "rate": 0.0515
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Optional higher rate schedule for taxpayers electing to deduct federal income tax (1989-91) not modelled. Deduction = 1988-federal-level standard deduction ($3,000 / $5,000) + $2,000 exemption each."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.045
+          },
+          {
+            "from": 27500,
+            "rate": 0.0595
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0365
+          },
+          {
+            "from": 35000,
+            "rate": 0.0515
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Optional higher rate schedule for taxpayers electing to deduct federal income tax (1989-91) not modelled. Deduction = 1988-federal-level standard deduction ($3,000 / $5,000) + $2,000 exemption each."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.044
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 30000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal deductibility repealed 1992. Deduction = 1988-federal-level standard deduction ($3,000 / $5,000) + $2,000 exemption each. No form/instruction found to spot-check 1992-96."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.044
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 30000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal deductibility repealed 1992. Deduction = 1988-federal-level standard deduction ($3,000 / $5,000) + $2,000 exemption each. No form/instruction found to spot-check 1992-96."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.044
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 30000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal deductibility repealed 1992. Deduction = 1988-federal-level standard deduction ($3,000 / $5,000) + $2,000 exemption each. No form/instruction found to spot-check 1992-96."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.044
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 30000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal deductibility repealed 1992. Deduction = 1988-federal-level standard deduction ($3,000 / $5,000) + $2,000 exemption each. No form/instruction found to spot-check 1992-96."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.044
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 30000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Federal deductibility repealed 1992. Deduction = 1988-federal-level standard deduction ($3,000 / $5,000) + $2,000 exemption each. No form/instruction found to spot-check 1992-96."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.041
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 30000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 9000
+      },
+      "source": "https://kslegislature.gov/historical_data/bills/1998/1998_S_Bill_493.html",
+      "notes": "Federal deductibility repealed 1992. Deduction = 1988-federal-level standard deduction ($3,000 / $5,000) + $2,000 exemption each. 1997 single schedule per K.S.A. 79-32,110(a)(2)(A) as amended by 1998 S.B. 493."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15000,
+            "rate": 0.0625
+          },
+          {
+            "from": 30000,
+            "rate": 0.0645
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://kslegislature.gov/historical_data/bills/1998/1998_S_Bill_493.html",
+      "notes": "Deduction = standard deduction $3,000 / $6,000 + $2,250 exemption each (1998 S.B. 493; confirmed in KDOR K-40 instructions 2002-2012). Schedule unchanged 1998-2012 per KLRD; checked against 2009 and 2012 KDOR tax computation schedules."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15000,
+            "rate": 0.0625
+          },
+          {
+            "from": 30000,
+            "rate": 0.0645
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $6,000 + $2,250 exemption each (1998 S.B. 493; confirmed in KDOR K-40 instructions 2002-2012). Schedule unchanged 1998-2012 per KLRD; checked against 2009 and 2012 KDOR tax computation schedules."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15000,
+            "rate": 0.0625
+          },
+          {
+            "from": 30000,
+            "rate": 0.0645
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $6,000 + $2,250 exemption each (1998 S.B. 493; confirmed in KDOR K-40 instructions 2002-2012). Schedule unchanged 1998-2012 per KLRD; checked against 2009 and 2012 KDOR tax computation schedules."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15000,
+            "rate": 0.0625
+          },
+          {
+            "from": 30000,
+            "rate": 0.0645
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $6,000 + $2,250 exemption each (1998 S.B. 493; confirmed in KDOR K-40 instructions 2002-2012). Schedule unchanged 1998-2012 per KLRD; checked against 2009 and 2012 KDOR tax computation schedules."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15000,
+            "rate": 0.0625
+          },
+          {
+            "from": 30000,
+            "rate": 0.0645
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $6,000 + $2,250 exemption each (1998 S.B. 493; confirmed in KDOR K-40 instructions 2002-2012). Schedule unchanged 1998-2012 per KLRD; checked against 2009 and 2012 KDOR tax computation schedules."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15000,
+            "rate": 0.0625
+          },
+          {
+            "from": 30000,
+            "rate": 0.0645
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $6,000 + $2,250 exemption each (1998 S.B. 493; confirmed in KDOR K-40 instructions 2002-2012). Schedule unchanged 1998-2012 per KLRD; checked against 2009 and 2012 KDOR tax computation schedules."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15000,
+            "rate": 0.0625
+          },
+          {
+            "from": 30000,
+            "rate": 0.0645
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $6,000 + $2,250 exemption each (1998 S.B. 493; confirmed in KDOR K-40 instructions 2002-2012). Schedule unchanged 1998-2012 per KLRD; checked against 2009 and 2012 KDOR tax computation schedules."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15000,
+            "rate": 0.0625
+          },
+          {
+            "from": 30000,
+            "rate": 0.0645
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $6,000 + $2,250 exemption each (1998 S.B. 493; confirmed in KDOR K-40 instructions 2002-2012). Schedule unchanged 1998-2012 per KLRD; checked against 2009 and 2012 KDOR tax computation schedules."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15000,
+            "rate": 0.0625
+          },
+          {
+            "from": 30000,
+            "rate": 0.0645
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $6,000 + $2,250 exemption each (1998 S.B. 493; confirmed in KDOR K-40 instructions 2002-2012). Schedule unchanged 1998-2012 per KLRD; checked against 2009 and 2012 KDOR tax computation schedules."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15000,
+            "rate": 0.0625
+          },
+          {
+            "from": 30000,
+            "rate": 0.0645
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $6,000 + $2,250 exemption each (1998 S.B. 493; confirmed in KDOR K-40 instructions 2002-2012). Schedule unchanged 1998-2012 per KLRD; checked against 2009 and 2012 KDOR tax computation schedules."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15000,
+            "rate": 0.0625
+          },
+          {
+            "from": 30000,
+            "rate": 0.0645
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $6,000 + $2,250 exemption each (1998 S.B. 493; confirmed in KDOR K-40 instructions 2002-2012). Schedule unchanged 1998-2012 per KLRD; checked against 2009 and 2012 KDOR tax computation schedules."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15000,
+            "rate": 0.0625
+          },
+          {
+            "from": 30000,
+            "rate": 0.0645
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KS/2009/iitables09.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $6,000 + $2,250 exemption each (1998 S.B. 493; confirmed in KDOR K-40 instructions 2002-2012). Schedule unchanged 1998-2012 per KLRD; checked against 2009 and 2012 KDOR tax computation schedules."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15000,
+            "rate": 0.0625
+          },
+          {
+            "from": 30000,
+            "rate": 0.0645
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $6,000 + $2,250 exemption each (1998 S.B. 493; confirmed in KDOR K-40 instructions 2002-2012). Schedule unchanged 1998-2012 per KLRD; checked against 2009 and 2012 KDOR tax computation schedules."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15000,
+            "rate": 0.0625
+          },
+          {
+            "from": 30000,
+            "rate": 0.0645
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://klrd.gov/wp-content/uploads/2023/11/2023TaxFacts9thEd.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $6,000 + $2,250 exemption each (1998 S.B. 493; confirmed in KDOR K-40 instructions 2002-2012). Schedule unchanged 1998-2012 per KLRD; checked against 2009 and 2012 KDOR tax computation schedules."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15000,
+            "rate": 0.0625
+          },
+          {
+            "from": 30000,
+            "rate": 0.0645
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 30000,
+            "rate": 0.0625
+          },
+          {
+            "from": 60000,
+            "rate": 0.0645
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/KS/2012/ip12.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $6,000 + $2,250 exemption each (1998 S.B. 493; confirmed in KDOR K-40 instructions 2002-2012). Schedule unchanged 1998-2012 per KLRD; checked against 2009 and 2012 KDOR tax computation schedules."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 15000,
+            "rate": 0.049
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 30000,
+            "rate": 0.049
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 12000
+      },
+      "source": "https://www.ksrevenue.gov/pdf/ip13.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $7,500 + $2,250 exemption each. Non-wage business income exempt 2013-2016 (not relevant to wages)."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.027
+          },
+          {
+            "from": 15000,
+            "rate": 0.048
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.027
+          },
+          {
+            "from": 30000,
+            "rate": 0.048
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 12000
+      },
+      "source": "https://www.ksrevenue.gov/pdf/ip14.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $7,500 + $2,250 exemption each. Non-wage business income exempt 2013-2016 (not relevant to wages)."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.027
+          },
+          {
+            "from": 15000,
+            "rate": 0.046
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.027
+          },
+          {
+            "from": 30000,
+            "rate": 0.046
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 12000
+      },
+      "source": "https://www.ksrevenue.gov/pdf/ip15.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $7,500 + $2,250 exemption each. Non-wage business income exempt 2013-2016 (not relevant to wages)."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.027
+          },
+          {
+            "from": 15000,
+            "rate": 0.046
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.027
+          },
+          {
+            "from": 30000,
+            "rate": 0.046
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 12000
+      },
+      "source": "https://www.ksrevenue.gov/pdf/ip16.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $7,500 + $2,250 exemption each. Zero tax if taxable income <= $5,000 single / $12,500 joint (cliff; not modelled). Non-wage business income exempt 2013-2016 (not relevant to wages)."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.029
+          },
+          {
+            "from": 15000,
+            "rate": 0.049
+          },
+          {
+            "from": 30000,
+            "rate": 0.052
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.029
+          },
+          {
+            "from": 30000,
+            "rate": 0.049
+          },
+          {
+            "from": 60000,
+            "rate": 0.052
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 12000
+      },
+      "source": "https://www.ksrevenue.gov/pdf/ip17.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $7,500 + $2,250 exemption each. Zero tax if taxable income <= $5,000 single / $12,500 joint (cliff; not modelled)."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 15000,
+            "rate": 0.0525
+          },
+          {
+            "from": 30000,
+            "rate": 0.057
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 30000,
+            "rate": 0.0525
+          },
+          {
+            "from": 60000,
+            "rate": 0.057
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 12000
+      },
+      "source": "https://www.ksrevenue.gov/pdf/ip18.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $7,500 + $2,250 exemption each. Zero tax if taxable income <= $2,500 single / $5,000 joint (cliff; not modelled)."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 15000,
+            "rate": 0.0525
+          },
+          {
+            "from": 30000,
+            "rate": 0.057
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 30000,
+            "rate": 0.0525
+          },
+          {
+            "from": 60000,
+            "rate": 0.057
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 12000
+      },
+      "source": "https://www.ksrevenue.gov/pdf/ip19.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $7,500 + $2,250 exemption each. Zero tax if taxable income <= $2,500 single / $5,000 joint (cliff; not modelled)."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 15000,
+            "rate": 0.0525
+          },
+          {
+            "from": 30000,
+            "rate": 0.057
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 30000,
+            "rate": 0.0525
+          },
+          {
+            "from": 60000,
+            "rate": 0.057
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 12000
+      },
+      "source": "https://www.ksrevenue.gov/pdf/ip20.pdf",
+      "notes": "Deduction = standard deduction $3,000 / $7,500 + $2,250 exemption each. Zero tax if taxable income <= $2,500 single / $5,000 joint (cliff; not modelled)."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 15000,
+            "rate": 0.0525
+          },
+          {
+            "from": 30000,
+            "rate": 0.057
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 30000,
+            "rate": 0.0525
+          },
+          {
+            "from": 60000,
+            "rate": 0.057
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5750,
+        "marriedJoint": 12500
+      },
+      "source": "https://www.ksrevenue.gov/pdf/ip21.pdf",
+      "notes": "Deduction = standard deduction $3,500 / $8,000 + $2,250 exemption each. Zero tax if taxable income <= $2,500 single / $5,000 joint (cliff; not modelled)."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 15000,
+            "rate": 0.0525
+          },
+          {
+            "from": 30000,
+            "rate": 0.057
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 30000,
+            "rate": 0.0525
+          },
+          {
+            "from": 60000,
+            "rate": 0.057
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5750,
+        "marriedJoint": 12500
+      },
+      "source": "https://www.ksrevenue.gov/pdf/ip22.pdf",
+      "notes": "Deduction = standard deduction $3,500 / $8,000 + $2,250 exemption each. Zero tax if taxable income <= $2,500 single / $5,000 joint (cliff; not modelled)."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 15000,
+            "rate": 0.0525
+          },
+          {
+            "from": 30000,
+            "rate": 0.057
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 30000,
+            "rate": 0.0525
+          },
+          {
+            "from": 60000,
+            "rate": 0.057
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5750,
+        "marriedJoint": 12500
+      },
+      "source": "https://www.ksrevenue.gov/pdf/ip23.pdf",
+      "notes": "Deduction = standard deduction $3,500 / $8,000 + $2,250 exemption each. Zero tax if taxable income <= $2,500 single / $5,000 joint (cliff; not modelled)."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.052
+          },
+          {
+            "from": 23000,
+            "rate": 0.0558
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.052
+          },
+          {
+            "from": 46000,
+            "rate": 0.0558
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12765,
+        "marriedJoint": 26560
+      },
+      "source": "https://www.ksrevenue.gov/pdf/ip24.pdf",
+      "notes": "Two-bracket schedule from SB 1 (June 2024), retroactive to January 2024. Deduction is the $3,605 / $8,240 standard deduction plus the $9,160 / $18,320 exemption."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.052
+          },
+          {
+            "from": 23000,
+            "rate": 0.0558
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.052
+          },
+          {
+            "from": 46000,
+            "rate": 0.0558
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12765,
+        "marriedJoint": 26560
+      },
+      "source": "https://www.ksrevenue.gov/pdf/ip25.pdf",
+      "notes": "Deduction is the $3,605 / $8,240 standard deduction plus the $9,160 / $18,320 exemption."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.052
+          },
+          {
+            "from": 23000,
+            "rate": 0.0558
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.052
+          },
+          {
+            "from": 46000,
+            "rate": 0.0558
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12765,
+        "marriedJoint": 26560
+      },
+      "source": "https://ksrevenue.gov/taxnotices/notice25-06.pdf",
+      "notes": "Deduction is the $3,605 / $8,240 standard deduction plus the $9,160 / $18,320 exemption."
+    }
+  }
+}

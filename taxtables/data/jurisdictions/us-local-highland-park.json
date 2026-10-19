@@ -1,0 +1,339 @@
+{
+  "id": "us-local-highland-park",
+  "kind": "local",
+  "region": "Highland Park, MI",
+  "state": "MI",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "1% on residents and 0.5% on nonresidents, the rate every Michigan city other than Detroit had to levy under the Uniform City Income Tax Ordinance (MCL 141.611): ACIR Significant Features 1970-71 ed. (M-57), Table 43 (pp. 100-102), rates at December 31, 1970, footnote 4 (Highland Park listed)."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "1% on residents and 0.5% on nonresidents (MCL 141.611 uniform rate): ACIR Significant Features 1972 ed. (M-74), Table 99 (pp. 226-228), rates at December 31, 1971, footnote 4 (Highland Park listed)."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "1% on residents and 0.5% on nonresidents: until PA 124 of 1982 added MCL 141.503a (April 19, 1982) every city other than Detroit could levy only the rate fixed by the Uniform City Income Tax Ordinance, MCL 141.611 (1% / 0.5%); ACIR tables list Highland Park at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976 and Oct. 1, 1979."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "1% on residents and 0.5% on nonresidents (MCL 141.611 uniform rate): ACIR Significant Features 1973-74 ed. (M-79), Table 150 (p. 292), Highland Park 1.0% at July 1, 1973."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "1% on residents and 0.5% on nonresidents: until PA 124 of 1982 added MCL 141.503a (April 19, 1982) every city other than Detroit could levy only the rate fixed by the Uniform City Income Tax Ordinance, MCL 141.611 (1% / 0.5%); ACIR tables list Highland Park at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976 and Oct. 1, 1979."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "1% on residents and 0.5% on nonresidents: until PA 124 of 1982 added MCL 141.503a (April 19, 1982) every city other than Detroit could levy only the rate fixed by the Uniform City Income Tax Ordinance, MCL 141.611 (1% / 0.5%); ACIR tables list Highland Park at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976 and Oct. 1, 1979."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "1% on residents and 0.5% on nonresidents (MCL 141.611 uniform rate): ACIR Significant Features 1976-77 ed. vol. 2, Table 116 (p. 227), Highland Park 1.0% at July 1, 1976."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "1% on residents and 0.5% on nonresidents: until PA 124 of 1982 added MCL 141.503a (April 19, 1982) every city other than Detroit could levy only the rate fixed by the Uniform City Income Tax Ordinance, MCL 141.611 (1% / 0.5%); ACIR tables list Highland Park at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976 and Oct. 1, 1979."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "1% on residents and 0.5% on nonresidents: until PA 124 of 1982 added MCL 141.503a (April 19, 1982) every city other than Detroit could levy only the rate fixed by the Uniform City Income Tax Ordinance, MCL 141.611 (1% / 0.5%); ACIR tables list Highland Park at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976 and Oct. 1, 1979."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "1% on residents and 0.5% on nonresidents (MCL 141.611 uniform rate): ACIR Significant Features 1979-80 ed., Table 87 (p. 126), all 16 Michigan cities 1.0% at October 1, 1979 except Detroit."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "1% on residents and 0.5% on nonresidents: until PA 124 of 1982 added MCL 141.503a (April 19, 1982) every city other than Detroit could levy only the rate fixed by the Uniform City Income Tax Ordinance, MCL 141.611 (1% / 0.5%); ACIR tables list Highland Park at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976 and Oct. 1, 1979."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-611",
+      "notes": "1% on residents and 0.5% on nonresidents: until PA 124 of 1982 added MCL 141.503a (April 19, 1982) every city other than Detroit could levy only the rate fixed by the Uniform City Income Tax Ordinance, MCL 141.611 (1% / 0.5%); ACIR tables list Highland Park at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976 and Oct. 1, 1979."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1981-1982.pdf",
+      "notes": "2% on residents and 1% on nonresidents: the ACIR Significant Features of Fiscal Federalism 1981-82 edition (M-135, April 1983), Table 31 (State and local general sales tax rates and personal income tax rates, December 31, 1982), note 12 (p. 50): 'city of Highland Park rate is 2% for residents, 1% for non-residents, effective 7/1/82'. Highland Park Codified Ordinances sec. 890.03 (Ord. 1104, passed 8-16-82, under MCL 141.503a) has no later amendment of the rate section, and this file's 1985 entry is 2%, so the rate is carried across 1983. The House and Senate analyses of SB 451 of 1987 say the voter approval required before July 1, 1984 was given. (The ACIR's July 1, 1982 effective date conflicts with this file's 1982 entry, which reads MCL 141.503(4) as deferring the ordinance to January 1, 1983; either way the 2% rate was in force throughout 1983.)"
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1981-1982.pdf",
+      "notes": "2% on residents and 1% on nonresidents: the ACIR Significant Features of Fiscal Federalism 1981-82 edition (M-135, April 1983), Table 31 (State and local general sales tax rates and personal income tax rates, December 31, 1982), note 12 (p. 50): 'city of Highland Park rate is 2% for residents, 1% for non-residents, effective 7/1/82'. Highland Park Codified Ordinances sec. 890.03 (Ord. 1104, passed 8-16-82, under MCL 141.503a) has no later amendment of the rate section, and this file's 1985 entry is 2%, so the rate is carried across 1984. The House and Senate analyses of SB 451 of 1987 say the voter approval required before July 1, 1984 was given. (The ACIR's July 1, 1982 effective date conflicts with this file's 1982 entry, which reads MCL 141.503(4) as deferring the ordinance to January 1, 1983; either way the 2% rate was in force throughout 1984.)"
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/highland_park/codes/codified_ordinances?nodeId=06%20-%20Part%20Eight%20-%20Business%20Regulation%20and%20Taxation%20Code",
+      "notes": "2% on residents and 1% on nonresidents: Highland Park Codified Ordinances sec. 890.03 (Ord. 1104, passed 8-16-82, under MCL 141.503a; no later amendment of the rate section). Voter approval was required before July 1, 1984 (House and Senate analyses of SB 451 of 1987 say the increase was approved), so the 2% rate was in force by January 1, 1985 at the latest; the exact effective date (1983 or 1984) is not documented, so 1983-1984 are not recorded. The Senate Fiscal Agency (Nov. 1995) lists Highland Park at 2% / 1%."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/highland_park/codes/codified_ordinances?nodeId=06%20-%20Part%20Eight%20-%20Business%20Regulation%20and%20Taxation%20Code",
+      "notes": "2% on residents and 1% on nonresidents: Highland Park Codified Ordinances sec. 890.03 (Ord. 1104, passed 8-16-82, under MCL 141.503a; no later amendment of the rate section). Voter approval was required before July 1, 1984 (House and Senate analyses of SB 451 of 1987 say the increase was approved), so the 2% rate was in force by January 1, 1985 at the latest; the exact effective date (1983 or 1984) is not documented, so 1983-1984 are not recorded. The Senate Fiscal Agency (Nov. 1995) lists Highland Park at 2% / 1%."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/highland_park/codes/codified_ordinances?nodeId=06%20-%20Part%20Eight%20-%20Business%20Regulation%20and%20Taxation%20Code",
+      "notes": "2% on residents and 1% on nonresidents: Highland Park Codified Ordinances sec. 890.03 (Ord. 1104, passed 8-16-82, under MCL 141.503a; no later amendment of the rate section). Voter approval was required before July 1, 1984 (House and Senate analyses of SB 451 of 1987 say the increase was approved), so the 2% rate was in force by January 1, 1985 at the latest; the exact effective date (1983 or 1984) is not documented, so 1983-1984 are not recorded. The Senate Fiscal Agency (Nov. 1995) lists Highland Park at 2% / 1%."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/highland_park/codes/codified_ordinances?nodeId=06%20-%20Part%20Eight%20-%20Business%20Regulation%20and%20Taxation%20Code",
+      "notes": "2% on residents and 1% on nonresidents: Highland Park Codified Ordinances sec. 890.03 (Ord. 1104, passed 8-16-82, under MCL 141.503a; no later amendment of the rate section). Voter approval was required before July 1, 1984 (House and Senate analyses of SB 451 of 1987 say the increase was approved), so the 2% rate was in force by January 1, 1985 at the latest; the exact effective date (1983 or 1984) is not documented, so 1983-1984 are not recorded. The Senate Fiscal Agency (Nov. 1995) lists Highland Park at 2% / 1%."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/highland_park/codes/codified_ordinances?nodeId=06%20-%20Part%20Eight%20-%20Business%20Regulation%20and%20Taxation%20Code",
+      "notes": "2% on residents and 1% on nonresidents: Highland Park Codified Ordinances sec. 890.03 (Ord. 1104, passed 8-16-82, under MCL 141.503a; no later amendment of the rate section). Voter approval was required before July 1, 1984 (House and Senate analyses of SB 451 of 1987 say the increase was approved), so the 2% rate was in force by January 1, 1985 at the latest; the exact effective date (1983 or 1984) is not documented, so 1983-1984 are not recorded. The Senate Fiscal Agency (Nov. 1995) lists Highland Park at 2% / 1%."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/highland_park/codes/codified_ordinances?nodeId=06%20-%20Part%20Eight%20-%20Business%20Regulation%20and%20Taxation%20Code",
+      "notes": "2% on residents and 1% on nonresidents: Highland Park Codified Ordinances sec. 890.03 (Ord. 1104, passed 8-16-82, under MCL 141.503a; no later amendment of the rate section). Voter approval was required before July 1, 1984 (House and Senate analyses of SB 451 of 1987 say the increase was approved), so the 2% rate was in force by January 1, 1985 at the latest; the exact effective date (1983 or 1984) is not documented, so 1983-1984 are not recorded. The Senate Fiscal Agency (Nov. 1995) lists Highland Park at 2% / 1%."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/highland_park/codes/codified_ordinances?nodeId=06%20-%20Part%20Eight%20-%20Business%20Regulation%20and%20Taxation%20Code",
+      "notes": "2% on residents and 1% on nonresidents: Highland Park Codified Ordinances sec. 890.03 (Ord. 1104, passed 8-16-82, under MCL 141.503a; no later amendment of the rate section). Voter approval was required before July 1, 1984 (House and Senate analyses of SB 451 of 1987 say the increase was approved), so the 2% rate was in force by January 1, 1985 at the latest; the exact effective date (1983 or 1984) is not documented, so 1983-1984 are not recorded. The Senate Fiscal Agency (Nov. 1995) lists Highland Park at 2% / 1%."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/highland_park/codes/codified_ordinances?nodeId=06%20-%20Part%20Eight%20-%20Business%20Regulation%20and%20Taxation%20Code",
+      "notes": "2% on residents and 1% on nonresidents: Highland Park Codified Ordinances sec. 890.03 (Ord. 1104, passed 8-16-82, under MCL 141.503a; no later amendment of the rate section). Voter approval was required before July 1, 1984 (House and Senate analyses of SB 451 of 1987 say the increase was approved), so the 2% rate was in force by January 1, 1985 at the latest; the exact effective date (1983 or 1984) is not documented, so 1983-1984 are not recorded. The Senate Fiscal Agency (Nov. 1995) lists Highland Park at 2% / 1%."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/highland_park/codes/codified_ordinances?nodeId=06%20-%20Part%20Eight%20-%20Business%20Regulation%20and%20Taxation%20Code",
+      "notes": "2% on residents and 1% on nonresidents: Highland Park Codified Ordinances sec. 890.03 (Ord. 1104, passed 8-16-82, under MCL 141.503a; no later amendment of the rate section). Voter approval was required before July 1, 1984 (House and Senate analyses of SB 451 of 1987 say the increase was approved), so the 2% rate was in force by January 1, 1985 at the latest; the exact effective date (1983 or 1984) is not documented, so 1983-1984 are not recorded. The Senate Fiscal Agency (Nov. 1995) lists Highland Park at 2% / 1%."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/highland_park/codes/codified_ordinances?nodeId=06%20-%20Part%20Eight%20-%20Business%20Regulation%20and%20Taxation%20Code",
+      "notes": "2% on residents and 1% on nonresidents: Highland Park Codified Ordinances sec. 890.03 (Ord. 1104, passed 8-16-82, under MCL 141.503a; no later amendment of the rate section). Voter approval was required before July 1, 1984 (House and Senate analyses of SB 451 of 1987 say the increase was approved), so the 2% rate was in force by January 1, 1985 at the latest; the exact effective date (1983 or 1984) is not documented, so 1983-1984 are not recorded. The Senate Fiscal Agency (Nov. 1995) lists Highland Park at 2% / 1%."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/1995-1996/billanalysis/Senate/pdf/1995-SFA-4587-A.pdf",
+      "notes": "2% residents / 1% nonresidents (Senate Fiscal Agency, Nov. 1995)."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in Nov. 1995 (Senate Fiscal Agency) and in 2007 (House Fiscal Agency table); no change between those dates is documented, but year-specific forms were not checked."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in 2007 (House Fiscal Agency table) and on the 2012 HP-1040; year-specific forms not checked."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in 2007 (House Fiscal Agency table) and on the 2012 HP-1040; year-specific forms not checked."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in 2007 (House Fiscal Agency table) and on the 2012 HP-1040; year-specific forms not checked."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "2% in 2007 (House Fiscal Agency table) and on the 2012 HP-1040; year-specific forms not checked."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://highlandparkmi.gov/media/awcnlkhw/2012-hp-1040-form-and-instructions.pdf"
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://highlandparkmi.gov/media/ko0dzlvt/2013-hp-1040-form-and-instructions.pdf"
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://highlandparkmi.gov/incometax/",
+      "notes": "2% on the 2013 HP-1040 and currently; year-specific forms not checked."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://highlandparkmi.gov/incometax/",
+      "notes": "2% on the 2013 HP-1040 and currently; year-specific forms not checked."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://highlandparkmi.gov/incometax/",
+      "notes": "2% on the 2013 HP-1040 and currently; year-specific forms not checked."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://highlandparkmi.gov/incometax/",
+      "notes": "2% on the 2013 HP-1040 and currently; year-specific forms not checked."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://highlandparkmi.gov/incometax/",
+      "notes": "2% on the 2013 HP-1040 and currently; year-specific forms not checked."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://highlandparkmi.gov/incometax/",
+      "notes": "2% on the 2013 HP-1040 and currently; year-specific forms not checked."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://highlandparkmi.gov/incometax/",
+      "notes": "2% on the 2013 HP-1040 and currently; year-specific forms not checked."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://highlandparkmi.gov/incometax/",
+      "notes": "2% on the 2013 HP-1040 and currently; year-specific forms not checked."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://highlandparkmi.gov/incometax/",
+      "notes": "2% on the 2013 HP-1040 and currently; year-specific forms not checked."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://highlandparkmi.gov/incometax/",
+      "notes": "2% on the 2013 HP-1040 and currently; year-specific forms not checked."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://highlandparkmi.gov/incometax/"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://highlandparkmi.gov/incometax/"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://highlandparkmi.gov/incometax/"
+    }
+  }
+}

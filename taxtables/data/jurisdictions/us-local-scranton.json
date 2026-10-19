@@ -1,0 +1,275 @@
+{
+  "id": "us-local-scranton",
+  "kind": "local",
+  "region": "Scranton",
+  "state": "PA",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "Resident earned income tax: city 1% + Scranton School District 1% (ACIR Significant Features of Fiscal Federalism 1970-71 ed., M-57, Table 43 p. 101, rates at December 31, 1970: Scranton 1.0 with footnote 8 'the school district rate is the same as the municipal rate' and footnote 13 'combined city and school district rate may not exceed 2.0 percent'; footnote 7 exempts Scranton from the 1% combined limit)."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "Resident earned income tax: city 1% + Scranton School District 1% (ACIR Significant Features of Fiscal Federalism 1972 ed., M-74, Table 99 p. 228, rates at December 31, 1971: Scranton 1.0 with footnote 8 'the school district rate is the same as the municipal rate' and footnote 12 'combined city and school district rate may not exceed 2.0 percent')."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "Resident earned income tax: city 1% + Scranton School District 1% (ACIR Significant Features of Fiscal Federalism 1973-74 ed., M-79, Table 150 p. 293, rates at July 1, 1973: Scranton 1.0 with footnote 7 'the school district rate is the same as the municipal rate' and footnote 12 'combined city and school district rate may not exceed 2.0 percent'). Most of 1976-1987 are not recorded: the 1976-77 and 1979-80 editions print Scranton with contradictory footnotes (city 2%, school district 1%, combined 2.0% or 2.5%), and the 1987-1988 editions give the city rate (2.2%) without the school district's."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://books.google.com/books?id=whBXAAAAIBAJ&pg=PA52&article_id=6894,4724195",
+      "notes": "Secondary source (Reading Eagle, regional news column, December 17, 1975, p. 52, via Google News Archive): the Greater Scranton Chamber of Commerce supports a proposed one per cent increase in the city earned income tax; presently the city and the Scranton School District impose a two per cent tax on earned income of residents, the legal limit, but Scranton has adopted a home rule charter taking effect January 6 [1976], which frees it from the state rate limits. Resident earned income tax for 1975: city + Scranton School District 2% combined (ACIR prints 1% each at July 1, 1973); the split is not given. Single secondary source."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.026,
+      "source": "https://archive.org/details/micro_IA40706905_0115/page/n282",
+      "notes": "Secondary source (Tax Foundation, Facts and Figures on Government Finance, 21st Biennial Edition 1981, Table 238 'Local Income Taxes and Rates by State', as of April 1, 1981, from Commerce Clearing House): Scranton 2.6, with note g: 'Rates shown comprise total rate for all local taxing jurisdictions combined' (resident rates). Recorded as the resident total (city + Scranton School District) for 1981; the split is not given. Single source; the ACIR's December 31, 1982 table (this file's 1982 entry) gives the same 2.6% combined rate."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.026,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1981-1982.pdf",
+      "notes": "Resident earned income tax, city + Scranton School District combined: ACIR Significant Features of Fiscal Federalism 1981-82 edition (M-135, April 1983), Table 31 (rates at December 31, 1982), note 28 (p. 52): the combined rate for overlapping local jurisdictions cannot exceed 1%, 'Among the exceptions are Philadelphia (8.6245%), Pittsburgh (3.625%) and Scranton (2.6%)'. The split between city and school district is not given. The Philadelphia figure in the same note is not Philadelphia's 4.3125% wage tax."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 1988 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 1989 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 1990 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 1991 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 1992 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 1993 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 1994 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 1995 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 1996 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 1997 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 1998 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.032,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.2% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 1999 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.032,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.2% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2000 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2001 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2002 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2003 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2004 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2005 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2006 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2007 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2008 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2009 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2010 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2011 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2012 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2013 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2014 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2015 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2016 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2017 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2018 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2019 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% (effective 2019-01-01) + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2020 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% (effective 2019-01-01) + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2021 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% (effective 2019-01-01) + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2022 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 2.4% (effective 2019-01-01) + Scranton S D 1%. From the PA DCED Municipal Statistics \"Municipal Tax Information\" report for reporting year 2023 (Scranton City, Lackawanna County); effective dates are as the report gives them, a July 1 change applies for half the year."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=EitWithCollector_Dyn_Excel&type=O"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=EitWithCollector_Dyn_Excel&type=O"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.034,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=EitWithCollector_Dyn_Excel&type=O"
+    }
+  }
+}

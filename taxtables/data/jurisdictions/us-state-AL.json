@@ -1,0 +1,2099 @@
+{
+  "id": "us-state-AL",
+  "kind": "state",
+  "region": "Alabama",
+  "state": "AL",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(1): one schedule for all filers for tax years ending before 1982 (no separate joint brackets). Exemptions $1,500/$3,000 are the Amendment 25 minimums and current Code \u00a740-18-19 amounts; not checked against a form for this year. Optional standard deduction (percentage of AGI) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(1): one schedule for all filers for tax years ending before 1982 (no separate joint brackets). Exemptions $1,500/$3,000 are the Amendment 25 minimums and current Code \u00a740-18-19 amounts; not checked against a form for this year. Optional standard deduction (percentage of AGI) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(1): one schedule for all filers for tax years ending before 1982 (no separate joint brackets). Exemptions $1,500/$3,000 are the Amendment 25 minimums and current Code \u00a740-18-19 amounts; not checked against a form for this year. Optional standard deduction (percentage of AGI) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(1): one schedule for all filers for tax years ending before 1982 (no separate joint brackets). Exemptions $1,500/$3,000 are the Amendment 25 minimums and current Code \u00a740-18-19 amounts; not checked against a form for this year. Optional standard deduction (percentage of AGI) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(1): one schedule for all filers for tax years ending before 1982 (no separate joint brackets). Exemptions $1,500/$3,000 are the Amendment 25 minimums and current Code \u00a740-18-19 amounts; not checked against a form for this year. Optional standard deduction (percentage of AGI) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(1): one schedule for all filers for tax years ending before 1982 (no separate joint brackets). Exemptions $1,500/$3,000 are the Amendment 25 minimums and current Code \u00a740-18-19 amounts; not checked against a form for this year. Optional standard deduction (percentage of AGI) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(1): one schedule for all filers for tax years ending before 1982 (no separate joint brackets). Exemptions $1,500/$3,000 are the Amendment 25 minimums and current Code \u00a740-18-19 amounts; not checked against a form for this year. Optional standard deduction (percentage of AGI) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(1): one schedule for all filers for tax years ending before 1982 (no separate joint brackets). Exemptions $1,500/$3,000 are the Amendment 25 minimums and current Code \u00a740-18-19 amounts; not checked against a form for this year. Optional standard deduction (percentage of AGI) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(1): one schedule for all filers for tax years ending before 1982 (no separate joint brackets). Exemptions $1,500/$3,000 are the Amendment 25 minimums and current Code \u00a740-18-19 amounts; not checked against a form for this year. Optional standard deduction (percentage of AGI) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(1): one schedule for all filers for tax years ending before 1982 (no separate joint brackets). Exemptions $1,500/$3,000 are the Amendment 25 minimums and current Code \u00a740-18-19 amounts; not checked against a form for this year. Optional standard deduction (percentage of AGI) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(1): one schedule for all filers for tax years ending before 1982 (no separate joint brackets). Exemptions $1,500/$3,000 are the Amendment 25 minimums and current Code \u00a740-18-19 amounts; not checked against a form for this year. Optional standard deduction (percentage of AGI) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(1): one schedule for all filers for tax years ending before 1982 (no separate joint brackets). Exemptions $1,500/$3,000 are the Amendment 25 minimums and current Code \u00a740-18-19 amounts; not checked against a form for this year. Optional standard deduction (percentage of AGI) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://admincode.legislature.state.al.us/administrative-code/810-3-5-.01",
+      "notes": "Rule 810-3-5-.01(2) / Code \u00a740-18-5 schedule for tax years after 1981 (head of family uses single brackets). Exemptions $1,500/$3,000 per Amendment 25 and Code \u00a740-18-19; not checked against a form for this year. Standard deduction (20% of AGI, capped) not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2021/10/06f40bk_11_21_06.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction is 20% of AGI capped at $2,000 single / $4,000 joint (income-dependent), not modelled. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2021/10/07f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2021/10/08f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2021/10/09f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2021/10/10f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2021/10/11f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2021/10/12f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2021/10/13f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2021/10/14f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2021/10/15f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2021/10/16f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2021/10/17f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2021/10/18f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2021/10/19f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2021/10/20f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2022/06/21f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2023/01/22f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1500,
+        "marriedJoint": 3000
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2024/01/23f40bk.pdf",
+      "notes": "Code \u00a740-18-5 schedule (unchanged since 1982); personal exemption $1,500 / $3,000 per the Form 40 booklet. Standard deduction phases down with AGI (sliding chart in the booklet), not modelled. Dependent exemption depends on AGI from 2007. Federal income tax paid is deductible (Amendment 225, 1965), not modelled."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2025/01/24f40bk.pdf",
+      "notes": "Standard deduction phases down with income and dependent exemption depends on income; personal exemption is $1,500 / $3,000. Federal income tax paid is deductible."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://www.revenue.alabama.gov/wp-content/uploads/2026/01/25f40bk.pdf",
+      "notes": "Standard deduction phases down with income and dependent exemption depends on income; personal exemption is $1,500 / $3,000. Federal income tax paid is deductible."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 500,
+            "rate": 0.04
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://www.revenue.alabama.gov/faqs/what-is-alabamas-individual-income-tax-rate/",
+      "notes": "Standard deduction phases down with income and dependent exemption depends on income; personal exemption is $1,500 / $3,000. Federal income tax paid is deductible."
+    }
+  }
+}

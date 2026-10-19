@@ -1,0 +1,347 @@
+{
+  "id": "us-local-allentown",
+  "kind": "local",
+  "region": "Allentown",
+  "state": "PA",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). ACIR Significant Features 1970-71 ed. (M-57), Table 43 p. 101, rates at December 31, 1970: Allentown 1.0, footnote 8 (school district rate the same as the municipal rate) and footnote 7 (total rate limited to 1%)."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). ACIR Significant Features 1972 ed. (M-74), Table 99 p. 227, rates at December 31, 1971: Allentown 1.0 with the same footnotes. The city's codified Article 331 records that Ord. 11855 (Dec. 15, 1970) enacted the earned income tax for 1971, to continue thereafter unless amended or repealed."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "http://web.archive.org/web/20161221164953/http://www.allentownpa.gov/Portals/0/files/legislative/codified_ordinances/3business/2businesstaxes.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). No ACIR edition prints this year. The city's codified Article 331 (2013 edition, editor's note) records that Ord. 11855 of December 15, 1970 enacted the tax for 1971 'to continue thereafter unless amended or repealed' and lists no further enactment until Ord. 14839 of December 1, 2010; ACIR tables list Allentown at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976, Oct. 1, 1979 and for 1986-1987, and the PA DCED statistics show the 0.5% + 0.5% split from 1988, so the rate is carried across."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). ACIR Significant Features 1973-74 ed. (M-79), Table 150 p. 293, rates at July 1, 1973: Allentown 1.0, footnote 7 (school district rate the same as the municipal rate; total limited to 1%)."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "http://web.archive.org/web/20161221164953/http://www.allentownpa.gov/Portals/0/files/legislative/codified_ordinances/3business/2businesstaxes.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). No ACIR edition prints this year. The city's codified Article 331 (2013 edition, editor's note) records that Ord. 11855 of December 15, 1970 enacted the tax for 1971 'to continue thereafter unless amended or repealed' and lists no further enactment until Ord. 14839 of December 1, 2010; ACIR tables list Allentown at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976, Oct. 1, 1979 and for 1986-1987, and the PA DCED statistics show the 0.5% + 0.5% split from 1988, so the rate is carried across."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "http://web.archive.org/web/20161221164953/http://www.allentownpa.gov/Portals/0/files/legislative/codified_ordinances/3business/2businesstaxes.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). No ACIR edition prints this year. The city's codified Article 331 (2013 edition, editor's note) records that Ord. 11855 of December 15, 1970 enacted the tax for 1971 'to continue thereafter unless amended or repealed' and lists no further enactment until Ord. 14839 of December 1, 2010; ACIR tables list Allentown at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976, Oct. 1, 1979 and for 1986-1987, and the PA DCED statistics show the 0.5% + 0.5% split from 1988, so the rate is carried across."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). ACIR Significant Features 1976-77 ed. vol. 2, Table 116 p. 227, rates at July 1, 1976: Allentown 1.0, footnote 8."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "http://web.archive.org/web/20161221164953/http://www.allentownpa.gov/Portals/0/files/legislative/codified_ordinances/3business/2businesstaxes.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). No ACIR edition prints this year. The city's codified Article 331 (2013 edition, editor's note) records that Ord. 11855 of December 15, 1970 enacted the tax for 1971 'to continue thereafter unless amended or repealed' and lists no further enactment until Ord. 14839 of December 1, 2010; ACIR tables list Allentown at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976, Oct. 1, 1979 and for 1986-1987, and the PA DCED statistics show the 0.5% + 0.5% split from 1988, so the rate is carried across."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "http://web.archive.org/web/20161221164953/http://www.allentownpa.gov/Portals/0/files/legislative/codified_ordinances/3business/2businesstaxes.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). No ACIR edition prints this year. The city's codified Article 331 (2013 edition, editor's note) records that Ord. 11855 of December 15, 1970 enacted the tax for 1971 'to continue thereafter unless amended or repealed' and lists no further enactment until Ord. 14839 of December 1, 2010; ACIR tables list Allentown at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976, Oct. 1, 1979 and for 1986-1987, and the PA DCED statistics show the 0.5% + 0.5% split from 1988, so the rate is carried across."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). ACIR Significant Features 1979-80 ed., Table 88 p. 131, rates at October 1, 1979: Allentown 1.0, footnote 13 (school district rate the same as the municipal rate) and footnote 12 (total limited to 1%, half each)."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "http://web.archive.org/web/20161221164953/http://www.allentownpa.gov/Portals/0/files/legislative/codified_ordinances/3business/2businesstaxes.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). No ACIR edition prints this year. The city's codified Article 331 (2013 edition, editor's note) records that Ord. 11855 of December 15, 1970 enacted the tax for 1971 'to continue thereafter unless amended or repealed' and lists no further enactment until Ord. 14839 of December 1, 2010; ACIR tables list Allentown at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976, Oct. 1, 1979 and for 1986-1987, and the PA DCED statistics show the 0.5% + 0.5% split from 1988, so the rate is carried across."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "http://web.archive.org/web/20161221164953/http://www.allentownpa.gov/Portals/0/files/legislative/codified_ordinances/3business/2businesstaxes.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). No ACIR edition prints this year. The city's codified Article 331 (2013 edition, editor's note) records that Ord. 11855 of December 15, 1970 enacted the tax for 1971 'to continue thereafter unless amended or repealed' and lists no further enactment until Ord. 14839 of December 1, 2010; ACIR tables list Allentown at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976, Oct. 1, 1979 and for 1986-1987, and the PA DCED statistics show the 0.5% + 0.5% split from 1988, so the rate is carried across."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "http://web.archive.org/web/20161221164953/http://www.allentownpa.gov/Portals/0/files/legislative/codified_ordinances/3business/2businesstaxes.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). No ACIR edition prints this year. The city's codified Article 331 (2013 edition, editor's note) records that Ord. 11855 of December 15, 1970 enacted the tax for 1971 'to continue thereafter unless amended or repealed' and lists no further enactment until Ord. 14839 of December 1, 2010; ACIR tables list Allentown at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976, Oct. 1, 1979 and for 1986-1987, and the PA DCED statistics show the 0.5% + 0.5% split from 1988, so the rate is carried across."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "http://web.archive.org/web/20161221164953/http://www.allentownpa.gov/Portals/0/files/legislative/codified_ordinances/3business/2businesstaxes.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). No ACIR edition prints this year. The city's codified Article 331 (2013 edition, editor's note) records that Ord. 11855 of December 15, 1970 enacted the tax for 1971 'to continue thereafter unless amended or repealed' and lists no further enactment until Ord. 14839 of December 1, 2010; ACIR tables list Allentown at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976, Oct. 1, 1979 and for 1986-1987, and the PA DCED statistics show the 0.5% + 0.5% split from 1988, so the rate is carried across."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "http://web.archive.org/web/20161221164953/http://www.allentownpa.gov/Portals/0/files/legislative/codified_ordinances/3business/2businesstaxes.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). No ACIR edition prints this year. The city's codified Article 331 (2013 edition, editor's note) records that Ord. 11855 of December 15, 1970 enacted the tax for 1971 'to continue thereafter unless amended or repealed' and lists no further enactment until Ord. 14839 of December 1, 2010; ACIR tables list Allentown at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976, Oct. 1, 1979 and for 1986-1987, and the PA DCED statistics show the 0.5% + 0.5% split from 1988, so the rate is carried across."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "http://web.archive.org/web/20161221164953/http://www.allentownpa.gov/Portals/0/files/legislative/codified_ordinances/3business/2businesstaxes.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). No ACIR edition prints this year. The city's codified Article 331 (2013 edition, editor's note) records that Ord. 11855 of December 15, 1970 enacted the tax for 1971 'to continue thereafter unless amended or repealed' and lists no further enactment until Ord. 14839 of December 1, 2010; ACIR tables list Allentown at 1.0% at Dec. 31, 1970, Dec. 31, 1971, July 1, 1973, July 1, 1976, Oct. 1, 1979 and for 1986-1987, and the PA DCED statistics show the 0.5% + 0.5% split from 1988, so the rate is carried across."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). ACIR Significant Features 1987 ed., Table 56 p. 85, rates for 1986: Allentown (Lehigh) 1.0 resident / 1.0 nonresident."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1988-Vol-1.pdf",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). ACIR Significant Features 1988 ed., Table 20 p. 49, rates for 1987: Allentown 1.0."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1988 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 1988); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1989 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 1989); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1990 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 1990); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1991 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 1991); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1992 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 1992); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1993 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 1993); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1994 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 1994); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1995 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 1995); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1996 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 1996); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1997 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 1997); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1998 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 1998); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1999 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 1999); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2000 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 2000); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2001 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 2001); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2002 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 2002); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2003 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 2003); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2004 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 2004); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2005 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 2005); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2006 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 2006); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2007 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 2007); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2008 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 2008); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2009 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 2009); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1% in total (city and Allentown School District 0.5% each under the Act 511 sharing rule). From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2010 (Allentown City, Lehigh County). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.0 + Allentown City S D 1.0 for reporting year 2010); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.0135,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1.35% in total: city 0.5% + Allentown School District 0.5% + the city's additional 0.35% levy adopted for 2011 (Ord. 14839 of Dec. 1, 2010; Ord. 14935 re-enacted the 1.35% rate from January 1, 2012, codified as Article 331 sec. 331.02 in the 2013 code). From the PA DCED report for reporting year 2011 (municipal 1.7 effective 1-1-2011 + S D 1.0, stated rates before Act 511 sharing). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.7 + Allentown City S D 1.0 for reporting year 2011); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.0135,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1.35% in total: city 0.5% + Allentown School District 0.5% + the city's additional 0.35% levy adopted for 2011 (Ord. 14839 of Dec. 1, 2010; Ord. 14935 re-enacted the 1.35% rate from January 1, 2012, codified as Article 331 sec. 331.02 in the 2013 code). From the PA DCED report for reporting year 2012 (municipal 1.7 effective 1-1-2011 + S D 1.0, stated rates before Act 511 sharing). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.7 + Allentown City S D 1.0 for reporting year 2012); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.0135,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1.35% in total: city 0.5% + Allentown School District 0.5% + the city's additional 0.35% levy adopted for 2011 (Ord. 14839 of Dec. 1, 2010; Ord. 14935 re-enacted the 1.35% rate from January 1, 2012, codified as Article 331 sec. 331.02 in the 2013 code). From the PA DCED report for reporting year 2013 (municipal 1.7 effective 1-1-2011 + S D 1.0, stated rates before Act 511 sharing). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.7 + Allentown City S D 1.0 for reporting year 2013); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.0133,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1.33% in total: city 0.5% + Allentown School District 0.5% + the city's additional levy reduced from 0.35% to 0.33% in the 2014 budget (city announcement 'Tax Cut in Proposed 2014 Budget'). From the PA DCED report for reporting year 2014 (municipal 1.66 effective 1-1-2014 + S D 1.0, stated rates before Act 511 sharing; a separate row carries the nonresident rate). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.66 + Allentown City S D 1.0 for reporting year 2014); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.0133,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1.33% in total: city 0.5% + Allentown School District 0.5% + the city's additional levy reduced from 0.35% to 0.33% in the 2014 budget (city announcement 'Tax Cut in Proposed 2014 Budget'). From the PA DCED report for reporting year 2015 (municipal 1.66 effective 1-1-2014 + S D 1.0, stated rates before Act 511 sharing; a separate row carries the nonresident rate). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 1.66 + Allentown City S D 1.0 for reporting year 2015); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.0165,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1.65% in total: city 1.15% (0.5% + 0.65% additional levy) + Allentown School District 0.5%; the city's 2017 budget announcement says the resident rate collected by the city rose from 1.15% in 2016. From the PA DCED report for reporting year 2016 (municipal 2.3 effective 1-1-2016 + S D 1.0, stated rates before Act 511 sharing). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 2.3 + Allentown City S D 1.0 for reporting year 2016); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.01975,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax 1.975% in total: city 1.475% + Allentown School District 0.5% (Ord. 15336 of Dec. 7, 2016, listed in the history of Code sec. 570-46, which sets the resident total at 1.975%). From the PA DCED report for reporting year 2017 (municipal 2.95 effective 1-1-2017 + S D 1.0, stated rates before Act 511 sharing). The DCED report lists each body's stated Act 511 rate before the sharing rule halves them (municipal 2.95 + Allentown City S D 1.0 for reporting year 2017); the effective resident total is half the sum, as the city's codified ordinances (1.35% from 2011-2012, 1.975% from 2018), its budget announcements (the extra resident/nonresident levy cut from 0.35% to 0.33% for 2014; the city resident rate raised from 1.15% to about 1.5% for 2017) and ACIR's 1986-1994 tables (1.0) confirm."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.01975,
+      "source": "https://ecode360.com/36442578",
+      "notes": "Resident earned income tax 1.975% in total (nonresidents 1.28%): Code of the City of Allentown sec. 570-46(B), as amended by Ord. 15419 of Dec. 13, 2017, 'shall total 1.975%' on compensation earned on and after January 1, 2018, continuing without annual reenactment unless the rate is changed (no later amendment listed). The figure is the combined city and Allentown School District rate; the PA DCED report for reporting year 2018 lists the stated rates (municipal 2.95 + S D 1.0) before Act 511 sharing."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.01975,
+      "source": "https://ecode360.com/36442578",
+      "notes": "Resident earned income tax 1.975% in total (nonresidents 1.28%): Code of the City of Allentown sec. 570-46(B), as amended by Ord. 15419 of Dec. 13, 2017, 'shall total 1.975%' on compensation earned on and after January 1, 2018, continuing without annual reenactment unless the rate is changed (no later amendment listed). The figure is the combined city and Allentown School District rate; the PA DCED report for reporting year 2019 lists the stated rates (municipal 2.95 + S D 1.0) before Act 511 sharing."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.01975,
+      "source": "https://ecode360.com/36442578",
+      "notes": "Resident earned income tax 1.975% in total (nonresidents 1.28%): Code of the City of Allentown sec. 570-46(B), as amended by Ord. 15419 of Dec. 13, 2017, 'shall total 1.975%' on compensation earned on and after January 1, 2018, continuing without annual reenactment unless the rate is changed (no later amendment listed). The figure is the combined city and Allentown School District rate; the PA DCED report for reporting year 2020 lists the stated rates (municipal 2.95 + S D 1.0) before Act 511 sharing."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.01975,
+      "source": "https://ecode360.com/36442578",
+      "notes": "Resident earned income tax 1.975% in total (nonresidents 1.28%): Code of the City of Allentown sec. 570-46(B), as amended by Ord. 15419 of Dec. 13, 2017, 'shall total 1.975%' on compensation earned on and after January 1, 2018, continuing without annual reenactment unless the rate is changed (no later amendment listed). The figure is the combined city and Allentown School District rate; the PA DCED report for reporting year 2021 lists the stated rates (municipal 2.95 + S D 1.0) before Act 511 sharing."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.01975,
+      "source": "https://ecode360.com/36442578",
+      "notes": "Resident earned income tax 1.975% in total (nonresidents 1.28%): Code of the City of Allentown sec. 570-46(B), as amended by Ord. 15419 of Dec. 13, 2017, 'shall total 1.975%' on compensation earned on and after January 1, 2018, continuing without annual reenactment unless the rate is changed (no later amendment listed). The figure is the combined city and Allentown School District rate; the PA DCED report for reporting year 2022 lists the stated rates (municipal 2.95 + S D 1.0) before Act 511 sharing."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.01975,
+      "source": "https://ecode360.com/36442578",
+      "notes": "Resident earned income tax 1.975% in total (nonresidents 1.28%): Code of the City of Allentown sec. 570-46(B), as amended by Ord. 15419 of Dec. 13, 2017, 'shall total 1.975%' on compensation earned on and after January 1, 2018, continuing without annual reenactment unless the rate is changed (no later amendment listed). The figure is the combined city and Allentown School District rate; the PA DCED report for reporting year 2023 lists the stated rates (municipal 2.95 + S D 1.0) before Act 511 sharing."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.01975,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=EitWithCollector_Dyn_Excel&type=O"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.01975,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=EitWithCollector_Dyn_Excel&type=O"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.01975,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=EitWithCollector_Dyn_Excel&type=O"
+    }
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "id": "us-local-sheridan-opt",
+  "kind": "local",
+  "region": "Sheridan, CO",
+  "state": "CO",
+  "years": {
+    "1987": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "1988": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "1989": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "1990": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "1991": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "1992": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "1993": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "1994": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "1995": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "1996": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "1997": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "1998": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "1999": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2000": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2001": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2002": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2003": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2004": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2005": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2006": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2007": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2008": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2009": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2010": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2011": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2012": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2013": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2014": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2015": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2016": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2017": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2018": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2019": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2020": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2021": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2022": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2023": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH62REFI_ARTVIOCPRTA",
+      "notes": "Sheridan Municipal Code sec. 62-238 (employee occupational privilege tax of $3 per month) and sec. 62-231 (employee: compensation of more than $500 in the calendar month), each carried unchanged from the 1986 Code (secs. 25-57 and 25-50) per the history notes of the 2005 recodification, which used the 1986 Code as supplemented through January 2004; recorded from the first full year after the 1986 Code. Year-specific documents not located."
+    },
+    "2024": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://ci.sheridan.co.us/288/Occupational-Privilege-Tax"
+    },
+    "2025": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://ci.sheridan.co.us/288/Occupational-Privilege-Tax"
+    },
+    "2026": {
+      "type": "fixed",
+      "amount": 3,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://ci.sheridan.co.us/288/Occupational-Privilege-Tax"
+    }
+  }
+}

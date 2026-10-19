@@ -1,0 +1,126 @@
+{
+  "id": "us-local-portland-arts",
+  "kind": "local",
+  "region": "Portland, OR",
+  "state": "OR",
+  "since": 2012,
+  "years": {
+    "2012": {
+      "type": "fixed",
+      "amount": 35,
+      "per": "year",
+      "minimumEarnings": 1000,
+      "source": "https://web.archive.org/web/20220705003600/https://www.portland.gov/revenue/arts-tax",
+      "notes": "Arts Education and Access Income Tax approved November 6, 2012 (Measure 26-146), due beginning tax year 2012: $35 per resident aged 18+ with $1,000 or more of income in a household above the federal poverty level (same structure for tax years 2012-2025 per the current portland.gov page)."
+    },
+    "2013": {
+      "type": "fixed",
+      "amount": 35,
+      "per": "year",
+      "minimumEarnings": 1000,
+      "source": "https://web.archive.org/web/20220705003600/https://www.portland.gov/revenue/arts-tax",
+      "notes": "Arts Education and Access Income Tax approved November 6, 2012 (Measure 26-146), due beginning tax year 2012: $35 per resident aged 18+ with $1,000 or more of income in a household above the federal poverty level (same structure for tax years 2012-2025 per the current portland.gov page)."
+    },
+    "2014": {
+      "type": "fixed",
+      "amount": 35,
+      "per": "year",
+      "minimumEarnings": 1000,
+      "source": "https://web.archive.org/web/20220705003600/https://www.portland.gov/revenue/arts-tax",
+      "notes": "Arts Education and Access Income Tax approved November 6, 2012 (Measure 26-146), due beginning tax year 2012: $35 per resident aged 18+ with $1,000 or more of income in a household above the federal poverty level (same structure for tax years 2012-2025 per the current portland.gov page)."
+    },
+    "2015": {
+      "type": "fixed",
+      "amount": 35,
+      "per": "year",
+      "minimumEarnings": 1000,
+      "source": "https://web.archive.org/web/20220705003600/https://www.portland.gov/revenue/arts-tax",
+      "notes": "Arts Education and Access Income Tax approved November 6, 2012 (Measure 26-146), due beginning tax year 2012: $35 per resident aged 18+ with $1,000 or more of income in a household above the federal poverty level (same structure for tax years 2012-2025 per the current portland.gov page)."
+    },
+    "2016": {
+      "type": "fixed",
+      "amount": 35,
+      "per": "year",
+      "minimumEarnings": 1000,
+      "source": "https://web.archive.org/web/20220705003600/https://www.portland.gov/revenue/arts-tax",
+      "notes": "Arts Education and Access Income Tax approved November 6, 2012 (Measure 26-146), due beginning tax year 2012: $35 per resident aged 18+ with $1,000 or more of income in a household above the federal poverty level (same structure for tax years 2012-2025 per the current portland.gov page)."
+    },
+    "2017": {
+      "type": "fixed",
+      "amount": 35,
+      "per": "year",
+      "minimumEarnings": 1000,
+      "source": "https://web.archive.org/web/20220705003600/https://www.portland.gov/revenue/arts-tax",
+      "notes": "Arts Education and Access Income Tax approved November 6, 2012 (Measure 26-146), due beginning tax year 2012: $35 per resident aged 18+ with $1,000 or more of income in a household above the federal poverty level (same structure for tax years 2012-2025 per the current portland.gov page)."
+    },
+    "2018": {
+      "type": "fixed",
+      "amount": 35,
+      "per": "year",
+      "minimumEarnings": 1000,
+      "source": "https://web.archive.org/web/20220705003600/https://www.portland.gov/revenue/arts-tax",
+      "notes": "Arts Education and Access Income Tax approved November 6, 2012 (Measure 26-146), due beginning tax year 2012: $35 per resident aged 18+ with $1,000 or more of income in a household above the federal poverty level (same structure for tax years 2012-2025 per the current portland.gov page)."
+    },
+    "2019": {
+      "type": "fixed",
+      "amount": 35,
+      "per": "year",
+      "minimumEarnings": 1000,
+      "source": "https://web.archive.org/web/20220705003600/https://www.portland.gov/revenue/arts-tax",
+      "notes": "Arts Education and Access Income Tax approved November 6, 2012 (Measure 26-146), due beginning tax year 2012: $35 per resident aged 18+ with $1,000 or more of income in a household above the federal poverty level (same structure for tax years 2012-2025 per the current portland.gov page)."
+    },
+    "2020": {
+      "type": "fixed",
+      "amount": 35,
+      "per": "year",
+      "minimumEarnings": 1000,
+      "source": "https://web.archive.org/web/20220705003600/https://www.portland.gov/revenue/arts-tax",
+      "notes": "Arts Education and Access Income Tax approved November 6, 2012 (Measure 26-146), due beginning tax year 2012: $35 per resident aged 18+ with $1,000 or more of income in a household above the federal poverty level (same structure for tax years 2012-2025 per the current portland.gov page)."
+    },
+    "2021": {
+      "type": "fixed",
+      "amount": 35,
+      "per": "year",
+      "minimumEarnings": 1000,
+      "source": "https://web.archive.org/web/20220705003600/https://www.portland.gov/revenue/arts-tax",
+      "notes": "Arts Education and Access Income Tax approved November 6, 2012 (Measure 26-146), due beginning tax year 2012: $35 per resident aged 18+ with $1,000 or more of income in a household above the federal poverty level (same structure for tax years 2012-2025 per the current portland.gov page)."
+    },
+    "2022": {
+      "type": "fixed",
+      "amount": 35,
+      "per": "year",
+      "minimumEarnings": 1000,
+      "source": "https://web.archive.org/web/20220705003600/https://www.portland.gov/revenue/arts-tax",
+      "notes": "Arts Education and Access Income Tax approved November 6, 2012 (Measure 26-146), due beginning tax year 2012: $35 per resident aged 18+ with $1,000 or more of income in a household above the federal poverty level (same structure for tax years 2012-2025 per the current portland.gov page)."
+    },
+    "2023": {
+      "type": "fixed",
+      "amount": 35,
+      "per": "year",
+      "minimumEarnings": 1000,
+      "source": "https://web.archive.org/web/20220705003600/https://www.portland.gov/revenue/arts-tax",
+      "notes": "Arts Education and Access Income Tax approved November 6, 2012 (Measure 26-146), due beginning tax year 2012: $35 per resident aged 18+ with $1,000 or more of income in a household above the federal poverty level (same structure for tax years 2012-2025 per the current portland.gov page)."
+    },
+    "2024": {
+      "type": "fixed",
+      "amount": 35,
+      "per": "year",
+      "minimumEarnings": 1000,
+      "source": "https://www.portland.gov/revenue/arts-tax"
+    },
+    "2025": {
+      "type": "fixed",
+      "amount": 35,
+      "per": "year",
+      "minimumEarnings": 1000,
+      "source": "https://www.portland.gov/revenue/arts-tax"
+    },
+    "2026": {
+      "type": "fixed",
+      "amount": 50,
+      "per": "year",
+      "minimumEarnings": 20000,
+      "source": "https://www.portland.gov/revenue/arts-tax"
+    }
+  }
+}

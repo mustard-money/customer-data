@@ -1,0 +1,5567 @@
+{
+  "id": "us-state-HI",
+  "kind": "state",
+  "region": "Hawaii",
+  "state": "HI",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 500,
+            "rate": 0.0325
+          },
+          {
+            "from": 1000,
+            "rate": 0.045
+          },
+          {
+            "from": 1500,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.065
+          },
+          {
+            "from": 3000,
+            "rate": 0.075
+          },
+          {
+            "from": 5000,
+            "rate": 0.085
+          },
+          {
+            "from": 10000,
+            "rate": 0.095
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 20000,
+            "rate": 0.105
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.0325
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 40000,
+            "rate": 0.105
+          },
+          {
+            "from": 60000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1964SS-SLH1965.pdf",
+      "notes": "Rates from SLH 1965 Act 155 (in force from 1966; restated unchanged in SLH 1974 Act 10 and SLH 1979 Act 62). Joint returns: twice the tax on half the income (income splitting), so joint brackets are doubled. Deduction is the $625 per person exemption (HRS 235-54: SLH 1970 Act 180 for 1970-72, $750 from 1973, $1,000 from 1980 per SLH 1980 Act 241). Hawaii's standard deduction (IRC sec. 141-144 as of 1957, a percentage of AGI) not modelled.",
+      "deduction": {
+        "single": 625,
+        "marriedJoint": 1250
+      }
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 500,
+            "rate": 0.0325
+          },
+          {
+            "from": 1000,
+            "rate": 0.045
+          },
+          {
+            "from": 1500,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.065
+          },
+          {
+            "from": 3000,
+            "rate": 0.075
+          },
+          {
+            "from": 5000,
+            "rate": 0.085
+          },
+          {
+            "from": 10000,
+            "rate": 0.095
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 20000,
+            "rate": 0.105
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.0325
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 40000,
+            "rate": 0.105
+          },
+          {
+            "from": 60000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1964SS-SLH1965.pdf",
+      "notes": "Rates from SLH 1965 Act 155 (in force from 1966; restated unchanged in SLH 1974 Act 10 and SLH 1979 Act 62). Joint returns: twice the tax on half the income (income splitting), so joint brackets are doubled. Deduction is the $650 per person exemption (HRS 235-54: SLH 1970 Act 180 for 1970-72, $750 from 1973, $1,000 from 1980 per SLH 1980 Act 241). Hawaii's standard deduction (IRC sec. 141-144 as of 1957, a percentage of AGI) not modelled.",
+      "deduction": {
+        "single": 650,
+        "marriedJoint": 1300
+      }
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 500,
+            "rate": 0.0325
+          },
+          {
+            "from": 1000,
+            "rate": 0.045
+          },
+          {
+            "from": 1500,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.065
+          },
+          {
+            "from": 3000,
+            "rate": 0.075
+          },
+          {
+            "from": 5000,
+            "rate": 0.085
+          },
+          {
+            "from": 10000,
+            "rate": 0.095
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 20000,
+            "rate": 0.105
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.0325
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 40000,
+            "rate": 0.105
+          },
+          {
+            "from": 60000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1964SS-SLH1965.pdf",
+      "notes": "Rates from SLH 1965 Act 155 (in force from 1966; restated unchanged in SLH 1974 Act 10 and SLH 1979 Act 62). Joint returns: twice the tax on half the income (income splitting), so joint brackets are doubled. Deduction is the $700 per person exemption (HRS 235-54: SLH 1970 Act 180 for 1970-72, $750 from 1973, $1,000 from 1980 per SLH 1980 Act 241). Hawaii's standard deduction (IRC sec. 141-144 as of 1957, a percentage of AGI) not modelled.",
+      "deduction": {
+        "single": 700,
+        "marriedJoint": 1400
+      }
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 500,
+            "rate": 0.0325
+          },
+          {
+            "from": 1000,
+            "rate": 0.045
+          },
+          {
+            "from": 1500,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.065
+          },
+          {
+            "from": 3000,
+            "rate": 0.075
+          },
+          {
+            "from": 5000,
+            "rate": 0.085
+          },
+          {
+            "from": 10000,
+            "rate": 0.095
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 20000,
+            "rate": 0.105
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.0325
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 40000,
+            "rate": 0.105
+          },
+          {
+            "from": 60000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1964SS-SLH1965.pdf",
+      "notes": "Rates from SLH 1965 Act 155 (in force from 1966; restated unchanged in SLH 1974 Act 10 and SLH 1979 Act 62). Joint returns: twice the tax on half the income (income splitting), so joint brackets are doubled. Deduction is the $750 per person exemption (HRS 235-54: SLH 1970 Act 180 for 1970-72, $750 from 1973, $1,000 from 1980 per SLH 1980 Act 241). Hawaii's standard deduction (IRC sec. 141-144 as of 1957, a percentage of AGI) not modelled.",
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      }
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 500,
+            "rate": 0.0325
+          },
+          {
+            "from": 1000,
+            "rate": 0.045
+          },
+          {
+            "from": 1500,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.065
+          },
+          {
+            "from": 3000,
+            "rate": 0.075
+          },
+          {
+            "from": 5000,
+            "rate": 0.085
+          },
+          {
+            "from": 10000,
+            "rate": 0.095
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 20000,
+            "rate": 0.105
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.0325
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 40000,
+            "rate": 0.105
+          },
+          {
+            "from": 60000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1974.pdf",
+      "notes": "Rates from SLH 1965 Act 155 (in force from 1966; restated unchanged in SLH 1974 Act 10 and SLH 1979 Act 62). Joint returns: twice the tax on half the income (income splitting), so joint brackets are doubled. Deduction is the $750 per person exemption (HRS 235-54: SLH 1970 Act 180 for 1970-72, $750 from 1973, $1,000 from 1980 per SLH 1980 Act 241). Hawaii's standard deduction (IRC sec. 141-144 as of 1957, a percentage of AGI) not modelled.",
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      }
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 500,
+            "rate": 0.0325
+          },
+          {
+            "from": 1000,
+            "rate": 0.045
+          },
+          {
+            "from": 1500,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.065
+          },
+          {
+            "from": 3000,
+            "rate": 0.075
+          },
+          {
+            "from": 5000,
+            "rate": 0.085
+          },
+          {
+            "from": 10000,
+            "rate": 0.095
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 20000,
+            "rate": 0.105
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.0325
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 40000,
+            "rate": 0.105
+          },
+          {
+            "from": 60000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1974.pdf",
+      "notes": "Rates from SLH 1965 Act 155 (in force from 1966; restated unchanged in SLH 1974 Act 10 and SLH 1979 Act 62). Joint returns: twice the tax on half the income (income splitting), so joint brackets are doubled. Deduction is the $750 per person exemption (HRS 235-54: SLH 1970 Act 180 for 1970-72, $750 from 1973, $1,000 from 1980 per SLH 1980 Act 241). Hawaii's standard deduction (IRC sec. 141-144 as of 1957, a percentage of AGI) not modelled.",
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      }
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 500,
+            "rate": 0.0325
+          },
+          {
+            "from": 1000,
+            "rate": 0.045
+          },
+          {
+            "from": 1500,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.065
+          },
+          {
+            "from": 3000,
+            "rate": 0.075
+          },
+          {
+            "from": 5000,
+            "rate": 0.085
+          },
+          {
+            "from": 10000,
+            "rate": 0.095
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 20000,
+            "rate": 0.105
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.0325
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 40000,
+            "rate": 0.105
+          },
+          {
+            "from": 60000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1974.pdf",
+      "notes": "Rates from SLH 1965 Act 155 (in force from 1966; restated unchanged in SLH 1974 Act 10 and SLH 1979 Act 62). Joint returns: twice the tax on half the income (income splitting), so joint brackets are doubled. Deduction is the $750 per person exemption (HRS 235-54: SLH 1970 Act 180 for 1970-72, $750 from 1973, $1,000 from 1980 per SLH 1980 Act 241). Hawaii's standard deduction (IRC sec. 141-144 as of 1957, a percentage of AGI) not modelled.",
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      }
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 500,
+            "rate": 0.0325
+          },
+          {
+            "from": 1000,
+            "rate": 0.045
+          },
+          {
+            "from": 1500,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.065
+          },
+          {
+            "from": 3000,
+            "rate": 0.075
+          },
+          {
+            "from": 5000,
+            "rate": 0.085
+          },
+          {
+            "from": 10000,
+            "rate": 0.095
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 20000,
+            "rate": 0.105
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.0325
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 40000,
+            "rate": 0.105
+          },
+          {
+            "from": 60000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1974.pdf",
+      "notes": "Rates from SLH 1965 Act 155 (in force from 1966; restated unchanged in SLH 1974 Act 10 and SLH 1979 Act 62). Joint returns: twice the tax on half the income (income splitting), so joint brackets are doubled. Deduction is the $750 per person exemption (HRS 235-54: SLH 1970 Act 180 for 1970-72, $750 from 1973, $1,000 from 1980 per SLH 1980 Act 241). Hawaii's standard deduction (IRC sec. 141-144 as of 1957, a percentage of AGI) not modelled.",
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      }
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 500,
+            "rate": 0.0325
+          },
+          {
+            "from": 1000,
+            "rate": 0.045
+          },
+          {
+            "from": 1500,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.065
+          },
+          {
+            "from": 3000,
+            "rate": 0.075
+          },
+          {
+            "from": 5000,
+            "rate": 0.085
+          },
+          {
+            "from": 10000,
+            "rate": 0.095
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 20000,
+            "rate": 0.105
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.0325
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 40000,
+            "rate": 0.105
+          },
+          {
+            "from": 60000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1974.pdf",
+      "notes": "Rates from SLH 1965 Act 155 (in force from 1966; restated unchanged in SLH 1974 Act 10 and SLH 1979 Act 62). Joint returns: twice the tax on half the income (income splitting), so joint brackets are doubled. Deduction is the $750 per person exemption (HRS 235-54: SLH 1970 Act 180 for 1970-72, $750 from 1973, $1,000 from 1980 per SLH 1980 Act 241). Hawaii's standard deduction (IRC sec. 141-144 as of 1957, a percentage of AGI) not modelled.",
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      }
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 500,
+            "rate": 0.0325
+          },
+          {
+            "from": 1000,
+            "rate": 0.045
+          },
+          {
+            "from": 1500,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.065
+          },
+          {
+            "from": 3000,
+            "rate": 0.075
+          },
+          {
+            "from": 5000,
+            "rate": 0.085
+          },
+          {
+            "from": 10000,
+            "rate": 0.095
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 20000,
+            "rate": 0.105
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.0325
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 40000,
+            "rate": 0.105
+          },
+          {
+            "from": 60000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1974.pdf",
+      "notes": "Rates from SLH 1965 Act 155 (in force from 1966; restated unchanged in SLH 1974 Act 10 and SLH 1979 Act 62). Joint returns: twice the tax on half the income (income splitting), so joint brackets are doubled. Deduction is the $750 per person exemption (HRS 235-54: SLH 1970 Act 180 for 1970-72, $750 from 1973, $1,000 from 1980 per SLH 1980 Act 241). Hawaii's standard deduction (IRC sec. 141-144 as of 1957, a percentage of AGI) not modelled.",
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      }
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 500,
+            "rate": 0.0325
+          },
+          {
+            "from": 1000,
+            "rate": 0.045
+          },
+          {
+            "from": 1500,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.065
+          },
+          {
+            "from": 3000,
+            "rate": 0.075
+          },
+          {
+            "from": 5000,
+            "rate": 0.085
+          },
+          {
+            "from": 10000,
+            "rate": 0.095
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 20000,
+            "rate": 0.105
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.0325
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 40000,
+            "rate": 0.105
+          },
+          {
+            "from": 60000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1980.pdf",
+      "notes": "Rates from SLH 1965 Act 155 (in force from 1966; restated unchanged in SLH 1974 Act 10 and SLH 1979 Act 62). Joint returns: twice the tax on half the income (income splitting), so joint brackets are doubled. Deduction is the $1,000 per person exemption (HRS 235-54: SLH 1970 Act 180 for 1970-72, $750 from 1973, $1,000 from 1980 per SLH 1980 Act 241). Hawaii's standard deduction (IRC sec. 141-144 as of 1957, a percentage of AGI) not modelled.",
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      }
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 500,
+            "rate": 0.0325
+          },
+          {
+            "from": 1000,
+            "rate": 0.045
+          },
+          {
+            "from": 1500,
+            "rate": 0.05
+          },
+          {
+            "from": 2000,
+            "rate": 0.065
+          },
+          {
+            "from": 3000,
+            "rate": 0.075
+          },
+          {
+            "from": 5000,
+            "rate": 0.085
+          },
+          {
+            "from": 10000,
+            "rate": 0.095
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          },
+          {
+            "from": 20000,
+            "rate": 0.105
+          },
+          {
+            "from": 30000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.0325
+          },
+          {
+            "from": 2000,
+            "rate": 0.045
+          },
+          {
+            "from": 3000,
+            "rate": 0.05
+          },
+          {
+            "from": 4000,
+            "rate": 0.065
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 10000,
+            "rate": 0.085
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          },
+          {
+            "from": 28000,
+            "rate": 0.1
+          },
+          {
+            "from": 40000,
+            "rate": 0.105
+          },
+          {
+            "from": 60000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1980.pdf",
+      "notes": "Rates from SLH 1965 Act 155 (in force from 1966; restated unchanged in SLH 1974 Act 10 and SLH 1979 Act 62). Joint returns: twice the tax on half the income (income splitting), so joint brackets are doubled. Deduction is the $1,000 per person exemption (HRS 235-54: SLH 1970 Act 180 for 1970-72, $750 from 1973, $1,000 from 1980 per SLH 1980 Act 241). Hawaii's standard deduction (IRC sec. 141-144 as of 1957, a percentage of AGI) not modelled.",
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      }
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 800,
+            "rate": 0.0225
+          },
+          {
+            "from": 1300,
+            "rate": 0.0325
+          },
+          {
+            "from": 1800,
+            "rate": 0.045
+          },
+          {
+            "from": 2300,
+            "rate": 0.05
+          },
+          {
+            "from": 2800,
+            "rate": 0.065
+          },
+          {
+            "from": 3800,
+            "rate": 0.075
+          },
+          {
+            "from": 5800,
+            "rate": 0.085
+          },
+          {
+            "from": 10800,
+            "rate": 0.095
+          },
+          {
+            "from": 14800,
+            "rate": 0.1
+          },
+          {
+            "from": 20800,
+            "rate": 0.105
+          },
+          {
+            "from": 30800,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1000,
+            "rate": 0.0225
+          },
+          {
+            "from": 2000,
+            "rate": 0.0325
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.065
+          },
+          {
+            "from": 7000,
+            "rate": 0.075
+          },
+          {
+            "from": 11000,
+            "rate": 0.085
+          },
+          {
+            "from": 21000,
+            "rate": 0.095
+          },
+          {
+            "from": 29000,
+            "rate": 0.1
+          },
+          {
+            "from": 41000,
+            "rate": 0.105
+          },
+          {
+            "from": 61000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1982.pdf",
+      "notes": "SLH 1982 Act 22 schedules (taxable years after Dec 31 1981) have a zero bracket of $800 single / $1,000 joint built in (the standard deduction). Deduction is the $1,000 per person exemption.",
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      }
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 800,
+            "rate": 0.0225
+          },
+          {
+            "from": 1300,
+            "rate": 0.0325
+          },
+          {
+            "from": 1800,
+            "rate": 0.045
+          },
+          {
+            "from": 2300,
+            "rate": 0.05
+          },
+          {
+            "from": 2800,
+            "rate": 0.065
+          },
+          {
+            "from": 3800,
+            "rate": 0.075
+          },
+          {
+            "from": 5800,
+            "rate": 0.085
+          },
+          {
+            "from": 10800,
+            "rate": 0.095
+          },
+          {
+            "from": 14800,
+            "rate": 0.1
+          },
+          {
+            "from": 20800,
+            "rate": 0.105
+          },
+          {
+            "from": 30800,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1000,
+            "rate": 0.0225
+          },
+          {
+            "from": 2000,
+            "rate": 0.0325
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.065
+          },
+          {
+            "from": 7000,
+            "rate": 0.075
+          },
+          {
+            "from": 11000,
+            "rate": 0.085
+          },
+          {
+            "from": 21000,
+            "rate": 0.095
+          },
+          {
+            "from": 29000,
+            "rate": 0.1
+          },
+          {
+            "from": 41000,
+            "rate": 0.105
+          },
+          {
+            "from": 61000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1982.pdf",
+      "notes": "SLH 1982 Act 22 schedules (taxable years after Dec 31 1981) have a zero bracket of $800 single / $1,000 joint built in (the standard deduction). Deduction is the $1,000 per person exemption.",
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      }
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 800,
+            "rate": 0.0225
+          },
+          {
+            "from": 1300,
+            "rate": 0.0325
+          },
+          {
+            "from": 1800,
+            "rate": 0.045
+          },
+          {
+            "from": 2300,
+            "rate": 0.05
+          },
+          {
+            "from": 2800,
+            "rate": 0.065
+          },
+          {
+            "from": 3800,
+            "rate": 0.075
+          },
+          {
+            "from": 5800,
+            "rate": 0.085
+          },
+          {
+            "from": 10800,
+            "rate": 0.095
+          },
+          {
+            "from": 14800,
+            "rate": 0.1
+          },
+          {
+            "from": 20800,
+            "rate": 0.105
+          },
+          {
+            "from": 30800,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1000,
+            "rate": 0.0225
+          },
+          {
+            "from": 2000,
+            "rate": 0.0325
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.065
+          },
+          {
+            "from": 7000,
+            "rate": 0.075
+          },
+          {
+            "from": 11000,
+            "rate": 0.085
+          },
+          {
+            "from": 21000,
+            "rate": 0.095
+          },
+          {
+            "from": 29000,
+            "rate": 0.1
+          },
+          {
+            "from": 41000,
+            "rate": 0.105
+          },
+          {
+            "from": 61000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1982.pdf",
+      "notes": "SLH 1982 Act 22 schedules (taxable years after Dec 31 1981) have a zero bracket of $800 single / $1,000 joint built in (the standard deduction). Deduction is the $1,000 per person exemption.",
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      }
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 800,
+            "rate": 0.0225
+          },
+          {
+            "from": 1300,
+            "rate": 0.0325
+          },
+          {
+            "from": 1800,
+            "rate": 0.045
+          },
+          {
+            "from": 2300,
+            "rate": 0.05
+          },
+          {
+            "from": 2800,
+            "rate": 0.065
+          },
+          {
+            "from": 3800,
+            "rate": 0.075
+          },
+          {
+            "from": 5800,
+            "rate": 0.085
+          },
+          {
+            "from": 10800,
+            "rate": 0.095
+          },
+          {
+            "from": 14800,
+            "rate": 0.1
+          },
+          {
+            "from": 20800,
+            "rate": 0.105
+          },
+          {
+            "from": 30800,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1000,
+            "rate": 0.0225
+          },
+          {
+            "from": 2000,
+            "rate": 0.0325
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.065
+          },
+          {
+            "from": 7000,
+            "rate": 0.075
+          },
+          {
+            "from": 11000,
+            "rate": 0.085
+          },
+          {
+            "from": 21000,
+            "rate": 0.095
+          },
+          {
+            "from": 29000,
+            "rate": 0.1
+          },
+          {
+            "from": 41000,
+            "rate": 0.105
+          },
+          {
+            "from": 61000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1985.pdf",
+      "notes": "SLH 1982 Act 22 schedules (taxable years after Dec 31 1981) have a zero bracket of $800 single / $1,000 joint built in (the standard deduction). Deduction is the $1,040 per person exemption (SLH 1985 Act 78).",
+      "deduction": {
+        "single": 1040,
+        "marriedJoint": 2080
+      }
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 800,
+            "rate": 0.0225
+          },
+          {
+            "from": 1300,
+            "rate": 0.0325
+          },
+          {
+            "from": 1800,
+            "rate": 0.045
+          },
+          {
+            "from": 2300,
+            "rate": 0.05
+          },
+          {
+            "from": 2800,
+            "rate": 0.065
+          },
+          {
+            "from": 3800,
+            "rate": 0.075
+          },
+          {
+            "from": 5800,
+            "rate": 0.085
+          },
+          {
+            "from": 10800,
+            "rate": 0.095
+          },
+          {
+            "from": 14800,
+            "rate": 0.1
+          },
+          {
+            "from": 20800,
+            "rate": 0.105
+          },
+          {
+            "from": 30800,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 1000,
+            "rate": 0.0225
+          },
+          {
+            "from": 2000,
+            "rate": 0.0325
+          },
+          {
+            "from": 3000,
+            "rate": 0.045
+          },
+          {
+            "from": 4000,
+            "rate": 0.05
+          },
+          {
+            "from": 5000,
+            "rate": 0.065
+          },
+          {
+            "from": 7000,
+            "rate": 0.075
+          },
+          {
+            "from": 11000,
+            "rate": 0.085
+          },
+          {
+            "from": 21000,
+            "rate": 0.095
+          },
+          {
+            "from": 29000,
+            "rate": 0.1
+          },
+          {
+            "from": 41000,
+            "rate": 0.105
+          },
+          {
+            "from": 61000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1985.pdf",
+      "notes": "SLH 1982 Act 22 schedules (taxable years after Dec 31 1981) have a zero bracket of $800 single / $1,000 joint built in (the standard deduction). Deduction is the $1,040 per person exemption (SLH 1985 Act 78).",
+      "deduction": {
+        "single": 1040,
+        "marriedJoint": 2080
+      }
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.0425
+          },
+          {
+            "from": 2000,
+            "rate": 0.0625
+          },
+          {
+            "from": 3000,
+            "rate": 0.0725
+          },
+          {
+            "from": 5000,
+            "rate": 0.0825
+          },
+          {
+            "from": 10000,
+            "rate": 0.0925
+          },
+          {
+            "from": 14000,
+            "rate": 0.0975
+          },
+          {
+            "from": 20000,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 2000,
+            "rate": 0.0425
+          },
+          {
+            "from": 4000,
+            "rate": 0.0625
+          },
+          {
+            "from": 6000,
+            "rate": 0.0725
+          },
+          {
+            "from": 10000,
+            "rate": 0.0825
+          },
+          {
+            "from": 20000,
+            "rate": 0.0925
+          },
+          {
+            "from": 28000,
+            "rate": 0.0975
+          },
+          {
+            "from": 40000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1989.pdf",
+      "notes": "1987 schedule as shown (bracketed, repealed) in SLH 1989 Act 321, enacted by SLH 1987 Act 239. Deduction is the $1,000 / $1,700 standard deduction (prior amounts bracketed in Act 321) plus the $1,040 per person exemption.",
+      "deduction": {
+        "single": 2040,
+        "marriedJoint": 3780
+      }
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 1200,
+            "rate": 0.0425
+          },
+          {
+            "from": 2200,
+            "rate": 0.0625
+          },
+          {
+            "from": 3200,
+            "rate": 0.0725
+          },
+          {
+            "from": 5200,
+            "rate": 0.0825
+          },
+          {
+            "from": 10200,
+            "rate": 0.0925
+          },
+          {
+            "from": 14200,
+            "rate": 0.0975
+          },
+          {
+            "from": 20200,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0225
+          },
+          {
+            "from": 2400,
+            "rate": 0.0425
+          },
+          {
+            "from": 4400,
+            "rate": 0.0625
+          },
+          {
+            "from": 6400,
+            "rate": 0.0725
+          },
+          {
+            "from": 10400,
+            "rate": 0.0825
+          },
+          {
+            "from": 20400,
+            "rate": 0.0925
+          },
+          {
+            "from": 28400,
+            "rate": 0.0975
+          },
+          {
+            "from": 40400,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1989.pdf",
+      "notes": "1988 schedule as shown (bracketed, repealed) in SLH 1989 Act 321, enacted by SLH 1987 Act 239. Deduction is the $1,000 / $1,700 standard deduction (prior amounts bracketed in Act 321) plus the $1,040 per person exemption.",
+      "deduction": {
+        "single": 2040,
+        "marriedJoint": 3780
+      }
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1500,
+            "rate": 0.04
+          },
+          {
+            "from": 2500,
+            "rate": 0.06
+          },
+          {
+            "from": 3500,
+            "rate": 0.0725
+          },
+          {
+            "from": 5500,
+            "rate": 0.08
+          },
+          {
+            "from": 10500,
+            "rate": 0.0875
+          },
+          {
+            "from": 15500,
+            "rate": 0.095
+          },
+          {
+            "from": 20500,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.0725
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 21000,
+            "rate": 0.0875
+          },
+          {
+            "from": 31000,
+            "rate": 0.095
+          },
+          {
+            "from": 41000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1989.pdf",
+      "notes": "SLH 1989 Act 321 schedule for taxable years after Dec 31 1988 (also shown as the repealed schedule in SLH 1998 Act 157). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption.",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1500,
+            "rate": 0.04
+          },
+          {
+            "from": 2500,
+            "rate": 0.06
+          },
+          {
+            "from": 3500,
+            "rate": 0.0725
+          },
+          {
+            "from": 5500,
+            "rate": 0.08
+          },
+          {
+            "from": 10500,
+            "rate": 0.0875
+          },
+          {
+            "from": 15500,
+            "rate": 0.095
+          },
+          {
+            "from": 20500,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.0725
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 21000,
+            "rate": 0.0875
+          },
+          {
+            "from": 31000,
+            "rate": 0.095
+          },
+          {
+            "from": 41000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1989.pdf",
+      "notes": "SLH 1989 Act 321 schedule for taxable years after Dec 31 1988 (also shown as the repealed schedule in SLH 1998 Act 157). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption.",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1500,
+            "rate": 0.04
+          },
+          {
+            "from": 2500,
+            "rate": 0.06
+          },
+          {
+            "from": 3500,
+            "rate": 0.0725
+          },
+          {
+            "from": 5500,
+            "rate": 0.08
+          },
+          {
+            "from": 10500,
+            "rate": 0.0875
+          },
+          {
+            "from": 15500,
+            "rate": 0.095
+          },
+          {
+            "from": 20500,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.0725
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 21000,
+            "rate": 0.0875
+          },
+          {
+            "from": 31000,
+            "rate": 0.095
+          },
+          {
+            "from": 41000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1989.pdf",
+      "notes": "SLH 1989 Act 321 schedule for taxable years after Dec 31 1988 (also shown as the repealed schedule in SLH 1998 Act 157). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption.",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1500,
+            "rate": 0.04
+          },
+          {
+            "from": 2500,
+            "rate": 0.06
+          },
+          {
+            "from": 3500,
+            "rate": 0.0725
+          },
+          {
+            "from": 5500,
+            "rate": 0.08
+          },
+          {
+            "from": 10500,
+            "rate": 0.0875
+          },
+          {
+            "from": 15500,
+            "rate": 0.095
+          },
+          {
+            "from": 20500,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.0725
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 21000,
+            "rate": 0.0875
+          },
+          {
+            "from": 31000,
+            "rate": 0.095
+          },
+          {
+            "from": 41000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1989.pdf",
+      "notes": "SLH 1989 Act 321 schedule for taxable years after Dec 31 1988 (also shown as the repealed schedule in SLH 1998 Act 157). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption.",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1500,
+            "rate": 0.04
+          },
+          {
+            "from": 2500,
+            "rate": 0.06
+          },
+          {
+            "from": 3500,
+            "rate": 0.0725
+          },
+          {
+            "from": 5500,
+            "rate": 0.08
+          },
+          {
+            "from": 10500,
+            "rate": 0.0875
+          },
+          {
+            "from": 15500,
+            "rate": 0.095
+          },
+          {
+            "from": 20500,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.0725
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 21000,
+            "rate": 0.0875
+          },
+          {
+            "from": 31000,
+            "rate": 0.095
+          },
+          {
+            "from": 41000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1989.pdf",
+      "notes": "SLH 1989 Act 321 schedule for taxable years after Dec 31 1988 (also shown as the repealed schedule in SLH 1998 Act 157). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption.",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1500,
+            "rate": 0.04
+          },
+          {
+            "from": 2500,
+            "rate": 0.06
+          },
+          {
+            "from": 3500,
+            "rate": 0.0725
+          },
+          {
+            "from": 5500,
+            "rate": 0.08
+          },
+          {
+            "from": 10500,
+            "rate": 0.0875
+          },
+          {
+            "from": 15500,
+            "rate": 0.095
+          },
+          {
+            "from": 20500,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.0725
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 21000,
+            "rate": 0.0875
+          },
+          {
+            "from": 31000,
+            "rate": 0.095
+          },
+          {
+            "from": 41000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1989.pdf",
+      "notes": "SLH 1989 Act 321 schedule for taxable years after Dec 31 1988 (also shown as the repealed schedule in SLH 1998 Act 157). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption.",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1500,
+            "rate": 0.04
+          },
+          {
+            "from": 2500,
+            "rate": 0.06
+          },
+          {
+            "from": 3500,
+            "rate": 0.0725
+          },
+          {
+            "from": 5500,
+            "rate": 0.08
+          },
+          {
+            "from": 10500,
+            "rate": 0.0875
+          },
+          {
+            "from": 15500,
+            "rate": 0.095
+          },
+          {
+            "from": 20500,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.0725
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 21000,
+            "rate": 0.0875
+          },
+          {
+            "from": 31000,
+            "rate": 0.095
+          },
+          {
+            "from": 41000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1989.pdf",
+      "notes": "SLH 1989 Act 321 schedule for taxable years after Dec 31 1988 (also shown as the repealed schedule in SLH 1998 Act 157). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption.",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1500,
+            "rate": 0.04
+          },
+          {
+            "from": 2500,
+            "rate": 0.06
+          },
+          {
+            "from": 3500,
+            "rate": 0.0725
+          },
+          {
+            "from": 5500,
+            "rate": 0.08
+          },
+          {
+            "from": 10500,
+            "rate": 0.0875
+          },
+          {
+            "from": 15500,
+            "rate": 0.095
+          },
+          {
+            "from": 20500,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.0725
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 21000,
+            "rate": 0.0875
+          },
+          {
+            "from": 31000,
+            "rate": 0.095
+          },
+          {
+            "from": 41000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1989.pdf",
+      "notes": "SLH 1989 Act 321 schedule for taxable years after Dec 31 1988 (also shown as the repealed schedule in SLH 1998 Act 157). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption.",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1500,
+            "rate": 0.04
+          },
+          {
+            "from": 2500,
+            "rate": 0.06
+          },
+          {
+            "from": 3500,
+            "rate": 0.0725
+          },
+          {
+            "from": 5500,
+            "rate": 0.08
+          },
+          {
+            "from": 10500,
+            "rate": 0.0875
+          },
+          {
+            "from": 15500,
+            "rate": 0.095
+          },
+          {
+            "from": 20500,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.0725
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 21000,
+            "rate": 0.0875
+          },
+          {
+            "from": 31000,
+            "rate": 0.095
+          },
+          {
+            "from": 41000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1989.pdf",
+      "notes": "SLH 1989 Act 321 schedule for taxable years after Dec 31 1988 (also shown as the repealed schedule in SLH 1998 Act 157). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption.",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1500,
+            "rate": 0.04
+          },
+          {
+            "from": 2500,
+            "rate": 0.06
+          },
+          {
+            "from": 3500,
+            "rate": 0.0725
+          },
+          {
+            "from": 5500,
+            "rate": 0.08
+          },
+          {
+            "from": 10500,
+            "rate": 0.0875
+          },
+          {
+            "from": 15500,
+            "rate": 0.095
+          },
+          {
+            "from": 20500,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.04
+          },
+          {
+            "from": 5000,
+            "rate": 0.06
+          },
+          {
+            "from": 7000,
+            "rate": 0.0725
+          },
+          {
+            "from": 11000,
+            "rate": 0.08
+          },
+          {
+            "from": 21000,
+            "rate": 0.0875
+          },
+          {
+            "from": 31000,
+            "rate": 0.095
+          },
+          {
+            "from": 41000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH1989.pdf",
+      "notes": "SLH 1989 Act 321 schedule for taxable years after Dec 31 1988 (also shown as the repealed schedule in SLH 1998 Act 157). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption.",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2000,
+            "rate": 0.039
+          },
+          {
+            "from": 4000,
+            "rate": 0.068
+          },
+          {
+            "from": 8000,
+            "rate": 0.072
+          },
+          {
+            "from": 12000,
+            "rate": 0.075
+          },
+          {
+            "from": 16000,
+            "rate": 0.078
+          },
+          {
+            "from": 20000,
+            "rate": 0.082
+          },
+          {
+            "from": 30000,
+            "rate": 0.085
+          },
+          {
+            "from": 40000,
+            "rate": 0.0875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 4000,
+            "rate": 0.039
+          },
+          {
+            "from": 8000,
+            "rate": 0.068
+          },
+          {
+            "from": 16000,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.075
+          },
+          {
+            "from": 32000,
+            "rate": 0.078
+          },
+          {
+            "from": 40000,
+            "rate": 0.082
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 80000,
+            "rate": 0.0875
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH1998/SLH1998_Act157.pdf",
+      "notes": "SLH 1998 Act 157 three-step rate cut (1999, 2001, 2002). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption; 2002 rates, standard deduction and exemption confirmed in the DoTax report Hawaii Income Patterns - 2002 (files.hawaii.gov/tax/stats/stats/indinc/archive/2002indinc.pdf).",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 2000,
+            "rate": 0.039
+          },
+          {
+            "from": 4000,
+            "rate": 0.068
+          },
+          {
+            "from": 8000,
+            "rate": 0.072
+          },
+          {
+            "from": 12000,
+            "rate": 0.075
+          },
+          {
+            "from": 16000,
+            "rate": 0.078
+          },
+          {
+            "from": 20000,
+            "rate": 0.082
+          },
+          {
+            "from": 30000,
+            "rate": 0.085
+          },
+          {
+            "from": 40000,
+            "rate": 0.0875
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.016
+          },
+          {
+            "from": 4000,
+            "rate": 0.039
+          },
+          {
+            "from": 8000,
+            "rate": 0.068
+          },
+          {
+            "from": 16000,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.075
+          },
+          {
+            "from": 32000,
+            "rate": 0.078
+          },
+          {
+            "from": 40000,
+            "rate": 0.082
+          },
+          {
+            "from": 60000,
+            "rate": 0.085
+          },
+          {
+            "from": 80000,
+            "rate": 0.0875
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH1998/SLH1998_Act157.pdf",
+      "notes": "SLH 1998 Act 157 three-step rate cut (1999, 2001, 2002). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption; 2002 rates, standard deduction and exemption confirmed in the DoTax report Hawaii Income Patterns - 2002 (files.hawaii.gov/tax/stats/stats/indinc/archive/2002indinc.pdf).",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.037
+          },
+          {
+            "from": 4000,
+            "rate": 0.064
+          },
+          {
+            "from": 8000,
+            "rate": 0.069
+          },
+          {
+            "from": 12000,
+            "rate": 0.073
+          },
+          {
+            "from": 16000,
+            "rate": 0.076
+          },
+          {
+            "from": 20000,
+            "rate": 0.079
+          },
+          {
+            "from": 30000,
+            "rate": 0.082
+          },
+          {
+            "from": 40000,
+            "rate": 0.085
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 4000,
+            "rate": 0.037
+          },
+          {
+            "from": 8000,
+            "rate": 0.064
+          },
+          {
+            "from": 16000,
+            "rate": 0.069
+          },
+          {
+            "from": 24000,
+            "rate": 0.073
+          },
+          {
+            "from": 32000,
+            "rate": 0.076
+          },
+          {
+            "from": 40000,
+            "rate": 0.079
+          },
+          {
+            "from": 60000,
+            "rate": 0.082
+          },
+          {
+            "from": 80000,
+            "rate": 0.085
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH1998/SLH1998_Act157.pdf",
+      "notes": "SLH 1998 Act 157 three-step rate cut (1999, 2001, 2002). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption; 2002 rates, standard deduction and exemption confirmed in the DoTax report Hawaii Income Patterns - 2002 (files.hawaii.gov/tax/stats/stats/indinc/archive/2002indinc.pdf).",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2000,
+            "rate": 0.032
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.064
+          },
+          {
+            "from": 12000,
+            "rate": 0.068
+          },
+          {
+            "from": 16000,
+            "rate": 0.072
+          },
+          {
+            "from": 20000,
+            "rate": 0.076
+          },
+          {
+            "from": 30000,
+            "rate": 0.079
+          },
+          {
+            "from": 40000,
+            "rate": 0.0825
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4000,
+            "rate": 0.032
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 16000,
+            "rate": 0.064
+          },
+          {
+            "from": 24000,
+            "rate": 0.068
+          },
+          {
+            "from": 32000,
+            "rate": 0.072
+          },
+          {
+            "from": 40000,
+            "rate": 0.076
+          },
+          {
+            "from": 60000,
+            "rate": 0.079
+          },
+          {
+            "from": 80000,
+            "rate": 0.0825
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH1998/SLH1998_Act157.pdf",
+      "notes": "SLH 1998 Act 157 three-step rate cut (1999, 2001, 2002). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption; 2002 rates, standard deduction and exemption confirmed in the DoTax report Hawaii Income Patterns - 2002 (files.hawaii.gov/tax/stats/stats/indinc/archive/2002indinc.pdf).",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2000,
+            "rate": 0.032
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.064
+          },
+          {
+            "from": 12000,
+            "rate": 0.068
+          },
+          {
+            "from": 16000,
+            "rate": 0.072
+          },
+          {
+            "from": 20000,
+            "rate": 0.076
+          },
+          {
+            "from": 30000,
+            "rate": 0.079
+          },
+          {
+            "from": 40000,
+            "rate": 0.0825
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4000,
+            "rate": 0.032
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 16000,
+            "rate": 0.064
+          },
+          {
+            "from": 24000,
+            "rate": 0.068
+          },
+          {
+            "from": 32000,
+            "rate": 0.072
+          },
+          {
+            "from": 40000,
+            "rate": 0.076
+          },
+          {
+            "from": 60000,
+            "rate": 0.079
+          },
+          {
+            "from": 80000,
+            "rate": 0.0825
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH1998/SLH1998_Act157.pdf",
+      "notes": "SLH 1998 Act 157 three-step rate cut (1999, 2001, 2002). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption; 2002 rates, standard deduction and exemption confirmed in the DoTax report Hawaii Income Patterns - 2002 (files.hawaii.gov/tax/stats/stats/indinc/archive/2002indinc.pdf).",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2000,
+            "rate": 0.032
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.064
+          },
+          {
+            "from": 12000,
+            "rate": 0.068
+          },
+          {
+            "from": 16000,
+            "rate": 0.072
+          },
+          {
+            "from": 20000,
+            "rate": 0.076
+          },
+          {
+            "from": 30000,
+            "rate": 0.079
+          },
+          {
+            "from": 40000,
+            "rate": 0.0825
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4000,
+            "rate": 0.032
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 16000,
+            "rate": 0.064
+          },
+          {
+            "from": 24000,
+            "rate": 0.068
+          },
+          {
+            "from": 32000,
+            "rate": 0.072
+          },
+          {
+            "from": 40000,
+            "rate": 0.076
+          },
+          {
+            "from": 60000,
+            "rate": 0.079
+          },
+          {
+            "from": 80000,
+            "rate": 0.0825
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH1998/SLH1998_Act157.pdf",
+      "notes": "SLH 1998 Act 157 three-step rate cut (1999, 2001, 2002). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption; 2002 rates, standard deduction and exemption confirmed in the DoTax report Hawaii Income Patterns - 2002 (files.hawaii.gov/tax/stats/stats/indinc/archive/2002indinc.pdf).",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2000,
+            "rate": 0.032
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.064
+          },
+          {
+            "from": 12000,
+            "rate": 0.068
+          },
+          {
+            "from": 16000,
+            "rate": 0.072
+          },
+          {
+            "from": 20000,
+            "rate": 0.076
+          },
+          {
+            "from": 30000,
+            "rate": 0.079
+          },
+          {
+            "from": 40000,
+            "rate": 0.0825
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4000,
+            "rate": 0.032
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 16000,
+            "rate": 0.064
+          },
+          {
+            "from": 24000,
+            "rate": 0.068
+          },
+          {
+            "from": 32000,
+            "rate": 0.072
+          },
+          {
+            "from": 40000,
+            "rate": 0.076
+          },
+          {
+            "from": 60000,
+            "rate": 0.079
+          },
+          {
+            "from": 80000,
+            "rate": 0.0825
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH1998/SLH1998_Act157.pdf",
+      "notes": "SLH 1998 Act 157 three-step rate cut (1999, 2001, 2002). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption; 2002 rates, standard deduction and exemption confirmed in the DoTax report Hawaii Income Patterns - 2002 (files.hawaii.gov/tax/stats/stats/indinc/archive/2002indinc.pdf).",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2000,
+            "rate": 0.032
+          },
+          {
+            "from": 4000,
+            "rate": 0.055
+          },
+          {
+            "from": 8000,
+            "rate": 0.064
+          },
+          {
+            "from": 12000,
+            "rate": 0.068
+          },
+          {
+            "from": 16000,
+            "rate": 0.072
+          },
+          {
+            "from": 20000,
+            "rate": 0.076
+          },
+          {
+            "from": 30000,
+            "rate": 0.079
+          },
+          {
+            "from": 40000,
+            "rate": 0.0825
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4000,
+            "rate": 0.032
+          },
+          {
+            "from": 8000,
+            "rate": 0.055
+          },
+          {
+            "from": 16000,
+            "rate": 0.064
+          },
+          {
+            "from": 24000,
+            "rate": 0.068
+          },
+          {
+            "from": 32000,
+            "rate": 0.072
+          },
+          {
+            "from": 40000,
+            "rate": 0.076
+          },
+          {
+            "from": 60000,
+            "rate": 0.079
+          },
+          {
+            "from": 80000,
+            "rate": 0.0825
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH1998/SLH1998_Act157.pdf",
+      "notes": "SLH 1998 Act 157 three-step rate cut (1999, 2001, 2002). Deduction is the $1,500 / $1,900 standard deduction plus the $1,040 per person exemption; 2002 rates, standard deduction and exemption confirmed in the DoTax report Hawaii Income Patterns - 2002 (files.hawaii.gov/tax/stats/stats/indinc/archive/2002indinc.pdf).",
+      "deduction": {
+        "single": 2540,
+        "marriedJoint": 3980
+      }
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH2006.pdf",
+      "notes": "SLH 2006 Act 110 brackets and standard deduction ($2,000 / $4,000) for taxable years after Dec 31 2006. Deduction is the standard deduction plus the $1,040 per person exemption.",
+      "deduction": {
+        "single": 3040,
+        "marriedJoint": 6080
+      }
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          }
+        ]
+      },
+      "source": "https://data.capitol.hawaii.gov/sessions/sessionlaws/AllIndex/All_Acts_SLH2006.pdf",
+      "notes": "SLH 2006 Act 110 brackets and standard deduction ($2,000 / $4,000) for taxable years after Dec 31 2006. Deduction is the standard deduction plus the $1,040 per person exemption.",
+      "deduction": {
+        "single": 3040,
+        "marriedJoint": 6080
+      }
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          },
+          {
+            "from": 150000,
+            "rate": 0.09
+          },
+          {
+            "from": 175000,
+            "rate": 0.1
+          },
+          {
+            "from": 200000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          },
+          {
+            "from": 300000,
+            "rate": 0.09
+          },
+          {
+            "from": 350000,
+            "rate": 0.1
+          },
+          {
+            "from": 400000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/HI/2009/n11ins.pdf",
+      "notes": "Deduction is the $2,000 / $4,000 standard deduction plus the $1,040 per person exemption. 9-11% top brackets of SLH 2009 Act 60 (2009-2015). Hawaii conformed to the federal personal exemption phase-out (above $89,981 AGI); not modelled.",
+      "deduction": {
+        "single": 3040,
+        "marriedJoint": 6080
+      }
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          },
+          {
+            "from": 150000,
+            "rate": 0.09
+          },
+          {
+            "from": 175000,
+            "rate": 0.1
+          },
+          {
+            "from": 200000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          },
+          {
+            "from": 300000,
+            "rate": 0.09
+          },
+          {
+            "from": 350000,
+            "rate": 0.1
+          },
+          {
+            "from": 400000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/HI/2010/n11ins.pdf",
+      "notes": "Deduction is the $2,000 / $4,000 standard deduction plus the $1,040 per person exemption. 9-11% top brackets of SLH 2009 Act 60 (2009-2015). Hawaii conformed to the federal personal exemption phase-out (above $89,981 AGI); not modelled.",
+      "deduction": {
+        "single": 3040,
+        "marriedJoint": 6080
+      }
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          },
+          {
+            "from": 150000,
+            "rate": 0.09
+          },
+          {
+            "from": 175000,
+            "rate": 0.1
+          },
+          {
+            "from": 200000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          },
+          {
+            "from": 300000,
+            "rate": 0.09
+          },
+          {
+            "from": 350000,
+            "rate": 0.1
+          },
+          {
+            "from": 400000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/HI/2011/n11ins.pdf",
+      "notes": "Deduction is the $2,000 / $4,000 standard deduction plus the $1,040 per person exemption. 9-11% top brackets of SLH 2009 Act 60 (2009-2015). Hawaii conformed to the federal personal exemption phase-out (above $89,981 AGI); not modelled.",
+      "deduction": {
+        "single": 3040,
+        "marriedJoint": 6080
+      }
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          },
+          {
+            "from": 150000,
+            "rate": 0.09
+          },
+          {
+            "from": 175000,
+            "rate": 0.1
+          },
+          {
+            "from": 200000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          },
+          {
+            "from": 300000,
+            "rate": 0.09
+          },
+          {
+            "from": 350000,
+            "rate": 0.1
+          },
+          {
+            "from": 400000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/HI/2012/Instructions%20for%20Form%20N-11%20Rev%202012%20-%20n11ins.pdf",
+      "notes": "Deduction is the $2,000 / $4,000 standard deduction plus the $1,040 per person exemption. 9-11% top brackets of SLH 2009 Act 60 (2009-2015). Hawaii conformed to the federal personal exemption phase-out (above $89,981 AGI); not modelled.",
+      "deduction": {
+        "single": 3040,
+        "marriedJoint": 6080
+      }
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          },
+          {
+            "from": 150000,
+            "rate": 0.09
+          },
+          {
+            "from": 175000,
+            "rate": 0.1
+          },
+          {
+            "from": 200000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          },
+          {
+            "from": 300000,
+            "rate": 0.09
+          },
+          {
+            "from": 350000,
+            "rate": 0.1
+          },
+          {
+            "from": 400000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/HI/2013/n11_b.pdf",
+      "notes": "Deduction is the $2,200 / $4,400 standard deduction plus the $1,144 per person exemption. 9-11% top brackets of SLH 2009 Act 60 (2009-2015). Hawaii conformed to the federal personal exemption phase-out (above $89,981 AGI); not modelled.",
+      "deduction": {
+        "single": 3344,
+        "marriedJoint": 6688
+      }
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          },
+          {
+            "from": 150000,
+            "rate": 0.09
+          },
+          {
+            "from": 175000,
+            "rate": 0.1
+          },
+          {
+            "from": 200000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          },
+          {
+            "from": 300000,
+            "rate": 0.09
+          },
+          {
+            "from": 350000,
+            "rate": 0.1
+          },
+          {
+            "from": 400000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/HI/2014/n11ins.pdf",
+      "notes": "Deduction is the $2,200 / $4,400 standard deduction plus the $1,144 per person exemption. 9-11% top brackets of SLH 2009 Act 60 (2009-2015). Hawaii conformed to the federal personal exemption phase-out (above $89,981 AGI); not modelled.",
+      "deduction": {
+        "single": 3344,
+        "marriedJoint": 6688
+      }
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          },
+          {
+            "from": 150000,
+            "rate": 0.09
+          },
+          {
+            "from": 175000,
+            "rate": 0.1
+          },
+          {
+            "from": 200000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          },
+          {
+            "from": 300000,
+            "rate": 0.09
+          },
+          {
+            "from": 350000,
+            "rate": 0.1
+          },
+          {
+            "from": 400000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/HI/2015/n11ins.pdf",
+      "notes": "Deduction is the $2,200 / $4,400 standard deduction plus the $1,144 per person exemption. 9-11% top brackets of SLH 2009 Act 60 (2009-2015). Hawaii conformed to the federal personal exemption phase-out (above $89,981 AGI); not modelled.",
+      "deduction": {
+        "single": 3344,
+        "marriedJoint": 6688
+      }
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/HI/2016/n11ins.pdf",
+      "notes": "Deduction is the $2,200 / $4,400 standard deduction plus the $1,144 per person exemption. Hawaii conformed to the federal personal exemption phase-out (above $89,981 AGI); not modelled.",
+      "deduction": {
+        "single": 3344,
+        "marriedJoint": 6688
+      }
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/HI/2017/n11ins.pdf",
+      "notes": "Deduction is the $2,200 / $4,400 standard deduction plus the $1,144 per person exemption. Hawaii conformed to the federal personal exemption phase-out (above $89,981 AGI); not modelled.",
+      "deduction": {
+        "single": 3344,
+        "marriedJoint": 6688
+      }
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          },
+          {
+            "from": 150000,
+            "rate": 0.09
+          },
+          {
+            "from": 175000,
+            "rate": 0.1
+          },
+          {
+            "from": 200000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          },
+          {
+            "from": 300000,
+            "rate": 0.09
+          },
+          {
+            "from": 350000,
+            "rate": 0.1
+          },
+          {
+            "from": 400000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/HI/2018/n11ins.pdf",
+      "notes": "Deduction is the $2,200 / $4,400 standard deduction plus the $1,144 per person exemption. 9-11% top brackets reinstated by SLH 2017 Act 107.",
+      "deduction": {
+        "single": 3344,
+        "marriedJoint": 6688
+      }
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          },
+          {
+            "from": 150000,
+            "rate": 0.09
+          },
+          {
+            "from": 175000,
+            "rate": 0.1
+          },
+          {
+            "from": 200000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          },
+          {
+            "from": 300000,
+            "rate": 0.09
+          },
+          {
+            "from": 350000,
+            "rate": 0.1
+          },
+          {
+            "from": 400000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/HI/2019/n11ins.pdf",
+      "notes": "Deduction is the $2,200 / $4,400 standard deduction plus the $1,144 per person exemption. 9-11% top brackets reinstated by SLH 2017 Act 107.",
+      "deduction": {
+        "single": 3344,
+        "marriedJoint": 6688
+      }
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          },
+          {
+            "from": 150000,
+            "rate": 0.09
+          },
+          {
+            "from": 175000,
+            "rate": 0.1
+          },
+          {
+            "from": 200000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          },
+          {
+            "from": 300000,
+            "rate": 0.09
+          },
+          {
+            "from": 350000,
+            "rate": 0.1
+          },
+          {
+            "from": 400000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/HI/2020/n11ins.pdf",
+      "notes": "Deduction is the $2,200 / $4,400 standard deduction plus the $1,144 per person exemption. 9-11% top brackets reinstated by SLH 2017 Act 107.",
+      "deduction": {
+        "single": 3344,
+        "marriedJoint": 6688
+      }
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          },
+          {
+            "from": 150000,
+            "rate": 0.09
+          },
+          {
+            "from": 175000,
+            "rate": 0.1
+          },
+          {
+            "from": 200000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          },
+          {
+            "from": 300000,
+            "rate": 0.09
+          },
+          {
+            "from": 350000,
+            "rate": 0.1
+          },
+          {
+            "from": 400000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/HI/2021/n11ins.pdf",
+      "notes": "Deduction is the $2,200 / $4,400 standard deduction plus the $1,144 per person exemption. 9-11% top brackets reinstated by SLH 2017 Act 107.",
+      "deduction": {
+        "single": 3344,
+        "marriedJoint": 6688
+      }
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          },
+          {
+            "from": 150000,
+            "rate": 0.09
+          },
+          {
+            "from": 175000,
+            "rate": 0.1
+          },
+          {
+            "from": 200000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          },
+          {
+            "from": 300000,
+            "rate": 0.09
+          },
+          {
+            "from": 350000,
+            "rate": 0.1
+          },
+          {
+            "from": 400000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/HI/2022/n11ins.pdf",
+      "notes": "Deduction is the $2,200 / $4,400 standard deduction plus the $1,144 per person exemption. 9-11% top brackets reinstated by SLH 2017 Act 107.",
+      "deduction": {
+        "single": 3344,
+        "marriedJoint": 6688
+      }
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          },
+          {
+            "from": 150000,
+            "rate": 0.09
+          },
+          {
+            "from": 175000,
+            "rate": 0.1
+          },
+          {
+            "from": 200000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          },
+          {
+            "from": 300000,
+            "rate": 0.09
+          },
+          {
+            "from": 350000,
+            "rate": 0.1
+          },
+          {
+            "from": 400000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/HI/2023/n11ins%20(1).pdf",
+      "notes": "Deduction is the $2,200 / $4,400 standard deduction plus the $1,144 per person exemption. 9-11% top brackets reinstated by SLH 2017 Act 107.",
+      "deduction": {
+        "single": 3344,
+        "marriedJoint": 6688
+      }
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 2400,
+            "rate": 0.032
+          },
+          {
+            "from": 4800,
+            "rate": 0.055
+          },
+          {
+            "from": 9600,
+            "rate": 0.064
+          },
+          {
+            "from": 14400,
+            "rate": 0.068
+          },
+          {
+            "from": 19200,
+            "rate": 0.072
+          },
+          {
+            "from": 24000,
+            "rate": 0.076
+          },
+          {
+            "from": 36000,
+            "rate": 0.079
+          },
+          {
+            "from": 48000,
+            "rate": 0.0825
+          },
+          {
+            "from": 150000,
+            "rate": 0.09
+          },
+          {
+            "from": 175000,
+            "rate": 0.1
+          },
+          {
+            "from": 200000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 4800,
+            "rate": 0.032
+          },
+          {
+            "from": 9600,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.068
+          },
+          {
+            "from": 38400,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 72000,
+            "rate": 0.079
+          },
+          {
+            "from": 96000,
+            "rate": 0.0825
+          },
+          {
+            "from": 300000,
+            "rate": 0.09
+          },
+          {
+            "from": 350000,
+            "rate": 0.1
+          },
+          {
+            "from": 400000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5544,
+        "marriedJoint": 11088
+      },
+      "source": "https://files.hawaii.gov/tax/forms/2024/n11ins.pdf",
+      "notes": "Deduction is the $4,400 / $8,800 standard deduction plus the $1,144 per person exemption."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 9600,
+            "rate": 0.032
+          },
+          {
+            "from": 14400,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 24000,
+            "rate": 0.068
+          },
+          {
+            "from": 36000,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 125000,
+            "rate": 0.079
+          },
+          {
+            "from": 175000,
+            "rate": 0.0825
+          },
+          {
+            "from": 225000,
+            "rate": 0.09
+          },
+          {
+            "from": 275000,
+            "rate": 0.1
+          },
+          {
+            "from": 325000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 19200,
+            "rate": 0.032
+          },
+          {
+            "from": 28800,
+            "rate": 0.055
+          },
+          {
+            "from": 38400,
+            "rate": 0.064
+          },
+          {
+            "from": 48000,
+            "rate": 0.068
+          },
+          {
+            "from": 72000,
+            "rate": 0.072
+          },
+          {
+            "from": 96000,
+            "rate": 0.076
+          },
+          {
+            "from": 250000,
+            "rate": 0.079
+          },
+          {
+            "from": 350000,
+            "rate": 0.0825
+          },
+          {
+            "from": 450000,
+            "rate": 0.09
+          },
+          {
+            "from": 550000,
+            "rate": 0.1
+          },
+          {
+            "from": 650000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5544,
+        "marriedJoint": 11088
+      },
+      "source": "https://files.hawaii.gov/tax/forms/2025/n11ins.pdf",
+      "notes": "Brackets widened by 2024 legislation. Deduction is the $4,400 / $8,800 standard deduction plus the $1,144 per person exemption."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 9600,
+            "rate": 0.032
+          },
+          {
+            "from": 14400,
+            "rate": 0.055
+          },
+          {
+            "from": 19200,
+            "rate": 0.064
+          },
+          {
+            "from": 24000,
+            "rate": 0.068
+          },
+          {
+            "from": 36000,
+            "rate": 0.072
+          },
+          {
+            "from": 48000,
+            "rate": 0.076
+          },
+          {
+            "from": 125000,
+            "rate": 0.079
+          },
+          {
+            "from": 175000,
+            "rate": 0.0825
+          },
+          {
+            "from": 225000,
+            "rate": 0.09
+          },
+          {
+            "from": 275000,
+            "rate": 0.1
+          },
+          {
+            "from": 325000,
+            "rate": 0.11
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 19200,
+            "rate": 0.032
+          },
+          {
+            "from": 28800,
+            "rate": 0.055
+          },
+          {
+            "from": 38400,
+            "rate": 0.064
+          },
+          {
+            "from": 48000,
+            "rate": 0.068
+          },
+          {
+            "from": 72000,
+            "rate": 0.072
+          },
+          {
+            "from": 96000,
+            "rate": 0.076
+          },
+          {
+            "from": 250000,
+            "rate": 0.079
+          },
+          {
+            "from": 350000,
+            "rate": 0.0825
+          },
+          {
+            "from": 450000,
+            "rate": 0.09
+          },
+          {
+            "from": 550000,
+            "rate": 0.1
+          },
+          {
+            "from": 650000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9144,
+        "marriedJoint": 18288
+      },
+      "source": "https://files.hawaii.gov/tax/stats/trc/docs2025/2026-05-Karacaovali_Presentation_TRC_Legislative_Update.pdf",
+      "notes": "Deduction is the $8,000 / $16,000 standard deduction plus the $1,144 per person exemption."
+    }
+  }
+}

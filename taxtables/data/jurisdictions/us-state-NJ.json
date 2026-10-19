@@ -1,0 +1,2781 @@
+{
+  "id": "us-state-NJ",
+  "kind": "state",
+  "region": "New Jersey",
+  "state": "NJ",
+  "years": {
+    "1970": {
+      "type": "none",
+      "source": "https://www.nj.gov/treasury/taxation/pdf/annual/1996.pdf",
+      "notes": "No broad-based income tax; the Gross Income Tax was enacted July 8, 1976, retroactive to July 1, 1976 (C. 47, P.L. 1976). Not modelled: the Emergency Transportation Tax on interstate commuters and the tax on unearned income in effect before then."
+    },
+    "1971": {
+      "type": "none",
+      "source": "https://www.nj.gov/treasury/taxation/pdf/annual/1996.pdf",
+      "notes": "No broad-based income tax; the Gross Income Tax was enacted July 8, 1976, retroactive to July 1, 1976 (C. 47, P.L. 1976). Not modelled: the Emergency Transportation Tax on interstate commuters and the tax on unearned income in effect before then."
+    },
+    "1972": {
+      "type": "none",
+      "source": "https://www.nj.gov/treasury/taxation/pdf/annual/1996.pdf",
+      "notes": "No broad-based income tax; the Gross Income Tax was enacted July 8, 1976, retroactive to July 1, 1976 (C. 47, P.L. 1976). Not modelled: the Emergency Transportation Tax on interstate commuters and the tax on unearned income in effect before then."
+    },
+    "1973": {
+      "type": "none",
+      "source": "https://www.nj.gov/treasury/taxation/pdf/annual/1996.pdf",
+      "notes": "No broad-based income tax; the Gross Income Tax was enacted July 8, 1976, retroactive to July 1, 1976 (C. 47, P.L. 1976). Not modelled: the Emergency Transportation Tax on interstate commuters and the tax on unearned income in effect before then."
+    },
+    "1974": {
+      "type": "none",
+      "source": "https://www.nj.gov/treasury/taxation/pdf/annual/1996.pdf",
+      "notes": "No broad-based income tax; the Gross Income Tax was enacted July 8, 1976, retroactive to July 1, 1976 (C. 47, P.L. 1976). Not modelled: the Emergency Transportation Tax on interstate commuters and the tax on unearned income in effect before then."
+    },
+    "1975": {
+      "type": "none",
+      "source": "https://www.nj.gov/treasury/taxation/pdf/annual/1996.pdf",
+      "notes": "No broad-based income tax; the Gross Income Tax was enacted July 8, 1976, retroactive to July 1, 1976 (C. 47, P.L. 1976). Not modelled: the Emergency Transportation Tax on interstate commuters and the tax on unearned income in effect before then."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          }
+        ]
+      },
+      "deduction": {
+        "single": 500,
+        "marriedJoint": 1000
+      },
+      "source": "https://dspace.njstatelib.org/bitstreams/26e1ac77-2552-4df9-8092-a9f89ab5f4f2/download",
+      "notes": "Tax applied only to income received on or after July 1, 1976; for the half year each $1,000 exemption was prorated to $500 (shown). Same schedule for joint and single filers. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dspace.njstatelib.org/bitstreams/26e1ac77-2552-4df9-8092-a9f89ab5f4f2/download",
+      "notes": "Same schedule for joint and single filers. Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dspace.njstatelib.org/bitstreams/86bf08f5-4e59-4cb6-9922-c16d0ca355a0/download",
+      "notes": "Same schedule for joint and single filers. Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dspace.njstatelib.org/bitstreams/86bf08f5-4e59-4cb6-9922-c16d0ca355a0/download",
+      "notes": "Same schedule for joint and single filers. Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dspace.njstatelib.org/bitstreams/86bf08f5-4e59-4cb6-9922-c16d0ca355a0/download",
+      "notes": "Same schedule for joint and single filers. Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dspace.njstatelib.org/bitstreams/86bf08f5-4e59-4cb6-9922-c16d0ca355a0/download",
+      "notes": "Same schedule for joint and single filers. Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dspace.njstatelib.org/bitstreams/86bf08f5-4e59-4cb6-9922-c16d0ca355a0/download",
+      "notes": "Same schedule for joint and single filers. Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          },
+          {
+            "from": 50000,
+            "rate": 0.035
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dspace.njstatelib.org/bitstreams/86bf08f5-4e59-4cb6-9922-c16d0ca355a0/download",
+      "notes": "Rate over $50,000 raised to 3.5% from 1983 (C. 229, P.L. 1982); new graduated rates began 1991. Same schedule for joint and single filers. Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          },
+          {
+            "from": 50000,
+            "rate": 0.035
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dspace.njstatelib.org/bitstreams/86bf08f5-4e59-4cb6-9922-c16d0ca355a0/download",
+      "notes": "Rate over $50,000 raised to 3.5% from 1983 (C. 229, P.L. 1982); new graduated rates began 1991. Same schedule for joint and single filers. Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          },
+          {
+            "from": 50000,
+            "rate": 0.035
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dspace.njstatelib.org/bitstreams/86bf08f5-4e59-4cb6-9922-c16d0ca355a0/download",
+      "notes": "Rate over $50,000 raised to 3.5% from 1983 (C. 229, P.L. 1982); new graduated rates began 1991. Same schedule for joint and single filers. Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          },
+          {
+            "from": 50000,
+            "rate": 0.035
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dspace.njstatelib.org/bitstreams/86bf08f5-4e59-4cb6-9922-c16d0ca355a0/download",
+      "notes": "Rate over $50,000 raised to 3.5% from 1983 (C. 229, P.L. 1982); new graduated rates began 1991. Same schedule for joint and single filers. Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          },
+          {
+            "from": 50000,
+            "rate": 0.035
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dspace.njstatelib.org/bitstreams/86bf08f5-4e59-4cb6-9922-c16d0ca355a0/download",
+      "notes": "Rate over $50,000 raised to 3.5% from 1983 (C. 229, P.L. 1982); new graduated rates began 1991. Same schedule for joint and single filers. Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          },
+          {
+            "from": 50000,
+            "rate": 0.035
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dspace.njstatelib.org/bitstreams/86bf08f5-4e59-4cb6-9922-c16d0ca355a0/download",
+      "notes": "Rate over $50,000 raised to 3.5% from 1983 (C. 229, P.L. 1982); new graduated rates began 1991. Same schedule for joint and single filers. Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          },
+          {
+            "from": 50000,
+            "rate": 0.035
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dspace.njstatelib.org/bitstreams/86bf08f5-4e59-4cb6-9922-c16d0ca355a0/download",
+      "notes": "Rate over $50,000 raised to 3.5% from 1983 (C. 229, P.L. 1982); new graduated rates began 1991. Same schedule for joint and single filers. Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          },
+          {
+            "from": 50000,
+            "rate": 0.035
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://dspace.njstatelib.org/bitstreams/86bf08f5-4e59-4cb6-9922-c16d0ca355a0/download",
+      "notes": "Rate over $50,000 raised to 3.5% from 1983 (C. 229, P.L. 1982); new graduated rates began 1991. Same schedule for joint and single filers. Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          },
+          {
+            "from": 35000,
+            "rate": 0.05
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 75000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          },
+          {
+            "from": 50000,
+            "rate": 0.035
+          },
+          {
+            "from": 70000,
+            "rate": 0.05
+          },
+          {
+            "from": 80000,
+            "rate": 0.065
+          },
+          {
+            "from": 150000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.nj.gov/treasury/taxation/pdf/annual/1996.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          },
+          {
+            "from": 35000,
+            "rate": 0.05
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 75000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          },
+          {
+            "from": 50000,
+            "rate": 0.035
+          },
+          {
+            "from": 70000,
+            "rate": 0.05
+          },
+          {
+            "from": 80000,
+            "rate": 0.065
+          },
+          {
+            "from": 150000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/1992/1992NJ.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          },
+          {
+            "from": 35000,
+            "rate": 0.05
+          },
+          {
+            "from": 40000,
+            "rate": 0.065
+          },
+          {
+            "from": 75000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 20000,
+            "rate": 0.025
+          },
+          {
+            "from": 50000,
+            "rate": 0.035
+          },
+          {
+            "from": 70000,
+            "rate": 0.05
+          },
+          {
+            "from": 80000,
+            "rate": 0.065
+          },
+          {
+            "from": 150000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.nj.gov/treasury/taxation/pdf/annual/1996.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Filers with gross income of $3,000 or less ($1,500 married filing separately) owed no tax (not modelled)."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.019
+          },
+          {
+            "from": 20000,
+            "rate": 0.02375
+          },
+          {
+            "from": 35000,
+            "rate": 0.0475
+          },
+          {
+            "from": 40000,
+            "rate": 0.06175
+          },
+          {
+            "from": 75000,
+            "rate": 0.0665
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.019
+          },
+          {
+            "from": 20000,
+            "rate": 0.02375
+          },
+          {
+            "from": 50000,
+            "rate": 0.03325
+          },
+          {
+            "from": 70000,
+            "rate": 0.0475
+          },
+          {
+            "from": 80000,
+            "rate": 0.06175
+          },
+          {
+            "from": 150000,
+            "rate": 0.0665
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.nj.gov/treasury/taxation/pdf/annual/1996.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Filers with gross income of $7,500 or less owed no tax (not modelled)."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 20000,
+            "rate": 0.02125
+          },
+          {
+            "from": 35000,
+            "rate": 0.0425
+          },
+          {
+            "from": 40000,
+            "rate": 0.06013
+          },
+          {
+            "from": 75000,
+            "rate": 0.0658
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.017
+          },
+          {
+            "from": 20000,
+            "rate": 0.02125
+          },
+          {
+            "from": 50000,
+            "rate": 0.02975
+          },
+          {
+            "from": 70000,
+            "rate": 0.0425
+          },
+          {
+            "from": 80000,
+            "rate": 0.06013
+          },
+          {
+            "from": 150000,
+            "rate": 0.0658
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.nj.gov/treasury/taxation/pdf/annual/1996.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Filers with gross income of $7,500 or less owed no tax (not modelled)."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/1996/961040in.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.nj.gov/treasury/taxation/pdf/annual/1996.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/1998/981040in.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/1999/991040in.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2000/001040in.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2001/011040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2002/021040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2003/031040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.nj.gov/treasury/taxation/pdf/annual/2005.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2005/051040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2006/061040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2007/071040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2008/081040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 400000,
+            "rate": 0.08
+          },
+          {
+            "from": 500000,
+            "rate": 0.1025
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 400000,
+            "rate": 0.08
+          },
+          {
+            "from": 500000,
+            "rate": 0.1025
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2009/091040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. 2009-only rates over $400,000 (P.L. 2009, C. 69). Personal exemptions were disallowed for gross income over $250,000 that year (not modelled)."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2010/10_1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2011/1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2012/1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2013/1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2014/1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2015/1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2016/1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2017/1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 5000000,
+            "rate": 0.1075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 5000000,
+            "rate": 0.1075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2018/1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 5000000,
+            "rate": 0.1075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 5000000,
+            "rate": 0.1075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2019/1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2020/1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2021/1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2022/1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NJ/2023/1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption. Low-income filing threshold (no tax at or below it) not modelled."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.nj.gov/treasury/taxation/pdf/other_forms/tgi-ee/2024/1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.nj.gov/treasury/taxation/pdf/current/1040i.pdf",
+      "notes": "Deduction is the $1,000 per person exemption."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 35000,
+            "rate": 0.035
+          },
+          {
+            "from": 40000,
+            "rate": 0.05525
+          },
+          {
+            "from": 75000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 20000,
+            "rate": 0.0175
+          },
+          {
+            "from": 50000,
+            "rate": 0.0245
+          },
+          {
+            "from": 70000,
+            "rate": 0.035
+          },
+          {
+            "from": 80000,
+            "rate": 0.05525
+          },
+          {
+            "from": 150000,
+            "rate": 0.0637
+          },
+          {
+            "from": 500000,
+            "rate": 0.0897
+          },
+          {
+            "from": 1000000,
+            "rate": 0.1075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.nj.gov/treasury/taxation/pdf/current/njtaxratesch.pdf",
+      "notes": "Deduction is the $1,000 per person exemption."
+    }
+  }
+}

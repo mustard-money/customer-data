@@ -1,0 +1,5550 @@
+{
+  "id": "us-federal",
+  "kind": "federal",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.14
+          },
+          {
+            "from": 500,
+            "rate": 0.15
+          },
+          {
+            "from": 1000,
+            "rate": 0.16
+          },
+          {
+            "from": 1500,
+            "rate": 0.17
+          },
+          {
+            "from": 2000,
+            "rate": 0.19
+          },
+          {
+            "from": 4000,
+            "rate": 0.22
+          },
+          {
+            "from": 6000,
+            "rate": 0.25
+          },
+          {
+            "from": 8000,
+            "rate": 0.28
+          },
+          {
+            "from": 10000,
+            "rate": 0.32
+          },
+          {
+            "from": 12000,
+            "rate": 0.36
+          },
+          {
+            "from": 14000,
+            "rate": 0.39
+          },
+          {
+            "from": 16000,
+            "rate": 0.42
+          },
+          {
+            "from": 18000,
+            "rate": 0.45
+          },
+          {
+            "from": 20000,
+            "rate": 0.48
+          },
+          {
+            "from": 22000,
+            "rate": 0.5
+          },
+          {
+            "from": 26000,
+            "rate": 0.53
+          },
+          {
+            "from": 32000,
+            "rate": 0.55
+          },
+          {
+            "from": 38000,
+            "rate": 0.58
+          },
+          {
+            "from": 44000,
+            "rate": 0.6
+          },
+          {
+            "from": 50000,
+            "rate": 0.62
+          },
+          {
+            "from": 60000,
+            "rate": 0.64
+          },
+          {
+            "from": 70000,
+            "rate": 0.66
+          },
+          {
+            "from": 80000,
+            "rate": 0.68
+          },
+          {
+            "from": 90000,
+            "rate": 0.69
+          },
+          {
+            "from": 100000,
+            "rate": 0.7
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.14
+          },
+          {
+            "from": 1000,
+            "rate": 0.15
+          },
+          {
+            "from": 2000,
+            "rate": 0.16
+          },
+          {
+            "from": 3000,
+            "rate": 0.17
+          },
+          {
+            "from": 4000,
+            "rate": 0.19
+          },
+          {
+            "from": 8000,
+            "rate": 0.22
+          },
+          {
+            "from": 12000,
+            "rate": 0.25
+          },
+          {
+            "from": 16000,
+            "rate": 0.28
+          },
+          {
+            "from": 20000,
+            "rate": 0.32
+          },
+          {
+            "from": 24000,
+            "rate": 0.36
+          },
+          {
+            "from": 28000,
+            "rate": 0.39
+          },
+          {
+            "from": 32000,
+            "rate": 0.42
+          },
+          {
+            "from": 36000,
+            "rate": 0.45
+          },
+          {
+            "from": 40000,
+            "rate": 0.48
+          },
+          {
+            "from": 44000,
+            "rate": 0.5
+          },
+          {
+            "from": 52000,
+            "rate": 0.53
+          },
+          {
+            "from": 64000,
+            "rate": 0.55
+          },
+          {
+            "from": 76000,
+            "rate": 0.58
+          },
+          {
+            "from": 88000,
+            "rate": 0.6
+          },
+          {
+            "from": 100000,
+            "rate": 0.62
+          },
+          {
+            "from": 120000,
+            "rate": 0.64
+          },
+          {
+            "from": 140000,
+            "rate": 0.66
+          },
+          {
+            "from": 160000,
+            "rate": 0.68
+          },
+          {
+            "from": 180000,
+            "rate": 0.69
+          },
+          {
+            "from": 200000,
+            "rate": 0.7
+          }
+        ]
+      },
+      "deduction": {
+        "single": 625,
+        "marriedJoint": 1250
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 300,
+          "marriedJoint": 400
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1970.pdf",
+      "notes": "Schedules from i1040 p.21. Plus 2.5% tax surcharge (Surcharge Tables A/B; not modelled). Std deduction 10% of AGI max $1,000; minimum (low-income allowance) = $200 + $100 per exemption, max $1,000 (recorded: 1 exemption single=$300, 2 exemptions MFJ=$400). Exemption $625 (i1040 p.5)."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.14
+          },
+          {
+            "from": 500,
+            "rate": 0.15
+          },
+          {
+            "from": 1000,
+            "rate": 0.16
+          },
+          {
+            "from": 1500,
+            "rate": 0.17
+          },
+          {
+            "from": 2000,
+            "rate": 0.19
+          },
+          {
+            "from": 4000,
+            "rate": 0.21
+          },
+          {
+            "from": 6000,
+            "rate": 0.24
+          },
+          {
+            "from": 8000,
+            "rate": 0.25
+          },
+          {
+            "from": 10000,
+            "rate": 0.27
+          },
+          {
+            "from": 12000,
+            "rate": 0.29
+          },
+          {
+            "from": 14000,
+            "rate": 0.31
+          },
+          {
+            "from": 16000,
+            "rate": 0.34
+          },
+          {
+            "from": 18000,
+            "rate": 0.36
+          },
+          {
+            "from": 20000,
+            "rate": 0.38
+          },
+          {
+            "from": 22000,
+            "rate": 0.4
+          },
+          {
+            "from": 26000,
+            "rate": 0.45
+          },
+          {
+            "from": 32000,
+            "rate": 0.5
+          },
+          {
+            "from": 38000,
+            "rate": 0.55
+          },
+          {
+            "from": 44000,
+            "rate": 0.6
+          },
+          {
+            "from": 50000,
+            "rate": 0.62
+          },
+          {
+            "from": 60000,
+            "rate": 0.64
+          },
+          {
+            "from": 70000,
+            "rate": 0.66
+          },
+          {
+            "from": 80000,
+            "rate": 0.68
+          },
+          {
+            "from": 90000,
+            "rate": 0.69
+          },
+          {
+            "from": 100000,
+            "rate": 0.7
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.14
+          },
+          {
+            "from": 1000,
+            "rate": 0.15
+          },
+          {
+            "from": 2000,
+            "rate": 0.16
+          },
+          {
+            "from": 3000,
+            "rate": 0.17
+          },
+          {
+            "from": 4000,
+            "rate": 0.19
+          },
+          {
+            "from": 8000,
+            "rate": 0.22
+          },
+          {
+            "from": 12000,
+            "rate": 0.25
+          },
+          {
+            "from": 16000,
+            "rate": 0.28
+          },
+          {
+            "from": 20000,
+            "rate": 0.32
+          },
+          {
+            "from": 24000,
+            "rate": 0.36
+          },
+          {
+            "from": 28000,
+            "rate": 0.39
+          },
+          {
+            "from": 32000,
+            "rate": 0.42
+          },
+          {
+            "from": 36000,
+            "rate": 0.45
+          },
+          {
+            "from": 40000,
+            "rate": 0.48
+          },
+          {
+            "from": 44000,
+            "rate": 0.5
+          },
+          {
+            "from": 52000,
+            "rate": 0.53
+          },
+          {
+            "from": 64000,
+            "rate": 0.55
+          },
+          {
+            "from": 76000,
+            "rate": 0.58
+          },
+          {
+            "from": 88000,
+            "rate": 0.6
+          },
+          {
+            "from": 100000,
+            "rate": 0.62
+          },
+          {
+            "from": 120000,
+            "rate": 0.64
+          },
+          {
+            "from": 140000,
+            "rate": 0.66
+          },
+          {
+            "from": 160000,
+            "rate": 0.68
+          },
+          {
+            "from": 180000,
+            "rate": 0.69
+          },
+          {
+            "from": 200000,
+            "rate": 0.7
+          }
+        ]
+      },
+      "deduction": {
+        "single": 675,
+        "marriedJoint": 1350
+      },
+      "percentStandardDeduction": {
+        "rate": 0.13,
+        "minimum": {
+          "single": 1050,
+          "marriedJoint": 1050
+        },
+        "maximum": {
+          "single": 1500,
+          "marriedJoint": 1500
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1971.pdf",
+      "notes": "Schedules from i1040 p.24. 60% maximum tax on earned taxable income (Form 4726; not modelled). Std deduction 13% max $1,500, low-income allowance $1,050 (amounts per 1972 i1040 p.2 'new rules'). Exemption $675 (per 1972 i1040 p.2; SOI agrees)."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.14
+          },
+          {
+            "from": 500,
+            "rate": 0.15
+          },
+          {
+            "from": 1000,
+            "rate": 0.16
+          },
+          {
+            "from": 1500,
+            "rate": 0.17
+          },
+          {
+            "from": 2000,
+            "rate": 0.19
+          },
+          {
+            "from": 4000,
+            "rate": 0.21
+          },
+          {
+            "from": 6000,
+            "rate": 0.24
+          },
+          {
+            "from": 8000,
+            "rate": 0.25
+          },
+          {
+            "from": 10000,
+            "rate": 0.27
+          },
+          {
+            "from": 12000,
+            "rate": 0.29
+          },
+          {
+            "from": 14000,
+            "rate": 0.31
+          },
+          {
+            "from": 16000,
+            "rate": 0.34
+          },
+          {
+            "from": 18000,
+            "rate": 0.36
+          },
+          {
+            "from": 20000,
+            "rate": 0.38
+          },
+          {
+            "from": 22000,
+            "rate": 0.4
+          },
+          {
+            "from": 26000,
+            "rate": 0.45
+          },
+          {
+            "from": 32000,
+            "rate": 0.5
+          },
+          {
+            "from": 38000,
+            "rate": 0.55
+          },
+          {
+            "from": 44000,
+            "rate": 0.6
+          },
+          {
+            "from": 50000,
+            "rate": 0.62
+          },
+          {
+            "from": 60000,
+            "rate": 0.64
+          },
+          {
+            "from": 70000,
+            "rate": 0.66
+          },
+          {
+            "from": 80000,
+            "rate": 0.68
+          },
+          {
+            "from": 90000,
+            "rate": 0.69
+          },
+          {
+            "from": 100000,
+            "rate": 0.7
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.14
+          },
+          {
+            "from": 1000,
+            "rate": 0.15
+          },
+          {
+            "from": 2000,
+            "rate": 0.16
+          },
+          {
+            "from": 3000,
+            "rate": 0.17
+          },
+          {
+            "from": 4000,
+            "rate": 0.19
+          },
+          {
+            "from": 8000,
+            "rate": 0.22
+          },
+          {
+            "from": 12000,
+            "rate": 0.25
+          },
+          {
+            "from": 16000,
+            "rate": 0.28
+          },
+          {
+            "from": 20000,
+            "rate": 0.32
+          },
+          {
+            "from": 24000,
+            "rate": 0.36
+          },
+          {
+            "from": 28000,
+            "rate": 0.39
+          },
+          {
+            "from": 32000,
+            "rate": 0.42
+          },
+          {
+            "from": 36000,
+            "rate": 0.45
+          },
+          {
+            "from": 40000,
+            "rate": 0.48
+          },
+          {
+            "from": 44000,
+            "rate": 0.5
+          },
+          {
+            "from": 52000,
+            "rate": 0.53
+          },
+          {
+            "from": 64000,
+            "rate": 0.55
+          },
+          {
+            "from": 76000,
+            "rate": 0.58
+          },
+          {
+            "from": 88000,
+            "rate": 0.6
+          },
+          {
+            "from": 100000,
+            "rate": 0.62
+          },
+          {
+            "from": 120000,
+            "rate": 0.64
+          },
+          {
+            "from": 140000,
+            "rate": 0.66
+          },
+          {
+            "from": 160000,
+            "rate": 0.68
+          },
+          {
+            "from": 180000,
+            "rate": 0.69
+          },
+          {
+            "from": 200000,
+            "rate": 0.7
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.15,
+        "minimum": {
+          "single": 1300,
+          "marriedJoint": 1300
+        },
+        "maximum": {
+          "single": 2000,
+          "marriedJoint": 2000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1972.pdf",
+      "notes": "Schedules from i1040 p.26 (identical to 1971). 50% maximum tax on earned taxable income (Form 4726; not modelled). Std deduction 15% of AGI max $2,000, low-income allowance $1,300 (MFS halves). Exemption $750."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.14
+          },
+          {
+            "from": 500,
+            "rate": 0.15
+          },
+          {
+            "from": 1000,
+            "rate": 0.16
+          },
+          {
+            "from": 1500,
+            "rate": 0.17
+          },
+          {
+            "from": 2000,
+            "rate": 0.19
+          },
+          {
+            "from": 4000,
+            "rate": 0.21
+          },
+          {
+            "from": 6000,
+            "rate": 0.24
+          },
+          {
+            "from": 8000,
+            "rate": 0.25
+          },
+          {
+            "from": 10000,
+            "rate": 0.27
+          },
+          {
+            "from": 12000,
+            "rate": 0.29
+          },
+          {
+            "from": 14000,
+            "rate": 0.31
+          },
+          {
+            "from": 16000,
+            "rate": 0.34
+          },
+          {
+            "from": 18000,
+            "rate": 0.36
+          },
+          {
+            "from": 20000,
+            "rate": 0.38
+          },
+          {
+            "from": 22000,
+            "rate": 0.4
+          },
+          {
+            "from": 26000,
+            "rate": 0.45
+          },
+          {
+            "from": 32000,
+            "rate": 0.5
+          },
+          {
+            "from": 38000,
+            "rate": 0.55
+          },
+          {
+            "from": 44000,
+            "rate": 0.6
+          },
+          {
+            "from": 50000,
+            "rate": 0.62
+          },
+          {
+            "from": 60000,
+            "rate": 0.64
+          },
+          {
+            "from": 70000,
+            "rate": 0.66
+          },
+          {
+            "from": 80000,
+            "rate": 0.68
+          },
+          {
+            "from": 90000,
+            "rate": 0.69
+          },
+          {
+            "from": 100000,
+            "rate": 0.7
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.14
+          },
+          {
+            "from": 1000,
+            "rate": 0.15
+          },
+          {
+            "from": 2000,
+            "rate": 0.16
+          },
+          {
+            "from": 3000,
+            "rate": 0.17
+          },
+          {
+            "from": 4000,
+            "rate": 0.19
+          },
+          {
+            "from": 8000,
+            "rate": 0.22
+          },
+          {
+            "from": 12000,
+            "rate": 0.25
+          },
+          {
+            "from": 16000,
+            "rate": 0.28
+          },
+          {
+            "from": 20000,
+            "rate": 0.32
+          },
+          {
+            "from": 24000,
+            "rate": 0.36
+          },
+          {
+            "from": 28000,
+            "rate": 0.39
+          },
+          {
+            "from": 32000,
+            "rate": 0.42
+          },
+          {
+            "from": 36000,
+            "rate": 0.45
+          },
+          {
+            "from": 40000,
+            "rate": 0.48
+          },
+          {
+            "from": 44000,
+            "rate": 0.5
+          },
+          {
+            "from": 52000,
+            "rate": 0.53
+          },
+          {
+            "from": 64000,
+            "rate": 0.55
+          },
+          {
+            "from": 76000,
+            "rate": 0.58
+          },
+          {
+            "from": 88000,
+            "rate": 0.6
+          },
+          {
+            "from": 100000,
+            "rate": 0.62
+          },
+          {
+            "from": 120000,
+            "rate": 0.64
+          },
+          {
+            "from": 140000,
+            "rate": 0.66
+          },
+          {
+            "from": 160000,
+            "rate": 0.68
+          },
+          {
+            "from": 180000,
+            "rate": 0.69
+          },
+          {
+            "from": 200000,
+            "rate": 0.7
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.15,
+        "minimum": {
+          "single": 1300,
+          "marriedJoint": 1300
+        },
+        "maximum": {
+          "single": 2000,
+          "marriedJoint": 2000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1973.pdf",
+      "notes": "Schedules from i1040 p.27 (identical to 1971). 50% maximum tax on earned taxable income (Form 4726; not modelled). Std deduction 15% of AGI max $2,000, low-income allowance $1,300 (MFS halves). Exemption $750."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.14
+          },
+          {
+            "from": 500,
+            "rate": 0.15
+          },
+          {
+            "from": 1000,
+            "rate": 0.16
+          },
+          {
+            "from": 1500,
+            "rate": 0.17
+          },
+          {
+            "from": 2000,
+            "rate": 0.19
+          },
+          {
+            "from": 4000,
+            "rate": 0.21
+          },
+          {
+            "from": 6000,
+            "rate": 0.24
+          },
+          {
+            "from": 8000,
+            "rate": 0.25
+          },
+          {
+            "from": 10000,
+            "rate": 0.27
+          },
+          {
+            "from": 12000,
+            "rate": 0.29
+          },
+          {
+            "from": 14000,
+            "rate": 0.31
+          },
+          {
+            "from": 16000,
+            "rate": 0.34
+          },
+          {
+            "from": 18000,
+            "rate": 0.36
+          },
+          {
+            "from": 20000,
+            "rate": 0.38
+          },
+          {
+            "from": 22000,
+            "rate": 0.4
+          },
+          {
+            "from": 26000,
+            "rate": 0.45
+          },
+          {
+            "from": 32000,
+            "rate": 0.5
+          },
+          {
+            "from": 38000,
+            "rate": 0.55
+          },
+          {
+            "from": 44000,
+            "rate": 0.6
+          },
+          {
+            "from": 50000,
+            "rate": 0.62
+          },
+          {
+            "from": 60000,
+            "rate": 0.64
+          },
+          {
+            "from": 70000,
+            "rate": 0.66
+          },
+          {
+            "from": 80000,
+            "rate": 0.68
+          },
+          {
+            "from": 90000,
+            "rate": 0.69
+          },
+          {
+            "from": 100000,
+            "rate": 0.7
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.14
+          },
+          {
+            "from": 1000,
+            "rate": 0.15
+          },
+          {
+            "from": 2000,
+            "rate": 0.16
+          },
+          {
+            "from": 3000,
+            "rate": 0.17
+          },
+          {
+            "from": 4000,
+            "rate": 0.19
+          },
+          {
+            "from": 8000,
+            "rate": 0.22
+          },
+          {
+            "from": 12000,
+            "rate": 0.25
+          },
+          {
+            "from": 16000,
+            "rate": 0.28
+          },
+          {
+            "from": 20000,
+            "rate": 0.32
+          },
+          {
+            "from": 24000,
+            "rate": 0.36
+          },
+          {
+            "from": 28000,
+            "rate": 0.39
+          },
+          {
+            "from": 32000,
+            "rate": 0.42
+          },
+          {
+            "from": 36000,
+            "rate": 0.45
+          },
+          {
+            "from": 40000,
+            "rate": 0.48
+          },
+          {
+            "from": 44000,
+            "rate": 0.5
+          },
+          {
+            "from": 52000,
+            "rate": 0.53
+          },
+          {
+            "from": 64000,
+            "rate": 0.55
+          },
+          {
+            "from": 76000,
+            "rate": 0.58
+          },
+          {
+            "from": 88000,
+            "rate": 0.6
+          },
+          {
+            "from": 100000,
+            "rate": 0.62
+          },
+          {
+            "from": 120000,
+            "rate": 0.64
+          },
+          {
+            "from": 140000,
+            "rate": 0.66
+          },
+          {
+            "from": 160000,
+            "rate": 0.68
+          },
+          {
+            "from": 180000,
+            "rate": 0.69
+          },
+          {
+            "from": 200000,
+            "rate": 0.7
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.15,
+        "minimum": {
+          "single": 1300,
+          "marriedJoint": 1300
+        },
+        "maximum": {
+          "single": 2000,
+          "marriedJoint": 2000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1974.pdf",
+      "notes": "Schedules from i1040 p.28 (identical to 1971). 50% maximum tax on earned taxable income (Form 4726; not modelled). Std deduction 15% of AGI max $2,000, low-income allowance $1,300 (MFS halves). Exemption $750. 1974: 10% rebate of tax ($100 min/$200 max, enacted 1975; not modelled)."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.14
+          },
+          {
+            "from": 500,
+            "rate": 0.15
+          },
+          {
+            "from": 1000,
+            "rate": 0.16
+          },
+          {
+            "from": 1500,
+            "rate": 0.17
+          },
+          {
+            "from": 2000,
+            "rate": 0.19
+          },
+          {
+            "from": 4000,
+            "rate": 0.21
+          },
+          {
+            "from": 6000,
+            "rate": 0.24
+          },
+          {
+            "from": 8000,
+            "rate": 0.25
+          },
+          {
+            "from": 10000,
+            "rate": 0.27
+          },
+          {
+            "from": 12000,
+            "rate": 0.29
+          },
+          {
+            "from": 14000,
+            "rate": 0.31
+          },
+          {
+            "from": 16000,
+            "rate": 0.34
+          },
+          {
+            "from": 18000,
+            "rate": 0.36
+          },
+          {
+            "from": 20000,
+            "rate": 0.38
+          },
+          {
+            "from": 22000,
+            "rate": 0.4
+          },
+          {
+            "from": 26000,
+            "rate": 0.45
+          },
+          {
+            "from": 32000,
+            "rate": 0.5
+          },
+          {
+            "from": 38000,
+            "rate": 0.55
+          },
+          {
+            "from": 44000,
+            "rate": 0.6
+          },
+          {
+            "from": 50000,
+            "rate": 0.62
+          },
+          {
+            "from": 60000,
+            "rate": 0.64
+          },
+          {
+            "from": 70000,
+            "rate": 0.66
+          },
+          {
+            "from": 80000,
+            "rate": 0.68
+          },
+          {
+            "from": 90000,
+            "rate": 0.69
+          },
+          {
+            "from": 100000,
+            "rate": 0.7
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.14
+          },
+          {
+            "from": 1000,
+            "rate": 0.15
+          },
+          {
+            "from": 2000,
+            "rate": 0.16
+          },
+          {
+            "from": 3000,
+            "rate": 0.17
+          },
+          {
+            "from": 4000,
+            "rate": 0.19
+          },
+          {
+            "from": 8000,
+            "rate": 0.22
+          },
+          {
+            "from": 12000,
+            "rate": 0.25
+          },
+          {
+            "from": 16000,
+            "rate": 0.28
+          },
+          {
+            "from": 20000,
+            "rate": 0.32
+          },
+          {
+            "from": 24000,
+            "rate": 0.36
+          },
+          {
+            "from": 28000,
+            "rate": 0.39
+          },
+          {
+            "from": 32000,
+            "rate": 0.42
+          },
+          {
+            "from": 36000,
+            "rate": 0.45
+          },
+          {
+            "from": 40000,
+            "rate": 0.48
+          },
+          {
+            "from": 44000,
+            "rate": 0.5
+          },
+          {
+            "from": 52000,
+            "rate": 0.53
+          },
+          {
+            "from": 64000,
+            "rate": 0.55
+          },
+          {
+            "from": 76000,
+            "rate": 0.58
+          },
+          {
+            "from": 88000,
+            "rate": 0.6
+          },
+          {
+            "from": 100000,
+            "rate": 0.62
+          },
+          {
+            "from": 120000,
+            "rate": 0.64
+          },
+          {
+            "from": 140000,
+            "rate": 0.66
+          },
+          {
+            "from": 160000,
+            "rate": 0.68
+          },
+          {
+            "from": 180000,
+            "rate": 0.69
+          },
+          {
+            "from": 200000,
+            "rate": 0.7
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.16,
+        "minimum": {
+          "single": 1600,
+          "marriedJoint": 1900
+        },
+        "maximum": {
+          "single": 2300,
+          "marriedJoint": 2600
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1975.pdf",
+      "notes": "Schedules from i1040 p.35 (identical to 1971-74). Std deduction 16%; min $1,600 single/$1,900 MFJ; max $2,300/$2,600 (Form 1040 line 44b, i1040 p.7). $30 per-exemption credit (line 16b) and 50% max tax on earned income not modelled. Exemption $750."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.14
+          },
+          {
+            "from": 500,
+            "rate": 0.15
+          },
+          {
+            "from": 1000,
+            "rate": 0.16
+          },
+          {
+            "from": 1500,
+            "rate": 0.17
+          },
+          {
+            "from": 2000,
+            "rate": 0.19
+          },
+          {
+            "from": 4000,
+            "rate": 0.21
+          },
+          {
+            "from": 6000,
+            "rate": 0.24
+          },
+          {
+            "from": 8000,
+            "rate": 0.25
+          },
+          {
+            "from": 10000,
+            "rate": 0.27
+          },
+          {
+            "from": 12000,
+            "rate": 0.29
+          },
+          {
+            "from": 14000,
+            "rate": 0.31
+          },
+          {
+            "from": 16000,
+            "rate": 0.34
+          },
+          {
+            "from": 18000,
+            "rate": 0.36
+          },
+          {
+            "from": 20000,
+            "rate": 0.38
+          },
+          {
+            "from": 22000,
+            "rate": 0.4
+          },
+          {
+            "from": 26000,
+            "rate": 0.45
+          },
+          {
+            "from": 32000,
+            "rate": 0.5
+          },
+          {
+            "from": 38000,
+            "rate": 0.55
+          },
+          {
+            "from": 44000,
+            "rate": 0.6
+          },
+          {
+            "from": 50000,
+            "rate": 0.62
+          },
+          {
+            "from": 60000,
+            "rate": 0.64
+          },
+          {
+            "from": 70000,
+            "rate": 0.66
+          },
+          {
+            "from": 80000,
+            "rate": 0.68
+          },
+          {
+            "from": 90000,
+            "rate": 0.69
+          },
+          {
+            "from": 100000,
+            "rate": 0.7
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.14
+          },
+          {
+            "from": 1000,
+            "rate": 0.15
+          },
+          {
+            "from": 2000,
+            "rate": 0.16
+          },
+          {
+            "from": 3000,
+            "rate": 0.17
+          },
+          {
+            "from": 4000,
+            "rate": 0.19
+          },
+          {
+            "from": 8000,
+            "rate": 0.22
+          },
+          {
+            "from": 12000,
+            "rate": 0.25
+          },
+          {
+            "from": 16000,
+            "rate": 0.28
+          },
+          {
+            "from": 20000,
+            "rate": 0.32
+          },
+          {
+            "from": 24000,
+            "rate": 0.36
+          },
+          {
+            "from": 28000,
+            "rate": 0.39
+          },
+          {
+            "from": 32000,
+            "rate": 0.42
+          },
+          {
+            "from": 36000,
+            "rate": 0.45
+          },
+          {
+            "from": 40000,
+            "rate": 0.48
+          },
+          {
+            "from": 44000,
+            "rate": 0.5
+          },
+          {
+            "from": 52000,
+            "rate": 0.53
+          },
+          {
+            "from": 64000,
+            "rate": 0.55
+          },
+          {
+            "from": 76000,
+            "rate": 0.58
+          },
+          {
+            "from": 88000,
+            "rate": 0.6
+          },
+          {
+            "from": 100000,
+            "rate": 0.62
+          },
+          {
+            "from": 120000,
+            "rate": 0.64
+          },
+          {
+            "from": 140000,
+            "rate": 0.66
+          },
+          {
+            "from": 160000,
+            "rate": 0.68
+          },
+          {
+            "from": 180000,
+            "rate": 0.69
+          },
+          {
+            "from": 200000,
+            "rate": 0.7
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.16,
+        "minimum": {
+          "single": 1700,
+          "marriedJoint": 2100
+        },
+        "maximum": {
+          "single": 2400,
+          "marriedJoint": 2800
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/f1040--1976.pdf",
+      "notes": "Schedule page (i1040 p.31) prints only brackets over $20,000; they match 1975 exactly and lower brackets are taken from the unchanged 1971-75 schedules (below $20k only Tax Tables printed). Std deduction 16%; min $1,700/$2,100; max $2,400/$2,800 (Form 1040 line 44b). General tax credit (greater of $35/exemption or 2% of first $9,000 taxable income, max $180) and 50% max tax not modelled. Exemption $750."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2200,
+            "rate": 0.14
+          },
+          {
+            "from": 2700,
+            "rate": 0.15
+          },
+          {
+            "from": 3200,
+            "rate": 0.16
+          },
+          {
+            "from": 3700,
+            "rate": 0.17
+          },
+          {
+            "from": 4200,
+            "rate": 0.19
+          },
+          {
+            "from": 6200,
+            "rate": 0.21
+          },
+          {
+            "from": 8200,
+            "rate": 0.24
+          },
+          {
+            "from": 10200,
+            "rate": 0.25
+          },
+          {
+            "from": 12200,
+            "rate": 0.27
+          },
+          {
+            "from": 14200,
+            "rate": 0.29
+          },
+          {
+            "from": 16200,
+            "rate": 0.31
+          },
+          {
+            "from": 18200,
+            "rate": 0.34
+          },
+          {
+            "from": 20200,
+            "rate": 0.36
+          },
+          {
+            "from": 22200,
+            "rate": 0.38
+          },
+          {
+            "from": 24200,
+            "rate": 0.4
+          },
+          {
+            "from": 28200,
+            "rate": 0.45
+          },
+          {
+            "from": 34200,
+            "rate": 0.5
+          },
+          {
+            "from": 40200,
+            "rate": 0.55
+          },
+          {
+            "from": 46200,
+            "rate": 0.6
+          },
+          {
+            "from": 52200,
+            "rate": 0.62
+          },
+          {
+            "from": 62200,
+            "rate": 0.64
+          },
+          {
+            "from": 72200,
+            "rate": 0.66
+          },
+          {
+            "from": 82200,
+            "rate": 0.68
+          },
+          {
+            "from": 92200,
+            "rate": 0.69
+          },
+          {
+            "from": 102200,
+            "rate": 0.7
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3200,
+            "rate": 0.14
+          },
+          {
+            "from": 4200,
+            "rate": 0.15
+          },
+          {
+            "from": 5200,
+            "rate": 0.16
+          },
+          {
+            "from": 6200,
+            "rate": 0.17
+          },
+          {
+            "from": 7200,
+            "rate": 0.19
+          },
+          {
+            "from": 11200,
+            "rate": 0.22
+          },
+          {
+            "from": 15200,
+            "rate": 0.25
+          },
+          {
+            "from": 19200,
+            "rate": 0.28
+          },
+          {
+            "from": 23200,
+            "rate": 0.32
+          },
+          {
+            "from": 27200,
+            "rate": 0.36
+          },
+          {
+            "from": 31200,
+            "rate": 0.39
+          },
+          {
+            "from": 35200,
+            "rate": 0.42
+          },
+          {
+            "from": 39200,
+            "rate": 0.45
+          },
+          {
+            "from": 43200,
+            "rate": 0.48
+          },
+          {
+            "from": 47200,
+            "rate": 0.5
+          },
+          {
+            "from": 55200,
+            "rate": 0.53
+          },
+          {
+            "from": 67200,
+            "rate": 0.55
+          },
+          {
+            "from": 79200,
+            "rate": 0.58
+          },
+          {
+            "from": 91200,
+            "rate": 0.6
+          },
+          {
+            "from": 103200,
+            "rate": 0.62
+          },
+          {
+            "from": 123200,
+            "rate": 0.64
+          },
+          {
+            "from": 143200,
+            "rate": 0.66
+          },
+          {
+            "from": 163200,
+            "rate": 0.68
+          },
+          {
+            "from": 183200,
+            "rate": 0.69
+          },
+          {
+            "from": 203200,
+            "rate": 0.7
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1977.pdf",
+      "notes": "Schedules from i1040 p.43; zero bracket amount built in ($2,200 single/$3,200 MFJ). General tax credit (larger of $35/exemption or 2% of $9,000 taxable income, max $180) and 50% max tax on personal service income not modelled. Exemption $750 (i1040 p.3)."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2200,
+            "rate": 0.14
+          },
+          {
+            "from": 2700,
+            "rate": 0.15
+          },
+          {
+            "from": 3200,
+            "rate": 0.16
+          },
+          {
+            "from": 3700,
+            "rate": 0.17
+          },
+          {
+            "from": 4200,
+            "rate": 0.19
+          },
+          {
+            "from": 6200,
+            "rate": 0.21
+          },
+          {
+            "from": 8200,
+            "rate": 0.24
+          },
+          {
+            "from": 10200,
+            "rate": 0.25
+          },
+          {
+            "from": 12200,
+            "rate": 0.27
+          },
+          {
+            "from": 14200,
+            "rate": 0.29
+          },
+          {
+            "from": 16200,
+            "rate": 0.31
+          },
+          {
+            "from": 18200,
+            "rate": 0.34
+          },
+          {
+            "from": 20200,
+            "rate": 0.36
+          },
+          {
+            "from": 22200,
+            "rate": 0.38
+          },
+          {
+            "from": 24200,
+            "rate": 0.4
+          },
+          {
+            "from": 28200,
+            "rate": 0.45
+          },
+          {
+            "from": 34200,
+            "rate": 0.5
+          },
+          {
+            "from": 40200,
+            "rate": 0.55
+          },
+          {
+            "from": 46200,
+            "rate": 0.6
+          },
+          {
+            "from": 52200,
+            "rate": 0.62
+          },
+          {
+            "from": 62200,
+            "rate": 0.64
+          },
+          {
+            "from": 72200,
+            "rate": 0.66
+          },
+          {
+            "from": 82200,
+            "rate": 0.68
+          },
+          {
+            "from": 92200,
+            "rate": 0.69
+          },
+          {
+            "from": 102200,
+            "rate": 0.7
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3200,
+            "rate": 0.14
+          },
+          {
+            "from": 4200,
+            "rate": 0.15
+          },
+          {
+            "from": 5200,
+            "rate": 0.16
+          },
+          {
+            "from": 6200,
+            "rate": 0.17
+          },
+          {
+            "from": 7200,
+            "rate": 0.19
+          },
+          {
+            "from": 11200,
+            "rate": 0.22
+          },
+          {
+            "from": 15200,
+            "rate": 0.25
+          },
+          {
+            "from": 19200,
+            "rate": 0.28
+          },
+          {
+            "from": 23200,
+            "rate": 0.32
+          },
+          {
+            "from": 27200,
+            "rate": 0.36
+          },
+          {
+            "from": 31200,
+            "rate": 0.39
+          },
+          {
+            "from": 35200,
+            "rate": 0.42
+          },
+          {
+            "from": 39200,
+            "rate": 0.45
+          },
+          {
+            "from": 43200,
+            "rate": 0.48
+          },
+          {
+            "from": 47200,
+            "rate": 0.5
+          },
+          {
+            "from": 55200,
+            "rate": 0.53
+          },
+          {
+            "from": 67200,
+            "rate": 0.55
+          },
+          {
+            "from": 79200,
+            "rate": 0.58
+          },
+          {
+            "from": 91200,
+            "rate": 0.6
+          },
+          {
+            "from": 103200,
+            "rate": 0.62
+          },
+          {
+            "from": 123200,
+            "rate": 0.64
+          },
+          {
+            "from": 143200,
+            "rate": 0.66
+          },
+          {
+            "from": 163200,
+            "rate": 0.68
+          },
+          {
+            "from": 183200,
+            "rate": 0.69
+          },
+          {
+            "from": 203200,
+            "rate": 0.7
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1978.pdf",
+      "notes": "Schedules from i1040 p.43; zero bracket amount built in ($2,200 single/$3,200 MFJ). General tax credit (larger of $35/exemption or 2% of $9,000 taxable income, max $180) and 50% max tax on personal service income not modelled. Exemption $750 (from SOI Table 23; not restated in the pages checked)."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2300,
+            "rate": 0.14
+          },
+          {
+            "from": 3400,
+            "rate": 0.16
+          },
+          {
+            "from": 4400,
+            "rate": 0.18
+          },
+          {
+            "from": 6500,
+            "rate": 0.19
+          },
+          {
+            "from": 8500,
+            "rate": 0.21
+          },
+          {
+            "from": 10800,
+            "rate": 0.24
+          },
+          {
+            "from": 12900,
+            "rate": 0.26
+          },
+          {
+            "from": 15000,
+            "rate": 0.3
+          },
+          {
+            "from": 18200,
+            "rate": 0.34
+          },
+          {
+            "from": 23500,
+            "rate": 0.39
+          },
+          {
+            "from": 28800,
+            "rate": 0.44
+          },
+          {
+            "from": 34100,
+            "rate": 0.49
+          },
+          {
+            "from": 41500,
+            "rate": 0.55
+          },
+          {
+            "from": 55300,
+            "rate": 0.63
+          },
+          {
+            "from": 81800,
+            "rate": 0.68
+          },
+          {
+            "from": 108300,
+            "rate": 0.7
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3400,
+            "rate": 0.14
+          },
+          {
+            "from": 5500,
+            "rate": 0.16
+          },
+          {
+            "from": 7600,
+            "rate": 0.18
+          },
+          {
+            "from": 11900,
+            "rate": 0.21
+          },
+          {
+            "from": 16000,
+            "rate": 0.24
+          },
+          {
+            "from": 20200,
+            "rate": 0.28
+          },
+          {
+            "from": 24600,
+            "rate": 0.32
+          },
+          {
+            "from": 29900,
+            "rate": 0.37
+          },
+          {
+            "from": 35200,
+            "rate": 0.43
+          },
+          {
+            "from": 45800,
+            "rate": 0.49
+          },
+          {
+            "from": 60000,
+            "rate": 0.54
+          },
+          {
+            "from": 85600,
+            "rate": 0.59
+          },
+          {
+            "from": 109400,
+            "rate": 0.64
+          },
+          {
+            "from": 162400,
+            "rate": 0.68
+          },
+          {
+            "from": 215400,
+            "rate": 0.7
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1979.pdf",
+      "notes": "Schedules from i1040 p.44; ZBA $2,300/$3,400 built in. 50% max tax on personal service income (Form 4726) not modelled. Exemption $1,000 (SOI Table 23; computed on Schedule TC, not on pages checked)."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2300,
+            "rate": 0.14
+          },
+          {
+            "from": 3400,
+            "rate": 0.16
+          },
+          {
+            "from": 4400,
+            "rate": 0.18
+          },
+          {
+            "from": 6500,
+            "rate": 0.19
+          },
+          {
+            "from": 8500,
+            "rate": 0.21
+          },
+          {
+            "from": 10800,
+            "rate": 0.24
+          },
+          {
+            "from": 12900,
+            "rate": 0.26
+          },
+          {
+            "from": 15000,
+            "rate": 0.3
+          },
+          {
+            "from": 18200,
+            "rate": 0.34
+          },
+          {
+            "from": 23500,
+            "rate": 0.39
+          },
+          {
+            "from": 28800,
+            "rate": 0.44
+          },
+          {
+            "from": 34100,
+            "rate": 0.49
+          },
+          {
+            "from": 41500,
+            "rate": 0.55
+          },
+          {
+            "from": 55300,
+            "rate": 0.63
+          },
+          {
+            "from": 81800,
+            "rate": 0.68
+          },
+          {
+            "from": 108300,
+            "rate": 0.7
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3400,
+            "rate": 0.14
+          },
+          {
+            "from": 5500,
+            "rate": 0.16
+          },
+          {
+            "from": 7600,
+            "rate": 0.18
+          },
+          {
+            "from": 11900,
+            "rate": 0.21
+          },
+          {
+            "from": 16000,
+            "rate": 0.24
+          },
+          {
+            "from": 20200,
+            "rate": 0.28
+          },
+          {
+            "from": 24600,
+            "rate": 0.32
+          },
+          {
+            "from": 29900,
+            "rate": 0.37
+          },
+          {
+            "from": 35200,
+            "rate": 0.43
+          },
+          {
+            "from": 45800,
+            "rate": 0.49
+          },
+          {
+            "from": 60000,
+            "rate": 0.54
+          },
+          {
+            "from": 85600,
+            "rate": 0.59
+          },
+          {
+            "from": 109400,
+            "rate": 0.64
+          },
+          {
+            "from": 162400,
+            "rate": 0.68
+          },
+          {
+            "from": 215400,
+            "rate": 0.7
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1980.pdf",
+      "notes": "Schedules from i1040 p.44; ZBA $2,300/$3,400 built in. 50% max tax on personal service income (Form 4726) not modelled. Exemption $1,000 (SOI Table 23; computed on Schedule TC, not on pages checked)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2300,
+            "rate": 0.14
+          },
+          {
+            "from": 3400,
+            "rate": 0.16
+          },
+          {
+            "from": 4400,
+            "rate": 0.18
+          },
+          {
+            "from": 6500,
+            "rate": 0.19
+          },
+          {
+            "from": 8500,
+            "rate": 0.21
+          },
+          {
+            "from": 10800,
+            "rate": 0.24
+          },
+          {
+            "from": 12900,
+            "rate": 0.26
+          },
+          {
+            "from": 15000,
+            "rate": 0.3
+          },
+          {
+            "from": 18200,
+            "rate": 0.34
+          },
+          {
+            "from": 23500,
+            "rate": 0.39
+          },
+          {
+            "from": 28800,
+            "rate": 0.44
+          },
+          {
+            "from": 34100,
+            "rate": 0.49
+          },
+          {
+            "from": 41500,
+            "rate": 0.55
+          },
+          {
+            "from": 55300,
+            "rate": 0.63
+          },
+          {
+            "from": 81800,
+            "rate": 0.68
+          },
+          {
+            "from": 108300,
+            "rate": 0.7
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3400,
+            "rate": 0.14
+          },
+          {
+            "from": 5500,
+            "rate": 0.16
+          },
+          {
+            "from": 7600,
+            "rate": 0.18
+          },
+          {
+            "from": 11900,
+            "rate": 0.21
+          },
+          {
+            "from": 16000,
+            "rate": 0.24
+          },
+          {
+            "from": 20200,
+            "rate": 0.28
+          },
+          {
+            "from": 24600,
+            "rate": 0.32
+          },
+          {
+            "from": 29900,
+            "rate": 0.37
+          },
+          {
+            "from": 35200,
+            "rate": 0.43
+          },
+          {
+            "from": 45800,
+            "rate": 0.49
+          },
+          {
+            "from": 60000,
+            "rate": 0.54
+          },
+          {
+            "from": 85600,
+            "rate": 0.59
+          },
+          {
+            "from": 109400,
+            "rate": 0.64
+          },
+          {
+            "from": 162400,
+            "rate": 0.68
+          },
+          {
+            "from": 215400,
+            "rate": 0.7
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1981.pdf",
+      "notes": "Schedules from i1040 p.40 (same as 1979-80); ZBA built in. 1.25% Rate Reduction Credit off schedule tax (worksheet on same page) and 50% max tax not modelled. Exemption $1,000 (Form 1040 line 33)."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2300,
+            "rate": 0.12
+          },
+          {
+            "from": 3400,
+            "rate": 0.14
+          },
+          {
+            "from": 4400,
+            "rate": 0.16
+          },
+          {
+            "from": 6500,
+            "rate": 0.17
+          },
+          {
+            "from": 8500,
+            "rate": 0.19
+          },
+          {
+            "from": 10800,
+            "rate": 0.22
+          },
+          {
+            "from": 12900,
+            "rate": 0.23
+          },
+          {
+            "from": 15000,
+            "rate": 0.27
+          },
+          {
+            "from": 18200,
+            "rate": 0.31
+          },
+          {
+            "from": 23500,
+            "rate": 0.35
+          },
+          {
+            "from": 28800,
+            "rate": 0.4
+          },
+          {
+            "from": 34100,
+            "rate": 0.44
+          },
+          {
+            "from": 41500,
+            "rate": 0.5
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3400,
+            "rate": 0.12
+          },
+          {
+            "from": 5500,
+            "rate": 0.14
+          },
+          {
+            "from": 7600,
+            "rate": 0.16
+          },
+          {
+            "from": 11900,
+            "rate": 0.19
+          },
+          {
+            "from": 16000,
+            "rate": 0.22
+          },
+          {
+            "from": 20200,
+            "rate": 0.25
+          },
+          {
+            "from": 24600,
+            "rate": 0.29
+          },
+          {
+            "from": 29900,
+            "rate": 0.33
+          },
+          {
+            "from": 35200,
+            "rate": 0.39
+          },
+          {
+            "from": 45800,
+            "rate": 0.44
+          },
+          {
+            "from": 60000,
+            "rate": 0.49
+          },
+          {
+            "from": 85600,
+            "rate": 0.5
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1982.pdf",
+      "notes": "Schedules from i1040 p.40; ZBA $2,300/$3,400 built in. ERTA phased rate cut, top rate 50%. Two-earner married couple deduction and non-itemizer charitable deduction not modelled. Exemption $1,000 (Form 1040 line 36)."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2300,
+            "rate": 0.11
+          },
+          {
+            "from": 3400,
+            "rate": 0.13
+          },
+          {
+            "from": 4400,
+            "rate": 0.15
+          },
+          {
+            "from": 8500,
+            "rate": 0.17
+          },
+          {
+            "from": 10800,
+            "rate": 0.19
+          },
+          {
+            "from": 12900,
+            "rate": 0.21
+          },
+          {
+            "from": 15000,
+            "rate": 0.24
+          },
+          {
+            "from": 18200,
+            "rate": 0.28
+          },
+          {
+            "from": 23500,
+            "rate": 0.32
+          },
+          {
+            "from": 28800,
+            "rate": 0.36
+          },
+          {
+            "from": 34100,
+            "rate": 0.4
+          },
+          {
+            "from": 41500,
+            "rate": 0.45
+          },
+          {
+            "from": 55300,
+            "rate": 0.5
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3400,
+            "rate": 0.11
+          },
+          {
+            "from": 5500,
+            "rate": 0.13
+          },
+          {
+            "from": 7600,
+            "rate": 0.15
+          },
+          {
+            "from": 11900,
+            "rate": 0.17
+          },
+          {
+            "from": 16000,
+            "rate": 0.19
+          },
+          {
+            "from": 20200,
+            "rate": 0.23
+          },
+          {
+            "from": 24600,
+            "rate": 0.26
+          },
+          {
+            "from": 29900,
+            "rate": 0.3
+          },
+          {
+            "from": 35200,
+            "rate": 0.35
+          },
+          {
+            "from": 45800,
+            "rate": 0.4
+          },
+          {
+            "from": 60000,
+            "rate": 0.44
+          },
+          {
+            "from": 85600,
+            "rate": 0.48
+          },
+          {
+            "from": 109400,
+            "rate": 0.5
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1983.pdf",
+      "notes": "Schedules from i1040 p.41 (single has no 6,500 break: 15% from 4,400 to 8,500, as printed). ERTA phased cut. Two-earner deduction not modelled. Exemption $1,000 (Form 1040 line 36)."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2300,
+            "rate": 0.11
+          },
+          {
+            "from": 3400,
+            "rate": 0.12
+          },
+          {
+            "from": 4400,
+            "rate": 0.14
+          },
+          {
+            "from": 6500,
+            "rate": 0.15
+          },
+          {
+            "from": 8500,
+            "rate": 0.16
+          },
+          {
+            "from": 10800,
+            "rate": 0.18
+          },
+          {
+            "from": 12900,
+            "rate": 0.2
+          },
+          {
+            "from": 15000,
+            "rate": 0.23
+          },
+          {
+            "from": 18200,
+            "rate": 0.26
+          },
+          {
+            "from": 23500,
+            "rate": 0.3
+          },
+          {
+            "from": 28800,
+            "rate": 0.34
+          },
+          {
+            "from": 34100,
+            "rate": 0.38
+          },
+          {
+            "from": 41500,
+            "rate": 0.42
+          },
+          {
+            "from": 55300,
+            "rate": 0.48
+          },
+          {
+            "from": 81800,
+            "rate": 0.5
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3400,
+            "rate": 0.11
+          },
+          {
+            "from": 5500,
+            "rate": 0.12
+          },
+          {
+            "from": 7600,
+            "rate": 0.14
+          },
+          {
+            "from": 11900,
+            "rate": 0.16
+          },
+          {
+            "from": 16000,
+            "rate": 0.18
+          },
+          {
+            "from": 20200,
+            "rate": 0.22
+          },
+          {
+            "from": 24600,
+            "rate": 0.25
+          },
+          {
+            "from": 29900,
+            "rate": 0.28
+          },
+          {
+            "from": 35200,
+            "rate": 0.33
+          },
+          {
+            "from": 45800,
+            "rate": 0.38
+          },
+          {
+            "from": 60000,
+            "rate": 0.42
+          },
+          {
+            "from": 85600,
+            "rate": 0.45
+          },
+          {
+            "from": 109400,
+            "rate": 0.49
+          },
+          {
+            "from": 162400,
+            "rate": 0.5
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1984.pdf",
+      "notes": "Schedules from i1040 p.42. Final ERTA rate step. Two-earner deduction not modelled. Exemption $1,000 (Form 1040 line 36)."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2390,
+            "rate": 0.11
+          },
+          {
+            "from": 3540,
+            "rate": 0.12
+          },
+          {
+            "from": 4580,
+            "rate": 0.14
+          },
+          {
+            "from": 6760,
+            "rate": 0.15
+          },
+          {
+            "from": 8850,
+            "rate": 0.16
+          },
+          {
+            "from": 11240,
+            "rate": 0.18
+          },
+          {
+            "from": 13430,
+            "rate": 0.2
+          },
+          {
+            "from": 15610,
+            "rate": 0.23
+          },
+          {
+            "from": 18940,
+            "rate": 0.26
+          },
+          {
+            "from": 24460,
+            "rate": 0.3
+          },
+          {
+            "from": 29970,
+            "rate": 0.34
+          },
+          {
+            "from": 35490,
+            "rate": 0.38
+          },
+          {
+            "from": 43190,
+            "rate": 0.42
+          },
+          {
+            "from": 57550,
+            "rate": 0.48
+          },
+          {
+            "from": 85130,
+            "rate": 0.5
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3540,
+            "rate": 0.11
+          },
+          {
+            "from": 5720,
+            "rate": 0.12
+          },
+          {
+            "from": 7910,
+            "rate": 0.14
+          },
+          {
+            "from": 12390,
+            "rate": 0.16
+          },
+          {
+            "from": 16650,
+            "rate": 0.18
+          },
+          {
+            "from": 21020,
+            "rate": 0.22
+          },
+          {
+            "from": 25600,
+            "rate": 0.25
+          },
+          {
+            "from": 31120,
+            "rate": 0.28
+          },
+          {
+            "from": 36630,
+            "rate": 0.33
+          },
+          {
+            "from": 47670,
+            "rate": 0.38
+          },
+          {
+            "from": 62450,
+            "rate": 0.42
+          },
+          {
+            "from": 89090,
+            "rate": 0.45
+          },
+          {
+            "from": 113860,
+            "rate": 0.49
+          },
+          {
+            "from": 169020,
+            "rate": 0.5
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1040,
+        "marriedJoint": 2080
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1985.pdf",
+      "notes": "Schedules from i1040 p.43; first year of indexing; ZBA $2,390/$3,540 built in. Two-earner deduction not modelled. Exemption $1,040 (Form 1040 line 36)."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 2480,
+            "rate": 0.11
+          },
+          {
+            "from": 3670,
+            "rate": 0.12
+          },
+          {
+            "from": 4750,
+            "rate": 0.14
+          },
+          {
+            "from": 7010,
+            "rate": 0.15
+          },
+          {
+            "from": 9170,
+            "rate": 0.16
+          },
+          {
+            "from": 11650,
+            "rate": 0.18
+          },
+          {
+            "from": 13920,
+            "rate": 0.2
+          },
+          {
+            "from": 16190,
+            "rate": 0.23
+          },
+          {
+            "from": 19640,
+            "rate": 0.26
+          },
+          {
+            "from": 25360,
+            "rate": 0.3
+          },
+          {
+            "from": 31080,
+            "rate": 0.34
+          },
+          {
+            "from": 36800,
+            "rate": 0.38
+          },
+          {
+            "from": 44780,
+            "rate": 0.42
+          },
+          {
+            "from": 59670,
+            "rate": 0.48
+          },
+          {
+            "from": 88270,
+            "rate": 0.5
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3670,
+            "rate": 0.11
+          },
+          {
+            "from": 5940,
+            "rate": 0.12
+          },
+          {
+            "from": 8200,
+            "rate": 0.14
+          },
+          {
+            "from": 12840,
+            "rate": 0.16
+          },
+          {
+            "from": 17270,
+            "rate": 0.18
+          },
+          {
+            "from": 21800,
+            "rate": 0.22
+          },
+          {
+            "from": 26550,
+            "rate": 0.25
+          },
+          {
+            "from": 32270,
+            "rate": 0.28
+          },
+          {
+            "from": 37980,
+            "rate": 0.33
+          },
+          {
+            "from": 49420,
+            "rate": 0.38
+          },
+          {
+            "from": 64750,
+            "rate": 0.42
+          },
+          {
+            "from": 92370,
+            "rate": 0.45
+          },
+          {
+            "from": 118050,
+            "rate": 0.49
+          },
+          {
+            "from": 175250,
+            "rate": 0.5
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1080,
+        "marriedJoint": 2160
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1986.pdf",
+      "notes": "Schedules from i1040 p.43; ZBA $2,480/$3,670 built in. Two-earner deduction not modelled. Exemption $1,080 (Form 1040 line 36)."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.11
+          },
+          {
+            "from": 1800,
+            "rate": 0.15
+          },
+          {
+            "from": 16800,
+            "rate": 0.28
+          },
+          {
+            "from": 27000,
+            "rate": 0.35
+          },
+          {
+            "from": 54000,
+            "rate": 0.385
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.11
+          },
+          {
+            "from": 3000,
+            "rate": 0.15
+          },
+          {
+            "from": 28000,
+            "rate": 0.28
+          },
+          {
+            "from": 45000,
+            "rate": 0.35
+          },
+          {
+            "from": 90000,
+            "rate": 0.385
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4440,
+        "marriedJoint": 7560
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1987.pdf",
+      "notes": "TRA86 transition year; schedules from i1040 p.47. Std deduction $2,540 single/$3,760 MFJ and exemption $1,900 (Form 1040 1987 lines 33b, 35). Higher std deduction for aged/blind and dependents not modelled."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 17850,
+            "rate": 0.28
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 29750,
+            "rate": 0.28
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4950,
+        "marriedJoint": 8900
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "Statutory 15%/28% schedule recorded. 5% surtax 'bubble' (effective 33%) not modelled: single 43,150-100,480, MFJ 71,900-171,090 (CRS upper bounds assume 1 exemption single / 2 MFJ; upper bound rises with exemptions, as the bubble also recaptured personal exemptions). No PEP/Pease."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 18550,
+            "rate": 0.28
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 30950,
+            "rate": 0.28
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5100,
+        "marriedJoint": 9200
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "Statutory 15%/28% schedule recorded. 5% surtax 'bubble' (effective 33%) not modelled: single 44,900-104,300, MFJ 74,850-177,720 (CRS upper bounds assume 1 exemption single / 2 MFJ; upper bound rises with exemptions, as the bubble also recaptured personal exemptions). No PEP/Pease."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 19450,
+            "rate": 0.28
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 32450,
+            "rate": 0.28
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5300,
+        "marriedJoint": 9550
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "Statutory 15%/28% schedule recorded. 5% surtax 'bubble' (effective 33%) not modelled: single 47,050-109,100, MFJ 78,400-185,730 (CRS upper bounds assume 1 exemption single / 2 MFJ; upper bound rises with exemptions, as the bubble also recaptured personal exemptions). No PEP/Pease."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 20350,
+            "rate": 0.28
+          },
+          {
+            "from": 49300,
+            "rate": 0.31
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 34000,
+            "rate": 0.28
+          },
+          {
+            "from": 82150,
+            "rate": 0.31
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5550,
+        "marriedJoint": 10000
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP (personal exemption phase-out) and Pease itemized-deduction limit in effect; not modelled."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 21450,
+            "rate": 0.28
+          },
+          {
+            "from": 51900,
+            "rate": 0.31
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 35800,
+            "rate": 0.28
+          },
+          {
+            "from": 86500,
+            "rate": 0.31
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5900,
+        "marriedJoint": 10600
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP (personal exemption phase-out) and Pease itemized-deduction limit in effect; not modelled."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 22100,
+            "rate": 0.28
+          },
+          {
+            "from": 53500,
+            "rate": 0.31
+          },
+          {
+            "from": 115000,
+            "rate": 0.36
+          },
+          {
+            "from": 250000,
+            "rate": 0.396
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 36900,
+            "rate": 0.28
+          },
+          {
+            "from": 89150,
+            "rate": 0.31
+          },
+          {
+            "from": 140000,
+            "rate": 0.36
+          },
+          {
+            "from": 250000,
+            "rate": 0.396
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6050,
+        "marriedJoint": 10900
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP (personal exemption phase-out) and Pease itemized-deduction limit in effect; not modelled. 36%/39.6% brackets added by OBRA93 retroactively for 1993."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 22750,
+            "rate": 0.28
+          },
+          {
+            "from": 55100,
+            "rate": 0.31
+          },
+          {
+            "from": 115000,
+            "rate": 0.36
+          },
+          {
+            "from": 250000,
+            "rate": 0.396
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 38000,
+            "rate": 0.28
+          },
+          {
+            "from": 91850,
+            "rate": 0.31
+          },
+          {
+            "from": 140000,
+            "rate": 0.36
+          },
+          {
+            "from": 250000,
+            "rate": 0.396
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6250,
+        "marriedJoint": 11250
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP (personal exemption phase-out) and Pease itemized-deduction limit in effect; not modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 23350,
+            "rate": 0.28
+          },
+          {
+            "from": 56550,
+            "rate": 0.31
+          },
+          {
+            "from": 117950,
+            "rate": 0.36
+          },
+          {
+            "from": 256500,
+            "rate": 0.396
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 39000,
+            "rate": 0.28
+          },
+          {
+            "from": 94250,
+            "rate": 0.31
+          },
+          {
+            "from": 143600,
+            "rate": 0.36
+          },
+          {
+            "from": 256500,
+            "rate": 0.396
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6400,
+        "marriedJoint": 11550
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP (personal exemption phase-out) and Pease itemized-deduction limit in effect; not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 24000,
+            "rate": 0.28
+          },
+          {
+            "from": 58150,
+            "rate": 0.31
+          },
+          {
+            "from": 121300,
+            "rate": 0.36
+          },
+          {
+            "from": 263750,
+            "rate": 0.396
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 40100,
+            "rate": 0.28
+          },
+          {
+            "from": 96900,
+            "rate": 0.31
+          },
+          {
+            "from": 147700,
+            "rate": 0.36
+          },
+          {
+            "from": 263750,
+            "rate": 0.396
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6550,
+        "marriedJoint": 11800
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP (personal exemption phase-out) and Pease itemized-deduction limit in effect; not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 24650,
+            "rate": 0.28
+          },
+          {
+            "from": 59750,
+            "rate": 0.31
+          },
+          {
+            "from": 124650,
+            "rate": 0.36
+          },
+          {
+            "from": 271050,
+            "rate": 0.396
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 41200,
+            "rate": 0.28
+          },
+          {
+            "from": 99600,
+            "rate": 0.31
+          },
+          {
+            "from": 151750,
+            "rate": 0.36
+          },
+          {
+            "from": 271050,
+            "rate": 0.396
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6800,
+        "marriedJoint": 12200
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP (personal exemption phase-out) and Pease itemized-deduction limit in effect; not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 25350,
+            "rate": 0.28
+          },
+          {
+            "from": 61400,
+            "rate": 0.31
+          },
+          {
+            "from": 128100,
+            "rate": 0.36
+          },
+          {
+            "from": 278450,
+            "rate": 0.396
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 42350,
+            "rate": 0.28
+          },
+          {
+            "from": 102300,
+            "rate": 0.31
+          },
+          {
+            "from": 155950,
+            "rate": 0.36
+          },
+          {
+            "from": 278450,
+            "rate": 0.396
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6950,
+        "marriedJoint": 12500
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP (personal exemption phase-out) and Pease itemized-deduction limit in effect; not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 25750,
+            "rate": 0.28
+          },
+          {
+            "from": 62450,
+            "rate": 0.31
+          },
+          {
+            "from": 130250,
+            "rate": 0.36
+          },
+          {
+            "from": 283150,
+            "rate": 0.396
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 43050,
+            "rate": 0.28
+          },
+          {
+            "from": 104050,
+            "rate": 0.31
+          },
+          {
+            "from": 158550,
+            "rate": 0.36
+          },
+          {
+            "from": 283150,
+            "rate": 0.396
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7050,
+        "marriedJoint": 12700
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP (personal exemption phase-out) and Pease itemized-deduction limit in effect; not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 26250,
+            "rate": 0.28
+          },
+          {
+            "from": 63550,
+            "rate": 0.31
+          },
+          {
+            "from": 132600,
+            "rate": 0.36
+          },
+          {
+            "from": 288350,
+            "rate": 0.396
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 43850,
+            "rate": 0.28
+          },
+          {
+            "from": 105950,
+            "rate": 0.31
+          },
+          {
+            "from": 161450,
+            "rate": 0.36
+          },
+          {
+            "from": 288350,
+            "rate": 0.396
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7200,
+        "marriedJoint": 12950
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP (personal exemption phase-out) and Pease itemized-deduction limit in effect; not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 27050,
+            "rate": 0.275
+          },
+          {
+            "from": 65550,
+            "rate": 0.305
+          },
+          {
+            "from": 136750,
+            "rate": 0.355
+          },
+          {
+            "from": 297350,
+            "rate": 0.391
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.15
+          },
+          {
+            "from": 45200,
+            "rate": 0.275
+          },
+          {
+            "from": 109250,
+            "rate": 0.305
+          },
+          {
+            "from": 166500,
+            "rate": 0.355
+          },
+          {
+            "from": 297350,
+            "rate": 0.391
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7450,
+        "marriedJoint": 13400
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP (personal exemption phase-out) and Pease itemized-deduction limit in effect; not modelled. EGTRRA 2001 rates shown; 2001 rate reduction credit (proxy for 10% bracket) not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 6000,
+            "rate": 0.15
+          },
+          {
+            "from": 27950,
+            "rate": 0.27
+          },
+          {
+            "from": 67700,
+            "rate": 0.3
+          },
+          {
+            "from": 141250,
+            "rate": 0.35
+          },
+          {
+            "from": 307050,
+            "rate": 0.386
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 12000,
+            "rate": 0.15
+          },
+          {
+            "from": 46700,
+            "rate": 0.27
+          },
+          {
+            "from": 112850,
+            "rate": 0.3
+          },
+          {
+            "from": 171950,
+            "rate": 0.35
+          },
+          {
+            "from": 307050,
+            "rate": 0.386
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7700,
+        "marriedJoint": 13850
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP (personal exemption phase-out) and Pease itemized-deduction limit in effect; not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 7000,
+            "rate": 0.15
+          },
+          {
+            "from": 28400,
+            "rate": 0.25
+          },
+          {
+            "from": 68800,
+            "rate": 0.28
+          },
+          {
+            "from": 143500,
+            "rate": 0.33
+          },
+          {
+            "from": 311950,
+            "rate": 0.35
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 14000,
+            "rate": 0.15
+          },
+          {
+            "from": 56800,
+            "rate": 0.25
+          },
+          {
+            "from": 114650,
+            "rate": 0.28
+          },
+          {
+            "from": 174700,
+            "rate": 0.33
+          },
+          {
+            "from": 311950,
+            "rate": 0.35
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7800,
+        "marriedJoint": 15600
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP (personal exemption phase-out) and Pease itemized-deduction limit in effect; not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 7150,
+            "rate": 0.15
+          },
+          {
+            "from": 29050,
+            "rate": 0.25
+          },
+          {
+            "from": 70350,
+            "rate": 0.28
+          },
+          {
+            "from": 146750,
+            "rate": 0.33
+          },
+          {
+            "from": 319100,
+            "rate": 0.35
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 14300,
+            "rate": 0.15
+          },
+          {
+            "from": 58100,
+            "rate": 0.25
+          },
+          {
+            "from": 117250,
+            "rate": 0.28
+          },
+          {
+            "from": 178650,
+            "rate": 0.33
+          },
+          {
+            "from": 319100,
+            "rate": 0.35
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7950,
+        "marriedJoint": 15900
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP (personal exemption phase-out) and Pease itemized-deduction limit in effect; not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 7300,
+            "rate": 0.15
+          },
+          {
+            "from": 29700,
+            "rate": 0.25
+          },
+          {
+            "from": 71950,
+            "rate": 0.28
+          },
+          {
+            "from": 150150,
+            "rate": 0.33
+          },
+          {
+            "from": 326450,
+            "rate": 0.35
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 14600,
+            "rate": 0.15
+          },
+          {
+            "from": 59400,
+            "rate": 0.25
+          },
+          {
+            "from": 119950,
+            "rate": 0.28
+          },
+          {
+            "from": 182800,
+            "rate": 0.33
+          },
+          {
+            "from": 326450,
+            "rate": 0.35
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8200,
+        "marriedJoint": 16400
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP (personal exemption phase-out) and Pease itemized-deduction limit in effect; not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 7550,
+            "rate": 0.15
+          },
+          {
+            "from": 30650,
+            "rate": 0.25
+          },
+          {
+            "from": 74200,
+            "rate": 0.28
+          },
+          {
+            "from": 154800,
+            "rate": 0.33
+          },
+          {
+            "from": 336550,
+            "rate": 0.35
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 15100,
+            "rate": 0.15
+          },
+          {
+            "from": 61300,
+            "rate": 0.25
+          },
+          {
+            "from": 123700,
+            "rate": 0.28
+          },
+          {
+            "from": 188450,
+            "rate": 0.33
+          },
+          {
+            "from": 336550,
+            "rate": 0.35
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8450,
+        "marriedJoint": 16900
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP and Pease in effect but partially repealed (EGTRRA phase-down 2006-2009); not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 7825,
+            "rate": 0.15
+          },
+          {
+            "from": 31850,
+            "rate": 0.25
+          },
+          {
+            "from": 77100,
+            "rate": 0.28
+          },
+          {
+            "from": 160850,
+            "rate": 0.33
+          },
+          {
+            "from": 349700,
+            "rate": 0.35
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 15650,
+            "rate": 0.15
+          },
+          {
+            "from": 63700,
+            "rate": 0.25
+          },
+          {
+            "from": 128500,
+            "rate": 0.28
+          },
+          {
+            "from": 195850,
+            "rate": 0.33
+          },
+          {
+            "from": 349700,
+            "rate": 0.35
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8750,
+        "marriedJoint": 17500
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP and Pease in effect but partially repealed (EGTRRA phase-down 2006-2009); not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 8025,
+            "rate": 0.15
+          },
+          {
+            "from": 32550,
+            "rate": 0.25
+          },
+          {
+            "from": 78850,
+            "rate": 0.28
+          },
+          {
+            "from": 164550,
+            "rate": 0.33
+          },
+          {
+            "from": 357700,
+            "rate": 0.35
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 16050,
+            "rate": 0.15
+          },
+          {
+            "from": 65100,
+            "rate": 0.25
+          },
+          {
+            "from": 131450,
+            "rate": 0.28
+          },
+          {
+            "from": 200300,
+            "rate": 0.33
+          },
+          {
+            "from": 357700,
+            "rate": 0.35
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8950,
+        "marriedJoint": 17900
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP and Pease in effect but partially repealed (EGTRRA phase-down 2006-2009); not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 8350,
+            "rate": 0.15
+          },
+          {
+            "from": 33950,
+            "rate": 0.25
+          },
+          {
+            "from": 82250,
+            "rate": 0.28
+          },
+          {
+            "from": 171550,
+            "rate": 0.33
+          },
+          {
+            "from": 372950,
+            "rate": 0.35
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 16700,
+            "rate": 0.15
+          },
+          {
+            "from": 67900,
+            "rate": 0.25
+          },
+          {
+            "from": 137050,
+            "rate": 0.28
+          },
+          {
+            "from": 208850,
+            "rate": 0.33
+          },
+          {
+            "from": 372950,
+            "rate": 0.35
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP and Pease in effect but partially repealed (EGTRRA phase-down 2006-2009); not modelled. Joint schedule from Rev. Proc. 2008-66 Table 1 (https://www.irs.gov/pub/irs-drop/rp-08-66.pdf): the earlier reconstruction from the garbled CRS HTML table had lost the 15% bracket."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 8375,
+            "rate": 0.15
+          },
+          {
+            "from": 34000,
+            "rate": 0.25
+          },
+          {
+            "from": 82400,
+            "rate": 0.28
+          },
+          {
+            "from": 171850,
+            "rate": 0.33
+          },
+          {
+            "from": 373650,
+            "rate": 0.35
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 16750,
+            "rate": 0.15
+          },
+          {
+            "from": 68000,
+            "rate": 0.25
+          },
+          {
+            "from": 137300,
+            "rate": 0.28
+          },
+          {
+            "from": 209250,
+            "rate": 0.33
+          },
+          {
+            "from": 373650,
+            "rate": 0.35
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP and Pease repealed (ended Dec. 31, 2009); none."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 8500,
+            "rate": 0.15
+          },
+          {
+            "from": 34500,
+            "rate": 0.25
+          },
+          {
+            "from": 83600,
+            "rate": 0.28
+          },
+          {
+            "from": 174400,
+            "rate": 0.33
+          },
+          {
+            "from": 379150,
+            "rate": 0.35
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 17000,
+            "rate": 0.15
+          },
+          {
+            "from": 69000,
+            "rate": 0.25
+          },
+          {
+            "from": 139350,
+            "rate": 0.28
+          },
+          {
+            "from": 212300,
+            "rate": 0.33
+          },
+          {
+            "from": 379150,
+            "rate": 0.35
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9500,
+        "marriedJoint": 19000
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP and Pease repealed (ended Dec. 31, 2009); none."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 8700,
+            "rate": 0.15
+          },
+          {
+            "from": 35350,
+            "rate": 0.25
+          },
+          {
+            "from": 85650,
+            "rate": 0.28
+          },
+          {
+            "from": 178650,
+            "rate": 0.33
+          },
+          {
+            "from": 388350,
+            "rate": 0.35
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 17400,
+            "rate": 0.15
+          },
+          {
+            "from": 70700,
+            "rate": 0.25
+          },
+          {
+            "from": 142700,
+            "rate": 0.28
+          },
+          {
+            "from": 217450,
+            "rate": 0.33
+          },
+          {
+            "from": 388350,
+            "rate": 0.35
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9750,
+        "marriedJoint": 19500
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP and Pease repealed (ended Dec. 31, 2009); none."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 8925,
+            "rate": 0.15
+          },
+          {
+            "from": 36250,
+            "rate": 0.25
+          },
+          {
+            "from": 87850,
+            "rate": 0.28
+          },
+          {
+            "from": 183250,
+            "rate": 0.33
+          },
+          {
+            "from": 398350,
+            "rate": 0.35
+          },
+          {
+            "from": 400000,
+            "rate": 0.396
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 17850,
+            "rate": 0.15
+          },
+          {
+            "from": 72500,
+            "rate": 0.25
+          },
+          {
+            "from": 146400,
+            "rate": 0.28
+          },
+          {
+            "from": 223050,
+            "rate": 0.33
+          },
+          {
+            "from": 398350,
+            "rate": 0.35
+          },
+          {
+            "from": 450000,
+            "rate": 0.396
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10000,
+        "marriedJoint": 20000
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP and Pease reinstated (ATRA 2012); not modelled. Cross-checked vs Tax-Calculator policy_current_law.json: match."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 9075,
+            "rate": 0.15
+          },
+          {
+            "from": 36900,
+            "rate": 0.25
+          },
+          {
+            "from": 89350,
+            "rate": 0.28
+          },
+          {
+            "from": 186350,
+            "rate": 0.33
+          },
+          {
+            "from": 405100,
+            "rate": 0.35
+          },
+          {
+            "from": 406750,
+            "rate": 0.396
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 18150,
+            "rate": 0.15
+          },
+          {
+            "from": 73800,
+            "rate": 0.25
+          },
+          {
+            "from": 148850,
+            "rate": 0.28
+          },
+          {
+            "from": 226850,
+            "rate": 0.33
+          },
+          {
+            "from": 405100,
+            "rate": 0.35
+          },
+          {
+            "from": 457600,
+            "rate": 0.396
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10150,
+        "marriedJoint": 20300
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP and Pease reinstated (ATRA 2012); not modelled. Cross-checked vs Tax-Calculator policy_current_law.json: match."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 9225,
+            "rate": 0.15
+          },
+          {
+            "from": 37450,
+            "rate": 0.25
+          },
+          {
+            "from": 90750,
+            "rate": 0.28
+          },
+          {
+            "from": 189300,
+            "rate": 0.33
+          },
+          {
+            "from": 411500,
+            "rate": 0.35
+          },
+          {
+            "from": 413200,
+            "rate": 0.396
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 18450,
+            "rate": 0.15
+          },
+          {
+            "from": 74900,
+            "rate": 0.25
+          },
+          {
+            "from": 151200,
+            "rate": 0.28
+          },
+          {
+            "from": 230450,
+            "rate": 0.33
+          },
+          {
+            "from": 411500,
+            "rate": 0.35
+          },
+          {
+            "from": 464850,
+            "rate": 0.396
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10300,
+        "marriedJoint": 20600
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP and Pease reinstated (ATRA 2012); not modelled. Cross-checked vs Tax-Calculator policy_current_law.json: match."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 9275,
+            "rate": 0.15
+          },
+          {
+            "from": 37650,
+            "rate": 0.25
+          },
+          {
+            "from": 91150,
+            "rate": 0.28
+          },
+          {
+            "from": 190150,
+            "rate": 0.33
+          },
+          {
+            "from": 413350,
+            "rate": 0.35
+          },
+          {
+            "from": 415050,
+            "rate": 0.396
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 18550,
+            "rate": 0.15
+          },
+          {
+            "from": 75300,
+            "rate": 0.25
+          },
+          {
+            "from": 151900,
+            "rate": 0.28
+          },
+          {
+            "from": 231450,
+            "rate": 0.33
+          },
+          {
+            "from": 413350,
+            "rate": 0.35
+          },
+          {
+            "from": 466950,
+            "rate": 0.396
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10350,
+        "marriedJoint": 20700
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP and Pease reinstated (ATRA 2012); not modelled. Cross-checked vs Tax-Calculator policy_current_law.json: match."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 9325,
+            "rate": 0.15
+          },
+          {
+            "from": 37950,
+            "rate": 0.25
+          },
+          {
+            "from": 91900,
+            "rate": 0.28
+          },
+          {
+            "from": 191650,
+            "rate": 0.33
+          },
+          {
+            "from": 416700,
+            "rate": 0.35
+          },
+          {
+            "from": 418400,
+            "rate": 0.396
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 18650,
+            "rate": 0.15
+          },
+          {
+            "from": 75900,
+            "rate": 0.25
+          },
+          {
+            "from": 153100,
+            "rate": 0.28
+          },
+          {
+            "from": 233350,
+            "rate": 0.33
+          },
+          {
+            "from": 416700,
+            "rate": 0.35
+          },
+          {
+            "from": 470700,
+            "rate": 0.396
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10400,
+        "marriedJoint": 20800
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "PEP and Pease reinstated (ATRA 2012); not modelled. Cross-checked vs Tax-Calculator policy_current_law.json: match."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 9525,
+            "rate": 0.12
+          },
+          {
+            "from": 38700,
+            "rate": 0.22
+          },
+          {
+            "from": 82500,
+            "rate": 0.24
+          },
+          {
+            "from": 157500,
+            "rate": 0.32
+          },
+          {
+            "from": 200000,
+            "rate": 0.35
+          },
+          {
+            "from": 500000,
+            "rate": 0.37
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 19050,
+            "rate": 0.12
+          },
+          {
+            "from": 77400,
+            "rate": 0.22
+          },
+          {
+            "from": 165000,
+            "rate": 0.24
+          },
+          {
+            "from": 315000,
+            "rate": 0.32
+          },
+          {
+            "from": 400000,
+            "rate": 0.35
+          },
+          {
+            "from": 600000,
+            "rate": 0.37
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12000,
+        "marriedJoint": 24000
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "Personal exemption 0 and PEP/Pease suspended (TCJA). Cross-checked vs Tax-Calculator policy_current_law.json: match."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 9700,
+            "rate": 0.12
+          },
+          {
+            "from": 39475,
+            "rate": 0.22
+          },
+          {
+            "from": 84200,
+            "rate": 0.24
+          },
+          {
+            "from": 160725,
+            "rate": 0.32
+          },
+          {
+            "from": 204100,
+            "rate": 0.35
+          },
+          {
+            "from": 510300,
+            "rate": 0.37
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 19400,
+            "rate": 0.12
+          },
+          {
+            "from": 78950,
+            "rate": 0.22
+          },
+          {
+            "from": 168400,
+            "rate": 0.24
+          },
+          {
+            "from": 321450,
+            "rate": 0.32
+          },
+          {
+            "from": 408200,
+            "rate": 0.35
+          },
+          {
+            "from": 612350,
+            "rate": 0.37
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12200,
+        "marriedJoint": 24400
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "Personal exemption 0 and PEP/Pease suspended (TCJA). Cross-checked vs Tax-Calculator policy_current_law.json: match."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 9875,
+            "rate": 0.12
+          },
+          {
+            "from": 40125,
+            "rate": 0.22
+          },
+          {
+            "from": 85525,
+            "rate": 0.24
+          },
+          {
+            "from": 163300,
+            "rate": 0.32
+          },
+          {
+            "from": 207350,
+            "rate": 0.35
+          },
+          {
+            "from": 518400,
+            "rate": 0.37
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 19750,
+            "rate": 0.12
+          },
+          {
+            "from": 80250,
+            "rate": 0.22
+          },
+          {
+            "from": 171050,
+            "rate": 0.24
+          },
+          {
+            "from": 326600,
+            "rate": 0.32
+          },
+          {
+            "from": 414700,
+            "rate": 0.35
+          },
+          {
+            "from": 622050,
+            "rate": 0.37
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12400,
+        "marriedJoint": 24800
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "Personal exemption 0 and PEP/Pease suspended (TCJA). Cross-checked vs Tax-Calculator policy_current_law.json: match."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 9950,
+            "rate": 0.12
+          },
+          {
+            "from": 40525,
+            "rate": 0.22
+          },
+          {
+            "from": 86375,
+            "rate": 0.24
+          },
+          {
+            "from": 164925,
+            "rate": 0.32
+          },
+          {
+            "from": 209425,
+            "rate": 0.35
+          },
+          {
+            "from": 523600,
+            "rate": 0.37
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 19900,
+            "rate": 0.12
+          },
+          {
+            "from": 81050,
+            "rate": 0.22
+          },
+          {
+            "from": 172750,
+            "rate": 0.24
+          },
+          {
+            "from": 329850,
+            "rate": 0.32
+          },
+          {
+            "from": 418850,
+            "rate": 0.35
+          },
+          {
+            "from": 628300,
+            "rate": 0.37
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12550,
+        "marriedJoint": 25100
+      },
+      "source": "https://www.irs.gov/pub/irs-drop/rp-20-45.pdf",
+      "notes": "Personal exemption 0 and PEP/Pease suspended (TCJA). CRS lists single 32%/35% starts as 164,900/209,400 (HoH values); corrected to 164,925/209,425 per Rev. Proc. 2020-45 and Tax-Calculator."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 10275,
+            "rate": 0.12
+          },
+          {
+            "from": 41775,
+            "rate": 0.22
+          },
+          {
+            "from": 89075,
+            "rate": 0.24
+          },
+          {
+            "from": 170050,
+            "rate": 0.32
+          },
+          {
+            "from": 215950,
+            "rate": 0.35
+          },
+          {
+            "from": 539900,
+            "rate": 0.37
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 20550,
+            "rate": 0.12
+          },
+          {
+            "from": 83550,
+            "rate": 0.22
+          },
+          {
+            "from": 178150,
+            "rate": 0.24
+          },
+          {
+            "from": 340100,
+            "rate": 0.32
+          },
+          {
+            "from": 431900,
+            "rate": 0.35
+          },
+          {
+            "from": 647850,
+            "rate": 0.37
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12950,
+        "marriedJoint": 25900
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "Personal exemption 0 and PEP/Pease suspended (TCJA). Cross-checked vs Tax-Calculator policy_current_law.json: match."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 11000,
+            "rate": 0.12
+          },
+          {
+            "from": 44725,
+            "rate": 0.22
+          },
+          {
+            "from": 95375,
+            "rate": 0.24
+          },
+          {
+            "from": 182100,
+            "rate": 0.32
+          },
+          {
+            "from": 231250,
+            "rate": 0.35
+          },
+          {
+            "from": 578125,
+            "rate": 0.37
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 22000,
+            "rate": 0.12
+          },
+          {
+            "from": 89450,
+            "rate": 0.22
+          },
+          {
+            "from": 190750,
+            "rate": 0.24
+          },
+          {
+            "from": 364200,
+            "rate": 0.32
+          },
+          {
+            "from": 462500,
+            "rate": 0.35
+          },
+          {
+            "from": 693750,
+            "rate": 0.37
+          }
+        ]
+      },
+      "deduction": {
+        "single": 13850,
+        "marriedJoint": 27700
+      },
+      "source": "https://www.everycrsreport.com/reports/RL34498.html",
+      "notes": "Personal exemption 0 and PEP/Pease suspended (TCJA). Cross-checked vs Tax-Calculator policy_current_law.json: match."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 11600,
+            "rate": 0.12
+          },
+          {
+            "from": 47150,
+            "rate": 0.22
+          },
+          {
+            "from": 100525,
+            "rate": 0.24
+          },
+          {
+            "from": 191950,
+            "rate": 0.32
+          },
+          {
+            "from": 243725,
+            "rate": 0.35
+          },
+          {
+            "from": 609350,
+            "rate": 0.37
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 23200,
+            "rate": 0.12
+          },
+          {
+            "from": 94300,
+            "rate": 0.22
+          },
+          {
+            "from": 201050,
+            "rate": 0.24
+          },
+          {
+            "from": 383900,
+            "rate": 0.32
+          },
+          {
+            "from": 487450,
+            "rate": 0.35
+          },
+          {
+            "from": 731200,
+            "rate": 0.37
+          }
+        ]
+      },
+      "deduction": {
+        "single": 14600,
+        "marriedJoint": 29200
+      },
+      "source": "https://www.irs.gov/pub/irs-drop/rp-23-34.pdf",
+      "notes": "Personal exemption 0 and PEP/Pease suspended (TCJA). Cross-checked vs Tax-Calculator policy_current_law.json: match. Confirmed vs Rev. Proc. 2023-34."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 11925,
+            "rate": 0.12
+          },
+          {
+            "from": 48475,
+            "rate": 0.22
+          },
+          {
+            "from": 103350,
+            "rate": 0.24
+          },
+          {
+            "from": 197300,
+            "rate": 0.32
+          },
+          {
+            "from": 250525,
+            "rate": 0.35
+          },
+          {
+            "from": 626350,
+            "rate": 0.37
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 23850,
+            "rate": 0.12
+          },
+          {
+            "from": 96950,
+            "rate": 0.22
+          },
+          {
+            "from": 206700,
+            "rate": 0.24
+          },
+          {
+            "from": 394600,
+            "rate": 0.32
+          },
+          {
+            "from": 501050,
+            "rate": 0.35
+          },
+          {
+            "from": 751600,
+            "rate": 0.37
+          }
+        ]
+      },
+      "deduction": {
+        "single": 15750,
+        "marriedJoint": 31500
+      },
+      "source": "https://www.irs.gov/pub/irs-drop/rp-24-40.pdf",
+      "notes": "Personal exemption 0 and PEP/Pease suspended (TCJA). Cross-checked vs Tax-Calculator policy_current_law.json: match. Brackets per Rev. Proc. 2024-40; standard deduction 15,750/31,500 per OBBBA (P.L. 119-21), confirmed in Rev. Proc. 2025-32 sec. 2 (replacing 15,000/30,000). Temporary $6,000 senior deduction not modelled."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 12400,
+            "rate": 0.12
+          },
+          {
+            "from": 50400,
+            "rate": 0.22
+          },
+          {
+            "from": 105700,
+            "rate": 0.24
+          },
+          {
+            "from": 201775,
+            "rate": 0.32
+          },
+          {
+            "from": 256225,
+            "rate": 0.35
+          },
+          {
+            "from": 640600,
+            "rate": 0.37
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.1
+          },
+          {
+            "from": 24800,
+            "rate": 0.12
+          },
+          {
+            "from": 100800,
+            "rate": 0.22
+          },
+          {
+            "from": 211400,
+            "rate": 0.24
+          },
+          {
+            "from": 403550,
+            "rate": 0.32
+          },
+          {
+            "from": 512450,
+            "rate": 0.35
+          },
+          {
+            "from": 768700,
+            "rate": 0.37
+          }
+        ]
+      },
+      "deduction": {
+        "single": 16100,
+        "marriedJoint": 32200
+      },
+      "source": "https://www.irs.gov/pub/irs-drop/rp-25-32.pdf",
+      "notes": "Personal exemption permanently repealed (P.L. 119-21); new 2/37ths itemized-deduction limit for 37% bracket not modelled. Cross-checked vs Tax-Calculator policy_current_law.json: match. Confirmed vs Rev. Proc. 2025-32 (post-OBBBA). Temporary $6,000 senior deduction (2025-2028) not modelled."
+    }
+  }
+}

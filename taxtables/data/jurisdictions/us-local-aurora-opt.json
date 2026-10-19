@@ -1,0 +1,218 @@
+{
+  "id": "us-local-aurora-opt",
+  "kind": "local",
+  "region": "Aurora, CO",
+  "state": "CO",
+  "since": 1986,
+  "years": {
+    "2000": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20000519022627/http://www.ci.aurora.co.us:80/finance/opt.htm",
+      "notes": "Employee OPT $2 per month for employees earning at least $250 in the calendar month and performing services in Aurora; employers pay a matching $2 per employee (city Tax and Licensing Division OPT page, Wayback capture of May 19, 2000)."
+    },
+    "2001": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20061001171127/http://www.auroragov.org/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "$2 per month / $250 threshold on the city's OPT page in May 2000 and October 2006 (Wayback captures); year-specific documents not located."
+    },
+    "2002": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20061001171127/http://www.auroragov.org/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "$2 per month / $250 threshold on the city's OPT page in May 2000 and October 2006 (Wayback captures); year-specific documents not located."
+    },
+    "2003": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20061001171127/http://www.auroragov.org/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "$2 per month / $250 threshold on the city's OPT page in May 2000 and October 2006 (Wayback captures); year-specific documents not located."
+    },
+    "2004": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20061001171127/http://www.auroragov.org/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "$2 per month / $250 threshold on the city's OPT page in May 2000 and October 2006 (Wayback captures); year-specific documents not located."
+    },
+    "2005": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20061001171127/http://www.auroragov.org/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "$2 per month / $250 threshold on the city's OPT page in May 2000 and October 2006 (Wayback captures); year-specific documents not located."
+    },
+    "2006": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20061001171127/http://www.auroragov.org/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "Employee OPT $2 per month for employees earning at least $250 in the calendar month and performing services in Aurora; employers pay a matching $2 per employee (city Tax and Licensing Division OPT page, Wayback capture of October 1, 2006)."
+    },
+    "2007": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20080112001145/http://www.ci.aurora.co.us:80/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "$2 per month / $250 threshold on the city's OPT page in October 2006 and January 2008 (Wayback captures); year-specific documents not located."
+    },
+    "2008": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20080112001145/http://www.ci.aurora.co.us:80/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "Employee OPT $2 per month for employees earning at least $250 in the calendar month and performing services in Aurora; employers pay a matching $2 per employee (city Tax and Licensing Division OPT page, Wayback capture of January 12, 2008)."
+    },
+    "2009": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20080112001145/http://www.ci.aurora.co.us:80/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "$2 per month / $250 threshold on the city's OPT page in January 2008 and August 2010 (Wayback captures); year-specific documents not located."
+    },
+    "2010": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20100801013617/http://www.auroragov.org/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "Employee OPT $2 per month for employees earning at least $250 in the calendar month and performing services in Aurora; employers pay a matching $2 per employee (city Tax and Licensing Division OPT page, Wayback capture of August 1, 2010)."
+    },
+    "2011": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20100801013617/http://www.auroragov.org/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "$2 per month / $250 threshold on the city's OPT page in August 2010 (Wayback capture) and in the NFC bulletin of August 2019; year-specific documents not located."
+    },
+    "2012": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20100801013617/http://www.auroragov.org/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "$2 per month / $250 threshold on the city's OPT page in August 2010 (Wayback capture) and in the NFC bulletin of August 2019; year-specific documents not located."
+    },
+    "2013": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20100801013617/http://www.auroragov.org/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "$2 per month / $250 threshold on the city's OPT page in August 2010 (Wayback capture) and in the NFC bulletin of August 2019; year-specific documents not located."
+    },
+    "2014": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20100801013617/http://www.auroragov.org/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "$2 per month / $250 threshold on the city's OPT page in August 2010 (Wayback capture) and in the NFC bulletin of August 2019; year-specific documents not located."
+    },
+    "2015": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20100801013617/http://www.auroragov.org/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "$2 per month / $250 threshold on the city's OPT page in August 2010 (Wayback capture) and in the NFC bulletin of August 2019; year-specific documents not located."
+    },
+    "2016": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20100801013617/http://www.auroragov.org/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "$2 per month / $250 threshold on the city's OPT page in August 2010 (Wayback capture) and in the NFC bulletin of August 2019; year-specific documents not located."
+    },
+    "2017": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20100801013617/http://www.auroragov.org/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "$2 per month / $250 threshold on the city's OPT page in August 2010 (Wayback capture) and in the NFC bulletin of August 2019; year-specific documents not located."
+    },
+    "2018": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20100801013617/http://www.auroragov.org/AuroraGov/Departments/Finance/Taxes___Licenses/Taxes/Occupational_Privilege_Tax/index.htm",
+      "notes": "$2 per month / $250 threshold on the city's OPT page in August 2010 (Wayback capture) and in the NFC bulletin of August 2019; year-specific documents not located."
+    },
+    "2019": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://help.nfc.usda.gov/bulletins/2019/1565208947.htm",
+      "notes": "Employee OPT $2 per month for employees earning at least $250 in a calendar month in Aurora (NFC bulletin, August 2019)."
+    },
+    "2020": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.auroragov.org/business_services/taxes/occupational_privilege_tax",
+      "notes": "$2 per month / $250 threshold in 2019 (NFC bulletin) and 2024 (city page); year-specific documents not located. Repealed from January 1, 2025 (Ord. 2022-77)."
+    },
+    "2021": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.auroragov.org/business_services/taxes/occupational_privilege_tax",
+      "notes": "$2 per month / $250 threshold in 2019 (NFC bulletin) and 2024 (city page); year-specific documents not located. Repealed from January 1, 2025 (Ord. 2022-77)."
+    },
+    "2022": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.auroragov.org/business_services/taxes/occupational_privilege_tax",
+      "notes": "$2 per month / $250 threshold in 2019 (NFC bulletin) and 2024 (city page); year-specific documents not located. Repealed from January 1, 2025 (Ord. 2022-77)."
+    },
+    "2023": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.auroragov.org/business_services/taxes/occupational_privilege_tax",
+      "notes": "$2 per month / $250 threshold in 2019 (NFC bulletin) and 2024 (city page); year-specific documents not located. Repealed from January 1, 2025 (Ord. 2022-77)."
+    },
+    "2024": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.auroragov.org/business_services/taxes/occupational_privilege_tax"
+    },
+    "2025": {
+      "type": "none",
+      "source": "https://www.auroragov.org/business_services/taxes/occupational_privilege_tax",
+      "notes": "No tax: Aurora's occupational privilege tax was repealed effective January 1, 2025 (city tax page)."
+    },
+    "2026": {
+      "type": "none",
+      "source": "https://www.auroragov.org/business_services/taxes/occupational_privilege_tax",
+      "notes": "No tax: Aurora's occupational privilege tax was repealed effective January 1, 2025 (city tax page)."
+    }
+  }
+}

@@ -1,0 +1,2355 @@
+{
+  "id": "us-state-AR",
+  "kind": "state",
+  "region": "Arkansas",
+  "state": "AR",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.02
+          },
+          {
+            "from": 6000,
+            "rate": 0.03
+          },
+          {
+            "from": 11000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1970-71 ed. (report M-57), Table 36 (p. 75), rates as of December 31, 1970, i.e. the law for tax year 1970 as it ended; personal exemptions and standard deduction from Table 37 (p. 83) and Table 38 (p. 85). Pre-1971 statutory schedule: 1% on the first $3,000, 2% to $6,000, 3% to $11,000, 4% to $25,000, 5% over $25,000; the 1969 edition (M-50, Table 40, rates as of December 31, 1969) prints the same schedule, exemptions and standard deduction, while the December 31, 1971 edition (m-74) prints the 1%-7% schedule used from 1971. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 for single and joint returns ($500 maximum for a married person filing a separate return). Personal exemptions are tax credits ($17.50 per taxpayer, $35 on a joint return, $6 per dependent) and are not modelled. Reduced rates for low-income taxpayers (low-income tax tables) not modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1971-72 ed. (report M-74), Table 91 (p. 201), rates as of December 31, 1971, i.e. the law for tax year 1971 as it ended; personal exemptions and standard deduction from Table 92 (p. 208) and Table 93 (p. 210). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999: this 1%-7% schedule, enacted in 1971, replaced the 1%-5% schedule printed in the December 31, 1970 edition (M-57) and is the one printed in every later ACIR edition through 1994 and in the 1997 DFA tables. The 1971 act's own text is not online, so its application to the whole of tax year 1971 rests on the December 31, 1971 table. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 for single and joint returns ($500 maximum for a married person filing a separate return). Personal exemptions are tax credits ($17.50 per taxpayer, $35 on a joint return, $6 per dependent) and are not modelled. Reduced rates for low-income taxpayers (low-income tax tables) not modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.lexisnexis.com/hottopics/arcode/",
+      "notes": "Same law as 1971. The Arkansas Code of 1987 Annotated (LexisNexis public-access edition) history notes show no amendment to any part of the computation between the neighbouring transcribed years: the rate section, Ark. Code Ann. 26-51-201 (Acts 1971, No. 221; 1973, No. 215; next amended Acts 1997, No. 328), and the standard deduction section, 26-51-430 (Acts 1957, No. 147; next amended Acts 1997, No. 328). The 1973 act left the individual schedule as printed by ACIR for July 1, 1973 and every later edition through 1994. So 1972 keeps the 1%-7% schedule (same brackets for single and joint returns) and the 10% standard deduction up to $1,000. 1971 entry's source: https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1973-74 ed. (report M-79), Table 141 (p. 261), rates as of July 1, 1973; personal exemptions and standard deduction from Table 142 (p. 269) and Table 143 (p. 271). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; the same schedule is printed in the December 31, 1971 edition and in every ACIR edition from 1976 through 1994 and matches the 1997 schedule. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 for single and joint returns ($500 maximum for a married person filing a separate return). Personal exemptions are tax credits ($17.50 per taxpayer, $35 on a joint return, $6 per dependent) and are not modelled. Reduced rates for low-income taxpayers (low-income tax tables) not modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.lexisnexis.com/hottopics/arcode/",
+      "notes": "Same law as 1973. The Arkansas Code of 1987 Annotated (LexisNexis public-access edition) history notes show no amendment to any part of the computation between the neighbouring transcribed years: the rate section, Ark. Code Ann. 26-51-201 (Acts 1971, No. 221; 1973, No. 215; next amended Acts 1997, No. 328), and the standard deduction section, 26-51-430 (Acts 1957, No. 147; next amended Acts 1997, No. 328). The 1973 act left the individual schedule as printed by ACIR for July 1, 1973 and every later edition through 1994. So 1974 keeps the 1%-7% schedule (same brackets for single and joint returns) and the 10% standard deduction up to $1,000. 1973 entry's source: https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.lexisnexis.com/hottopics/arcode/",
+      "notes": "Same law as 1976. The Arkansas Code of 1987 Annotated (LexisNexis public-access edition) history notes show no amendment to any part of the computation between the neighbouring transcribed years: the rate section, Ark. Code Ann. 26-51-201 (Acts 1971, No. 221; 1973, No. 215; next amended Acts 1997, No. 328), and the standard deduction section, 26-51-430 (Acts 1957, No. 147; next amended Acts 1997, No. 328). The 1973 act left the individual schedule as printed by ACIR for July 1, 1973 and every later edition through 1994. So 1975 keeps the 1%-7% schedule (same brackets for single and joint returns) and the 10% standard deduction up to $1,000. 1976 entry's source: https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1976-77 ed., vol. 2, Table 106 (p. 194), rates as of July 1, 1976; personal exemptions and standard deduction from Table 107 (p. 202) and Table 108 (p. 204). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; the same schedule is printed in every ACIR edition from 1976 through 1994 and matches the 1997 schedule. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 for single and joint returns ($500 maximum for a married person filing a separate return). Personal exemptions are tax credits ($17.50 per taxpayer, $35 on a joint return, $6 per dependent) and are not modelled. Reduced rates for low-income taxpayers (low-income tax tables) not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.lexisnexis.com/hottopics/arcode/",
+      "notes": "Same law as 1976. The Arkansas Code of 1987 Annotated (LexisNexis public-access edition) history notes show no amendment to any part of the computation between the neighbouring transcribed years: the rate section, Ark. Code Ann. 26-51-201 (Acts 1971, No. 221; 1973, No. 215; next amended Acts 1997, No. 328), and the standard deduction section, 26-51-430 (Acts 1957, No. 147; next amended Acts 1997, No. 328). The 1973 act left the individual schedule as printed by ACIR for July 1, 1973 and every later edition through 1994. So 1977 keeps the 1%-7% schedule (same brackets for single and joint returns) and the 10% standard deduction up to $1,000. 1976 entry's source: https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.lexisnexis.com/hottopics/arcode/",
+      "notes": "Same law as 1976. The Arkansas Code of 1987 Annotated (LexisNexis public-access edition) history notes show no amendment to any part of the computation between the neighbouring transcribed years: the rate section, Ark. Code Ann. 26-51-201 (Acts 1971, No. 221; 1973, No. 215; next amended Acts 1997, No. 328), and the standard deduction section, 26-51-430 (Acts 1957, No. 147; next amended Acts 1997, No. 328). The 1973 act left the individual schedule as printed by ACIR for July 1, 1973 and every later edition through 1994. So 1978 keeps the 1%-7% schedule (same brackets for single and joint returns) and the 10% standard deduction up to $1,000. 1976 entry's source: https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.lexisnexis.com/hottopics/arcode/",
+      "notes": "Same law as 1980. The Arkansas Code of 1987 Annotated (LexisNexis public-access edition) history notes show no amendment to any part of the computation between the neighbouring transcribed years: the rate section, Ark. Code Ann. 26-51-201 (Acts 1971, No. 221; 1973, No. 215; next amended Acts 1997, No. 328), and the standard deduction section, 26-51-430 (Acts 1957, No. 147; next amended Acts 1997, No. 328). The 1973 act left the individual schedule as printed by ACIR for July 1, 1973 and every later edition through 1994. So 1979 keeps the 1%-7% schedule (same brackets for single and joint returns) and the 10% standard deduction up to $1,000. 1980 entry's source: https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1979-80 ed., Table 82 (p. 110), rates as of July 1, 1980; personal exemptions and standard deduction from Table 83 (p. 120) and Table 84 (p. 122). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; the same schedule is printed in every ACIR edition from 1976 through 1994 and matches the 1997 schedule. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 for single and joint returns ($500 maximum for a married person filing a separate return). Personal exemptions are tax credits ($17.50 per taxpayer, $35 on a joint return, $6 per dependent) and are not modelled. Reduced rates for low-income taxpayers (low-income tax tables) not modelled."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.lexisnexis.com/hottopics/arcode/",
+      "notes": "Same law as 1980. The Arkansas Code of 1987 Annotated (LexisNexis public-access edition) history notes show no amendment to any part of the computation between the neighbouring transcribed years: the rate section, Ark. Code Ann. 26-51-201 (Acts 1971, No. 221; 1973, No. 215; next amended Acts 1997, No. 328), and the standard deduction section, 26-51-430 (Acts 1957, No. 147; next amended Acts 1997, No. 328). The 1973 act left the individual schedule as printed by ACIR for July 1, 1973 and every later edition through 1994. So 1981 keeps the 1%-7% schedule (same brackets for single and joint returns) and the 10% standard deduction up to $1,000. 1980 entry's source: https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.lexisnexis.com/hottopics/arcode/",
+      "notes": "Same law as 1983. The Arkansas Code of 1987 Annotated (LexisNexis public-access edition) history notes show no amendment to any part of the computation between the neighbouring transcribed years: the rate section, Ark. Code Ann. 26-51-201 (Acts 1971, No. 221; 1973, No. 215; next amended Acts 1997, No. 328), and the standard deduction section, 26-51-430 (Acts 1957, No. 147; next amended Acts 1997, No. 328). The 1973 act left the individual schedule as printed by ACIR for July 1, 1973 and every later edition through 1994. So 1982 keeps the 1%-7% schedule (same brackets for single and joint returns) and the 10% standard deduction up to $1,000. 1983 entry's source: https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1982-1983.pdf."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1982-1983.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1982-83 ed., Table 48 (p. 62), rates for 1983 as of December 1983; personal exemptions and standard deduction from Table 47 (p. 60, as of October 1, 1983). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; the same schedule is printed in every ACIR edition from 1976 through 1994 and matches the 1997 schedule. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 (single and joint). Personal exemptions are tax credits ($17.50 per taxpayer, $35 on a joint return, $6 per dependent) and are not modelled. Low-income tax tables not modelled."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1984.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1984 ed., Table 53 (p. 75), rates for 1984 as of December 1984; personal exemptions and standard deduction from Table 52 (p. 73, as of November 1984). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; the same schedule is printed in every ACIR edition from 1976 through 1994 and matches the 1997 schedule. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 (single and joint). Personal exemptions are tax credits ($17.50 per taxpayer, $35 on a joint return, $6 per dependent) and are not modelled. Low-income tax tables not modelled."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1985-1986.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1985-86 ed., Table 56 (p. 80), rates for 1985 as of October 1985; personal exemptions and standard deduction from Table 55 (p. 78, as of August 1985). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; the same schedule is printed in every ACIR edition from 1976 through 1994 and matches the 1997 schedule. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 (single and joint). Personal exemptions are tax credits ($17.50 per taxpayer, $35 on a joint return, $6 per dependent) and are not modelled. Low-income tax tables not modelled."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1987 ed., Table 51 (p. 68), rates for tax year 1986, compiled October 1986; personal exemptions and standard deduction from Table 50 (p. 66, as of October 1986). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; the same schedule is printed in every ACIR edition from 1976 through 1994 and matches the 1997 schedule. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 (single and joint). Personal exemptions are tax credits ($17.50 per taxpayer, $35 on a joint return, $6 per dependent) and are not modelled. Low-income tax tables not modelled."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1988-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1988 ed., vol. 1, Table 16 (p. 28), rates for tax year 1987, compiled October 1987; personal exemptions and standard deduction from Table 15 (p. 26, as of October 1987). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; the same schedule is printed in every ACIR edition from 1976 through 1994 and matches the 1997 schedule. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 (single and joint). Personal exemptions are tax credits ($20 per taxpayer, $40 on a joint return, $20 per dependent) and are not modelled. Low-income tax tables not modelled."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1989-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1989 ed., vol. 1, Table 19 (p. 34), rates for tax year 1988, compiled October 1988; personal exemptions and standard deduction from Table 18 (p. 31, as of October 1988). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; the same schedule is printed in every ACIR edition from 1976 through 1994 and matches the 1997 schedule. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 (single and joint). Personal exemptions are tax credits ($20 per taxpayer, $40 on a joint return, $20 per dependent) and are not modelled. Low-income tax tables not modelled."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1990-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1990 ed., vol. 1, Table 19 (p. 52), rates for tax year 1989, compiled October 1989; personal exemptions and standard deduction from Table 16 (p. 38, as of October 1989). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; the same schedule is printed in every ACIR edition from 1976 through 1994 and matches the 1997 schedule. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 (single and joint). Personal exemptions are tax credits ($20 per taxpayer, $40 on a joint return, $20 per dependent) and are not modelled. Low-income tax tables not modelled."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1991-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1991 ed., vol. 1, Table 22 (p. 64), rates for tax year 1990, compiled October 1990; personal exemptions and standard deduction from Table 18 (p. 48, as of October 1990). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; the same schedule is printed in every ACIR edition from 1976 through 1994 and matches the 1997 schedule. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 (single and joint). Personal exemptions are tax credits ($20 per taxpayer, $40 on a joint return, $20 per dependent) and are not modelled. Low-income tax tables not modelled."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1992-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1992 ed., vol. 1, Table 22 (p. 68), rates for 1991, compiled October 1991; personal exemptions and standard deduction from Table 18 (p. 52, as of October 1991). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; the same schedule is printed in every ACIR edition from 1976 through 1994 and matches the 1997 schedule. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 (single and joint). Personal exemptions are tax credits ($20 per taxpayer, $40 on a joint return, $20 per dependent) and are not modelled. Act 95 (1991) exempts low-income individuals from tax (single gross income up to $5,550, married couples up to $10,000, unmarried heads of household up to $7,150); not modelled."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff-1993-vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1993 ed., vol. 1, Table 22 (p. 72), rates for 1992, compiled October 1992; personal exemptions and standard deduction from Table 18 (p. 54, as of November 1992). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; the same schedule is printed in every ACIR edition from 1976 through 1994 and matches the 1997 schedule. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 (single and joint). Personal exemptions are tax credits ($20 per taxpayer, $40 on a joint return, $20 per dependent) and are not modelled. Act 95 (1991) exempts low-income individuals from tax (single gross income up to $5,550, married couples up to $10,000, unmarried heads of household up to $7,150); not modelled."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1994-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1994 ed., vol. 1, Table 20 (p. 72), rates for 1993, compiled October 1993; personal exemptions and standard deduction from Table 16 (p. 54, as of November 1993). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; the same schedule is printed in every ACIR edition from 1976 through 1994 and matches the 1997 schedule. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 (single and joint). Personal exemptions are tax credits ($20 per taxpayer, $40 on a joint return, $20 per dependent) and are not modelled. Act 95 (1991) exempts low-income individuals from tax (single gross income up to $5,550, married couples up to $10,000, unmarried heads of household up to $7,150); not modelled."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1995-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1995 ed., vol. 1, Table 19 (p. 65), rates for 1994, compiled October 1994; personal exemptions and standard deduction from Table 15 (p. 49, as of November 1994). Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; the same schedule is printed in every ACIR edition from 1976 through 1994 and matches the 1997 schedule. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Standard deduction 10% of income up to $1,000 (single and joint). Personal exemptions are tax credits ($20 per taxpayer, $40 on a joint return, $20 per dependent) and are not modelled. Act 95 (1991) exempts low-income individuals from tax (single gross income up to $5,550, married couples up to $10,000, unmarried heads of household up to $7,150); not modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://arkleg.state.ar.us/Acts/SearchByRange?startAct=1&endAct=1400&keywords=income+tax&ddBienniumSession=1995%2FR",
+      "notes": "Bridged under the statute-history rule between the ACIR table for tax year 1994 (1995 ed., vol. 1, Table 19, compiled October 1994; this file's 1994 entry) and the 1997 DFA tax table (this file's 1997 entry), which print the same 1%-7% schedule (Ark. Code Ann. s. 26-51-201, not indexed before 1999) and the same 10% standard deduction with a $1,000 maximum (s. 26-51-430 before Act 328 of 1997). The Arkansas General Assembly's acts index (arkleg.state.ar.us, Acts search by range with keyword 'income tax' and with '26-51-201') lists no act of the 1995 regular session or the 1995 first extraordinary session amending s. 26-51-201 or s. 26-51-430 (the 1995 income tax acts are credits, apportionment, gross-income exclusions, IRC conformity and the Act 916 school-funding surcharge), there was no 1996 session, and the first rate and standard-deduction changes after 1994 are Act 328 of 1997 (standard deduction $2,000 from tax year 1998, CPI indexing of the brackets from 1999). The acts index was searched by keyword, so an amending act whose title omits 'income tax' or the section number would have been missed. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Personal exemptions are tax credits ($20 per taxpayer, $40 on a joint return, $20 per dependent) and are not modelled. Low-income tax tables not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://arkleg.state.ar.us/Acts/SearchByRange?startAct=1&endAct=1400&keywords=income+tax&ddBienniumSession=1995%2FR",
+      "notes": "Bridged under the statute-history rule between the ACIR table for tax year 1994 (1995 ed., vol. 1, Table 19, compiled October 1994; this file's 1994 entry) and the 1997 DFA tax table (this file's 1997 entry), which print the same 1%-7% schedule (Ark. Code Ann. s. 26-51-201, not indexed before 1999) and the same 10% standard deduction with a $1,000 maximum (s. 26-51-430 before Act 328 of 1997). The Arkansas General Assembly's acts index (arkleg.state.ar.us, Acts search by range with keyword 'income tax' and with '26-51-201') lists no act of the 1995 regular session or the 1995 first extraordinary session amending s. 26-51-201 or s. 26-51-430 (the 1995 income tax acts are credits, apportionment, gross-income exclusions, IRC conformity and the Act 916 school-funding surcharge), there was no 1996 session, and the first rate and standard-deduction changes after 1994 are Act 328 of 1997 (standard deduction $2,000 from tax year 1998, CPI indexing of the brackets from 1999). The acts index was searched by keyword, so an amending act whose title omits 'income tax' or the section number would have been missed. Same schedule for single and joint returns (joint brackets not doubled; two-earner married taxpayers may file separately on the same return). Personal exemptions are tax credits ($20 per taxpayer, $40 on a joint return, $20 per dependent) and are not modelled. Low-income tax tables not modelled. Act 916 of 1995 (https://arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F1995%2FPublic%2F&file=916.pdf&ddBienniumSession=1995%2FR) levied, for taxable years beginning on or after January 1, 1996, a surcharge of 10% of the income tax liability of individual residents of local school districts certified as not levying the 25-mill base millage; this district-dependent surcharge is not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://web.archive.org/web/20060928222252/http://www.arkansas.gov/dfa/income_tax/ind_tax/1997_forms/97-indv_taxtable.pdf",
+      "notes": "Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; derived from the 1997 Itemized Deduction Tax Table 3 (all 499 rows up to $49,900 reproduced exactly, tax computed at the midpoint of each $100 band). Same schedule for single and joint returns (joint brackets not doubled; married filing separately on the same return, status 4, lets each spouse use the schedule on their own income). Standard deduction 10% of income up to $1,000 for single, joint and head of household (up to $500 each for status 4/5), per the 1997 AR1000 instructions (https://web.archive.org/web/20060928222150/http://www.arkansas.gov/dfa/income_tax/ind_tax/1997_forms/97-1000ip.pdf) and built into Standard Deduction Tax Table 2. The 10% school surcharge applied to 1996 only (repealed by Act 1040 of 1997). Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits ($20) not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.025
+          },
+          {
+            "from": 6000,
+            "rate": 0.035
+          },
+          {
+            "from": 9000,
+            "rate": 0.045
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 25000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://web.archive.org/web/20060928222533/http://www.arkansas.gov/dfa/income_tax/ind_tax/1998_forms/98-tax-tables.pdf",
+      "notes": "Statutory brackets (Ark. Code Ann. § 26-51-201), not indexed before 1999; derived from the 1998 Regular Tax Table 2 (all 329 rows up to $32,900 reproduced exactly, tax computed at the midpoint of each $100 band). Same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000 per taxpayer / $4,000 joint from 1998 (Act 328 of 1997, per the 1998 AR1000 instructions https://web.archive.org/web/20060928222643/http://www.arkansas.gov/dfa/income_tax/ind_tax/1998_forms/98-ar1000inst.pdf, which also announce CPI indexing of the brackets from tax year 1999). Working taxpayer credit (Act 328 of 1997: 2% of OASDI tax on the first $40,000 of earned income, 4% for low-income-table filers) not modelled. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits ($20) not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3100,
+            "rate": 0.025
+          },
+          {
+            "from": 6100,
+            "rate": 0.035
+          },
+          {
+            "from": 9200,
+            "rate": 0.045
+          },
+          {
+            "from": 15300,
+            "rate": 0.06
+          },
+          {
+            "from": 25400,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://web.archive.org/web/20060928223245/http://www.arkansas.gov/dfa/income_tax/ind_tax/1999_forms/1999brackets.PDF",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table; brackets indexed to the CPI since 1999 under Act 328 of 1997); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000 (1999 AR1000 instructions, https://web.archive.org/web/20060928222011/http://www.arkansas.gov/dfa/income_tax/ind_tax/1999_forms/ar1000_Instr.pdf). Working taxpayer credit (Act 328 of 1997: 2% of OASDI tax on the first $40,000 of earned income, 4% for low-income-table filers) not modelled. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits ($20) not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3100,
+            "rate": 0.025
+          },
+          {
+            "from": 6200,
+            "rate": 0.035
+          },
+          {
+            "from": 9300,
+            "rate": 0.045
+          },
+          {
+            "from": 15500,
+            "rate": 0.06
+          },
+          {
+            "from": 25900,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://web.archive.org/web/20060928225725/http://www.arkansas.gov/dfa/income_tax/ind_tax/2000_forms/2000_IIT_brackets.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table; brackets indexed to the CPI since 1999 under Act 328 of 1997); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000 (2000 AR1000 instructions, https://web.archive.org/web/20060928224446/http://www.arkansas.gov/dfa/income_tax/ind_tax/2000_forms/AR1000_instr.pdf). Working taxpayer credit (Act 328 of 1997: 2% of OASDI tax on the first $40,000 of earned income, 4% for low-income-table filers) not modelled. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits ($20) not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3200,
+            "rate": 0.025
+          },
+          {
+            "from": 6400,
+            "rate": 0.035
+          },
+          {
+            "from": 9600,
+            "rate": 0.045
+          },
+          {
+            "from": 16000,
+            "rate": 0.06
+          },
+          {
+            "from": 26700,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://web.archive.org/web/20060928230125/http://www.arkansas.gov/dfa/income_tax/ind_tax/2001_forms/2001_tax_brackets.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table; brackets indexed to the CPI since 1999 under Act 328 of 1997); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000 (2001 AR1000 instructions, https://web.archive.org/web/20060928225352/http://www.arkansas.gov/dfa/income_tax/ind_tax/2001_forms/AR1000_Instr.PDF). Working taxpayer credit (Act 328 of 1997: 2% of OASDI tax on the first $40,000 of earned income, 4% for low-income-table filers) not modelled. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits ($20) not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3300,
+            "rate": 0.025
+          },
+          {
+            "from": 6600,
+            "rate": 0.035
+          },
+          {
+            "from": 9900,
+            "rate": 0.045
+          },
+          {
+            "from": 16500,
+            "rate": 0.06
+          },
+          {
+            "from": 27500,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://web.archive.org/web/20051210063251/http://www.arkansas.gov/dfa/income_tax/ind_tax/2002_forms/2002brackets.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table; brackets indexed to the CPI since 1999 under Act 328 of 1997); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000 (2002 AR1000 instructions, https://web.archive.org/web/20051210063320/http://www.arkansas.gov/dfa/income_tax/ind_tax/2002_forms/AR1000_Instr.pdf). Working taxpayer credit (Act 328 of 1997: 2% of OASDI tax on the first $40,000 of earned income, 4% for low-income-table filers) not modelled. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits ($20) not modelled. Checked against the 2002 Regular Tax Table in the booklet (all 499 rows up to $49,900 reproduced exactly)."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3300,
+            "rate": 0.025
+          },
+          {
+            "from": 6700,
+            "rate": 0.035
+          },
+          {
+            "from": 10000,
+            "rate": 0.045
+          },
+          {
+            "from": 16700,
+            "rate": 0.06
+          },
+          {
+            "from": 27900,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/2003brackets.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000. Checked against the Regular Tax Table in the booklet (exact match up to $49,900). Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3400,
+            "rate": 0.025
+          },
+          {
+            "from": 6800,
+            "rate": 0.035
+          },
+          {
+            "from": 10300,
+            "rate": 0.045
+          },
+          {
+            "from": 17100,
+            "rate": 0.06
+          },
+          {
+            "from": 28500,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/2004brackets.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3500,
+            "rate": 0.025
+          },
+          {
+            "from": 7000,
+            "rate": 0.035
+          },
+          {
+            "from": 10500,
+            "rate": 0.045
+          },
+          {
+            "from": 17500,
+            "rate": 0.06
+          },
+          {
+            "from": 29200,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/2005brackets.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3600,
+            "rate": 0.025
+          },
+          {
+            "from": 7200,
+            "rate": 0.035
+          },
+          {
+            "from": 10800,
+            "rate": 0.045
+          },
+          {
+            "from": 18000,
+            "rate": 0.06
+          },
+          {
+            "from": 30100,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/TaxBrackets_2006.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3700,
+            "rate": 0.025
+          },
+          {
+            "from": 7400,
+            "rate": 0.035
+          },
+          {
+            "from": 11100,
+            "rate": 0.045
+          },
+          {
+            "from": 18600,
+            "rate": 0.06
+          },
+          {
+            "from": 31000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/TaxBrackets_2007.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000. Checked against the Regular Tax Table in the booklet (exact match up to $49,900). Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3800,
+            "rate": 0.025
+          },
+          {
+            "from": 7600,
+            "rate": 0.035
+          },
+          {
+            "from": 11400,
+            "rate": 0.045
+          },
+          {
+            "from": 19000,
+            "rate": 0.06
+          },
+          {
+            "from": 31700,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/Tax_Brackets_2008.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3900,
+            "rate": 0.025
+          },
+          {
+            "from": 7800,
+            "rate": 0.035
+          },
+          {
+            "from": 11700,
+            "rate": 0.045
+          },
+          {
+            "from": 19600,
+            "rate": 0.06
+          },
+          {
+            "from": 32600,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/Tax%20Brackets_2009.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3900,
+            "rate": 0.025
+          },
+          {
+            "from": 7800,
+            "rate": 0.035
+          },
+          {
+            "from": 11800,
+            "rate": 0.045
+          },
+          {
+            "from": 19600,
+            "rate": 0.06
+          },
+          {
+            "from": 32700,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/Tax_Brackets_2010.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4000,
+            "rate": 0.025
+          },
+          {
+            "from": 8000,
+            "rate": 0.035
+          },
+          {
+            "from": 11900,
+            "rate": 0.045
+          },
+          {
+            "from": 19900,
+            "rate": 0.06
+          },
+          {
+            "from": 33200,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/Tax%20Brackets_2011.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4100,
+            "rate": 0.025
+          },
+          {
+            "from": 8200,
+            "rate": 0.035
+          },
+          {
+            "from": 12200,
+            "rate": 0.045
+          },
+          {
+            "from": 20400,
+            "rate": 0.06
+          },
+          {
+            "from": 34000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/TaxBrackets_2012.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 4200,
+            "rate": 0.025
+          },
+          {
+            "from": 8300,
+            "rate": 0.035
+          },
+          {
+            "from": 12400,
+            "rate": 0.045
+          },
+          {
+            "from": 20700,
+            "rate": 0.06
+          },
+          {
+            "from": 34600,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/Tax%20Brackets_2013.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000. Checked against the Regular Tax Table in the booklet (exact match up to $49,900). Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 4300,
+            "rate": 0.025
+          },
+          {
+            "from": 8400,
+            "rate": 0.035
+          },
+          {
+            "from": 12600,
+            "rate": 0.045
+          },
+          {
+            "from": 21000,
+            "rate": 0.06
+          },
+          {
+            "from": 35100,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/LongBookwTaxTables_2014.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,000/$4,000. No 2014 bracket sheet online; brackets derived from the 2014 Regular Tax Table in the instruction booklet (all 499 rows up to $49,900 reproduced exactly). Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 4300,
+            "rate": 0.024
+          },
+          {
+            "from": 8400,
+            "rate": 0.034
+          },
+          {
+            "from": 12700,
+            "rate": 0.044
+          },
+          {
+            "from": 21100,
+            "rate": 0.06
+          },
+          {
+            "from": 35300,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2200,
+        "marriedJoint": 4400
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/TaxBrackets_2015.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,200/$4,400. DFA's subtraction amounts leave a small step at the upper thresholds that marginal brackets cannot reproduce. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 4300,
+            "rate": 0.024
+          },
+          {
+            "from": 8500,
+            "rate": 0.034
+          },
+          {
+            "from": 12700,
+            "rate": 0.044
+          },
+          {
+            "from": 21200,
+            "rate": 0.05
+          },
+          {
+            "from": 35100,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2200,
+        "marriedJoint": 4400
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/Tax%20Brackets_2016.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,200/$4,400. Schedule shown applies up to net income $75,000; above that DFA's table phases out the lower brackets so tax becomes 6.9% of income minus a fixed amount (top rate 6.9%), not modelled. DFA's subtraction amounts leave a small step at the upper thresholds that marginal brackets cannot reproduce. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 4400,
+            "rate": 0.024
+          },
+          {
+            "from": 8700,
+            "rate": 0.034
+          },
+          {
+            "from": 13100,
+            "rate": 0.044
+          },
+          {
+            "from": 21700,
+            "rate": 0.05
+          },
+          {
+            "from": 36300,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2200,
+        "marriedJoint": 4400
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/TaxBrackets2017.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,200/$4,400. Schedule shown applies up to net income $77,400; above that DFA's table phases out the lower brackets so tax becomes 6.9% of income minus a fixed amount (top rate 6.9%), not modelled. DFA's subtraction amounts leave a small step at the upper thresholds that marginal brackets cannot reproduce. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 4500,
+            "rate": 0.024
+          },
+          {
+            "from": 8900,
+            "rate": 0.034
+          },
+          {
+            "from": 13400,
+            "rate": 0.044
+          },
+          {
+            "from": 22200,
+            "rate": 0.05
+          },
+          {
+            "from": 37200,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2200,
+        "marriedJoint": 4400
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/2018_Tax_Brackets.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,200/$4,400. Schedule shown applies up to net income $79,300; above that DFA's table phases out the lower brackets so tax becomes 6.9% of income minus a fixed amount (top rate 6.9%), not modelled. DFA's subtraction amounts leave a small step at the upper thresholds that marginal brackets cannot reproduce. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 4600,
+            "rate": 0.02
+          },
+          {
+            "from": 9100,
+            "rate": 0.03
+          },
+          {
+            "from": 13700,
+            "rate": 0.034
+          },
+          {
+            "from": 22600,
+            "rate": 0.05
+          },
+          {
+            "from": 37900,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2200,
+        "marriedJoint": 4400
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/TaxBrackets_2019.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,200/$4,400. Schedule shown applies up to net income $80,800; above that DFA's table phases out the lower brackets so tax becomes 6.9% of income minus a fixed amount (top rate 6.9%), not modelled. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 4700,
+            "rate": 0.02
+          },
+          {
+            "from": 9200,
+            "rate": 0.03
+          },
+          {
+            "from": 13900,
+            "rate": 0.034
+          },
+          {
+            "from": 22900,
+            "rate": 0.05
+          },
+          {
+            "from": 38500,
+            "rate": 0.059
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2200,
+        "marriedJoint": 4400
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/TaxBrackets_2020.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,200/$4,400. Schedule shown applies up to net income $82,000; above that DFA's table phases out the lower brackets so tax becomes 6.6% of income minus a fixed amount (top rate 6.6%), not modelled. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 4800,
+            "rate": 0.02
+          },
+          {
+            "from": 9500,
+            "rate": 0.03
+          },
+          {
+            "from": 14300,
+            "rate": 0.034
+          },
+          {
+            "from": 23600,
+            "rate": 0.05
+          },
+          {
+            "from": 39700,
+            "rate": 0.059
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2200,
+        "marriedJoint": 4400
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/TaxBrackets_2021.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,200/$4,400. Schedule shown applies up to net income $84,500; above that DFA's table phases out the lower brackets so tax becomes 5.9% of income minus a fixed amount (top rate 5.9%), not modelled. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 5100,
+            "rate": 0.02
+          },
+          {
+            "from": 10300,
+            "rate": 0.03
+          },
+          {
+            "from": 14700,
+            "rate": 0.034
+          },
+          {
+            "from": 24300,
+            "rate": 0.049
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2270,
+        "marriedJoint": 4540
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/TaxBrackets_2022.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,270/$4,540. Schedule shown applies up to net income $87,000; above that DFA's table phases out the lower brackets so tax becomes 4.9% of income minus a fixed amount (top rate 4.9%), not modelled. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 5300,
+            "rate": 0.02
+          },
+          {
+            "from": 10600,
+            "rate": 0.03
+          },
+          {
+            "from": 15100,
+            "rate": 0.034
+          },
+          {
+            "from": 25000,
+            "rate": 0.047
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2340,
+        "marriedJoint": 4680
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/TaxBrackets_2023.pdf",
+      "notes": "DFA indexed tax brackets (\"rate x income minus subtraction\" table); same schedule for single and joint returns (joint brackets not doubled). Standard deduction $2,340/$4,680. Schedule shown applies up to net income $89,600; above that DFA's table phases out the lower brackets so tax becomes 4.7% of income minus a fixed amount (top rate 4.7%), not modelled. Low-income tax tables (zero tax below set AGI levels) and per-person personal tax credits (about $20-$26 in these years) not modelled."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 5500,
+            "rate": 0.02
+          },
+          {
+            "from": 10900,
+            "rate": 0.03
+          },
+          {
+            "from": 15600,
+            "rate": 0.034
+          },
+          {
+            "from": 25700,
+            "rate": 0.039
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 5500,
+            "rate": 0.02
+          },
+          {
+            "from": 10900,
+            "rate": 0.03
+          },
+          {
+            "from": 15600,
+            "rate": 0.034
+          },
+          {
+            "from": 25700,
+            "rate": 0.039
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2410,
+        "marriedJoint": 4820
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/2024_TaxBrackets.pdf",
+      "notes": "This is the table for net income up to $92,300; above that the lower brackets are clawed back over a short ramp, and from $100,000 tax is $3,811 plus 3.9% of the excess. Brackets aren't doubled for joint filers. The $29 personal credit is left out."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 5600,
+            "rate": 0.02
+          },
+          {
+            "from": 11200,
+            "rate": 0.03
+          },
+          {
+            "from": 16000,
+            "rate": 0.034
+          },
+          {
+            "from": 26400,
+            "rate": 0.039
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 5600,
+            "rate": 0.02
+          },
+          {
+            "from": 11200,
+            "rate": 0.03
+          },
+          {
+            "from": 16000,
+            "rate": 0.034
+          },
+          {
+            "from": 26400,
+            "rate": 0.039
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2470,
+        "marriedJoint": 4940
+      },
+      "source": "https://www.dfa.arkansas.gov/wp-content/uploads/2025_TaxBrackets.pdf",
+      "notes": "This is the table for net income up to $94,700; above that the lower brackets are clawed back over a short ramp, and from $100,000 tax is $3,809 plus 3.9% of the excess. Brackets aren't doubled for joint filers. The $29 personal credit is left out."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 5600,
+            "rate": 0.02
+          },
+          {
+            "from": 11200,
+            "rate": 0.03
+          },
+          {
+            "from": 16000,
+            "rate": 0.034
+          },
+          {
+            "from": 26400,
+            "rate": 0.037
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 5600,
+            "rate": 0.02
+          },
+          {
+            "from": 11200,
+            "rate": 0.03
+          },
+          {
+            "from": 16000,
+            "rate": 0.034
+          },
+          {
+            "from": 26400,
+            "rate": 0.037
+          }
+        ]
+      },
+      "deduction": {
+        "single": 2470,
+        "marriedJoint": 4940
+      },
+      "source": "https://dfa.arkansas.gov/wp-content/uploads/Withholding-Tax-Formula.pdf",
+      "notes": "Top rate cut to 3.7% by Act 1 of the 2026 First Extraordinary Session. This is the table for net income up to $94,700; above that a separate table taxes the first $4,700 at 2% and the rest at 3.7%. Brackets aren't doubled for joint filers. The $29 personal credit is left out."
+    }
+  }
+}

@@ -1,0 +1,3261 @@
+{
+  "id": "us-state-ND",
+  "kind": "state",
+  "region": "North Dakota",
+  "state": "ND",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 8000,
+            "rate": 0.1
+          },
+          {
+            "from": 15000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1961/pdf/TAXES.pdf",
+      "notes": "Long-form schedule of N.D.C.C. 57-38-29 as amended by 1961 S.L. ch. 359 sec. 5 (H.B. 908), in force through tax year 1972: the later rate changes (1963 S.L. ch. 395 and 1965 S.L. ch. 386) were disapproved by referendum (July 17, 1963 and Sept. 21, 1965, per the referred-measures records printed with the 1965 and 1967 session laws on ndlegis.gov) and the 1967, 1969 and 1971 session laws did not amend 57-38-29; replaced by 1973 S.L. ch. 465 from 1973. Same schedule for all filing statuses (spouses could file separate returns). Deduction not recorded: North Dakota personal exemptions / standard deduction for 1970-72 not verified in an allowed source. Federal income tax deductibility not modelled. A 'Vietnam bonus surtax' (57-38-30.2: 1% of taxable income, minimum $2.50, maximum $12.50, as amended by 1973 S.L. ch. 471) existed by 1973 and may have applied in some of these years; not modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 8000,
+            "rate": 0.1
+          },
+          {
+            "from": 15000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1961/pdf/TAXES.pdf",
+      "notes": "Long-form schedule of N.D.C.C. 57-38-29 as amended by 1961 S.L. ch. 359 sec. 5 (H.B. 908), in force through tax year 1972: the later rate changes (1963 S.L. ch. 395 and 1965 S.L. ch. 386) were disapproved by referendum (July 17, 1963 and Sept. 21, 1965, per the referred-measures records printed with the 1965 and 1967 session laws on ndlegis.gov) and the 1967, 1969 and 1971 session laws did not amend 57-38-29; replaced by 1973 S.L. ch. 465 from 1973. Same schedule for all filing statuses (spouses could file separate returns). Deduction not recorded: North Dakota personal exemptions / standard deduction for 1970-72 not verified in an allowed source. Federal income tax deductibility not modelled. A 'Vietnam bonus surtax' (57-38-30.2: 1% of taxable income, minimum $2.50, maximum $12.50, as amended by 1973 S.L. ch. 471) existed by 1973 and may have applied in some of these years; not modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.02
+          },
+          {
+            "from": 4000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 8000,
+            "rate": 0.1
+          },
+          {
+            "from": 15000,
+            "rate": 0.11
+          }
+        ]
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1961/pdf/TAXES.pdf",
+      "notes": "Long-form schedule of N.D.C.C. 57-38-29 as amended by 1961 S.L. ch. 359 sec. 5 (H.B. 908), in force through tax year 1972: the later rate changes (1963 S.L. ch. 395 and 1965 S.L. ch. 386) were disapproved by referendum (July 17, 1963 and Sept. 21, 1965, per the referred-measures records printed with the 1965 and 1967 session laws on ndlegis.gov) and the 1967, 1969 and 1971 session laws did not amend 57-38-29; replaced by 1973 S.L. ch. 465 from 1973. Same schedule for all filing statuses (spouses could file separate returns). Deduction not recorded: North Dakota personal exemptions / standard deduction for 1970-72 not verified in an allowed source. Federal income tax deductibility not modelled. A 'Vietnam bonus surtax' (57-38-30.2: 1% of taxable income, minimum $2.50, maximum $12.50, as amended by 1973 S.L. ch. 471) existed by 1973 and may have applied in some of these years; not modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 8000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1973/pdf/TAXES.pdf",
+      "notes": "Long-form schedule; North Dakota taxable income started from federal taxable income and was reduced by federal income tax liability (federal tax deductibility not modelled). Same schedule for all filing statuses. Deduction shown is the federal personal-exemption amount carried in federal taxable income; standard deduction/zero bracket handling not verified. Rates from 1973 S.L. ch. 465 (effective 1973); replaced by 1978 initiated measure."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 8000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1973/pdf/TAXES.pdf",
+      "notes": "Long-form schedule; North Dakota taxable income started from federal taxable income and was reduced by federal income tax liability (federal tax deductibility not modelled). Same schedule for all filing statuses. Deduction shown is the federal personal-exemption amount carried in federal taxable income; standard deduction/zero bracket handling not verified. Rates from 1973 S.L. ch. 465 (effective 1973); replaced by 1978 initiated measure."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 8000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1973/pdf/TAXES.pdf",
+      "notes": "Long-form schedule; North Dakota taxable income started from federal taxable income and was reduced by federal income tax liability (federal tax deductibility not modelled). Same schedule for all filing statuses. Deduction shown is the federal personal-exemption amount carried in federal taxable income; standard deduction/zero bracket handling not verified. Rates from 1973 S.L. ch. 465 (effective 1973); replaced by 1978 initiated measure. 1975-76: 25% inflation credit (max $100) not modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 8000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1973/pdf/TAXES.pdf",
+      "notes": "Long-form schedule; North Dakota taxable income started from federal taxable income and was reduced by federal income tax liability (federal tax deductibility not modelled). Same schedule for all filing statuses. Deduction shown is the federal personal-exemption amount carried in federal taxable income; standard deduction/zero bracket handling not verified. Rates from 1973 S.L. ch. 465 (effective 1973); replaced by 1978 initiated measure. 1975-76: 25% inflation credit (max $100) not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1000,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.05
+          },
+          {
+            "from": 6000,
+            "rate": 0.075
+          },
+          {
+            "from": 8000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1973/pdf/TAXES.pdf",
+      "notes": "Long-form schedule; North Dakota taxable income started from federal taxable income and was reduced by federal income tax liability (federal tax deductibility not modelled). Same schedule for all filing statuses. Deduction shown is the federal personal-exemption amount carried in federal taxable income; standard deduction/zero bracket handling not verified. Rates from 1973 S.L. ch. 465 (effective 1973); replaced by 1978 initiated measure."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.02
+          },
+          {
+            "from": 5000,
+            "rate": 0.03
+          },
+          {
+            "from": 8000,
+            "rate": 0.04
+          },
+          {
+            "from": 12000,
+            "rate": 0.05
+          },
+          {
+            "from": 30000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1979/pdf/IMA.pdf",
+      "notes": "Long-form schedule; North Dakota taxable income started from federal taxable income and was reduced by federal income tax liability (federal tax deductibility not modelled). Same schedule for all filing statuses. Deduction shown is the federal personal-exemption amount carried in federal taxable income; standard deduction/zero bracket handling not verified. Rates from initiated measure No. 2 (approved Nov. 7, 1978; effective tax years beginning 1978)."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.02
+          },
+          {
+            "from": 5000,
+            "rate": 0.03
+          },
+          {
+            "from": 8000,
+            "rate": 0.04
+          },
+          {
+            "from": 12000,
+            "rate": 0.05
+          },
+          {
+            "from": 30000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1979/pdf/IMA.pdf",
+      "notes": "Long-form schedule; North Dakota taxable income started from federal taxable income and was reduced by federal income tax liability (federal tax deductibility not modelled). Same schedule for all filing statuses. Deduction shown is the federal personal-exemption amount carried in federal taxable income; standard deduction/zero bracket handling not verified. Rates from initiated measure No. 2 (approved Nov. 7, 1978; effective tax years beginning 1978)."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.02
+          },
+          {
+            "from": 5000,
+            "rate": 0.03
+          },
+          {
+            "from": 8000,
+            "rate": 0.04
+          },
+          {
+            "from": 12000,
+            "rate": 0.05
+          },
+          {
+            "from": 30000,
+            "rate": 0.075
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1979/pdf/IMA.pdf",
+      "notes": "Long-form schedule; North Dakota taxable income started from federal taxable income and was reduced by federal income tax liability (federal tax deductibility not modelled). Same schedule for all filing statuses. Deduction shown is the federal personal-exemption amount carried in federal taxable income; standard deduction/zero bracket handling not verified. Rates from initiated measure No. 2 (approved Nov. 7, 1978; effective tax years beginning 1978)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.0105
+          },
+          {
+            "from": 3400,
+            "rate": 0.012
+          },
+          {
+            "from": 4400,
+            "rate": 0.0135
+          },
+          {
+            "from": 6500,
+            "rate": 0.01425
+          },
+          {
+            "from": 8500,
+            "rate": 0.01575
+          },
+          {
+            "from": 10800,
+            "rate": 0.018
+          },
+          {
+            "from": 12900,
+            "rate": 0.0195
+          },
+          {
+            "from": 15000,
+            "rate": 0.0225
+          },
+          {
+            "from": 18200,
+            "rate": 0.0255
+          },
+          {
+            "from": 23500,
+            "rate": 0.02925
+          },
+          {
+            "from": 28800,
+            "rate": 0.033
+          },
+          {
+            "from": 34100,
+            "rate": 0.03675
+          },
+          {
+            "from": 41500,
+            "rate": 0.04125
+          },
+          {
+            "from": 55300,
+            "rate": 0.04725
+          },
+          {
+            "from": 81800,
+            "rate": 0.051
+          },
+          {
+            "from": 108300,
+            "rate": 0.0525
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.0105
+          },
+          {
+            "from": 5500,
+            "rate": 0.012
+          },
+          {
+            "from": 7600,
+            "rate": 0.0135
+          },
+          {
+            "from": 11900,
+            "rate": 0.01575
+          },
+          {
+            "from": 16000,
+            "rate": 0.018
+          },
+          {
+            "from": 20200,
+            "rate": 0.021
+          },
+          {
+            "from": 24600,
+            "rate": 0.024
+          },
+          {
+            "from": 29900,
+            "rate": 0.02775
+          },
+          {
+            "from": 35200,
+            "rate": 0.03225
+          },
+          {
+            "from": 45800,
+            "rate": 0.03675
+          },
+          {
+            "from": 60000,
+            "rate": 0.0405
+          },
+          {
+            "from": 85600,
+            "rate": 0.04425
+          },
+          {
+            "from": 109400,
+            "rate": 0.048
+          },
+          {
+            "from": 162400,
+            "rate": 0.051
+          },
+          {
+            "from": 215400,
+            "rate": 0.0525
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1981/pdf/TAXES.pdf",
+      "notes": "7.5% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 7.5% with the federal deduction. Optional long form still used the 1978 graduated schedule (1%-7.5%). 1981 initiated measure energy cost relief credit (up to $100) not modelled."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.009
+          },
+          {
+            "from": 3400,
+            "rate": 0.0105
+          },
+          {
+            "from": 4400,
+            "rate": 0.012
+          },
+          {
+            "from": 6500,
+            "rate": 0.01275
+          },
+          {
+            "from": 8500,
+            "rate": 0.01425
+          },
+          {
+            "from": 10800,
+            "rate": 0.0165
+          },
+          {
+            "from": 12900,
+            "rate": 0.01725
+          },
+          {
+            "from": 15000,
+            "rate": 0.02025
+          },
+          {
+            "from": 18200,
+            "rate": 0.02325
+          },
+          {
+            "from": 23500,
+            "rate": 0.02625
+          },
+          {
+            "from": 28800,
+            "rate": 0.03
+          },
+          {
+            "from": 34100,
+            "rate": 0.033
+          },
+          {
+            "from": 41500,
+            "rate": 0.0375
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.009
+          },
+          {
+            "from": 5500,
+            "rate": 0.0105
+          },
+          {
+            "from": 7600,
+            "rate": 0.012
+          },
+          {
+            "from": 11900,
+            "rate": 0.01425
+          },
+          {
+            "from": 16000,
+            "rate": 0.0165
+          },
+          {
+            "from": 20200,
+            "rate": 0.01875
+          },
+          {
+            "from": 24600,
+            "rate": 0.02175
+          },
+          {
+            "from": 29900,
+            "rate": 0.02475
+          },
+          {
+            "from": 35200,
+            "rate": 0.02925
+          },
+          {
+            "from": 45800,
+            "rate": 0.033
+          },
+          {
+            "from": 60000,
+            "rate": 0.03675
+          },
+          {
+            "from": 85600,
+            "rate": 0.0375
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1981/pdf/TAXES.pdf",
+      "notes": "7.5% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 7.5% with the federal deduction. Optional long form still used the 1978 graduated schedule (1%-7.5%). 1981 initiated measure energy cost relief credit (up to $100) not modelled."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.01155
+          },
+          {
+            "from": 3400,
+            "rate": 0.01365
+          },
+          {
+            "from": 4400,
+            "rate": 0.01575
+          },
+          {
+            "from": 8500,
+            "rate": 0.01785
+          },
+          {
+            "from": 10800,
+            "rate": 0.01995
+          },
+          {
+            "from": 12900,
+            "rate": 0.02205
+          },
+          {
+            "from": 15000,
+            "rate": 0.0252
+          },
+          {
+            "from": 18200,
+            "rate": 0.0294
+          },
+          {
+            "from": 23500,
+            "rate": 0.0336
+          },
+          {
+            "from": 28800,
+            "rate": 0.0378
+          },
+          {
+            "from": 34100,
+            "rate": 0.042
+          },
+          {
+            "from": 41500,
+            "rate": 0.04725
+          },
+          {
+            "from": 55300,
+            "rate": 0.0525
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.01155
+          },
+          {
+            "from": 5500,
+            "rate": 0.01365
+          },
+          {
+            "from": 7600,
+            "rate": 0.01575
+          },
+          {
+            "from": 11900,
+            "rate": 0.01785
+          },
+          {
+            "from": 16000,
+            "rate": 0.01995
+          },
+          {
+            "from": 20200,
+            "rate": 0.02415
+          },
+          {
+            "from": 24600,
+            "rate": 0.0273
+          },
+          {
+            "from": 29900,
+            "rate": 0.0315
+          },
+          {
+            "from": 35200,
+            "rate": 0.03675
+          },
+          {
+            "from": 45800,
+            "rate": 0.042
+          },
+          {
+            "from": 60000,
+            "rate": 0.0462
+          },
+          {
+            "from": 85600,
+            "rate": 0.0504
+          },
+          {
+            "from": 109400,
+            "rate": 0.0525
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1983/pdf/TAXES.pdf",
+      "notes": "10.5% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 10.5% with the federal deduction. 1983 S.L. ch. 632 (made permanent by 1985 S.L. ch. 634). Optional long form: 2%-9% graduated schedule. Federal schedule for 1983-86 has the zero bracket built in."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.01155
+          },
+          {
+            "from": 3400,
+            "rate": 0.0126
+          },
+          {
+            "from": 4400,
+            "rate": 0.0147
+          },
+          {
+            "from": 6500,
+            "rate": 0.01575
+          },
+          {
+            "from": 8500,
+            "rate": 0.0168
+          },
+          {
+            "from": 10800,
+            "rate": 0.0189
+          },
+          {
+            "from": 12900,
+            "rate": 0.021
+          },
+          {
+            "from": 15000,
+            "rate": 0.02415
+          },
+          {
+            "from": 18200,
+            "rate": 0.0273
+          },
+          {
+            "from": 23500,
+            "rate": 0.0315
+          },
+          {
+            "from": 28800,
+            "rate": 0.0357
+          },
+          {
+            "from": 34100,
+            "rate": 0.0399
+          },
+          {
+            "from": 41500,
+            "rate": 0.0441
+          },
+          {
+            "from": 55300,
+            "rate": 0.0504
+          },
+          {
+            "from": 81800,
+            "rate": 0.0525
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.01155
+          },
+          {
+            "from": 5500,
+            "rate": 0.0126
+          },
+          {
+            "from": 7600,
+            "rate": 0.0147
+          },
+          {
+            "from": 11900,
+            "rate": 0.0168
+          },
+          {
+            "from": 16000,
+            "rate": 0.0189
+          },
+          {
+            "from": 20200,
+            "rate": 0.0231
+          },
+          {
+            "from": 24600,
+            "rate": 0.02625
+          },
+          {
+            "from": 29900,
+            "rate": 0.0294
+          },
+          {
+            "from": 35200,
+            "rate": 0.03465
+          },
+          {
+            "from": 45800,
+            "rate": 0.0399
+          },
+          {
+            "from": 60000,
+            "rate": 0.0441
+          },
+          {
+            "from": 85600,
+            "rate": 0.04725
+          },
+          {
+            "from": 109400,
+            "rate": 0.05145
+          },
+          {
+            "from": 162400,
+            "rate": 0.0525
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1983/pdf/TAXES.pdf",
+      "notes": "10.5% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 10.5% with the federal deduction. 1983 S.L. ch. 632 (made permanent by 1985 S.L. ch. 634). Optional long form: 2%-9% graduated schedule. Federal schedule for 1983-86 has the zero bracket built in."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2390,
+            "rate": 0.01155
+          },
+          {
+            "from": 3540,
+            "rate": 0.0126
+          },
+          {
+            "from": 4580,
+            "rate": 0.0147
+          },
+          {
+            "from": 6760,
+            "rate": 0.01575
+          },
+          {
+            "from": 8850,
+            "rate": 0.0168
+          },
+          {
+            "from": 11240,
+            "rate": 0.0189
+          },
+          {
+            "from": 13430,
+            "rate": 0.021
+          },
+          {
+            "from": 15610,
+            "rate": 0.02415
+          },
+          {
+            "from": 18940,
+            "rate": 0.0273
+          },
+          {
+            "from": 24460,
+            "rate": 0.0315
+          },
+          {
+            "from": 29970,
+            "rate": 0.0357
+          },
+          {
+            "from": 35490,
+            "rate": 0.0399
+          },
+          {
+            "from": 43190,
+            "rate": 0.0441
+          },
+          {
+            "from": 57550,
+            "rate": 0.0504
+          },
+          {
+            "from": 85130,
+            "rate": 0.0525
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3540,
+            "rate": 0.01155
+          },
+          {
+            "from": 5720,
+            "rate": 0.0126
+          },
+          {
+            "from": 7910,
+            "rate": 0.0147
+          },
+          {
+            "from": 12390,
+            "rate": 0.0168
+          },
+          {
+            "from": 16650,
+            "rate": 0.0189
+          },
+          {
+            "from": 21020,
+            "rate": 0.0231
+          },
+          {
+            "from": 25600,
+            "rate": 0.02625
+          },
+          {
+            "from": 31120,
+            "rate": 0.0294
+          },
+          {
+            "from": 36630,
+            "rate": 0.03465
+          },
+          {
+            "from": 47670,
+            "rate": 0.0399
+          },
+          {
+            "from": 62450,
+            "rate": 0.0441
+          },
+          {
+            "from": 89090,
+            "rate": 0.04725
+          },
+          {
+            "from": 113860,
+            "rate": 0.05145
+          },
+          {
+            "from": 169020,
+            "rate": 0.0525
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1040,
+        "marriedJoint": 2080
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1983/pdf/TAXES.pdf",
+      "notes": "10.5% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 10.5% with the federal deduction. 1983 S.L. ch. 632 (made permanent by 1985 S.L. ch. 634). Optional long form: 2%-9% graduated schedule. Federal schedule for 1983-86 has the zero bracket built in."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2480,
+            "rate": 0.01155
+          },
+          {
+            "from": 3670,
+            "rate": 0.0126
+          },
+          {
+            "from": 4750,
+            "rate": 0.0147
+          },
+          {
+            "from": 7010,
+            "rate": 0.01575
+          },
+          {
+            "from": 9170,
+            "rate": 0.0168
+          },
+          {
+            "from": 11650,
+            "rate": 0.0189
+          },
+          {
+            "from": 13920,
+            "rate": 0.021
+          },
+          {
+            "from": 16190,
+            "rate": 0.02415
+          },
+          {
+            "from": 19640,
+            "rate": 0.0273
+          },
+          {
+            "from": 25360,
+            "rate": 0.0315
+          },
+          {
+            "from": 31080,
+            "rate": 0.0357
+          },
+          {
+            "from": 36800,
+            "rate": 0.0399
+          },
+          {
+            "from": 44780,
+            "rate": 0.0441
+          },
+          {
+            "from": 59670,
+            "rate": 0.0504
+          },
+          {
+            "from": 88270,
+            "rate": 0.0525
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3670,
+            "rate": 0.01155
+          },
+          {
+            "from": 5940,
+            "rate": 0.0126
+          },
+          {
+            "from": 8200,
+            "rate": 0.0147
+          },
+          {
+            "from": 12840,
+            "rate": 0.0168
+          },
+          {
+            "from": 17270,
+            "rate": 0.0189
+          },
+          {
+            "from": 21800,
+            "rate": 0.0231
+          },
+          {
+            "from": 26550,
+            "rate": 0.02625
+          },
+          {
+            "from": 32270,
+            "rate": 0.0294
+          },
+          {
+            "from": 37980,
+            "rate": 0.03465
+          },
+          {
+            "from": 49420,
+            "rate": 0.0399
+          },
+          {
+            "from": 64750,
+            "rate": 0.0441
+          },
+          {
+            "from": 92370,
+            "rate": 0.04725
+          },
+          {
+            "from": 118050,
+            "rate": 0.05145
+          },
+          {
+            "from": 175250,
+            "rate": 0.0525
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1080,
+        "marriedJoint": 2160
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1985/pdf/TAXES.pdf",
+      "notes": "10.5% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 10.5% with the federal deduction. 1983 S.L. ch. 632 (made permanent by 1985 S.L. ch. 634). Optional long form: 2%-9% graduated schedule. Federal schedule for 1983-86 has the zero bracket built in."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0154
+          },
+          {
+            "from": 1800,
+            "rate": 0.021
+          },
+          {
+            "from": 16800,
+            "rate": 0.0392
+          },
+          {
+            "from": 27000,
+            "rate": 0.049
+          },
+          {
+            "from": 54000,
+            "rate": 0.0539
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0154
+          },
+          {
+            "from": 3000,
+            "rate": 0.021
+          },
+          {
+            "from": 28000,
+            "rate": 0.0392
+          },
+          {
+            "from": 45000,
+            "rate": 0.049
+          },
+          {
+            "from": 90000,
+            "rate": 0.0539
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4440,
+        "marriedJoint": 7560
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1987/pdf/TAXES.pdf",
+      "notes": "14% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 14% with the federal deduction. 1986 HB 1901 (approved by referendum Mar. 1987), effective 1987; a 1989 increase to 17% was rejected by referendum Dec. 5, 1989; replaced from 2001 (2001 S.L. ch. 526 strikes \"fourteen percent\"). Optional long form: 2.67%-12% graduated schedule."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 17850,
+            "rate": 0.0392
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 29750,
+            "rate": 0.0392
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4950,
+        "marriedJoint": 8900
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1987/pdf/TAXES.pdf",
+      "notes": "14% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 14% with the federal deduction. 1986 HB 1901 (approved by referendum Mar. 1987), effective 1987; a 1989 increase to 17% was rejected by referendum Dec. 5, 1989; replaced from 2001 (2001 S.L. ch. 526 strikes \"fourteen percent\"). Optional long form: 2.67%-12% graduated schedule."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 18550,
+            "rate": 0.0392
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 30950,
+            "rate": 0.0392
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5100,
+        "marriedJoint": 9200
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1989/pdf/RMD.pdf",
+      "notes": "14% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 14% with the federal deduction. 1986 HB 1901 (approved by referendum Mar. 1987), effective 1987; a 1989 increase to 17% was rejected by referendum Dec. 5, 1989; replaced from 2001 (2001 S.L. ch. 526 strikes \"fourteen percent\"). Optional long form: 2.67%-12% graduated schedule."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 19450,
+            "rate": 0.0392
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 32450,
+            "rate": 0.0392
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5300,
+        "marriedJoint": 9550
+      },
+      "source": "https://ndlegis.gov/assembly/sessionlaws/1989/pdf/RMD.pdf",
+      "notes": "14% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 14% with the federal deduction. 1986 HB 1901 (approved by referendum Mar. 1987), effective 1987; a 1989 increase to 17% was rejected by referendum Dec. 5, 1989; replaced from 2001 (2001 S.L. ch. 526 strikes \"fourteen percent\"). Optional long form: 2.67%-12% graduated schedule."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 20350,
+            "rate": 0.0392
+          },
+          {
+            "from": 49300,
+            "rate": 0.0434
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 34000,
+            "rate": 0.0392
+          },
+          {
+            "from": 82150,
+            "rate": 0.0434
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5550,
+        "marriedJoint": 10000
+      },
+      "source": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/taxes.pdf",
+      "notes": "14% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 14% with the federal deduction. 1986 HB 1901 (approved by referendum Mar. 1987), effective 1987; a 1989 increase to 17% was rejected by referendum Dec. 5, 1989; replaced from 2001 (2001 S.L. ch. 526 strikes \"fourteen percent\"). Optional long form: 2.67%-12% graduated schedule."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 21450,
+            "rate": 0.0392
+          },
+          {
+            "from": 51900,
+            "rate": 0.0434
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 35800,
+            "rate": 0.0392
+          },
+          {
+            "from": 86500,
+            "rate": 0.0434
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5900,
+        "marriedJoint": 10600
+      },
+      "source": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/taxes.pdf",
+      "notes": "14% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 14% with the federal deduction. 1986 HB 1901 (approved by referendum Mar. 1987), effective 1987; a 1989 increase to 17% was rejected by referendum Dec. 5, 1989; replaced from 2001 (2001 S.L. ch. 526 strikes \"fourteen percent\"). Optional long form: 2.67%-12% graduated schedule."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 22100,
+            "rate": 0.0392
+          },
+          {
+            "from": 53500,
+            "rate": 0.0434
+          },
+          {
+            "from": 115000,
+            "rate": 0.0504
+          },
+          {
+            "from": 250000,
+            "rate": 0.05544
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 36900,
+            "rate": 0.0392
+          },
+          {
+            "from": 89150,
+            "rate": 0.0434
+          },
+          {
+            "from": 140000,
+            "rate": 0.0504
+          },
+          {
+            "from": 250000,
+            "rate": 0.05544
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6050,
+        "marriedJoint": 10900
+      },
+      "source": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/taxes.pdf",
+      "notes": "14% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 14% with the federal deduction. 1986 HB 1901 (approved by referendum Mar. 1987), effective 1987; a 1989 increase to 17% was rejected by referendum Dec. 5, 1989; replaced from 2001 (2001 S.L. ch. 526 strikes \"fourteen percent\"). Optional long form: 2.67%-12% graduated schedule."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 22750,
+            "rate": 0.0392
+          },
+          {
+            "from": 55100,
+            "rate": 0.0434
+          },
+          {
+            "from": 115000,
+            "rate": 0.0504
+          },
+          {
+            "from": 250000,
+            "rate": 0.05544
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 38000,
+            "rate": 0.0392
+          },
+          {
+            "from": 91850,
+            "rate": 0.0434
+          },
+          {
+            "from": 140000,
+            "rate": 0.0504
+          },
+          {
+            "from": 250000,
+            "rate": 0.05544
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6250,
+        "marriedJoint": 11250
+      },
+      "source": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/taxes.pdf",
+      "notes": "14% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 14% with the federal deduction. 1986 HB 1901 (approved by referendum Mar. 1987), effective 1987; a 1989 increase to 17% was rejected by referendum Dec. 5, 1989; replaced from 2001 (2001 S.L. ch. 526 strikes \"fourteen percent\"). Optional long form: 2.67%-12% graduated schedule."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 23350,
+            "rate": 0.0392
+          },
+          {
+            "from": 56550,
+            "rate": 0.0434
+          },
+          {
+            "from": 117950,
+            "rate": 0.0504
+          },
+          {
+            "from": 256500,
+            "rate": 0.05544
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 39000,
+            "rate": 0.0392
+          },
+          {
+            "from": 94250,
+            "rate": 0.0434
+          },
+          {
+            "from": 143600,
+            "rate": 0.0504
+          },
+          {
+            "from": 256500,
+            "rate": 0.05544
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6400,
+        "marriedJoint": 11550
+      },
+      "source": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/taxes.pdf",
+      "notes": "14% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 14% with the federal deduction. 1986 HB 1901 (approved by referendum Mar. 1987), effective 1987; a 1989 increase to 17% was rejected by referendum Dec. 5, 1989; replaced from 2001 (2001 S.L. ch. 526 strikes \"fourteen percent\"). Optional long form: 2.67%-12% graduated schedule."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 24000,
+            "rate": 0.0392
+          },
+          {
+            "from": 58150,
+            "rate": 0.0434
+          },
+          {
+            "from": 121300,
+            "rate": 0.0504
+          },
+          {
+            "from": 263750,
+            "rate": 0.05544
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 40100,
+            "rate": 0.0392
+          },
+          {
+            "from": 96900,
+            "rate": 0.0434
+          },
+          {
+            "from": 147700,
+            "rate": 0.0504
+          },
+          {
+            "from": 263750,
+            "rate": 0.05544
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6550,
+        "marriedJoint": 11800
+      },
+      "source": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/taxes.pdf",
+      "notes": "14% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 14% with the federal deduction. 1986 HB 1901 (approved by referendum Mar. 1987), effective 1987; a 1989 increase to 17% was rejected by referendum Dec. 5, 1989; replaced from 2001 (2001 S.L. ch. 526 strikes \"fourteen percent\"). Optional long form: 2.67%-12% graduated schedule."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 24650,
+            "rate": 0.0392
+          },
+          {
+            "from": 59750,
+            "rate": 0.0434
+          },
+          {
+            "from": 124650,
+            "rate": 0.0504
+          },
+          {
+            "from": 271050,
+            "rate": 0.05544
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 41200,
+            "rate": 0.0392
+          },
+          {
+            "from": 99600,
+            "rate": 0.0434
+          },
+          {
+            "from": 151750,
+            "rate": 0.0504
+          },
+          {
+            "from": 271050,
+            "rate": 0.05544
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6800,
+        "marriedJoint": 12200
+      },
+      "source": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/taxes.pdf",
+      "notes": "14% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 14% with the federal deduction. 1986 HB 1901 (approved by referendum Mar. 1987), effective 1987; a 1989 increase to 17% was rejected by referendum Dec. 5, 1989; replaced from 2001 (2001 S.L. ch. 526 strikes \"fourteen percent\"). Optional long form: 2.67%-12% graduated schedule."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 25350,
+            "rate": 0.0392
+          },
+          {
+            "from": 61400,
+            "rate": 0.0434
+          },
+          {
+            "from": 128100,
+            "rate": 0.0504
+          },
+          {
+            "from": 278450,
+            "rate": 0.05544
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 42350,
+            "rate": 0.0392
+          },
+          {
+            "from": 102300,
+            "rate": 0.0434
+          },
+          {
+            "from": 155950,
+            "rate": 0.0504
+          },
+          {
+            "from": 278450,
+            "rate": 0.05544
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6950,
+        "marriedJoint": 12500
+      },
+      "source": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/taxes.pdf",
+      "notes": "14% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 14% with the federal deduction. 1986 HB 1901 (approved by referendum Mar. 1987), effective 1987; a 1989 increase to 17% was rejected by referendum Dec. 5, 1989; replaced from 2001 (2001 S.L. ch. 526 strikes \"fourteen percent\"). Optional long form: 2.67%-12% graduated schedule."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 25750,
+            "rate": 0.0392
+          },
+          {
+            "from": 62450,
+            "rate": 0.0434
+          },
+          {
+            "from": 130250,
+            "rate": 0.0504
+          },
+          {
+            "from": 283150,
+            "rate": 0.05544
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 43050,
+            "rate": 0.0392
+          },
+          {
+            "from": 104050,
+            "rate": 0.0434
+          },
+          {
+            "from": 158550,
+            "rate": 0.0504
+          },
+          {
+            "from": 283150,
+            "rate": 0.05544
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7050,
+        "marriedJoint": 12700
+      },
+      "source": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/taxes.pdf",
+      "notes": "14% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 14% with the federal deduction. 1986 HB 1901 (approved by referendum Mar. 1987), effective 1987; a 1989 increase to 17% was rejected by referendum Dec. 5, 1989; replaced from 2001 (2001 S.L. ch. 526 strikes \"fourteen percent\"). Optional long form: 2.67%-12% graduated schedule."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 26250,
+            "rate": 0.0392
+          },
+          {
+            "from": 63550,
+            "rate": 0.0434
+          },
+          {
+            "from": 132600,
+            "rate": 0.0504
+          },
+          {
+            "from": 288350,
+            "rate": 0.05544
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 43850,
+            "rate": 0.0392
+          },
+          {
+            "from": 105950,
+            "rate": 0.0434
+          },
+          {
+            "from": 161450,
+            "rate": 0.0504
+          },
+          {
+            "from": 288350,
+            "rate": 0.05544
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7200,
+        "marriedJoint": 12950
+      },
+      "source": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/taxes.pdf",
+      "notes": "14% of federal income tax (simplified optional short-form method, N.D.C.C. 57-38-30.3): federal schedule x 14% with the federal deduction. 1986 HB 1901 (approved by referendum Mar. 1987), effective 1987; a 1989 increase to 17% was rejected by referendum Dec. 5, 1989; replaced from 2001 (2001 S.L. ch. 526 strikes \"fourteen percent\"). Optional long form: 2.67%-12% graduated schedule."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 27050,
+            "rate": 0.0392
+          },
+          {
+            "from": 65550,
+            "rate": 0.0434
+          },
+          {
+            "from": 136750,
+            "rate": 0.0504
+          },
+          {
+            "from": 297350,
+            "rate": 0.0554
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 45200,
+            "rate": 0.0392
+          },
+          {
+            "from": 109250,
+            "rate": 0.0434
+          },
+          {
+            "from": 166500,
+            "rate": 0.0504
+          },
+          {
+            "from": 297350,
+            "rate": 0.0554
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7450,
+        "marriedJoint": 13400
+      },
+      "source": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/taxes.pdf",
+      "notes": "Starts from federal taxable income (2001 S.L. ch. 526); deduction is the federal standard deduction plus exemptions."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 27950,
+            "rate": 0.0392
+          },
+          {
+            "from": 67700,
+            "rate": 0.0434
+          },
+          {
+            "from": 141250,
+            "rate": 0.0504
+          },
+          {
+            "from": 307050,
+            "rate": 0.0554
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 46700,
+            "rate": 0.0392
+          },
+          {
+            "from": 112850,
+            "rate": 0.0434
+          },
+          {
+            "from": 171950,
+            "rate": 0.0504
+          },
+          {
+            "from": 307050,
+            "rate": 0.0554
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7700,
+        "marriedJoint": 13850
+      },
+      "source": "https://web.archive.org/web/20060602230716/http://www.nd.gov/tax/indincome/forms/2002/nd1instruct.pdf",
+      "notes": "Form ND-1 Tax Rate Schedules, 2002 Form ND-1 instruction booklet (Office of State Tax Commissioner; Wayback Machine copy). Starts from federal taxable income (2001 S.L. ch. 526); deduction is the federal standard deduction plus exemptions. The optional Form ND-2 long-form method (separate schedule) and credits (e.g. marriage penalty credit) not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 28400,
+            "rate": 0.0392
+          },
+          {
+            "from": 68800,
+            "rate": 0.0434
+          },
+          {
+            "from": 143500,
+            "rate": 0.0504
+          },
+          {
+            "from": 311950,
+            "rate": 0.0554
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 47450,
+            "rate": 0.0392
+          },
+          {
+            "from": 114650,
+            "rate": 0.0434
+          },
+          {
+            "from": 174700,
+            "rate": 0.0504
+          },
+          {
+            "from": 311950,
+            "rate": 0.0554
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7800,
+        "marriedJoint": 15600
+      },
+      "source": "https://web.archive.org/web/20060602230209/http://www.nd.gov/tax/indincome/forms/2003/nd1instruct.pdf",
+      "notes": "Form ND-1 Tax Rate Schedules, 2003 Form ND-1 instruction booklet (Office of State Tax Commissioner; Wayback Machine copy). Starts from federal taxable income (2001 S.L. ch. 526); deduction is the federal standard deduction plus exemptions. The optional Form ND-2 long-form method (separate schedule) and credits (e.g. marriage penalty credit) not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 29050,
+            "rate": 0.0392
+          },
+          {
+            "from": 70350,
+            "rate": 0.0434
+          },
+          {
+            "from": 146750,
+            "rate": 0.0504
+          },
+          {
+            "from": 319100,
+            "rate": 0.0554
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 48500,
+            "rate": 0.0392
+          },
+          {
+            "from": 117250,
+            "rate": 0.0434
+          },
+          {
+            "from": 178650,
+            "rate": 0.0504
+          },
+          {
+            "from": 319100,
+            "rate": 0.0554
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7950,
+        "marriedJoint": 15900
+      },
+      "source": "https://web.archive.org/web/20060602230740/http://www.nd.gov/tax/indincome/forms/2004/nd1instruct.pdf",
+      "notes": "Form ND-1 Tax Rate Schedules, 2004 Form ND-1 instruction booklet (Office of State Tax Commissioner; Wayback Machine copy). Starts from federal taxable income (2001 S.L. ch. 526); deduction is the federal standard deduction plus exemptions. The optional Form ND-2 long-form method (separate schedule) and credits (e.g. marriage penalty credit) not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 29700,
+            "rate": 0.0392
+          },
+          {
+            "from": 71950,
+            "rate": 0.0434
+          },
+          {
+            "from": 150150,
+            "rate": 0.0504
+          },
+          {
+            "from": 326450,
+            "rate": 0.0554
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 49600,
+            "rate": 0.0392
+          },
+          {
+            "from": 119950,
+            "rate": 0.0434
+          },
+          {
+            "from": 182800,
+            "rate": 0.0504
+          },
+          {
+            "from": 326450,
+            "rate": 0.0554
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8200,
+        "marriedJoint": 16400
+      },
+      "source": "https://web.archive.org/web/20060125021829/http://www.nd.gov:80/tax/indincome/forms/2005/nd1instruct.pdf",
+      "notes": "Form ND-1 Tax Rate Schedules, 2005 Form ND-1 instruction booklet (Office of State Tax Commissioner; Wayback Machine copy). Starts from federal taxable income (2001 S.L. ch. 526); deduction is the federal standard deduction plus exemptions. The optional Form ND-2 long-form method (separate schedule) and credits (e.g. marriage penalty credit) not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 30650,
+            "rate": 0.0392
+          },
+          {
+            "from": 74200,
+            "rate": 0.0434
+          },
+          {
+            "from": 154800,
+            "rate": 0.0504
+          },
+          {
+            "from": 336550,
+            "rate": 0.0554
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 51200,
+            "rate": 0.0392
+          },
+          {
+            "from": 123700,
+            "rate": 0.0434
+          },
+          {
+            "from": 188450,
+            "rate": 0.0504
+          },
+          {
+            "from": 336550,
+            "rate": 0.0554
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8450,
+        "marriedJoint": 16900
+      },
+      "source": "https://web.archive.org/web/20090122063148/http://www.nd.gov/tax/indincome/forms/2006/nd1instruct.pdf",
+      "notes": "Form ND-1 Tax Rate Schedules, 2006 Form ND-1 instruction booklet (Office of State Tax Commissioner; Wayback Machine copy). Starts from federal taxable income (2001 S.L. ch. 526); deduction is the federal standard deduction plus exemptions. The optional Form ND-2 long-form method (separate schedule) and credits (e.g. marriage penalty credit) not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 31850,
+            "rate": 0.0392
+          },
+          {
+            "from": 77100,
+            "rate": 0.0434
+          },
+          {
+            "from": 160850,
+            "rate": 0.0504
+          },
+          {
+            "from": 349700,
+            "rate": 0.0554
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 53200,
+            "rate": 0.0392
+          },
+          {
+            "from": 128500,
+            "rate": 0.0434
+          },
+          {
+            "from": 195850,
+            "rate": 0.0504
+          },
+          {
+            "from": 349700,
+            "rate": 0.0554
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8750,
+        "marriedJoint": 17500
+      },
+      "source": "https://web.archive.org/web/20090122062907/http://www.nd.gov/tax/indincome/forms/2007/nd1instruct.pdf",
+      "notes": "Form ND-1 Tax Rate Schedules, 2007 Form ND-1 instruction booklet (Office of State Tax Commissioner; Wayback Machine copy). Starts from federal taxable income (2001 S.L. ch. 526); deduction is the federal standard deduction plus exemptions. The optional Form ND-2 long-form method (separate schedule) and credits (e.g. marriage penalty credit) not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 32550,
+            "rate": 0.0392
+          },
+          {
+            "from": 78850,
+            "rate": 0.0434
+          },
+          {
+            "from": 164550,
+            "rate": 0.0504
+          },
+          {
+            "from": 357700,
+            "rate": 0.0554
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 54400,
+            "rate": 0.0392
+          },
+          {
+            "from": 131450,
+            "rate": 0.0434
+          },
+          {
+            "from": 200300,
+            "rate": 0.0504
+          },
+          {
+            "from": 357700,
+            "rate": 0.0554
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8950,
+        "marriedJoint": 17900
+      },
+      "source": "https://web.archive.org/web/20090121155248/http://www.nd.gov/tax/indincome/forms/2008/nd1instruct.pdf",
+      "notes": "Form ND-1 Tax Rate Schedules, 2008 Form ND-1 instruction booklet (Office of State Tax Commissioner; Wayback Machine copy). Starts from federal taxable income (2001 S.L. ch. 526); deduction is the federal standard deduction plus exemptions. The optional Form ND-2 long-form method (separate schedule) and credits (e.g. marriage penalty credit) not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0184
+          },
+          {
+            "from": 33950,
+            "rate": 0.0344
+          },
+          {
+            "from": 82250,
+            "rate": 0.0381
+          },
+          {
+            "from": 171550,
+            "rate": 0.0442
+          },
+          {
+            "from": 372950,
+            "rate": 0.0486
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0184
+          },
+          {
+            "from": 56750,
+            "rate": 0.0344
+          },
+          {
+            "from": 137050,
+            "rate": 0.0381
+          },
+          {
+            "from": 208850,
+            "rate": 0.0442
+          },
+          {
+            "from": 372950,
+            "rate": 0.0486
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ND/2009/nd1instruct.pdf",
+      "notes": "Starts from federal taxable income; deduction is the federal standard deduction plus exemptions. Marriage penalty credit not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0184
+          },
+          {
+            "from": 34000,
+            "rate": 0.0344
+          },
+          {
+            "from": 82400,
+            "rate": 0.0381
+          },
+          {
+            "from": 171850,
+            "rate": 0.0442
+          },
+          {
+            "from": 373650,
+            "rate": 0.0486
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0184
+          },
+          {
+            "from": 56850,
+            "rate": 0.0344
+          },
+          {
+            "from": 137300,
+            "rate": 0.0381
+          },
+          {
+            "from": 209250,
+            "rate": 0.0442
+          },
+          {
+            "from": 373650,
+            "rate": 0.0486
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ND/2010/nd1instruct.pdf",
+      "notes": "Starts from federal taxable income; deduction is the federal standard deduction plus exemptions. Marriage penalty credit not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0151
+          },
+          {
+            "from": 34500,
+            "rate": 0.0282
+          },
+          {
+            "from": 83600,
+            "rate": 0.0313
+          },
+          {
+            "from": 174400,
+            "rate": 0.0363
+          },
+          {
+            "from": 379150,
+            "rate": 0.0399
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0151
+          },
+          {
+            "from": 57700,
+            "rate": 0.0282
+          },
+          {
+            "from": 139350,
+            "rate": 0.0313
+          },
+          {
+            "from": 212300,
+            "rate": 0.0363
+          },
+          {
+            "from": 379150,
+            "rate": 0.0399
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9500,
+        "marriedJoint": 19000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ND/2011/nd1instruct.pdf",
+      "notes": "Starts from federal taxable income; deduction is the federal standard deduction plus exemptions. Marriage penalty credit not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0151
+          },
+          {
+            "from": 35350,
+            "rate": 0.0282
+          },
+          {
+            "from": 85650,
+            "rate": 0.0313
+          },
+          {
+            "from": 178650,
+            "rate": 0.0363
+          },
+          {
+            "from": 388350,
+            "rate": 0.0399
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0151
+          },
+          {
+            "from": 59100,
+            "rate": 0.0282
+          },
+          {
+            "from": 142700,
+            "rate": 0.0313
+          },
+          {
+            "from": 217450,
+            "rate": 0.0363
+          },
+          {
+            "from": 388350,
+            "rate": 0.0399
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9750,
+        "marriedJoint": 19500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ND/2012/nd1instruct.pdf",
+      "notes": "Starts from federal taxable income; deduction is the federal standard deduction plus exemptions. Marriage penalty credit not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0122
+          },
+          {
+            "from": 36250,
+            "rate": 0.0227
+          },
+          {
+            "from": 87850,
+            "rate": 0.0252
+          },
+          {
+            "from": 183250,
+            "rate": 0.0293
+          },
+          {
+            "from": 398350,
+            "rate": 0.0322
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0122
+          },
+          {
+            "from": 60650,
+            "rate": 0.0227
+          },
+          {
+            "from": 146400,
+            "rate": 0.0252
+          },
+          {
+            "from": 223050,
+            "rate": 0.0293
+          },
+          {
+            "from": 398350,
+            "rate": 0.0322
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10000,
+        "marriedJoint": 20000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ND/2013/nd1instruct.pdf",
+      "notes": "Starts from federal taxable income; deduction is the federal standard deduction plus exemptions. Marriage penalty credit not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0122
+          },
+          {
+            "from": 36900,
+            "rate": 0.0227
+          },
+          {
+            "from": 89350,
+            "rate": 0.0252
+          },
+          {
+            "from": 186350,
+            "rate": 0.0293
+          },
+          {
+            "from": 405100,
+            "rate": 0.0322
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0122
+          },
+          {
+            "from": 61700,
+            "rate": 0.0227
+          },
+          {
+            "from": 148850,
+            "rate": 0.0252
+          },
+          {
+            "from": 226850,
+            "rate": 0.0293
+          },
+          {
+            "from": 405100,
+            "rate": 0.0322
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10150,
+        "marriedJoint": 20300
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ND/2014/nd1instruct.pdf",
+      "notes": "Starts from federal taxable income; deduction is the federal standard deduction plus exemptions. Marriage penalty credit not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 37450,
+            "rate": 0.0204
+          },
+          {
+            "from": 90750,
+            "rate": 0.0227
+          },
+          {
+            "from": 189300,
+            "rate": 0.0264
+          },
+          {
+            "from": 411500,
+            "rate": 0.029
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 62600,
+            "rate": 0.0204
+          },
+          {
+            "from": 151200,
+            "rate": 0.0227
+          },
+          {
+            "from": 230450,
+            "rate": 0.0264
+          },
+          {
+            "from": 411500,
+            "rate": 0.029
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10300,
+        "marriedJoint": 20600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ND/2015/Individual%20Income%20Tax%20Booklet%20-%20Instructions%20and%20Tax%20Tables%20only_2.pdf",
+      "notes": "Starts from federal taxable income; deduction is the federal standard deduction plus exemptions. Marriage penalty credit not modelled."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 37650,
+            "rate": 0.0204
+          },
+          {
+            "from": 91150,
+            "rate": 0.0227
+          },
+          {
+            "from": 190150,
+            "rate": 0.0264
+          },
+          {
+            "from": 413350,
+            "rate": 0.029
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 62900,
+            "rate": 0.0204
+          },
+          {
+            "from": 151900,
+            "rate": 0.0227
+          },
+          {
+            "from": 231450,
+            "rate": 0.0264
+          },
+          {
+            "from": 413350,
+            "rate": 0.029
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10350,
+        "marriedJoint": 20700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ND/2016/individual-income-tax-booklet_1.pdf",
+      "notes": "Starts from federal taxable income; deduction is the federal standard deduction plus exemptions. Marriage penalty credit not modelled."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 37950,
+            "rate": 0.0204
+          },
+          {
+            "from": 91900,
+            "rate": 0.0227
+          },
+          {
+            "from": 191650,
+            "rate": 0.0264
+          },
+          {
+            "from": 416700,
+            "rate": 0.029
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 63400,
+            "rate": 0.0204
+          },
+          {
+            "from": 153100,
+            "rate": 0.0227
+          },
+          {
+            "from": 233350,
+            "rate": 0.0264
+          },
+          {
+            "from": 416700,
+            "rate": 0.029
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10400,
+        "marriedJoint": 20800
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ND/2017/individual-income-tax-booklet_2.pdf",
+      "notes": "Starts from federal taxable income; deduction is the federal standard deduction plus exemptions. Marriage penalty credit not modelled."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 38700,
+            "rate": 0.0204
+          },
+          {
+            "from": 93700,
+            "rate": 0.0227
+          },
+          {
+            "from": 195450,
+            "rate": 0.0264
+          },
+          {
+            "from": 424950,
+            "rate": 0.029
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 64650,
+            "rate": 0.0204
+          },
+          {
+            "from": 156150,
+            "rate": 0.0227
+          },
+          {
+            "from": 237950,
+            "rate": 0.0264
+          },
+          {
+            "from": 424950,
+            "rate": 0.029
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12000,
+        "marriedJoint": 24000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ND/2018/2018-individual-income-tax-booklet_1.pdf",
+      "notes": "Starts from federal taxable income; deduction is the federal standard deduction. Marriage penalty credit not modelled."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 39450,
+            "rate": 0.0204
+          },
+          {
+            "from": 95500,
+            "rate": 0.0227
+          },
+          {
+            "from": 199250,
+            "rate": 0.0264
+          },
+          {
+            "from": 433200,
+            "rate": 0.029
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 65900,
+            "rate": 0.0204
+          },
+          {
+            "from": 159200,
+            "rate": 0.0227
+          },
+          {
+            "from": 242550,
+            "rate": 0.0264
+          },
+          {
+            "from": 433200,
+            "rate": 0.029
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12200,
+        "marriedJoint": 24400
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ND/2019/individual-income-tax-booklet_3-1.pdf",
+      "notes": "Starts from federal taxable income; deduction is the federal standard deduction. Marriage penalty credit not modelled."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 40125,
+            "rate": 0.0204
+          },
+          {
+            "from": 97150,
+            "rate": 0.0227
+          },
+          {
+            "from": 202650,
+            "rate": 0.0264
+          },
+          {
+            "from": 440600,
+            "rate": 0.029
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 67050,
+            "rate": 0.0204
+          },
+          {
+            "from": 161950,
+            "rate": 0.0227
+          },
+          {
+            "from": 246700,
+            "rate": 0.0264
+          },
+          {
+            "from": 440600,
+            "rate": 0.029
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12400,
+        "marriedJoint": 24800
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ND/2020/individual-income-tax-booklet-2020.pdf",
+      "notes": "Starts from federal taxable income; deduction is the federal standard deduction. Marriage penalty credit not modelled."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 40525,
+            "rate": 0.0204
+          },
+          {
+            "from": 98100,
+            "rate": 0.0227
+          },
+          {
+            "from": 204675,
+            "rate": 0.0264
+          },
+          {
+            "from": 445000,
+            "rate": 0.029
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 67700,
+            "rate": 0.0204
+          },
+          {
+            "from": 163550,
+            "rate": 0.0227
+          },
+          {
+            "from": 249150,
+            "rate": 0.0264
+          },
+          {
+            "from": 445000,
+            "rate": 0.029
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12550,
+        "marriedJoint": 25100
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ND/2021/2021-individual-income-tax-booklet.pdf",
+      "notes": "Starts from federal taxable income; deduction is the federal standard deduction. Marriage penalty credit not modelled."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 41775,
+            "rate": 0.0204
+          },
+          {
+            "from": 101050,
+            "rate": 0.0227
+          },
+          {
+            "from": 210825,
+            "rate": 0.0264
+          },
+          {
+            "from": 458350,
+            "rate": 0.029
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.011
+          },
+          {
+            "from": 69700,
+            "rate": 0.0204
+          },
+          {
+            "from": 168450,
+            "rate": 0.0227
+          },
+          {
+            "from": 256650,
+            "rate": 0.0264
+          },
+          {
+            "from": 458350,
+            "rate": 0.029
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12950,
+        "marriedJoint": 25900
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ND/2022/2022-individual-income-tax-booklet.pdf",
+      "notes": "Starts from federal taxable income; deduction is the federal standard deduction. Marriage penalty credit not modelled."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 44725,
+            "rate": 0.0195
+          },
+          {
+            "from": 225975,
+            "rate": 0.025
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 74750,
+            "rate": 0.0195
+          },
+          {
+            "from": 275100,
+            "rate": 0.025
+          }
+        ]
+      },
+      "deduction": {
+        "single": 13850,
+        "marriedJoint": 27700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/ND/2023/2023-individual-income-tax-booklet.pdf",
+      "notes": "Starts from federal taxable income; deduction is the federal standard deduction."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 47150,
+            "rate": 0.0195
+          },
+          {
+            "from": 238200,
+            "rate": 0.025
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 78775,
+            "rate": 0.0195
+          },
+          {
+            "from": 289975,
+            "rate": 0.025
+          }
+        ]
+      },
+      "deduction": {
+        "single": 14600,
+        "marriedJoint": 29200
+      },
+      "source": "https://www.tax.nd.gov/sites/www/files/documents/forms/individual/2024-iit/2024-individual-income-tax-booklet.pdf",
+      "notes": "Starts from federal taxable income."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 48475,
+            "rate": 0.0195
+          },
+          {
+            "from": 244825,
+            "rate": 0.025
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 80975,
+            "rate": 0.0195
+          },
+          {
+            "from": 298075,
+            "rate": 0.025
+          }
+        ]
+      },
+      "deduction": {
+        "single": 15750,
+        "marriedJoint": 31500
+      },
+      "source": "https://www.tax.nd.gov/sites/www/files/documents/forms/individual/2025-iit/2025-individual-income-tax-booklet.pdf",
+      "notes": "Starts from federal taxable income; North Dakota conforms to the One Big Beautiful Bill Act standard deduction for 2025."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 49575,
+            "rate": 0.0195
+          },
+          {
+            "from": 250400,
+            "rate": 0.025
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 82800,
+            "rate": 0.0195
+          },
+          {
+            "from": 304850,
+            "rate": 0.025
+          }
+        ]
+      },
+      "deduction": {
+        "single": 16100,
+        "marriedJoint": 32200
+      },
+      "source": "https://www.tax.nd.gov/sites/www/files/documents/forms/individual/2025-iit/28709-form-nd-1es-2026.pdf",
+      "notes": "Starts from federal taxable income."
+    }
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "id": "us-local-cincinnati",
+  "kind": "local",
+  "region": "Cincinnati",
+  "state": "OH",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.017,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "1.7% resident rate as of December 31, 1970, from the ACIR Significant Features of Fiscal Federalism 1971 edition, Table 43 (p. 101), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.017,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "1.7% resident rate as of December 31, 1971, from the ACIR Significant Features of Fiscal Federalism 1972 edition, Table 99 (p. 227), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.017,
+      "source": "https://books.google.com/books?id=mShGAAAAIBAJ&pg=PA7&article_id=4759,67027",
+      "notes": "Secondary source (The Portsmouth Times, Associated Press report 'SORTA To Accept Cincinnati Agreement', February 1, 1973, p. 7, via Google News Archive): beginning April 1 [1973] the city earnings tax will be raised .3 per cent to 2 per cent to finance the purchase of Cincinnati Transit, the increase Cincinnatians approved in the November [1972] election. The Youngstown Vindicator's AP report 'Cincinnatians Approve Buying Transit System' (November 8, 1972, p. 18, https://books.google.com/books?id=uxFcAAAAIBAJ&pg=PA18&article_id=1082,3255533) says the November 7, 1972 charter amendment would increase the city earnings tax from 1.7 to 2 per cent. So 1.7% applied throughout 1972 (ACIR: 1.7% at December 31, 1971; 2.0% at July 1, 1973). Two reports of the same AP service."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "2.0% resident rate as of July 1, 1973, from the ACIR Significant Features of Fiscal Federalism 1973-74 edition, Table 150 (p. 293), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/oh/cincinnati/codes/code_of_ordinances?nodeId=TITIIIFIPEPRREPRPR_CH311CICIINTA_S311-1AULETAEFPE",
+      "notes": "Cincinnati Municipal Code § 311-1(c)-(d) (Authority to levy tax; effective periods; Municode) states that the general levy of § 311-3(a) applies to income 'earned or received on or after April 1, 1973' and the 0.1% infrastructure levy of § 311-3(b) to income 'earned or received after July 1, 1988'; the city's 2001 financial report describes the 2.1% as 1.55% general + 0.15% permanent improvement + 0.3% transit + 'the latest increase of 0.1% enacted July 1, 1988'. So 2.0% applied from April 1, 1973 until the July 1988 increase, including all of 1974; the ACIR editions print 2.0% at July 1, 1973, July 1, 1976, October 1, 1979 and for 1983-1987. No document for 1974 itself."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/oh/cincinnati/codes/code_of_ordinances?nodeId=TITIIIFIPEPRREPRPR_CH311CICIINTA_S311-1AULETAEFPE",
+      "notes": "Cincinnati Municipal Code § 311-1(c)-(d) (Authority to levy tax; effective periods; Municode) states that the general levy of § 311-3(a) applies to income 'earned or received on or after April 1, 1973' and the 0.1% infrastructure levy of § 311-3(b) to income 'earned or received after July 1, 1988'; the city's 2001 financial report describes the 2.1% as 1.55% general + 0.15% permanent improvement + 0.3% transit + 'the latest increase of 0.1% enacted July 1, 1988'. So 2.0% applied from April 1, 1973 until the July 1988 increase, including all of 1975; the ACIR editions print 2.0% at July 1, 1973, July 1, 1976, October 1, 1979 and for 1983-1987. No document for 1975 itself."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "2.0% resident rate as of July 1, 1976, from the ACIR Significant Features of Fiscal Federalism 1976-77 edition vol. 2, Table 116 (p. 227), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/oh/cincinnati/codes/code_of_ordinances?nodeId=TITIIIFIPEPRREPRPR_CH311CICIINTA_S311-1AULETAEFPE",
+      "notes": "Cincinnati Municipal Code § 311-1(c)-(d) (Authority to levy tax; effective periods; Municode) states that the general levy of § 311-3(a) applies to income 'earned or received on or after April 1, 1973' and the 0.1% infrastructure levy of § 311-3(b) to income 'earned or received after July 1, 1988'; the city's 2001 financial report describes the 2.1% as 1.55% general + 0.15% permanent improvement + 0.3% transit + 'the latest increase of 0.1% enacted July 1, 1988'. So 2.0% applied from April 1, 1973 until the July 1988 increase, including all of 1977; the ACIR editions print 2.0% at July 1, 1973, July 1, 1976, October 1, 1979 and for 1983-1987. No document for 1977 itself."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/oh/cincinnati/codes/code_of_ordinances?nodeId=TITIIIFIPEPRREPRPR_CH311CICIINTA_S311-1AULETAEFPE",
+      "notes": "Cincinnati Municipal Code § 311-1(c)-(d) (Authority to levy tax; effective periods; Municode) states that the general levy of § 311-3(a) applies to income 'earned or received on or after April 1, 1973' and the 0.1% infrastructure levy of § 311-3(b) to income 'earned or received after July 1, 1988'; the city's 2001 financial report describes the 2.1% as 1.55% general + 0.15% permanent improvement + 0.3% transit + 'the latest increase of 0.1% enacted July 1, 1988'. So 2.0% applied from April 1, 1973 until the July 1988 increase, including all of 1978; the ACIR editions print 2.0% at July 1, 1973, July 1, 1976, October 1, 1979 and for 1983-1987. No document for 1978 itself."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "2.0% resident rate as of October 1, 1979, from the ACIR Significant Features of Fiscal Federalism 1979-80 edition, Table 88 (p. 131), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/oh/cincinnati/codes/code_of_ordinances?nodeId=TITIIIFIPEPRREPRPR_CH311CICIINTA_S311-1AULETAEFPE",
+      "notes": "Cincinnati Municipal Code § 311-1(c)-(d) (Authority to levy tax; effective periods; Municode) states that the general levy of § 311-3(a) applies to income 'earned or received on or after April 1, 1973' and the 0.1% infrastructure levy of § 311-3(b) to income 'earned or received after July 1, 1988'; the city's 2001 financial report describes the 2.1% as 1.55% general + 0.15% permanent improvement + 0.3% transit + 'the latest increase of 0.1% enacted July 1, 1988'. So 2.0% applied from April 1, 1973 until the July 1988 increase, including all of 1980; the ACIR editions print 2.0% at July 1, 1973, July 1, 1976, October 1, 1979 and for 1983-1987. No document for 1980 itself."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/oh/cincinnati/codes/code_of_ordinances?nodeId=TITIIIFIPEPRREPRPR_CH311CICIINTA_S311-1AULETAEFPE",
+      "notes": "Cincinnati Municipal Code § 311-1(c)-(d) (Authority to levy tax; effective periods; Municode) states that the general levy of § 311-3(a) applies to income 'earned or received on or after April 1, 1973' and the 0.1% infrastructure levy of § 311-3(b) to income 'earned or received after July 1, 1988'; the city's 2001 financial report describes the 2.1% as 1.55% general + 0.15% permanent improvement + 0.3% transit + 'the latest increase of 0.1% enacted July 1, 1988'. So 2.0% applied from April 1, 1973 until the July 1988 increase, including all of 1981; the ACIR editions print 2.0% at July 1, 1973, July 1, 1976, October 1, 1979 and for 1983-1987. No document for 1981 itself."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/oh/cincinnati/codes/code_of_ordinances?nodeId=TITIIIFIPEPRREPRPR_CH311CICIINTA_S311-1AULETAEFPE",
+      "notes": "Cincinnati Municipal Code § 311-1(c)-(d) (Authority to levy tax; effective periods; Municode) states that the general levy of § 311-3(a) applies to income 'earned or received on or after April 1, 1973' and the 0.1% infrastructure levy of § 311-3(b) to income 'earned or received after July 1, 1988'; the city's 2001 financial report describes the 2.1% as 1.55% general + 0.15% permanent improvement + 0.3% transit + 'the latest increase of 0.1% enacted July 1, 1988'. So 2.0% applied from April 1, 1973 until the July 1988 increase, including all of 1982; the ACIR editions print 2.0% at July 1, 1973, July 1, 1976, October 1, 1979 and for 1983-1987. No document for 1982 itself."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1984.pdf",
+      "notes": "2.0% resident rate as of 1983 ('1983 tax rate'), from the ACIR Significant Features of Fiscal Federalism 1984 edition, Table 68 (p. 105), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1985-1986.pdf",
+      "notes": "2.0% resident rate as of 1984 ('1984 local income tax rate'), from the ACIR Significant Features of Fiscal Federalism 1985-86 edition, Table 56 (p. 84), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1985-1986.pdf",
+      "notes": "2.0% resident rate as of 1985 ('1985 local income tax rate'), from the ACIR Significant Features of Fiscal Federalism 1985-86 edition, Table 59 (p. 89), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "2.0% resident rate as of 1986 (CCH State Tax Reporter, December 1986), from the ACIR Significant Features of Fiscal Federalism 1987 edition, Table 56 (p. 85), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1988-Vol-1.pdf",
+      "notes": "2.0% resident rate as of 1987 (CCH State Tax Reporter, October 1987), from the ACIR Significant Features of Fiscal Federalism 1988 edition vol. 1, Table 20 (p. 49), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1989-Vol-1.pdf",
+      "notes": "2.1% resident rate as of 1988, from the ACIR Significant Features of Fiscal Federalism 1989 edition vol. 1, Table 23 (p. 48), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1990-Vol-1.pdf",
+      "notes": "2.1% resident rate as of 1989, from the ACIR Significant Features of Fiscal Federalism 1990 edition vol. 1, Table 21 (p. 58), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1991-Vol-1.pdf",
+      "notes": "2.1% resident rate as of 1990 (CCH State Tax Reporter, November 1990), from the ACIR Significant Features of Fiscal Federalism 1991 edition vol. 1, Table 24 (p. 70), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1992-Vol-1.pdf",
+      "notes": "2.1% resident rate as of November 1991, from the ACIR Significant Features of Fiscal Federalism 1992 edition vol. 1, Table 24 (p. 74), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff-1993-vol-1.pdf",
+      "notes": "2.1% resident rate as of November 1992, from the ACIR Significant Features of Fiscal Federalism 1993 edition vol. 1, Table 24 (p. 79), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1994-Vol-1.pdf",
+      "notes": "2.1% resident rate as of November 1993, from the ACIR Significant Features of Fiscal Federalism 1994 edition vol. 1, Table 22 (p. 79), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1995-Vol-1.pdf",
+      "notes": "2.1% resident rate as of November 1994, from the ACIR Significant Features of Fiscal Federalism 1995 edition vol. 1, Table 21 (p. 72), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.cincinnati-oh.gov/finance/cafr/2001-comprehensive-annual-financial-report/",
+      "notes": "The City of Cincinnati 2001 Comprehensive Annual Financial Report (financial section p. 37) states: 'The City's income tax of 2.1% is subdivided into four components. The first component is the latest increase of .1% enacted July 1, 1988, to be spent only for the maintenance of the City's infrastructure' (the others being .3% transit, .15% permanent improvement and 1.55% general). So 2.1% applied from July 1, 1988 through 2001; the ACIR Significant Features of Fiscal Federalism editions print 2.1% for 1988-1994 and the Department of Taxation's LG-11 table 2.1% for 2000. No document for 1995 itself."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.cincinnati-oh.gov/finance/cafr/2001-comprehensive-annual-financial-report/",
+      "notes": "The City of Cincinnati 2001 Comprehensive Annual Financial Report (financial section p. 37) states: 'The City's income tax of 2.1% is subdivided into four components. The first component is the latest increase of .1% enacted July 1, 1988, to be spent only for the maintenance of the City's infrastructure' (the others being .3% transit, .15% permanent improvement and 1.55% general). So 2.1% applied from July 1, 1988 through 2001; the ACIR Significant Features of Fiscal Federalism editions print 2.1% for 1988-1994 and the Department of Taxation's LG-11 table 2.1% for 2000. No document for 1996 itself."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.cincinnati-oh.gov/finance/cafr/2001-comprehensive-annual-financial-report/",
+      "notes": "The City of Cincinnati 2001 Comprehensive Annual Financial Report (financial section p. 37) states: 'The City's income tax of 2.1% is subdivided into four components. The first component is the latest increase of .1% enacted July 1, 1988, to be spent only for the maintenance of the City's infrastructure' (the others being .3% transit, .15% permanent improvement and 1.55% general). So 2.1% applied from July 1, 1988 through 2001; the ACIR Significant Features of Fiscal Federalism editions print 2.1% for 1988-1994 and the Department of Taxation's LG-11 table 2.1% for 2000. No document for 1997 itself."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.cincinnati-oh.gov/finance/cafr/2001-comprehensive-annual-financial-report/",
+      "notes": "The City of Cincinnati 2001 Comprehensive Annual Financial Report (financial section p. 37) states: 'The City's income tax of 2.1% is subdivided into four components. The first component is the latest increase of .1% enacted July 1, 1988, to be spent only for the maintenance of the City's infrastructure' (the others being .3% transit, .15% permanent improvement and 1.55% general). So 2.1% applied from July 1, 1988 through 2001; the ACIR Significant Features of Fiscal Federalism editions print 2.1% for 1988-1994 and the Department of Taxation's LG-11 table 2.1% for 2000. No document for 1998 itself."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.cincinnati-oh.gov/finance/cafr/2001-comprehensive-annual-financial-report/",
+      "notes": "The City of Cincinnati 2001 Comprehensive Annual Financial Report (financial section p. 37) states: 'The City's income tax of 2.1% is subdivided into four components. The first component is the latest increase of .1% enacted July 1, 1988, to be spent only for the maintenance of the City's infrastructure' (the others being .3% transit, .15% permanent improvement and 1.55% general). So 2.1% applied from July 1, 1988 through 2001; the ACIR Significant Features of Fiscal Federalism editions print 2.1% for 1988-1994 and the Department of Taxation's LG-11 table 2.1% for 2000. No document for 1999 itself."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy00.pdf"
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy01.pdf"
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy02.pdf"
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy03.pdf"
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy04.pdf"
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy05.pdf"
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy06.pdf"
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy07.pdf"
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy08.pdf"
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy09.pdf"
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy10.pdf"
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy11.pdf"
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy12.pdf"
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy13.pdf"
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy14.pdf"
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy15.pdf"
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy16.pdf"
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy17.pdf"
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy18.pdf"
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.021,
+      "source": "https://www.cincinnati-oh.gov/finance/income-taxes/",
+      "notes": "2.1% prior to October 2, 2020."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.018,
+      "source": "https://www.cincinnati-oh.gov/finance/income-taxes/",
+      "notes": "2.1% through October 1, 2020; 1.8% effective October 2, 2020. Recorded at the year-end rate."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.018,
+      "source": "https://www.cincinnati-oh.gov/finance/income-taxes/",
+      "notes": "1.8% effective October 2, 2020."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.018,
+      "source": "https://www.cincinnati-oh.gov/finance/income-taxes/",
+      "notes": "1.8% effective October 2, 2020."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.018,
+      "source": "https://www.cincinnati-oh.gov/finance/income-taxes/",
+      "notes": "1.8% effective October 2, 2020."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.018,
+      "source": "https://www.cincinnati-oh.gov/finance/income-taxes/"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.018,
+      "source": "https://www.cincinnati-oh.gov/finance/income-taxes/"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.018,
+      "source": "https://www.cincinnati-oh.gov/finance/income-taxes/"
+    }
+  }
+}

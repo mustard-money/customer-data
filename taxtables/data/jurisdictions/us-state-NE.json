@@ -1,0 +1,4939 @@
+{
+  "id": "us-state-NE",
+  "kind": "state",
+  "region": "Nebraska",
+  "state": "NE",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0182
+          },
+          {
+            "from": 500,
+            "rate": 0.0195
+          },
+          {
+            "from": 1000,
+            "rate": 0.0208
+          },
+          {
+            "from": 1500,
+            "rate": 0.0221
+          },
+          {
+            "from": 2000,
+            "rate": 0.0247
+          },
+          {
+            "from": 4000,
+            "rate": 0.0286
+          },
+          {
+            "from": 6000,
+            "rate": 0.0325
+          },
+          {
+            "from": 8000,
+            "rate": 0.0364
+          },
+          {
+            "from": 10000,
+            "rate": 0.0416
+          },
+          {
+            "from": 12000,
+            "rate": 0.0468
+          },
+          {
+            "from": 14000,
+            "rate": 0.0507
+          },
+          {
+            "from": 16000,
+            "rate": 0.0546
+          },
+          {
+            "from": 18000,
+            "rate": 0.0585
+          },
+          {
+            "from": 20000,
+            "rate": 0.0624
+          },
+          {
+            "from": 22000,
+            "rate": 0.065
+          },
+          {
+            "from": 26000,
+            "rate": 0.0689
+          },
+          {
+            "from": 32000,
+            "rate": 0.0715
+          },
+          {
+            "from": 38000,
+            "rate": 0.0754
+          },
+          {
+            "from": 44000,
+            "rate": 0.078
+          },
+          {
+            "from": 50000,
+            "rate": 0.0806
+          },
+          {
+            "from": 60000,
+            "rate": 0.0832
+          },
+          {
+            "from": 70000,
+            "rate": 0.0858
+          },
+          {
+            "from": 80000,
+            "rate": 0.0884
+          },
+          {
+            "from": 90000,
+            "rate": 0.0897
+          },
+          {
+            "from": 100000,
+            "rate": 0.091
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0182
+          },
+          {
+            "from": 1000,
+            "rate": 0.0195
+          },
+          {
+            "from": 2000,
+            "rate": 0.0208
+          },
+          {
+            "from": 3000,
+            "rate": 0.0221
+          },
+          {
+            "from": 4000,
+            "rate": 0.0247
+          },
+          {
+            "from": 8000,
+            "rate": 0.0286
+          },
+          {
+            "from": 12000,
+            "rate": 0.0325
+          },
+          {
+            "from": 16000,
+            "rate": 0.0364
+          },
+          {
+            "from": 20000,
+            "rate": 0.0416
+          },
+          {
+            "from": 24000,
+            "rate": 0.0468
+          },
+          {
+            "from": 28000,
+            "rate": 0.0507
+          },
+          {
+            "from": 32000,
+            "rate": 0.0546
+          },
+          {
+            "from": 36000,
+            "rate": 0.0585
+          },
+          {
+            "from": 40000,
+            "rate": 0.0624
+          },
+          {
+            "from": 44000,
+            "rate": 0.065
+          },
+          {
+            "from": 52000,
+            "rate": 0.0689
+          },
+          {
+            "from": 64000,
+            "rate": 0.0715
+          },
+          {
+            "from": 76000,
+            "rate": 0.0754
+          },
+          {
+            "from": 88000,
+            "rate": 0.078
+          },
+          {
+            "from": 100000,
+            "rate": 0.0806
+          },
+          {
+            "from": 120000,
+            "rate": 0.0832
+          },
+          {
+            "from": 140000,
+            "rate": 0.0858
+          },
+          {
+            "from": 160000,
+            "rate": 0.0884
+          },
+          {
+            "from": 180000,
+            "rate": 0.0897
+          },
+          {
+            "from": 200000,
+            "rate": 0.091
+          }
+        ]
+      },
+      "deduction": {
+        "single": 625,
+        "marriedJoint": 1250
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "13% of federal income tax liability (before credits): federal 1970 schedules with each rate x 0.13, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 500,
+            "rate": 0.015
+          },
+          {
+            "from": 1000,
+            "rate": 0.016
+          },
+          {
+            "from": 1500,
+            "rate": 0.017
+          },
+          {
+            "from": 2000,
+            "rate": 0.019
+          },
+          {
+            "from": 4000,
+            "rate": 0.021
+          },
+          {
+            "from": 6000,
+            "rate": 0.024
+          },
+          {
+            "from": 8000,
+            "rate": 0.025
+          },
+          {
+            "from": 10000,
+            "rate": 0.027
+          },
+          {
+            "from": 12000,
+            "rate": 0.029
+          },
+          {
+            "from": 14000,
+            "rate": 0.031
+          },
+          {
+            "from": 16000,
+            "rate": 0.034
+          },
+          {
+            "from": 18000,
+            "rate": 0.036
+          },
+          {
+            "from": 20000,
+            "rate": 0.038
+          },
+          {
+            "from": 22000,
+            "rate": 0.04
+          },
+          {
+            "from": 26000,
+            "rate": 0.045
+          },
+          {
+            "from": 32000,
+            "rate": 0.05
+          },
+          {
+            "from": 38000,
+            "rate": 0.055
+          },
+          {
+            "from": 44000,
+            "rate": 0.06
+          },
+          {
+            "from": 50000,
+            "rate": 0.062
+          },
+          {
+            "from": 60000,
+            "rate": 0.064
+          },
+          {
+            "from": 70000,
+            "rate": 0.066
+          },
+          {
+            "from": 80000,
+            "rate": 0.068
+          },
+          {
+            "from": 90000,
+            "rate": 0.069
+          },
+          {
+            "from": 100000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.014
+          },
+          {
+            "from": 1000,
+            "rate": 0.015
+          },
+          {
+            "from": 2000,
+            "rate": 0.016
+          },
+          {
+            "from": 3000,
+            "rate": 0.017
+          },
+          {
+            "from": 4000,
+            "rate": 0.019
+          },
+          {
+            "from": 8000,
+            "rate": 0.022
+          },
+          {
+            "from": 12000,
+            "rate": 0.025
+          },
+          {
+            "from": 16000,
+            "rate": 0.028
+          },
+          {
+            "from": 20000,
+            "rate": 0.032
+          },
+          {
+            "from": 24000,
+            "rate": 0.036
+          },
+          {
+            "from": 28000,
+            "rate": 0.039
+          },
+          {
+            "from": 32000,
+            "rate": 0.042
+          },
+          {
+            "from": 36000,
+            "rate": 0.045
+          },
+          {
+            "from": 40000,
+            "rate": 0.048
+          },
+          {
+            "from": 44000,
+            "rate": 0.05
+          },
+          {
+            "from": 52000,
+            "rate": 0.053
+          },
+          {
+            "from": 64000,
+            "rate": 0.055
+          },
+          {
+            "from": 76000,
+            "rate": 0.058
+          },
+          {
+            "from": 88000,
+            "rate": 0.06
+          },
+          {
+            "from": 100000,
+            "rate": 0.062
+          },
+          {
+            "from": 120000,
+            "rate": 0.064
+          },
+          {
+            "from": 140000,
+            "rate": 0.066
+          },
+          {
+            "from": 160000,
+            "rate": 0.068
+          },
+          {
+            "from": 180000,
+            "rate": 0.069
+          },
+          {
+            "from": 200000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 675,
+        "marriedJoint": 1350
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "10% of federal income tax liability (before credits): federal 1971 schedules with each rate x 0.1, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 500,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.024
+          },
+          {
+            "from": 1500,
+            "rate": 0.0255
+          },
+          {
+            "from": 2000,
+            "rate": 0.0285
+          },
+          {
+            "from": 4000,
+            "rate": 0.0315
+          },
+          {
+            "from": 6000,
+            "rate": 0.036
+          },
+          {
+            "from": 8000,
+            "rate": 0.0375
+          },
+          {
+            "from": 10000,
+            "rate": 0.0405
+          },
+          {
+            "from": 12000,
+            "rate": 0.0435
+          },
+          {
+            "from": 14000,
+            "rate": 0.0465
+          },
+          {
+            "from": 16000,
+            "rate": 0.051
+          },
+          {
+            "from": 18000,
+            "rate": 0.054
+          },
+          {
+            "from": 20000,
+            "rate": 0.057
+          },
+          {
+            "from": 22000,
+            "rate": 0.06
+          },
+          {
+            "from": 26000,
+            "rate": 0.0675
+          },
+          {
+            "from": 32000,
+            "rate": 0.075
+          },
+          {
+            "from": 38000,
+            "rate": 0.0825
+          },
+          {
+            "from": 44000,
+            "rate": 0.09
+          },
+          {
+            "from": 50000,
+            "rate": 0.093
+          },
+          {
+            "from": 60000,
+            "rate": 0.096
+          },
+          {
+            "from": 70000,
+            "rate": 0.099
+          },
+          {
+            "from": 80000,
+            "rate": 0.102
+          },
+          {
+            "from": 90000,
+            "rate": 0.1035
+          },
+          {
+            "from": 100000,
+            "rate": 0.105
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 1000,
+            "rate": 0.0225
+          },
+          {
+            "from": 2000,
+            "rate": 0.024
+          },
+          {
+            "from": 3000,
+            "rate": 0.0255
+          },
+          {
+            "from": 4000,
+            "rate": 0.0285
+          },
+          {
+            "from": 8000,
+            "rate": 0.033
+          },
+          {
+            "from": 12000,
+            "rate": 0.0375
+          },
+          {
+            "from": 16000,
+            "rate": 0.042
+          },
+          {
+            "from": 20000,
+            "rate": 0.048
+          },
+          {
+            "from": 24000,
+            "rate": 0.054
+          },
+          {
+            "from": 28000,
+            "rate": 0.0585
+          },
+          {
+            "from": 32000,
+            "rate": 0.063
+          },
+          {
+            "from": 36000,
+            "rate": 0.0675
+          },
+          {
+            "from": 40000,
+            "rate": 0.072
+          },
+          {
+            "from": 44000,
+            "rate": 0.075
+          },
+          {
+            "from": 52000,
+            "rate": 0.0795
+          },
+          {
+            "from": 64000,
+            "rate": 0.0825
+          },
+          {
+            "from": 76000,
+            "rate": 0.087
+          },
+          {
+            "from": 88000,
+            "rate": 0.09
+          },
+          {
+            "from": 100000,
+            "rate": 0.093
+          },
+          {
+            "from": 120000,
+            "rate": 0.096
+          },
+          {
+            "from": 140000,
+            "rate": 0.099
+          },
+          {
+            "from": 160000,
+            "rate": 0.102
+          },
+          {
+            "from": 180000,
+            "rate": 0.1035
+          },
+          {
+            "from": 200000,
+            "rate": 0.105
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "15% of federal income tax liability (before credits): federal 1972 schedules with each rate x 0.15, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). Rate 15% effective Jan. 1 and Jan. 15, 1972. Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0182
+          },
+          {
+            "from": 500,
+            "rate": 0.0195
+          },
+          {
+            "from": 1000,
+            "rate": 0.0208
+          },
+          {
+            "from": 1500,
+            "rate": 0.0221
+          },
+          {
+            "from": 2000,
+            "rate": 0.0247
+          },
+          {
+            "from": 4000,
+            "rate": 0.0273
+          },
+          {
+            "from": 6000,
+            "rate": 0.0312
+          },
+          {
+            "from": 8000,
+            "rate": 0.0325
+          },
+          {
+            "from": 10000,
+            "rate": 0.0351
+          },
+          {
+            "from": 12000,
+            "rate": 0.0377
+          },
+          {
+            "from": 14000,
+            "rate": 0.0403
+          },
+          {
+            "from": 16000,
+            "rate": 0.0442
+          },
+          {
+            "from": 18000,
+            "rate": 0.0468
+          },
+          {
+            "from": 20000,
+            "rate": 0.0494
+          },
+          {
+            "from": 22000,
+            "rate": 0.052
+          },
+          {
+            "from": 26000,
+            "rate": 0.0585
+          },
+          {
+            "from": 32000,
+            "rate": 0.065
+          },
+          {
+            "from": 38000,
+            "rate": 0.0715
+          },
+          {
+            "from": 44000,
+            "rate": 0.078
+          },
+          {
+            "from": 50000,
+            "rate": 0.0806
+          },
+          {
+            "from": 60000,
+            "rate": 0.0832
+          },
+          {
+            "from": 70000,
+            "rate": 0.0858
+          },
+          {
+            "from": 80000,
+            "rate": 0.0884
+          },
+          {
+            "from": 90000,
+            "rate": 0.0897
+          },
+          {
+            "from": 100000,
+            "rate": 0.091
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0182
+          },
+          {
+            "from": 1000,
+            "rate": 0.0195
+          },
+          {
+            "from": 2000,
+            "rate": 0.0208
+          },
+          {
+            "from": 3000,
+            "rate": 0.0221
+          },
+          {
+            "from": 4000,
+            "rate": 0.0247
+          },
+          {
+            "from": 8000,
+            "rate": 0.0286
+          },
+          {
+            "from": 12000,
+            "rate": 0.0325
+          },
+          {
+            "from": 16000,
+            "rate": 0.0364
+          },
+          {
+            "from": 20000,
+            "rate": 0.0416
+          },
+          {
+            "from": 24000,
+            "rate": 0.0468
+          },
+          {
+            "from": 28000,
+            "rate": 0.0507
+          },
+          {
+            "from": 32000,
+            "rate": 0.0546
+          },
+          {
+            "from": 36000,
+            "rate": 0.0585
+          },
+          {
+            "from": 40000,
+            "rate": 0.0624
+          },
+          {
+            "from": 44000,
+            "rate": 0.065
+          },
+          {
+            "from": 52000,
+            "rate": 0.0689
+          },
+          {
+            "from": 64000,
+            "rate": 0.0715
+          },
+          {
+            "from": 76000,
+            "rate": 0.0754
+          },
+          {
+            "from": 88000,
+            "rate": 0.078
+          },
+          {
+            "from": 100000,
+            "rate": 0.0806
+          },
+          {
+            "from": 120000,
+            "rate": 0.0832
+          },
+          {
+            "from": 140000,
+            "rate": 0.0858
+          },
+          {
+            "from": 160000,
+            "rate": 0.0884
+          },
+          {
+            "from": 180000,
+            "rate": 0.0897
+          },
+          {
+            "from": 200000,
+            "rate": 0.091
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "13% of federal income tax liability (before credits): federal 1973 schedules with each rate x 0.13, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). DOR history footnote: rate was changed during the tax year; the rate effective Jan. 1 is recorded. Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0154
+          },
+          {
+            "from": 500,
+            "rate": 0.0165
+          },
+          {
+            "from": 1000,
+            "rate": 0.0176
+          },
+          {
+            "from": 1500,
+            "rate": 0.0187
+          },
+          {
+            "from": 2000,
+            "rate": 0.0209
+          },
+          {
+            "from": 4000,
+            "rate": 0.0231
+          },
+          {
+            "from": 6000,
+            "rate": 0.0264
+          },
+          {
+            "from": 8000,
+            "rate": 0.0275
+          },
+          {
+            "from": 10000,
+            "rate": 0.0297
+          },
+          {
+            "from": 12000,
+            "rate": 0.0319
+          },
+          {
+            "from": 14000,
+            "rate": 0.0341
+          },
+          {
+            "from": 16000,
+            "rate": 0.0374
+          },
+          {
+            "from": 18000,
+            "rate": 0.0396
+          },
+          {
+            "from": 20000,
+            "rate": 0.0418
+          },
+          {
+            "from": 22000,
+            "rate": 0.044
+          },
+          {
+            "from": 26000,
+            "rate": 0.0495
+          },
+          {
+            "from": 32000,
+            "rate": 0.055
+          },
+          {
+            "from": 38000,
+            "rate": 0.0605
+          },
+          {
+            "from": 44000,
+            "rate": 0.066
+          },
+          {
+            "from": 50000,
+            "rate": 0.0682
+          },
+          {
+            "from": 60000,
+            "rate": 0.0704
+          },
+          {
+            "from": 70000,
+            "rate": 0.0726
+          },
+          {
+            "from": 80000,
+            "rate": 0.0748
+          },
+          {
+            "from": 90000,
+            "rate": 0.0759
+          },
+          {
+            "from": 100000,
+            "rate": 0.077
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0154
+          },
+          {
+            "from": 1000,
+            "rate": 0.0165
+          },
+          {
+            "from": 2000,
+            "rate": 0.0176
+          },
+          {
+            "from": 3000,
+            "rate": 0.0187
+          },
+          {
+            "from": 4000,
+            "rate": 0.0209
+          },
+          {
+            "from": 8000,
+            "rate": 0.0242
+          },
+          {
+            "from": 12000,
+            "rate": 0.0275
+          },
+          {
+            "from": 16000,
+            "rate": 0.0308
+          },
+          {
+            "from": 20000,
+            "rate": 0.0352
+          },
+          {
+            "from": 24000,
+            "rate": 0.0396
+          },
+          {
+            "from": 28000,
+            "rate": 0.0429
+          },
+          {
+            "from": 32000,
+            "rate": 0.0462
+          },
+          {
+            "from": 36000,
+            "rate": 0.0495
+          },
+          {
+            "from": 40000,
+            "rate": 0.0528
+          },
+          {
+            "from": 44000,
+            "rate": 0.055
+          },
+          {
+            "from": 52000,
+            "rate": 0.0583
+          },
+          {
+            "from": 64000,
+            "rate": 0.0605
+          },
+          {
+            "from": 76000,
+            "rate": 0.0638
+          },
+          {
+            "from": 88000,
+            "rate": 0.066
+          },
+          {
+            "from": 100000,
+            "rate": 0.0682
+          },
+          {
+            "from": 120000,
+            "rate": 0.0704
+          },
+          {
+            "from": 140000,
+            "rate": 0.0726
+          },
+          {
+            "from": 160000,
+            "rate": 0.0748
+          },
+          {
+            "from": 180000,
+            "rate": 0.0759
+          },
+          {
+            "from": 200000,
+            "rate": 0.077
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "11% of federal income tax liability (before credits): federal 1974 schedules with each rate x 0.11, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0168
+          },
+          {
+            "from": 500,
+            "rate": 0.018
+          },
+          {
+            "from": 1000,
+            "rate": 0.0192
+          },
+          {
+            "from": 1500,
+            "rate": 0.0204
+          },
+          {
+            "from": 2000,
+            "rate": 0.0228
+          },
+          {
+            "from": 4000,
+            "rate": 0.0252
+          },
+          {
+            "from": 6000,
+            "rate": 0.0288
+          },
+          {
+            "from": 8000,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.0324
+          },
+          {
+            "from": 12000,
+            "rate": 0.0348
+          },
+          {
+            "from": 14000,
+            "rate": 0.0372
+          },
+          {
+            "from": 16000,
+            "rate": 0.0408
+          },
+          {
+            "from": 18000,
+            "rate": 0.0432
+          },
+          {
+            "from": 20000,
+            "rate": 0.0456
+          },
+          {
+            "from": 22000,
+            "rate": 0.048
+          },
+          {
+            "from": 26000,
+            "rate": 0.054
+          },
+          {
+            "from": 32000,
+            "rate": 0.06
+          },
+          {
+            "from": 38000,
+            "rate": 0.066
+          },
+          {
+            "from": 44000,
+            "rate": 0.072
+          },
+          {
+            "from": 50000,
+            "rate": 0.0744
+          },
+          {
+            "from": 60000,
+            "rate": 0.0768
+          },
+          {
+            "from": 70000,
+            "rate": 0.0792
+          },
+          {
+            "from": 80000,
+            "rate": 0.0816
+          },
+          {
+            "from": 90000,
+            "rate": 0.0828
+          },
+          {
+            "from": 100000,
+            "rate": 0.084
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0168
+          },
+          {
+            "from": 1000,
+            "rate": 0.018
+          },
+          {
+            "from": 2000,
+            "rate": 0.0192
+          },
+          {
+            "from": 3000,
+            "rate": 0.0204
+          },
+          {
+            "from": 4000,
+            "rate": 0.0228
+          },
+          {
+            "from": 8000,
+            "rate": 0.0264
+          },
+          {
+            "from": 12000,
+            "rate": 0.03
+          },
+          {
+            "from": 16000,
+            "rate": 0.0336
+          },
+          {
+            "from": 20000,
+            "rate": 0.0384
+          },
+          {
+            "from": 24000,
+            "rate": 0.0432
+          },
+          {
+            "from": 28000,
+            "rate": 0.0468
+          },
+          {
+            "from": 32000,
+            "rate": 0.0504
+          },
+          {
+            "from": 36000,
+            "rate": 0.054
+          },
+          {
+            "from": 40000,
+            "rate": 0.0576
+          },
+          {
+            "from": 44000,
+            "rate": 0.06
+          },
+          {
+            "from": 52000,
+            "rate": 0.0636
+          },
+          {
+            "from": 64000,
+            "rate": 0.066
+          },
+          {
+            "from": 76000,
+            "rate": 0.0696
+          },
+          {
+            "from": 88000,
+            "rate": 0.072
+          },
+          {
+            "from": 100000,
+            "rate": 0.0744
+          },
+          {
+            "from": 120000,
+            "rate": 0.0768
+          },
+          {
+            "from": 140000,
+            "rate": 0.0792
+          },
+          {
+            "from": 160000,
+            "rate": 0.0816
+          },
+          {
+            "from": 180000,
+            "rate": 0.0828
+          },
+          {
+            "from": 200000,
+            "rate": 0.084
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "12% of federal income tax liability (before credits): federal 1975 schedules with each rate x 0.12, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). DOR history footnote: rate was changed during the tax year; the rate effective Jan. 1 is recorded. Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0238
+          },
+          {
+            "from": 500,
+            "rate": 0.0255
+          },
+          {
+            "from": 1000,
+            "rate": 0.0272
+          },
+          {
+            "from": 1500,
+            "rate": 0.0289
+          },
+          {
+            "from": 2000,
+            "rate": 0.0323
+          },
+          {
+            "from": 4000,
+            "rate": 0.0357
+          },
+          {
+            "from": 6000,
+            "rate": 0.0408
+          },
+          {
+            "from": 8000,
+            "rate": 0.0425
+          },
+          {
+            "from": 10000,
+            "rate": 0.0459
+          },
+          {
+            "from": 12000,
+            "rate": 0.0493
+          },
+          {
+            "from": 14000,
+            "rate": 0.0527
+          },
+          {
+            "from": 16000,
+            "rate": 0.0578
+          },
+          {
+            "from": 18000,
+            "rate": 0.0612
+          },
+          {
+            "from": 20000,
+            "rate": 0.0646
+          },
+          {
+            "from": 22000,
+            "rate": 0.068
+          },
+          {
+            "from": 26000,
+            "rate": 0.0765
+          },
+          {
+            "from": 32000,
+            "rate": 0.085
+          },
+          {
+            "from": 38000,
+            "rate": 0.0935
+          },
+          {
+            "from": 44000,
+            "rate": 0.102
+          },
+          {
+            "from": 50000,
+            "rate": 0.1054
+          },
+          {
+            "from": 60000,
+            "rate": 0.1088
+          },
+          {
+            "from": 70000,
+            "rate": 0.1122
+          },
+          {
+            "from": 80000,
+            "rate": 0.1156
+          },
+          {
+            "from": 90000,
+            "rate": 0.1173
+          },
+          {
+            "from": 100000,
+            "rate": 0.119
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0238
+          },
+          {
+            "from": 1000,
+            "rate": 0.0255
+          },
+          {
+            "from": 2000,
+            "rate": 0.0272
+          },
+          {
+            "from": 3000,
+            "rate": 0.0289
+          },
+          {
+            "from": 4000,
+            "rate": 0.0323
+          },
+          {
+            "from": 8000,
+            "rate": 0.0374
+          },
+          {
+            "from": 12000,
+            "rate": 0.0425
+          },
+          {
+            "from": 16000,
+            "rate": 0.0476
+          },
+          {
+            "from": 20000,
+            "rate": 0.0544
+          },
+          {
+            "from": 24000,
+            "rate": 0.0612
+          },
+          {
+            "from": 28000,
+            "rate": 0.0663
+          },
+          {
+            "from": 32000,
+            "rate": 0.0714
+          },
+          {
+            "from": 36000,
+            "rate": 0.0765
+          },
+          {
+            "from": 40000,
+            "rate": 0.0816
+          },
+          {
+            "from": 44000,
+            "rate": 0.085
+          },
+          {
+            "from": 52000,
+            "rate": 0.0901
+          },
+          {
+            "from": 64000,
+            "rate": 0.0935
+          },
+          {
+            "from": 76000,
+            "rate": 0.0986
+          },
+          {
+            "from": 88000,
+            "rate": 0.102
+          },
+          {
+            "from": 100000,
+            "rate": 0.1054
+          },
+          {
+            "from": 120000,
+            "rate": 0.1088
+          },
+          {
+            "from": 140000,
+            "rate": 0.1122
+          },
+          {
+            "from": 160000,
+            "rate": 0.1156
+          },
+          {
+            "from": 180000,
+            "rate": 0.1173
+          },
+          {
+            "from": 200000,
+            "rate": 0.119
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "17% of federal income tax liability (before credits): federal 1976 schedules with each rate x 0.17, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). DOR history footnote: rate was changed during the tax year; the rate effective Jan. 1 is recorded. Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2200,
+            "rate": 0.0252
+          },
+          {
+            "from": 2700,
+            "rate": 0.027
+          },
+          {
+            "from": 3200,
+            "rate": 0.0288
+          },
+          {
+            "from": 3700,
+            "rate": 0.0306
+          },
+          {
+            "from": 4200,
+            "rate": 0.0342
+          },
+          {
+            "from": 6200,
+            "rate": 0.0378
+          },
+          {
+            "from": 8200,
+            "rate": 0.0432
+          },
+          {
+            "from": 10200,
+            "rate": 0.045
+          },
+          {
+            "from": 12200,
+            "rate": 0.0486
+          },
+          {
+            "from": 14200,
+            "rate": 0.0522
+          },
+          {
+            "from": 16200,
+            "rate": 0.0558
+          },
+          {
+            "from": 18200,
+            "rate": 0.0612
+          },
+          {
+            "from": 20200,
+            "rate": 0.0648
+          },
+          {
+            "from": 22200,
+            "rate": 0.0684
+          },
+          {
+            "from": 24200,
+            "rate": 0.072
+          },
+          {
+            "from": 28200,
+            "rate": 0.081
+          },
+          {
+            "from": 34200,
+            "rate": 0.09
+          },
+          {
+            "from": 40200,
+            "rate": 0.099
+          },
+          {
+            "from": 46200,
+            "rate": 0.108
+          },
+          {
+            "from": 52200,
+            "rate": 0.1116
+          },
+          {
+            "from": 62200,
+            "rate": 0.1152
+          },
+          {
+            "from": 72200,
+            "rate": 0.1188
+          },
+          {
+            "from": 82200,
+            "rate": 0.1224
+          },
+          {
+            "from": 92200,
+            "rate": 0.1242
+          },
+          {
+            "from": 102200,
+            "rate": 0.126
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3200,
+            "rate": 0.0252
+          },
+          {
+            "from": 4200,
+            "rate": 0.027
+          },
+          {
+            "from": 5200,
+            "rate": 0.0288
+          },
+          {
+            "from": 6200,
+            "rate": 0.0306
+          },
+          {
+            "from": 7200,
+            "rate": 0.0342
+          },
+          {
+            "from": 11200,
+            "rate": 0.0396
+          },
+          {
+            "from": 15200,
+            "rate": 0.045
+          },
+          {
+            "from": 19200,
+            "rate": 0.0504
+          },
+          {
+            "from": 23200,
+            "rate": 0.0576
+          },
+          {
+            "from": 27200,
+            "rate": 0.0648
+          },
+          {
+            "from": 31200,
+            "rate": 0.0702
+          },
+          {
+            "from": 35200,
+            "rate": 0.0756
+          },
+          {
+            "from": 39200,
+            "rate": 0.081
+          },
+          {
+            "from": 43200,
+            "rate": 0.0864
+          },
+          {
+            "from": 47200,
+            "rate": 0.09
+          },
+          {
+            "from": 55200,
+            "rate": 0.0954
+          },
+          {
+            "from": 67200,
+            "rate": 0.099
+          },
+          {
+            "from": 79200,
+            "rate": 0.1044
+          },
+          {
+            "from": 91200,
+            "rate": 0.108
+          },
+          {
+            "from": 103200,
+            "rate": 0.1116
+          },
+          {
+            "from": 123200,
+            "rate": 0.1152
+          },
+          {
+            "from": 143200,
+            "rate": 0.1188
+          },
+          {
+            "from": 163200,
+            "rate": 0.1224
+          },
+          {
+            "from": 183200,
+            "rate": 0.1242
+          },
+          {
+            "from": 203200,
+            "rate": 0.126
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "18% of federal income tax liability (before credits): federal 1977 schedules with each rate x 0.18, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). DOR history footnote: rate was changed during the tax year; the rate effective Jan. 1 is recorded. Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2200,
+            "rate": 0.0224
+          },
+          {
+            "from": 2700,
+            "rate": 0.024
+          },
+          {
+            "from": 3200,
+            "rate": 0.0256
+          },
+          {
+            "from": 3700,
+            "rate": 0.0272
+          },
+          {
+            "from": 4200,
+            "rate": 0.0304
+          },
+          {
+            "from": 6200,
+            "rate": 0.0336
+          },
+          {
+            "from": 8200,
+            "rate": 0.0384
+          },
+          {
+            "from": 10200,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.0432
+          },
+          {
+            "from": 14200,
+            "rate": 0.0464
+          },
+          {
+            "from": 16200,
+            "rate": 0.0496
+          },
+          {
+            "from": 18200,
+            "rate": 0.0544
+          },
+          {
+            "from": 20200,
+            "rate": 0.0576
+          },
+          {
+            "from": 22200,
+            "rate": 0.0608
+          },
+          {
+            "from": 24200,
+            "rate": 0.064
+          },
+          {
+            "from": 28200,
+            "rate": 0.072
+          },
+          {
+            "from": 34200,
+            "rate": 0.08
+          },
+          {
+            "from": 40200,
+            "rate": 0.088
+          },
+          {
+            "from": 46200,
+            "rate": 0.096
+          },
+          {
+            "from": 52200,
+            "rate": 0.0992
+          },
+          {
+            "from": 62200,
+            "rate": 0.1024
+          },
+          {
+            "from": 72200,
+            "rate": 0.1056
+          },
+          {
+            "from": 82200,
+            "rate": 0.1088
+          },
+          {
+            "from": 92200,
+            "rate": 0.1104
+          },
+          {
+            "from": 102200,
+            "rate": 0.112
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3200,
+            "rate": 0.0224
+          },
+          {
+            "from": 4200,
+            "rate": 0.024
+          },
+          {
+            "from": 5200,
+            "rate": 0.0256
+          },
+          {
+            "from": 6200,
+            "rate": 0.0272
+          },
+          {
+            "from": 7200,
+            "rate": 0.0304
+          },
+          {
+            "from": 11200,
+            "rate": 0.0352
+          },
+          {
+            "from": 15200,
+            "rate": 0.04
+          },
+          {
+            "from": 19200,
+            "rate": 0.0448
+          },
+          {
+            "from": 23200,
+            "rate": 0.0512
+          },
+          {
+            "from": 27200,
+            "rate": 0.0576
+          },
+          {
+            "from": 31200,
+            "rate": 0.0624
+          },
+          {
+            "from": 35200,
+            "rate": 0.0672
+          },
+          {
+            "from": 39200,
+            "rate": 0.072
+          },
+          {
+            "from": 43200,
+            "rate": 0.0768
+          },
+          {
+            "from": 47200,
+            "rate": 0.08
+          },
+          {
+            "from": 55200,
+            "rate": 0.0848
+          },
+          {
+            "from": 67200,
+            "rate": 0.088
+          },
+          {
+            "from": 79200,
+            "rate": 0.0928
+          },
+          {
+            "from": 91200,
+            "rate": 0.096
+          },
+          {
+            "from": 103200,
+            "rate": 0.0992
+          },
+          {
+            "from": 123200,
+            "rate": 0.1024
+          },
+          {
+            "from": 143200,
+            "rate": 0.1056
+          },
+          {
+            "from": 163200,
+            "rate": 0.1088
+          },
+          {
+            "from": 183200,
+            "rate": 0.1104
+          },
+          {
+            "from": 203200,
+            "rate": 0.112
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "16% of federal income tax liability (before credits): federal 1978 schedules with each rate x 0.16, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.0252
+          },
+          {
+            "from": 3400,
+            "rate": 0.0288
+          },
+          {
+            "from": 4400,
+            "rate": 0.0324
+          },
+          {
+            "from": 6500,
+            "rate": 0.0342
+          },
+          {
+            "from": 8500,
+            "rate": 0.0378
+          },
+          {
+            "from": 10800,
+            "rate": 0.0432
+          },
+          {
+            "from": 12900,
+            "rate": 0.0468
+          },
+          {
+            "from": 15000,
+            "rate": 0.054
+          },
+          {
+            "from": 18200,
+            "rate": 0.0612
+          },
+          {
+            "from": 23500,
+            "rate": 0.0702
+          },
+          {
+            "from": 28800,
+            "rate": 0.0792
+          },
+          {
+            "from": 34100,
+            "rate": 0.0882
+          },
+          {
+            "from": 41500,
+            "rate": 0.099
+          },
+          {
+            "from": 55300,
+            "rate": 0.1134
+          },
+          {
+            "from": 81800,
+            "rate": 0.1224
+          },
+          {
+            "from": 108300,
+            "rate": 0.126
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.0252
+          },
+          {
+            "from": 5500,
+            "rate": 0.0288
+          },
+          {
+            "from": 7600,
+            "rate": 0.0324
+          },
+          {
+            "from": 11900,
+            "rate": 0.0378
+          },
+          {
+            "from": 16000,
+            "rate": 0.0432
+          },
+          {
+            "from": 20200,
+            "rate": 0.0504
+          },
+          {
+            "from": 24600,
+            "rate": 0.0576
+          },
+          {
+            "from": 29900,
+            "rate": 0.0666
+          },
+          {
+            "from": 35200,
+            "rate": 0.0774
+          },
+          {
+            "from": 45800,
+            "rate": 0.0882
+          },
+          {
+            "from": 60000,
+            "rate": 0.0972
+          },
+          {
+            "from": 85600,
+            "rate": 0.1062
+          },
+          {
+            "from": 109400,
+            "rate": 0.1152
+          },
+          {
+            "from": 162400,
+            "rate": 0.1224
+          },
+          {
+            "from": 215400,
+            "rate": 0.126
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "18% of federal income tax liability (before credits): federal 1979 schedules with each rate x 0.18, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.021
+          },
+          {
+            "from": 3400,
+            "rate": 0.024
+          },
+          {
+            "from": 4400,
+            "rate": 0.027
+          },
+          {
+            "from": 6500,
+            "rate": 0.0285
+          },
+          {
+            "from": 8500,
+            "rate": 0.0315
+          },
+          {
+            "from": 10800,
+            "rate": 0.036
+          },
+          {
+            "from": 12900,
+            "rate": 0.039
+          },
+          {
+            "from": 15000,
+            "rate": 0.045
+          },
+          {
+            "from": 18200,
+            "rate": 0.051
+          },
+          {
+            "from": 23500,
+            "rate": 0.0585
+          },
+          {
+            "from": 28800,
+            "rate": 0.066
+          },
+          {
+            "from": 34100,
+            "rate": 0.0735
+          },
+          {
+            "from": 41500,
+            "rate": 0.0825
+          },
+          {
+            "from": 55300,
+            "rate": 0.0945
+          },
+          {
+            "from": 81800,
+            "rate": 0.102
+          },
+          {
+            "from": 108300,
+            "rate": 0.105
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.021
+          },
+          {
+            "from": 5500,
+            "rate": 0.024
+          },
+          {
+            "from": 7600,
+            "rate": 0.027
+          },
+          {
+            "from": 11900,
+            "rate": 0.0315
+          },
+          {
+            "from": 16000,
+            "rate": 0.036
+          },
+          {
+            "from": 20200,
+            "rate": 0.042
+          },
+          {
+            "from": 24600,
+            "rate": 0.048
+          },
+          {
+            "from": 29900,
+            "rate": 0.0555
+          },
+          {
+            "from": 35200,
+            "rate": 0.0645
+          },
+          {
+            "from": 45800,
+            "rate": 0.0735
+          },
+          {
+            "from": 60000,
+            "rate": 0.081
+          },
+          {
+            "from": 85600,
+            "rate": 0.0885
+          },
+          {
+            "from": 109400,
+            "rate": 0.096
+          },
+          {
+            "from": 162400,
+            "rate": 0.102
+          },
+          {
+            "from": 215400,
+            "rate": 0.105
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "15% of federal income tax liability (before credits): federal 1980 schedules with each rate x 0.15, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). DOR history footnote: rate was changed during the tax year; the rate effective Jan. 1 is recorded. Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.021
+          },
+          {
+            "from": 3400,
+            "rate": 0.024
+          },
+          {
+            "from": 4400,
+            "rate": 0.027
+          },
+          {
+            "from": 6500,
+            "rate": 0.0285
+          },
+          {
+            "from": 8500,
+            "rate": 0.0315
+          },
+          {
+            "from": 10800,
+            "rate": 0.036
+          },
+          {
+            "from": 12900,
+            "rate": 0.039
+          },
+          {
+            "from": 15000,
+            "rate": 0.045
+          },
+          {
+            "from": 18200,
+            "rate": 0.051
+          },
+          {
+            "from": 23500,
+            "rate": 0.0585
+          },
+          {
+            "from": 28800,
+            "rate": 0.066
+          },
+          {
+            "from": 34100,
+            "rate": 0.0735
+          },
+          {
+            "from": 41500,
+            "rate": 0.0825
+          },
+          {
+            "from": 55300,
+            "rate": 0.0945
+          },
+          {
+            "from": 81800,
+            "rate": 0.102
+          },
+          {
+            "from": 108300,
+            "rate": 0.105
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.021
+          },
+          {
+            "from": 5500,
+            "rate": 0.024
+          },
+          {
+            "from": 7600,
+            "rate": 0.027
+          },
+          {
+            "from": 11900,
+            "rate": 0.0315
+          },
+          {
+            "from": 16000,
+            "rate": 0.036
+          },
+          {
+            "from": 20200,
+            "rate": 0.042
+          },
+          {
+            "from": 24600,
+            "rate": 0.048
+          },
+          {
+            "from": 29900,
+            "rate": 0.0555
+          },
+          {
+            "from": 35200,
+            "rate": 0.0645
+          },
+          {
+            "from": 45800,
+            "rate": 0.0735
+          },
+          {
+            "from": 60000,
+            "rate": 0.081
+          },
+          {
+            "from": 85600,
+            "rate": 0.0885
+          },
+          {
+            "from": 109400,
+            "rate": 0.096
+          },
+          {
+            "from": 162400,
+            "rate": 0.102
+          },
+          {
+            "from": 215400,
+            "rate": 0.105
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "15% of federal income tax liability (before credits): federal 1981 schedules with each rate x 0.15, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.0216
+          },
+          {
+            "from": 3400,
+            "rate": 0.0252
+          },
+          {
+            "from": 4400,
+            "rate": 0.0288
+          },
+          {
+            "from": 6500,
+            "rate": 0.0306
+          },
+          {
+            "from": 8500,
+            "rate": 0.0342
+          },
+          {
+            "from": 10800,
+            "rate": 0.0396
+          },
+          {
+            "from": 12900,
+            "rate": 0.0414
+          },
+          {
+            "from": 15000,
+            "rate": 0.0486
+          },
+          {
+            "from": 18200,
+            "rate": 0.0558
+          },
+          {
+            "from": 23500,
+            "rate": 0.063
+          },
+          {
+            "from": 28800,
+            "rate": 0.072
+          },
+          {
+            "from": 34100,
+            "rate": 0.0792
+          },
+          {
+            "from": 41500,
+            "rate": 0.09
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.0216
+          },
+          {
+            "from": 5500,
+            "rate": 0.0252
+          },
+          {
+            "from": 7600,
+            "rate": 0.0288
+          },
+          {
+            "from": 11900,
+            "rate": 0.0342
+          },
+          {
+            "from": 16000,
+            "rate": 0.0396
+          },
+          {
+            "from": 20200,
+            "rate": 0.045
+          },
+          {
+            "from": 24600,
+            "rate": 0.0522
+          },
+          {
+            "from": 29900,
+            "rate": 0.0594
+          },
+          {
+            "from": 35200,
+            "rate": 0.0702
+          },
+          {
+            "from": 45800,
+            "rate": 0.0792
+          },
+          {
+            "from": 60000,
+            "rate": 0.0882
+          },
+          {
+            "from": 85600,
+            "rate": 0.09
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "18% of federal income tax liability (before credits): federal 1982 schedules with each rate x 0.18, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). DOR history footnote: rate was changed during the tax year; the rate effective Jan. 1 is recorded. Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.022
+          },
+          {
+            "from": 3400,
+            "rate": 0.026
+          },
+          {
+            "from": 4400,
+            "rate": 0.03
+          },
+          {
+            "from": 8500,
+            "rate": 0.034
+          },
+          {
+            "from": 10800,
+            "rate": 0.038
+          },
+          {
+            "from": 12900,
+            "rate": 0.042
+          },
+          {
+            "from": 15000,
+            "rate": 0.048
+          },
+          {
+            "from": 18200,
+            "rate": 0.056
+          },
+          {
+            "from": 23500,
+            "rate": 0.064
+          },
+          {
+            "from": 28800,
+            "rate": 0.072
+          },
+          {
+            "from": 34100,
+            "rate": 0.08
+          },
+          {
+            "from": 41500,
+            "rate": 0.09
+          },
+          {
+            "from": 55300,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.022
+          },
+          {
+            "from": 5500,
+            "rate": 0.026
+          },
+          {
+            "from": 7600,
+            "rate": 0.03
+          },
+          {
+            "from": 11900,
+            "rate": 0.034
+          },
+          {
+            "from": 16000,
+            "rate": 0.038
+          },
+          {
+            "from": 20200,
+            "rate": 0.046
+          },
+          {
+            "from": 24600,
+            "rate": 0.052
+          },
+          {
+            "from": 29900,
+            "rate": 0.06
+          },
+          {
+            "from": 35200,
+            "rate": 0.07
+          },
+          {
+            "from": 45800,
+            "rate": 0.08
+          },
+          {
+            "from": 60000,
+            "rate": 0.088
+          },
+          {
+            "from": 85600,
+            "rate": 0.096
+          },
+          {
+            "from": 109400,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "20% of federal income tax liability (before credits): federal 1983 schedules with each rate x 0.2, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). DOR history footnote: rate was changed during the tax year; the rate effective Jan. 1 is recorded. Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.0209
+          },
+          {
+            "from": 3400,
+            "rate": 0.0228
+          },
+          {
+            "from": 4400,
+            "rate": 0.0266
+          },
+          {
+            "from": 6500,
+            "rate": 0.0285
+          },
+          {
+            "from": 8500,
+            "rate": 0.0304
+          },
+          {
+            "from": 10800,
+            "rate": 0.0342
+          },
+          {
+            "from": 12900,
+            "rate": 0.038
+          },
+          {
+            "from": 15000,
+            "rate": 0.0437
+          },
+          {
+            "from": 18200,
+            "rate": 0.0494
+          },
+          {
+            "from": 23500,
+            "rate": 0.057
+          },
+          {
+            "from": 28800,
+            "rate": 0.0646
+          },
+          {
+            "from": 34100,
+            "rate": 0.0722
+          },
+          {
+            "from": 41500,
+            "rate": 0.0798
+          },
+          {
+            "from": 55300,
+            "rate": 0.0912
+          },
+          {
+            "from": 81800,
+            "rate": 0.095
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.0209
+          },
+          {
+            "from": 5500,
+            "rate": 0.0228
+          },
+          {
+            "from": 7600,
+            "rate": 0.0266
+          },
+          {
+            "from": 11900,
+            "rate": 0.0304
+          },
+          {
+            "from": 16000,
+            "rate": 0.0342
+          },
+          {
+            "from": 20200,
+            "rate": 0.0418
+          },
+          {
+            "from": 24600,
+            "rate": 0.0475
+          },
+          {
+            "from": 29900,
+            "rate": 0.0532
+          },
+          {
+            "from": 35200,
+            "rate": 0.0627
+          },
+          {
+            "from": 45800,
+            "rate": 0.0722
+          },
+          {
+            "from": 60000,
+            "rate": 0.0798
+          },
+          {
+            "from": 85600,
+            "rate": 0.0855
+          },
+          {
+            "from": 109400,
+            "rate": 0.0931
+          },
+          {
+            "from": 162400,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "19% of federal income tax liability (before credits): federal 1984 schedules with each rate x 0.19, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). DOR history footnote: rate was changed during the tax year; the rate effective Jan. 1 is recorded. Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2390,
+            "rate": 0.022
+          },
+          {
+            "from": 3540,
+            "rate": 0.024
+          },
+          {
+            "from": 4580,
+            "rate": 0.028
+          },
+          {
+            "from": 6760,
+            "rate": 0.03
+          },
+          {
+            "from": 8850,
+            "rate": 0.032
+          },
+          {
+            "from": 11240,
+            "rate": 0.036
+          },
+          {
+            "from": 13430,
+            "rate": 0.04
+          },
+          {
+            "from": 15610,
+            "rate": 0.046
+          },
+          {
+            "from": 18940,
+            "rate": 0.052
+          },
+          {
+            "from": 24460,
+            "rate": 0.06
+          },
+          {
+            "from": 29970,
+            "rate": 0.068
+          },
+          {
+            "from": 35490,
+            "rate": 0.076
+          },
+          {
+            "from": 43190,
+            "rate": 0.084
+          },
+          {
+            "from": 57550,
+            "rate": 0.096
+          },
+          {
+            "from": 85130,
+            "rate": 0.1
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3540,
+            "rate": 0.022
+          },
+          {
+            "from": 5720,
+            "rate": 0.024
+          },
+          {
+            "from": 7910,
+            "rate": 0.028
+          },
+          {
+            "from": 12390,
+            "rate": 0.032
+          },
+          {
+            "from": 16650,
+            "rate": 0.036
+          },
+          {
+            "from": 21020,
+            "rate": 0.044
+          },
+          {
+            "from": 25600,
+            "rate": 0.05
+          },
+          {
+            "from": 31120,
+            "rate": 0.056
+          },
+          {
+            "from": 36630,
+            "rate": 0.066
+          },
+          {
+            "from": 47670,
+            "rate": 0.076
+          },
+          {
+            "from": 62450,
+            "rate": 0.084
+          },
+          {
+            "from": 89090,
+            "rate": 0.09
+          },
+          {
+            "from": 113860,
+            "rate": 0.098
+          },
+          {
+            "from": 169020,
+            "rate": 0.1
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1040,
+        "marriedJoint": 2080
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "20% of federal income tax liability (before credits): federal 1985 schedules with each rate x 0.2, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). DOR history footnote: rate was changed during the tax year; the rate effective Jan. 1 is recorded. Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2480,
+            "rate": 0.0209
+          },
+          {
+            "from": 3670,
+            "rate": 0.0228
+          },
+          {
+            "from": 4750,
+            "rate": 0.0266
+          },
+          {
+            "from": 7010,
+            "rate": 0.0285
+          },
+          {
+            "from": 9170,
+            "rate": 0.0304
+          },
+          {
+            "from": 11650,
+            "rate": 0.0342
+          },
+          {
+            "from": 13920,
+            "rate": 0.038
+          },
+          {
+            "from": 16190,
+            "rate": 0.0437
+          },
+          {
+            "from": 19640,
+            "rate": 0.0494
+          },
+          {
+            "from": 25360,
+            "rate": 0.057
+          },
+          {
+            "from": 31080,
+            "rate": 0.0646
+          },
+          {
+            "from": 36800,
+            "rate": 0.0722
+          },
+          {
+            "from": 44780,
+            "rate": 0.0798
+          },
+          {
+            "from": 59670,
+            "rate": 0.0912
+          },
+          {
+            "from": 88270,
+            "rate": 0.095
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3670,
+            "rate": 0.0209
+          },
+          {
+            "from": 5940,
+            "rate": 0.0228
+          },
+          {
+            "from": 8200,
+            "rate": 0.0266
+          },
+          {
+            "from": 12840,
+            "rate": 0.0304
+          },
+          {
+            "from": 17270,
+            "rate": 0.0342
+          },
+          {
+            "from": 21800,
+            "rate": 0.0418
+          },
+          {
+            "from": 26550,
+            "rate": 0.0475
+          },
+          {
+            "from": 32270,
+            "rate": 0.0532
+          },
+          {
+            "from": 37980,
+            "rate": 0.0627
+          },
+          {
+            "from": 49420,
+            "rate": 0.0722
+          },
+          {
+            "from": 64750,
+            "rate": 0.0798
+          },
+          {
+            "from": 92370,
+            "rate": 0.0855
+          },
+          {
+            "from": 118050,
+            "rate": 0.0931
+          },
+          {
+            "from": 175250,
+            "rate": 0.095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1080,
+        "marriedJoint": 2160
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "19% of federal income tax liability (before credits): federal 1986 schedules with each rate x 0.19, federal deduction (exemptions; federal std deduction / zero-bracket rules as in the federal record). Federal surcharges/credits and Nebraska food sales tax credit (refundable, per person) not modelled."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1800,
+            "rate": 0.0315
+          },
+          {
+            "from": 16800,
+            "rate": 0.05
+          },
+          {
+            "from": 27000,
+            "rate": 0.059
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.0315
+          },
+          {
+            "from": 28000,
+            "rate": 0.05
+          },
+          {
+            "from": 45000,
+            "rate": 0.059
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3630,
+        "marriedJoint": 5940
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "LB 773 (1987) replaced the percentage-of-federal-liability tax with rates on Nebraska taxable income (federal AGI less Nebraska exemptions and standard deduction). Rates for 1987 per the DOR 'History of Nebraska Income Tax and Sales Tax Rates Through 1992' footnote. Brackets: Neb. Rev. Stat. 77-2715.02 as enacted by LB 773 sec. 8 (1987) and re-enacted by LB 739 (1989) (slip laws on nebraskalegislature.gov) sets the bracket amounts equal to the federal rate schedules for tax year 1987 (single $1,800 / $16,800 / $27,000 / $54,000; joint $3,000 / $28,000 / $45,000 / $90,000, from the IRS 1987 Form 1040 instructions); the top two federal brackets carry the same Nebraska rate (factor 1.87 each), so four brackets are recorded. Deduction = Nebraska standard deduction ($2,530 single / $3,740 joint) plus personal exemptions ($1,100 per exemption, subtracted from AGI), both per the DOR history. Nebraska tax on other federal taxes (7 x primary rate) and credits (e.g. food sales tax credit) not modelled."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1800,
+            "rate": 0.0315
+          },
+          {
+            "from": 16800,
+            "rate": 0.05
+          },
+          {
+            "from": 27000,
+            "rate": 0.059
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.0315
+          },
+          {
+            "from": 28000,
+            "rate": 0.05
+          },
+          {
+            "from": 45000,
+            "rate": 0.059
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4130,
+        "marriedJoint": 7260
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "LB 773 (1987) replaced the percentage-of-federal-liability tax with rates on Nebraska taxable income (federal AGI less Nebraska exemptions and standard deduction). Rates for 1988 per the DOR 'History of Nebraska Income Tax and Sales Tax Rates Through 1992' footnote. Brackets: Neb. Rev. Stat. 77-2715.02 as enacted by LB 773 sec. 8 (1987) and re-enacted by LB 739 (1989) (slip laws on nebraskalegislature.gov) sets the bracket amounts equal to the federal rate schedules for tax year 1987 (single $1,800 / $16,800 / $27,000 / $54,000; joint $3,000 / $28,000 / $45,000 / $90,000, from the IRS 1987 Form 1040 instructions); the top two federal brackets carry the same Nebraska rate (factor 1.87 each), so four brackets are recorded. Deduction = Nebraska standard deduction ($3,000 single / $5,000 joint) plus personal exemptions ($1,130 per exemption, subtracted from AGI), both per the DOR history. Nebraska tax on other federal taxes (7 x primary rate) and credits (e.g. food sales tax credit) not modelled."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 1800,
+            "rate": 0.031
+          },
+          {
+            "from": 16800,
+            "rate": 0.048
+          },
+          {
+            "from": 27000,
+            "rate": 0.059
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.031
+          },
+          {
+            "from": 28000,
+            "rate": 0.048
+          },
+          {
+            "from": 45000,
+            "rate": 0.059
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4280,
+        "marriedJoint": 7560
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "LB 773 (1987) replaced the percentage-of-federal-liability tax with rates on Nebraska taxable income (federal AGI less Nebraska exemptions and standard deduction). Rates for 1989 per the DOR 'History of Nebraska Income Tax and Sales Tax Rates Through 1992' footnote. Brackets: Neb. Rev. Stat. 77-2715.02 as enacted by LB 773 sec. 8 (1987) and re-enacted by LB 739 (1989) (slip laws on nebraskalegislature.gov) sets the bracket amounts equal to the federal rate schedules for tax year 1987 (single $1,800 / $16,800 / $27,000 / $54,000; joint $3,000 / $28,000 / $45,000 / $90,000, from the IRS 1987 Form 1040 instructions); the top two federal brackets carry the same Nebraska rate (factor 1.87 each), so four brackets are recorded. Deduction = Nebraska standard deduction ($3,100 single / $5,200 joint) plus personal exemptions ($1,180 per exemption, subtracted from AGI), both per the DOR history. Nebraska tax on other federal taxes (7 x primary rate) and credits (e.g. food sales tax credit) not modelled."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 1800,
+            "rate": 0.0336
+          },
+          {
+            "from": 16800,
+            "rate": 0.0521
+          },
+          {
+            "from": 27000,
+            "rate": 0.0641
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 3000,
+            "rate": 0.0336
+          },
+          {
+            "from": 28000,
+            "rate": 0.0521
+          },
+          {
+            "from": 45000,
+            "rate": 0.0641
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4480,
+        "marriedJoint": 7910
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "LB 773 (1987) replaced the percentage-of-federal-liability tax with rates on Nebraska taxable income (federal AGI less Nebraska exemptions and standard deduction). Rates for 1990 per the DOR 'History of Nebraska Income Tax and Sales Tax Rates Through 1992' footnote. Brackets: Neb. Rev. Stat. 77-2715.02 as enacted by LB 773 sec. 8 (1987) and re-enacted by LB 739 (1989) (slip laws on nebraskalegislature.gov) sets the bracket amounts equal to the federal rate schedules for tax year 1987 (single $1,800 / $16,800 / $27,000 / $54,000; joint $3,000 / $28,000 / $45,000 / $90,000, from the IRS 1987 Form 1040 instructions); the top two federal brackets carry the same Nebraska rate (factor 1.87 each), so four brackets are recorded. Deduction = Nebraska standard deduction ($3,250 single / $5,450 joint) plus personal exemptions ($1,230 per exemption, subtracted from AGI), both per the DOR history. Nebraska tax on other federal taxes (7 x primary rate) and credits (e.g. food sales tax credit) not modelled."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0237
+          },
+          {
+            "from": 1800,
+            "rate": 0.0363
+          },
+          {
+            "from": 16800,
+            "rate": 0.0562
+          },
+          {
+            "from": 27000,
+            "rate": 0.0692
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0237
+          },
+          {
+            "from": 3000,
+            "rate": 0.0363
+          },
+          {
+            "from": 28000,
+            "rate": 0.0562
+          },
+          {
+            "from": 45000,
+            "rate": 0.0692
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4690,
+        "marriedJoint": 8280
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "LB 773 (1987) replaced the percentage-of-federal-liability tax with rates on Nebraska taxable income (federal AGI less Nebraska exemptions and standard deduction). Rates for 1991 per the DOR 'History of Nebraska Income Tax and Sales Tax Rates Through 1992' footnote. Brackets: Neb. Rev. Stat. 77-2715.02 as enacted by LB 773 sec. 8 (1987) and re-enacted by LB 739 (1989) (slip laws on nebraskalegislature.gov) sets the bracket amounts equal to the federal rate schedules for tax year 1987 (single $1,800 / $16,800 / $27,000 / $54,000; joint $3,000 / $28,000 / $45,000 / $90,000, from the IRS 1987 Form 1040 instructions); the top two federal brackets carry the same Nebraska rate (factor 1.87 each), so four brackets are recorded. Deduction = Nebraska standard deduction ($3,400 single / $5,700 joint) plus personal exemptions ($1,290 per exemption, subtracted from AGI), both per the DOR history. Nebraska tax on other federal taxes (7 x primary rate) and credits (e.g. food sales tax credit) not modelled."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0237
+          },
+          {
+            "from": 1800,
+            "rate": 0.0363
+          },
+          {
+            "from": 16800,
+            "rate": 0.0562
+          },
+          {
+            "from": 27000,
+            "rate": 0.0692
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0237
+          },
+          {
+            "from": 3000,
+            "rate": 0.0363
+          },
+          {
+            "from": 28000,
+            "rate": 0.0562
+          },
+          {
+            "from": 45000,
+            "rate": 0.0692
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4960,
+        "marriedJoint": 8720
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/history.pdf",
+      "notes": "LB 773 (1987) replaced the percentage-of-federal-liability tax with rates on Nebraska taxable income (federal AGI less Nebraska exemptions and standard deduction). Rates for 1992 per the DOR 'History of Nebraska Income Tax and Sales Tax Rates Through 1992' footnote. Brackets: Neb. Rev. Stat. 77-2715.02 as enacted by LB 773 sec. 8 (1987) and re-enacted by LB 739 (1989) (slip laws on nebraskalegislature.gov) sets the bracket amounts equal to the federal rate schedules for tax year 1987 (single $1,800 / $16,800 / $27,000 / $54,000; joint $3,000 / $28,000 / $45,000 / $90,000, from the IRS 1987 Form 1040 instructions); the top two federal brackets carry the same Nebraska rate (factor 1.87 each), so four brackets are recorded. Deduction = Nebraska standard deduction ($3,600 single / $6,000 joint) plus personal exemptions ($1,360 per exemption, subtracted from AGI), both per the DOR history. Nebraska tax on other federal taxes (7 x primary rate) and credits (e.g. food sales tax credit) not modelled."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0262
+          },
+          {
+            "from": 2400,
+            "rate": 0.0365
+          },
+          {
+            "from": 17000,
+            "rate": 0.0524
+          },
+          {
+            "from": 26500,
+            "rate": 0.0699
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0262
+          },
+          {
+            "from": 4000,
+            "rate": 0.0365
+          },
+          {
+            "from": 30000,
+            "rate": 0.0524
+          },
+          {
+            "from": 46750,
+            "rate": 0.0699
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3700,
+        "marriedJoint": 6200
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $65 per exemption (nonrefundable credit) not in deduction. High-income phase-outs (standard/itemized deductions, exemption credit, benefit of lower brackets above federal AGI threshold) not modelled."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0262
+          },
+          {
+            "from": 2400,
+            "rate": 0.0365
+          },
+          {
+            "from": 17000,
+            "rate": 0.0524
+          },
+          {
+            "from": 26500,
+            "rate": 0.0699
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0262
+          },
+          {
+            "from": 4000,
+            "rate": 0.0365
+          },
+          {
+            "from": 30000,
+            "rate": 0.0524
+          },
+          {
+            "from": 46750,
+            "rate": 0.0699
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3800,
+        "marriedJoint": 6350
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $69 per exemption (nonrefundable credit) not in deduction. High-income phase-outs (standard/itemized deductions, exemption credit, benefit of lower brackets above federal AGI threshold) not modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0262
+          },
+          {
+            "from": 2400,
+            "rate": 0.0365
+          },
+          {
+            "from": 17000,
+            "rate": 0.0524
+          },
+          {
+            "from": 26500,
+            "rate": 0.0699
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0262
+          },
+          {
+            "from": 4000,
+            "rate": 0.0365
+          },
+          {
+            "from": 30000,
+            "rate": 0.0524
+          },
+          {
+            "from": 46750,
+            "rate": 0.0699
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3900,
+        "marriedJoint": 6550
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $69 per exemption (nonrefundable credit) not in deduction. High-income phase-outs (standard/itemized deductions, exemption credit, benefit of lower brackets above federal AGI threshold) not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0262
+          },
+          {
+            "from": 2400,
+            "rate": 0.0365
+          },
+          {
+            "from": 17000,
+            "rate": 0.0524
+          },
+          {
+            "from": 26500,
+            "rate": 0.0699
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0262
+          },
+          {
+            "from": 4000,
+            "rate": 0.0365
+          },
+          {
+            "from": 30000,
+            "rate": 0.0524
+          },
+          {
+            "from": 46750,
+            "rate": 0.0699
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4000,
+        "marriedJoint": 6700
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $72 per exemption (nonrefundable credit) not in deduction. High-income phase-outs (standard/itemized deductions, exemption credit, benefit of lower brackets above federal AGI threshold) not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 2400,
+            "rate": 0.0349
+          },
+          {
+            "from": 17000,
+            "rate": 0.0501
+          },
+          {
+            "from": 26500,
+            "rate": 0.0668
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 4000,
+            "rate": 0.0349
+          },
+          {
+            "from": 30000,
+            "rate": 0.0501
+          },
+          {
+            "from": 46750,
+            "rate": 0.0668
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4150,
+        "marriedJoint": 6900
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $86 per exemption (nonrefundable credit) not in deduction. High-income phase-outs (standard/itemized deductions, exemption credit, benefit of lower brackets above federal AGI threshold) not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 2400,
+            "rate": 0.0349
+          },
+          {
+            "from": 17000,
+            "rate": 0.0501
+          },
+          {
+            "from": 26500,
+            "rate": 0.0668
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 4000,
+            "rate": 0.0349
+          },
+          {
+            "from": 30000,
+            "rate": 0.0501
+          },
+          {
+            "from": 46750,
+            "rate": 0.0668
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4250,
+        "marriedJoint": 7100
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $88 per exemption (nonrefundable credit) not in deduction. High-income phase-outs (standard/itemized deductions, exemption credit, benefit of lower brackets above federal AGI threshold) not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 2400,
+            "rate": 0.0349
+          },
+          {
+            "from": 17000,
+            "rate": 0.0501
+          },
+          {
+            "from": 26500,
+            "rate": 0.0668
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 4000,
+            "rate": 0.0349
+          },
+          {
+            "from": 30000,
+            "rate": 0.0501
+          },
+          {
+            "from": 46750,
+            "rate": 0.0668
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4300,
+        "marriedJoint": 7200
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $89 per exemption (nonrefundable credit) not in deduction. High-income phase-outs (standard/itemized deductions, exemption credit, benefit of lower brackets above federal AGI threshold) not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 2400,
+            "rate": 0.0349
+          },
+          {
+            "from": 17000,
+            "rate": 0.0501
+          },
+          {
+            "from": 26500,
+            "rate": 0.0668
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 4000,
+            "rate": 0.0349
+          },
+          {
+            "from": 30000,
+            "rate": 0.0501
+          },
+          {
+            "from": 46750,
+            "rate": 0.0668
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4400,
+        "marriedJoint": 7350
+      },
+      "source": "https://web.archive.org/web/20041113030624/http://www.revenue.state.ne.us:80/tax/00forms/taxrate.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $91 per exemption (nonrefundable credit) not in deduction. High-income phase-outs (standard/itemized deductions, exemption credit, benefit of lower brackets above federal AGI threshold) not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 2400,
+            "rate": 0.0349
+          },
+          {
+            "from": 17000,
+            "rate": 0.0501
+          },
+          {
+            "from": 26500,
+            "rate": 0.0668
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 4000,
+            "rate": 0.0349
+          },
+          {
+            "from": 30000,
+            "rate": 0.0501
+          },
+          {
+            "from": 46750,
+            "rate": 0.0668
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4550,
+        "marriedJoint": 7600
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $94 per exemption (nonrefundable credit) not in deduction. High-income phase-outs (standard/itemized deductions, exemption credit, benefit of lower brackets above federal AGI threshold) not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 2400,
+            "rate": 0.0349
+          },
+          {
+            "from": 17000,
+            "rate": 0.0501
+          },
+          {
+            "from": 26500,
+            "rate": 0.0668
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 4000,
+            "rate": 0.0349
+          },
+          {
+            "from": 30000,
+            "rate": 0.0501
+          },
+          {
+            "from": 46750,
+            "rate": 0.0668
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4700,
+        "marriedJoint": 7850
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $97 per exemption (nonrefundable credit) not in deduction. High-income phase-outs (standard/itemized deductions, exemption credit, benefit of lower brackets above federal AGI threshold) not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 2400,
+            "rate": 0.0357
+          },
+          {
+            "from": 17000,
+            "rate": 0.0512
+          },
+          {
+            "from": 26500,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 4000,
+            "rate": 0.0357
+          },
+          {
+            "from": 30000,
+            "rate": 0.0512
+          },
+          {
+            "from": 46750,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4750,
+        "marriedJoint": 7950
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $99 per exemption (nonrefundable credit) not in deduction. High-income phase-outs (standard/itemized deductions, exemption credit, benefit of lower brackets above federal AGI threshold) not modelled. Joint standard deduction fixed by LB 596 (2003) rather than federal amount."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 2400,
+            "rate": 0.0357
+          },
+          {
+            "from": 17000,
+            "rate": 0.0512
+          },
+          {
+            "from": 26500,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 4000,
+            "rate": 0.0357
+          },
+          {
+            "from": 30000,
+            "rate": 0.0512
+          },
+          {
+            "from": 46750,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4850,
+        "marriedJoint": 8140
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $101 per exemption (nonrefundable credit) not in deduction. High-income phase-outs (standard/itemized deductions, exemption credit, benefit of lower brackets above federal AGI threshold) not modelled. Joint standard deduction fixed by LB 596 (2003) rather than federal amount."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 2400,
+            "rate": 0.0357
+          },
+          {
+            "from": 17000,
+            "rate": 0.0512
+          },
+          {
+            "from": 26500,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 4000,
+            "rate": 0.0357
+          },
+          {
+            "from": 30000,
+            "rate": 0.0512
+          },
+          {
+            "from": 46750,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4980,
+        "marriedJoint": 8320
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $103 per exemption (nonrefundable credit) not in deduction. High-income phase-outs (standard/itemized deductions, exemption credit, benefit of lower brackets above federal AGI threshold) not modelled. Joint standard deduction fixed by LB 596 (2003) rather than federal amount."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 2400,
+            "rate": 0.0357
+          },
+          {
+            "from": 17500,
+            "rate": 0.0512
+          },
+          {
+            "from": 27000,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 4000,
+            "rate": 0.0357
+          },
+          {
+            "from": 31000,
+            "rate": 0.0512
+          },
+          {
+            "from": 50000,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5130,
+        "marriedJoint": 8580
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $106 per exemption (nonrefundable credit) not in deduction. Additional tax recapturing lower-bracket benefit for high-AGI taxpayers not modelled. Joint standard deduction fixed by LB 596 (2003) rather than federal amount."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 2400,
+            "rate": 0.0357
+          },
+          {
+            "from": 17500,
+            "rate": 0.0512
+          },
+          {
+            "from": 27000,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 4800,
+            "rate": 0.0357
+          },
+          {
+            "from": 35000,
+            "rate": 0.0512
+          },
+          {
+            "from": 54000,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5350,
+        "marriedJoint": 10700
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $111 per exemption (nonrefundable credit) not in deduction. Additional tax recapturing lower-bracket benefit for high-AGI taxpayers not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 2400,
+            "rate": 0.0357
+          },
+          {
+            "from": 17500,
+            "rate": 0.0512
+          },
+          {
+            "from": 27000,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 4800,
+            "rate": 0.0357
+          },
+          {
+            "from": 35000,
+            "rate": 0.0512
+          },
+          {
+            "from": 54000,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5450,
+        "marriedJoint": 10900
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $113 per exemption (nonrefundable credit) not in deduction. Additional tax recapturing lower-bracket benefit for high-AGI taxpayers not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 2400,
+            "rate": 0.0357
+          },
+          {
+            "from": 17500,
+            "rate": 0.0512
+          },
+          {
+            "from": 27000,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 4800,
+            "rate": 0.0357
+          },
+          {
+            "from": 35000,
+            "rate": 0.0512
+          },
+          {
+            "from": 54000,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5700,
+        "marriedJoint": 11400
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NE/2009/2009_tax_rate.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $118 per exemption (nonrefundable credit) not in deduction. Additional tax recapturing lower-bracket benefit for high-AGI taxpayers not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 2400,
+            "rate": 0.0357
+          },
+          {
+            "from": 17500,
+            "rate": 0.0512
+          },
+          {
+            "from": 27000,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 4800,
+            "rate": 0.0357
+          },
+          {
+            "from": 35000,
+            "rate": 0.0512
+          },
+          {
+            "from": 54000,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5700,
+        "marriedJoint": 11400
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $118 per exemption (nonrefundable credit) not in deduction. Additional tax recapturing lower-bracket benefit for high-AGI taxpayers not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 2400,
+            "rate": 0.0357
+          },
+          {
+            "from": 17500,
+            "rate": 0.0512
+          },
+          {
+            "from": 27000,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 4800,
+            "rate": 0.0357
+          },
+          {
+            "from": 35000,
+            "rate": 0.0512
+          },
+          {
+            "from": 54000,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5800,
+        "marriedJoint": 11600
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $120 per exemption (nonrefundable credit) not in deduction. Additional tax recapturing lower-bracket benefit for high-AGI taxpayers not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 2400,
+            "rate": 0.0357
+          },
+          {
+            "from": 17500,
+            "rate": 0.0512
+          },
+          {
+            "from": 27000,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0256
+          },
+          {
+            "from": 4800,
+            "rate": 0.0357
+          },
+          {
+            "from": 35000,
+            "rate": 0.0512
+          },
+          {
+            "from": 54000,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5950,
+        "marriedJoint": 11900
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NE/2012/Tax_Cal_Sch.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $123 per exemption (nonrefundable credit) not in deduction. Additional tax recapturing lower-bracket benefit for high-AGI taxpayers not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 2400,
+            "rate": 0.0351
+          },
+          {
+            "from": 17500,
+            "rate": 0.0501
+          },
+          {
+            "from": 27000,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 4800,
+            "rate": 0.0351
+          },
+          {
+            "from": 35000,
+            "rate": 0.0501
+          },
+          {
+            "from": 54000,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6100,
+        "marriedJoint": 12200
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NE/2013/Tax_Cal_Sch.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $126 per exemption (nonrefundable credit) not in deduction. Additional tax recapturing lower-bracket benefit for high-AGI taxpayers not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 3000,
+            "rate": 0.0351
+          },
+          {
+            "from": 18000,
+            "rate": 0.0501
+          },
+          {
+            "from": 29000,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 6000,
+            "rate": 0.0351
+          },
+          {
+            "from": 36000,
+            "rate": 0.0501
+          },
+          {
+            "from": 58000,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6200,
+        "marriedJoint": 12400
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NE/2014/Tax_Cal_Schedule.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $128 per exemption (nonrefundable credit) not in deduction. Additional tax recapturing lower-bracket benefit for high-AGI taxpayers not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 3050,
+            "rate": 0.0351
+          },
+          {
+            "from": 18280,
+            "rate": 0.0501
+          },
+          {
+            "from": 29460,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 6090,
+            "rate": 0.0351
+          },
+          {
+            "from": 36570,
+            "rate": 0.0501
+          },
+          {
+            "from": 58920,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6300,
+        "marriedJoint": 12600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NE/2015/2015_Tax_Calculation_Schedule.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $130 per exemption (nonrefundable credit) not in deduction. Additional tax recapturing lower-bracket benefit for high-AGI taxpayers not modelled."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 3060,
+            "rate": 0.0351
+          },
+          {
+            "from": 18370,
+            "rate": 0.0501
+          },
+          {
+            "from": 29590,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 6120,
+            "rate": 0.0351
+          },
+          {
+            "from": 36730,
+            "rate": 0.0501
+          },
+          {
+            "from": 59180,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6300,
+        "marriedJoint": 12600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NE/2016/2016_Tax_Calculation_Schedule.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $131 per exemption (nonrefundable credit) not in deduction. Additional tax recapturing lower-bracket benefit for high-AGI taxpayers not modelled."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 3090,
+            "rate": 0.0351
+          },
+          {
+            "from": 18510,
+            "rate": 0.0501
+          },
+          {
+            "from": 29830,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 6170,
+            "rate": 0.0351
+          },
+          {
+            "from": 37030,
+            "rate": 0.0501
+          },
+          {
+            "from": 59660,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6350,
+        "marriedJoint": 12700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NE/2017/2017_Tax_Calculation_Schedule.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $132 per exemption (nonrefundable credit) not in deduction. Additional tax recapturing lower-bracket benefit for high-AGI taxpayers not modelled."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 3150,
+            "rate": 0.0351
+          },
+          {
+            "from": 18880,
+            "rate": 0.0501
+          },
+          {
+            "from": 30420,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 6290,
+            "rate": 0.0351
+          },
+          {
+            "from": 37770,
+            "rate": 0.0501
+          },
+          {
+            "from": 60840,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6750,
+        "marriedJoint": 13500
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NE/2018/Tax_Cal_Sch.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $134 per exemption (nonrefundable credit) not in deduction."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 3230,
+            "rate": 0.0351
+          },
+          {
+            "from": 19330,
+            "rate": 0.0501
+          },
+          {
+            "from": 31160,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 6440,
+            "rate": 0.0351
+          },
+          {
+            "from": 38680,
+            "rate": 0.0501
+          },
+          {
+            "from": 62320,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6900,
+        "marriedJoint": 13800
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NE/2019/2019_Tax_Calculation_Schedule.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $137 per exemption (nonrefundable credit) not in deduction."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 3290,
+            "rate": 0.0351
+          },
+          {
+            "from": 19700,
+            "rate": 0.0501
+          },
+          {
+            "from": 31750,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 6570,
+            "rate": 0.0351
+          },
+          {
+            "from": 39410,
+            "rate": 0.0501
+          },
+          {
+            "from": 63500,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7000,
+        "marriedJoint": 14000
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $140 per exemption (nonrefundable credit) not in deduction."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 3340,
+            "rate": 0.0351
+          },
+          {
+            "from": 19990,
+            "rate": 0.0501
+          },
+          {
+            "from": 32210,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 6660,
+            "rate": 0.0351
+          },
+          {
+            "from": 39990,
+            "rate": 0.0501
+          },
+          {
+            "from": 64430,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7100,
+        "marriedJoint": 14200
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NE/2021/2021_Tax_Calculation_Schedule.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $142 per exemption (nonrefundable credit) not in deduction."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 3440,
+            "rate": 0.0351
+          },
+          {
+            "from": 20590,
+            "rate": 0.0501
+          },
+          {
+            "from": 33180,
+            "rate": 0.0684
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 6860,
+            "rate": 0.0351
+          },
+          {
+            "from": 41190,
+            "rate": 0.0501
+          },
+          {
+            "from": 66360,
+            "rate": 0.0684
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7350,
+        "marriedJoint": 14700
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $146 per exemption (nonrefundable credit) not in deduction."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 3700,
+            "rate": 0.0351
+          },
+          {
+            "from": 22170,
+            "rate": 0.0501
+          },
+          {
+            "from": 35730,
+            "rate": 0.0664
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 7390,
+            "rate": 0.0351
+          },
+          {
+            "from": 44350,
+            "rate": 0.0501
+          },
+          {
+            "from": 71460,
+            "rate": 0.0664
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7900,
+        "marriedJoint": 15800
+      },
+      "source": "https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "Rates per DOR Tax Rate Chronology Table 1; brackets per DOR bracket history. Deduction = Nebraska standard deduction (Table 1). Personal exemption credit $157 per exemption (nonrefundable credit) not in deduction."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 3900,
+            "rate": 0.0351
+          },
+          {
+            "from": 23370,
+            "rate": 0.0501
+          },
+          {
+            "from": 37670,
+            "rate": 0.0584
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 7790,
+            "rate": 0.0351
+          },
+          {
+            "from": 46760,
+            "rate": 0.0501
+          },
+          {
+            "from": 75340,
+            "rate": 0.0584
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8350,
+        "marriedJoint": 16700
+      },
+      "source": "https://revenue.nebraska.gov/sites/default/files/doc/tax-forms/2024/2024_Tax_Calculation_Schedule.pdf",
+      "notes": "The $166 per person exemption is a credit and is left out."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 4030,
+            "rate": 0.0351
+          },
+          {
+            "from": 24120,
+            "rate": 0.0501
+          },
+          {
+            "from": 38870,
+            "rate": 0.052
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 8040,
+            "rate": 0.0351
+          },
+          {
+            "from": 48250,
+            "rate": 0.0501
+          },
+          {
+            "from": 77730,
+            "rate": 0.052
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8600,
+        "marriedJoint": 17200
+      },
+      "source": "https://revenue.nebraska.gov/sites/default/files/doc/tax-forms/2025/2025_Tax_Calculation_Schedule.pdf",
+      "notes": "The $171 per person exemption is a credit and is left out."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 4130,
+            "rate": 0.0351
+          },
+          {
+            "from": 24760,
+            "rate": 0.0455
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0246
+          },
+          {
+            "from": 8250,
+            "rate": 0.0351
+          },
+          {
+            "from": 49530,
+            "rate": 0.0455
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8850,
+        "marriedJoint": 17700
+      },
+      "source": "https://revenue.nebraska.gov/sites/default/files/doc/research/chronology/4-607table1.pdf",
+      "notes": "The $176 per person exemption is a credit and is left out."
+    }
+  }
+}

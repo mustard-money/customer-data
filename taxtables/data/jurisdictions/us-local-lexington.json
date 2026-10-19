@@ -1,0 +1,281 @@
+{
+  "id": "us-local-lexington",
+  "kind": "local",
+  "region": "Lexington/Fayette County",
+  "state": "KY",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1970-71 ed. (M-57), Table 43 (p. 100, rates at December 31, 1970): City of Lexington 1.5%. No Fayette County levy is listed (the city and county merged into the urban county government in 1974) and the county schools' 0.5% began in 1986, so 1.5% is the whole rate."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1972 ed. (M-74), Table 99 (p. 226, rates at December 31, 1971): City of Lexington 1.5%; no Fayette County levy listed. 1972 is not recorded: the rate section was amended by Ord. No. 99-72 of May 25, 1972, whose effective date isn't documented."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1973-74 ed. (M-79), Table 150 (p. 292, rates at July 1, 1973): City of Lexington 2.0%; no Fayette County levy listed."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/ky/lexington-fayette_urban/codes/code_of_ordinances?nodeId=soGNiCg",
+      "notes": "Carried between the ACIR 1973-74 (M-79, July 1, 1973: City of Lexington 2.0%) and 1976-77 (July 1, 1976: Lexington-Fayette Urban County 2.0%) editions. LFUCG Code sec. 13-4, the rate section, lists Ord. No. 3583 (1956), Ord. No. 99-72 (5-25-72), Ord. No. 164-83 (9-22-83), Ord. No. 147-90 (7-5-90), Ord. No. 236-93 (12-9-93), Ord. No. 82-95 (8-31-95) and two 2000 ordinances in its history, so none between 1972 and 1983; the city and Fayette County merged into the urban county government in January 1974. No document for this year was located."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/ky/lexington-fayette_urban/codes/code_of_ordinances?nodeId=soGNiCg",
+      "notes": "Carried between the ACIR 1973-74 (M-79, July 1, 1973: City of Lexington 2.0%) and 1976-77 (July 1, 1976: Lexington-Fayette Urban County 2.0%) editions. LFUCG Code sec. 13-4, the rate section, lists Ord. No. 3583 (1956), Ord. No. 99-72 (5-25-72), Ord. No. 164-83 (9-22-83), Ord. No. 147-90 (7-5-90), Ord. No. 236-93 (12-9-93), Ord. No. 82-95 (8-31-95) and two 2000 ordinances in its history, so none between 1972 and 1983. No document for this year was located."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1976-77 ed. vol. II, Table 116 (p. 226, rates at July 1, 1976): Lexington-Fayette Urban County 2.0%."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/ky/lexington-fayette_urban/codes/code_of_ordinances?nodeId=soGNiCg",
+      "notes": "Carried between the ACIR 1976-77 (July 1, 1976) and 1979-80 (October 1, 1979) editions, both 2.0% for Lexington-Fayette Urban County. LFUCG Code sec. 13-4, the rate section, lists Ord. No. 3583 (1956), Ord. No. 99-72 (5-25-72), Ord. No. 164-83 (9-22-83), Ord. No. 147-90 (7-5-90), Ord. No. 236-93 (12-9-93), Ord. No. 82-95 (8-31-95) and two 2000 ordinances in its history, so none between 1972 and 1983. No document for this year was located."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/ky/lexington-fayette_urban/codes/code_of_ordinances?nodeId=soGNiCg",
+      "notes": "Carried between the ACIR 1976-77 (July 1, 1976) and 1979-80 (October 1, 1979) editions, both 2.0% for Lexington-Fayette Urban County. LFUCG Code sec. 13-4, the rate section, lists Ord. No. 3583 (1956), Ord. No. 99-72 (5-25-72), Ord. No. 164-83 (9-22-83), Ord. No. 147-90 (7-5-90), Ord. No. 236-93 (12-9-93), Ord. No. 82-95 (8-31-95) and two 2000 ordinances in its history, so none between 1972 and 1983. The Tax Foundation's Facts and Figures on Government Finance (1979 ed., Table 201, as of September 1, 1978) also lists Lexington at 2.0%."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1979-80 ed., Table 88 (p. 129, rates at October 1, 1979): Lexington-Fayette Urban County 2.0%."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://archive.org/details/micro_IA40706905_0115/page/n282",
+      "notes": "Secondary source (Tax Foundation, Facts and Figures on Government Finance, 21st biennial ed. 1981, Table 238 'Local Income Taxes and Rates by State', as of April 1, 1981): Lexington 2.0% (the table cites Commerce Clearing House). Carried between ACIR's 2.0% at October 1, 1979 and this April 1, 1981 figure; LFUCG Code sec. 13-4, the rate section, lists Ord. No. 3583 (1956), Ord. No. 99-72 (5-25-72), Ord. No. 164-83 (9-22-83), Ord. No. 147-90 (7-5-90), Ord. No. 236-93 (12-9-93), Ord. No. 82-95 (8-31-95) and two 2000 ordinances in its history, so none between 1972 and September 1983. No document for this year was located."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://archive.org/details/micro_IA40706905_0115/page/n282",
+      "notes": "Secondary source (Tax Foundation, Facts and Figures on Government Finance, 21st biennial ed. 1981, Table 238 'Local Income Taxes and Rates by State', as of April 1, 1981): Lexington 2.0% (the table cites Commerce Clearing House). Single secondary source, matching ACIR's 2.0% for 1979 and 1986."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://archive.org/details/micro_IA40706921_0267/page/n317",
+      "notes": "Secondary source (Tax Foundation, Facts and Figures on Government Finance, 23rd ed. 1986, Table F19 'Local Income Taxes and Rates by State', as of April 1, 1985): Lexington 2.0% (the table cites Commerce Clearing House). Single secondary source, matching ACIR's 2.0% for 1986. The schools' 0.5% began March 1, 1986. 1982-1984 are not recorded: Ord. No. 164-83 of September 22, 1983 amended the rate section and no figure for those years was found."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "2.5% = Lexington-Fayette Urban County Government occupational license fee 2.0% (ACIR Significant Features 1987 ed., Table 56, p. 84, 1986 rates: Lexington (Fayette) county rate 2.0% for residents and nonresidents) plus the Fayette County Board of Education's 0.5% occupational license tax for schools on residents' Fayette County wages, imposed under KRS 160.605 effective March 1, 1986 (FCPS Tax Collection Office notice, revised 12/2012, copy at http://www.zillionforms.com/2014/I648403926.PDF); ACIR's rate is the urban county's fee alone (the same for residents and nonresidents, while the school tax falls on residents only). Year-end rate: the school tax applied from March 1."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1988-Vol-1.pdf",
+      "notes": "2.5% = Lexington-Fayette Urban County Government occupational license fee 2.0% (ACIR Significant Features 1988 ed. vol. 1, Table 20, p. 48, 1987 rates: Lexington (Fayette) county rate 2.0% for residents and nonresidents) plus the Fayette County Board of Education's 0.5% occupational license tax for schools on residents' Fayette County wages, imposed under KRS 160.605 effective March 1, 1986 (FCPS Tax Collection Office notice, revised 12/2012, copy at http://www.zillionforms.com/2014/I648403926.PDF); ACIR's rate is the urban county's fee alone (the same for residents and nonresidents, while the school tax falls on residents only)."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1989-Vol-1.pdf",
+      "notes": "2.5% = Lexington-Fayette Urban County Government occupational license fee 2.0% (ACIR Significant Features 1989 ed. vol. 1, Table 23, p. 48, 1988 rates: Lexington (Fayette) county rate 2.0% for residents and nonresidents) plus the Fayette County Board of Education's 0.5% occupational license tax for schools on residents' Fayette County wages, imposed under KRS 160.605 effective March 1, 1986 (FCPS Tax Collection Office notice, revised 12/2012, copy at http://www.zillionforms.com/2014/I648403926.PDF); ACIR's rate is the urban county's fee alone (the same for residents and nonresidents, while the school tax falls on residents only)."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1990-Vol-1.pdf",
+      "notes": "2.5% = Lexington-Fayette Urban County Government occupational license fee 2.0% (ACIR Significant Features 1990 ed. vol. 1, Table 21, p. 58, 1989 rates: Lexington (Fayette) county rate 2.0% for residents and nonresidents) plus the Fayette County Board of Education's 0.5% occupational license tax for schools on residents' Fayette County wages, imposed under KRS 160.605 effective March 1, 1986 (FCPS Tax Collection Office notice, revised 12/2012, copy at http://www.zillionforms.com/2014/I648403926.PDF); ACIR's rate is the urban county's fee alone (the same for residents and nonresidents, while the school tax falls on residents only). 1990 is not recorded: Ord. No. 147-90 of July 5, 1990 amended the rate section and no 1990 figure was found."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1992-Vol-1.pdf",
+      "notes": "2.5% = Lexington-Fayette Urban County Government occupational license fee 2.0% (ACIR Significant Features 1992 ed. vol. 1, Table 24, November 1991: Lexington (Fayette) 2.0% city and county, residents and nonresidents) plus the Fayette County Board of Education's 0.5% occupational license tax for schools on residents' Fayette County wages, imposed under KRS 160.605 effective March 1, 1986 (FCPS Tax Collection Office notice, revised 12/2012, copy at http://www.zillionforms.com/2014/I648403926.PDF); ACIR's rate is the urban county's fee alone (the same for residents and nonresidents, while the school tax falls on residents only)."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff-1993-vol-1.pdf",
+      "notes": "2.5% = Lexington-Fayette Urban County Government occupational license fee 2.0% (ACIR Significant Features 1993 ed. vol. 1, Table 24, p. 78, November 1992: Lexington (Fayette) city rate 2.0% for residents and nonresidents; the county column's 2.5% matches the fee plus the school tax) plus the Fayette County Board of Education's 0.5% occupational license tax for schools on residents' Fayette County wages, imposed under KRS 160.605 effective March 1, 1986 (FCPS Tax Collection Office notice, revised 12/2012, copy at http://www.zillionforms.com/2014/I648403926.PDF); ACIR's rate is the urban county's fee alone (the same for residents and nonresidents, while the school tax falls on residents only)."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1994-Vol-1.pdf",
+      "notes": "2.5% = Lexington-Fayette Urban County Government occupational license fee 2.0% (ACIR Significant Features 1994 ed. vol. 1, Table 22, p. 78, November 1993: Lexington (Fayette) 2.0% city and county, residents and nonresidents) plus the Fayette County Board of Education's 0.5% occupational license tax for schools on residents' Fayette County wages, imposed under KRS 160.605 effective March 1, 1986 (FCPS Tax Collection Office notice, revised 12/2012, copy at http://www.zillionforms.com/2014/I648403926.PDF); ACIR's rate is the urban county's fee alone (the same for residents and nonresidents, while the school tax falls on residents only). Ord. No. 236-93 of December 9, 1993 amended the rate section (2.25% by November 1994); its effective date isn't documented, so the November 1993 rate is recorded."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1995-Vol-1.pdf",
+      "notes": "2.75% = Lexington-Fayette Urban County Government occupational license fee 2.25% (ACIR Significant Features 1995 ed. vol. 1, Table 21, p. 71, November 1994: Lexington (Fayette) city rate 2.25% for residents and nonresidents; the county column's 2.5% is not used) plus the Fayette County Board of Education's 0.5% occupational license tax for schools on residents' Fayette County wages, imposed under KRS 160.605 effective March 1, 1986 (FCPS Tax Collection Office notice, revised 12/2012, copy at http://www.zillionforms.com/2014/I648403926.PDF); ACIR's rate is the urban county's fee alone (the same for residents and nonresidents, while the school tax falls on residents only). 1995-2000 are not recorded: Ord. No. 82-95 (August 31, 1995) and two 2000 ordinances amended the rate section and no figure for those years was found before the 2001 regulations."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://web.archive.org/web/20161224131341/https://www.lexingtonky.gov/sites/default/files/2016-08/License%20Fee%20Regulations.pdf",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% per the Division of Revenue License Fee Regulations, 5th ed. (effective for returns due on or after January 1, 2001) and the 2015 Form 211-22; year-specific forms not located."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://web.archive.org/web/20161224131341/https://www.lexingtonky.gov/sites/default/files/2016-08/License%20Fee%20Regulations.pdf",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% per the Division of Revenue License Fee Regulations, 5th ed. (effective for returns due on or after January 1, 2001) and the 2015 Form 211-22; year-specific forms not located."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://web.archive.org/web/20161224131341/https://www.lexingtonky.gov/sites/default/files/2016-08/License%20Fee%20Regulations.pdf",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% per the Division of Revenue License Fee Regulations, 5th ed. (effective for returns due on or after January 1, 2001) and the 2015 Form 211-22; year-specific forms not located."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://web.archive.org/web/20161224131341/https://www.lexingtonky.gov/sites/default/files/2016-08/License%20Fee%20Regulations.pdf",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% per the Division of Revenue License Fee Regulations, 5th ed. (effective for returns due on or after January 1, 2001) and the 2015 Form 211-22; year-specific forms not located."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://web.archive.org/web/20161224131341/https://www.lexingtonky.gov/sites/default/files/2016-08/License%20Fee%20Regulations.pdf",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% per the Division of Revenue License Fee Regulations, 5th ed. (effective for returns due on or after January 1, 2001) and the 2015 Form 211-22; year-specific forms not located."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://web.archive.org/web/20161224131341/https://www.lexingtonky.gov/sites/default/files/2016-08/License%20Fee%20Regulations.pdf",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% per the Division of Revenue License Fee Regulations, 5th ed. (effective for returns due on or after January 1, 2001) and the 2015 Form 211-22; year-specific forms not located."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://web.archive.org/web/20161224131341/https://www.lexingtonky.gov/sites/default/files/2016-08/License%20Fee%20Regulations.pdf",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% per the Division of Revenue License Fee Regulations, 5th ed. (effective for returns due on or after January 1, 2001) and the 2015 Form 211-22; year-specific forms not located."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://web.archive.org/web/20161224131341/https://www.lexingtonky.gov/sites/default/files/2016-08/License%20Fee%20Regulations.pdf",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% per the Division of Revenue License Fee Regulations, 5th ed. (effective for returns due on or after January 1, 2001) and the 2015 Form 211-22; year-specific forms not located."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://web.archive.org/web/20161224131341/https://www.lexingtonky.gov/sites/default/files/2016-08/License%20Fee%20Regulations.pdf",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% per the Division of Revenue License Fee Regulations, 5th ed. (effective for returns due on or after January 1, 2001) and the 2015 Form 211-22; year-specific forms not located."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://web.archive.org/web/20161224131341/https://www.lexingtonky.gov/sites/default/files/2016-08/License%20Fee%20Regulations.pdf",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% per the Division of Revenue License Fee Regulations, 5th ed. (effective for returns due on or after January 1, 2001) and the 2015 Form 211-22; year-specific forms not located."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://web.archive.org/web/20161224131341/https://www.lexingtonky.gov/sites/default/files/2016-08/License%20Fee%20Regulations.pdf",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% per the Division of Revenue License Fee Regulations, 5th ed. (effective for returns due on or after January 1, 2001) and the 2015 Form 211-22; year-specific forms not located."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://web.archive.org/web/20161224131341/https://www.lexingtonky.gov/sites/default/files/2016-08/License%20Fee%20Regulations.pdf",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% per the Division of Revenue License Fee Regulations, 5th ed. (effective for returns due on or after January 1, 2001) and the 2015 Form 211-22; year-specific forms not located."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://web.archive.org/web/20161224131341/https://www.lexingtonky.gov/sites/default/files/2016-08/License%20Fee%20Regulations.pdf",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% per the Division of Revenue License Fee Regulations, 5th ed. (effective for returns due on or after January 1, 2001) and the 2015 Form 211-22; year-specific forms not located."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://web.archive.org/web/20161224131341/https://www.lexingtonky.gov/sites/default/files/2016-08/License%20Fee%20Regulations.pdf",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% per the Division of Revenue License Fee Regulations, 5th ed. (effective for returns due on or after January 1, 2001) and the 2015 Form 211-22; year-specific forms not located."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://web.archive.org/web/20161229012417/https://www.lexingtonky.gov/sites/default/files/2016-06/2015%20211-22.pdf",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% per 2015 Form 211-22."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.lexingtonky.gov/working/business-licensing-taxes/occupational-license-fee-rates-current-forms",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% in 2015 (Form 211-22) and currently; year-specific forms not located."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.lexingtonky.gov/working/business-licensing-taxes/occupational-license-fee-rates-current-forms",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% in 2015 (Form 211-22) and currently; year-specific forms not located."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.lexingtonky.gov/working/business-licensing-taxes/occupational-license-fee-rates-current-forms",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% in 2015 (Form 211-22) and currently; year-specific forms not located."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.lexingtonky.gov/working/business-licensing-taxes/occupational-license-fee-rates-current-forms",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% in 2015 (Form 211-22) and currently; year-specific forms not located."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.lexingtonky.gov/working/business-licensing-taxes/occupational-license-fee-rates-current-forms",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% in 2015 (Form 211-22) and currently; year-specific forms not located."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.lexingtonky.gov/working/business-licensing-taxes/occupational-license-fee-rates-current-forms",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% in 2015 (Form 211-22) and currently; year-specific forms not located."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.lexingtonky.gov/working/business-licensing-taxes/occupational-license-fee-rates-current-forms",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% in 2015 (Form 211-22) and currently; year-specific forms not located."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.lexingtonky.gov/working/business-licensing-taxes/occupational-license-fee-rates-current-forms",
+      "notes": "2.75% = LFUCG occupational license fee 2.25% plus Fayette County Public Schools occupational license tax 0.5% (fcps.net, current rate; the school tax's history was not documented). LFUCG 2.25% in 2015 (Form 211-22) and currently; year-specific forms not located."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.lexingtonky.gov/working/business-licensing-taxes/occupational-license-fee-rates-current-forms"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.lexingtonky.gov/working/business-licensing-taxes/occupational-license-fee-rates-current-forms"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.lexingtonky.gov/working/business-licensing-taxes/occupational-license-fee-rates-current-forms"
+    }
+  }
+}

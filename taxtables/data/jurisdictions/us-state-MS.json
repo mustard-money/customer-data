@@ -1,0 +1,1418 @@
+{
+  "id": "us-state-MS",
+  "kind": "state",
+  "region": "Mississippi",
+  "state": "MS",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4000,
+        "marriedJoint": 6000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1970-71 ed. (report M-57), Table 36 (State Individual Income Taxes: Rates, December 31, 1970, p. 78), Table 37 (personal exemptions, p. 83) and Table 38 (standard deduction, p. 85); a December 31 table describes tax year 1970 as it ended, and the 1969 edition (M-50, December 31, 1969) prints the same rates, exemptions and standard deduction. 3% on the first $5,000 of net income, 4% over $5,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Deduction = $4,000 single / $6,000 married personal exemption (no dependent exemption printed); standard deduction 10% of income, max $500 single / $1,000 joint ($500 married separate)."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4000,
+        "marriedJoint": 6000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1971-72 ed. (report M-74), Table 91 (State Individual Income Taxes: Rates, December 31, 1971, p. 203), Table 92 (personal exemptions, p. 208) and Table 93 (standard deduction, p. 210); a December 31 table describes tax year 1971 as it ended. 3% on the first $5,000 of net income, 4% over $5,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Deduction = $4,000 single / $6,000 married personal exemption (no dependent exemption printed); standard deduction 10% of income, max $500 single / $1,000 joint ($500 married separate). Both the exemption and the standard deduction are higher in the July 1, 1973 edition, so 1972 is not recorded."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4000,
+        "marriedJoint": 6000
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.lexisnexis.com/hottopics/mscode/",
+      "notes": "Same law as 1971. The Mississippi Code 1972 Annotated (LexisNexis public-access edition) history notes show no amendment in 1969-1972 to any part of the computation: the rate section, Miss. Code Ann. 27-7-5 (Laws 1968, ch. 580, s. 26, next amended Laws 1982, Ex Sess, ch. 17), the deductions section including the standard deduction, 27-7-17 (Laws 1966, ch. 628, next amended Laws 1973, ch. 504, s. 2), and the exemptions section, 27-7-21 (Laws 1968, ch. 580, s. 27, next amended Laws 1973, ch. 504, s. 3). So 1972 keeps the 1971 schedule, exemptions and standard deduction (see the 1971 entry, from ACIR Significant Features of Fiscal Federalism 1971-72 ed., Tables 91-93); the $4,500 / $6,500 exemptions and 15% standard deduction of the 1973 entry came with Laws 1973, ch. 504. 1971 entry's notes: ACIR Significant Features of Fiscal Federalism 1971-72 ed. (report M-74), Table 91 (State Individual Income Taxes: Rates, December 31, 1971, p. 203), Table 92 (personal exemptions, p. 208) and Table 93 (standard deduction, p. 210); a December 31 table describes tax year 1971 as it ended. 3% on the first $5,000 of net income, 4% over $5,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Deduction = $4,000 single / $6,000 married personal exemption (no dependent exemption printed); standard deduction 10% of income, max $500 single / $1,000 joint ($500 married separate). Both the exemption and the standard deduction are higher in the July 1, 1973 edition, so 1972 is not recorded."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4500,
+        "marriedJoint": 6500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.15,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 750,
+          "marriedJoint": 1500
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1973-74 ed. (report M-79), Table 141 (State Individual Income Taxes: Rates, July 1, 1973, p. 264), Table 142 (personal exemptions, p. 269) and Table 143 (standard deduction, p. 271). 3% on the first $5,000 of net income, 4% over $5,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Deduction = $4,500 single / $6,500 married personal exemption (dependents $750); standard deduction 15% of income, max $750 single / $1,500 joint ($750 married separate), the same amounts as the 1976 edition."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4500,
+        "marriedJoint": 6500
+      },
+      "source": "https://web.archive.org/web/20100613171540/http://www.mscode.com/free/statutes/27/007/0005.htm",
+      "notes": "3% on the first $5,000 of net income, 4% over $5,000. No document prints the schedule for this year; recorded under the statute-history rule: the Wayback copy of Miss. Code 27-7-5 (Mississippi Code of 1972 as amended) lists its amendments as Laws 1968 ch. 580 and next 1982 Ex. Sess. ch. 17 (whose rates apply 'for the calendar year 1983 ... and all taxable years thereafter'), and the ACIR Significant Features tables print this schedule on both sides of the gap. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). ACIR tables: July 1, 1973 (M-79 Table 141) and July 1, 1976 (1976-77 ed. Vol. II Table 106). Deduction = $4,500 single / $6,500 married personal exemption (dependents $750): the 27-7-21 history (https://web.archive.org/web/20100613172817/http://www.mscode.com/free/statutes/27/007/0021.htm) shows Laws 1973 ch. 504 Sec. 3 and next Laws 1979 ch. 302 (whose amounts start with calendar year 1979), and both ACIR tables print $4,500 / $6,500. Standard deduction 15% of income, max $750 single / $1,500 joint (27-7-17 history, https://web.archive.org/web/20100613172812/http://www.mscode.com/free/statutes/27/007/0017.htm: Laws 1973 ch. 504 and next 1978 ch. 475; same in both ACIR tables), not recorded."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4500,
+        "marriedJoint": 6500
+      },
+      "source": "https://web.archive.org/web/20100613171540/http://www.mscode.com/free/statutes/27/007/0005.htm",
+      "notes": "3% on the first $5,000 of net income, 4% over $5,000. No document prints the schedule for this year; recorded under the statute-history rule: the Wayback copy of Miss. Code 27-7-5 (Mississippi Code of 1972 as amended) lists its amendments as Laws 1968 ch. 580 and next 1982 Ex. Sess. ch. 17 (whose rates apply 'for the calendar year 1983 ... and all taxable years thereafter'), and the ACIR Significant Features tables print this schedule on both sides of the gap. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). ACIR tables: July 1, 1973 (M-79 Table 141) and July 1, 1976 (1976-77 ed. Vol. II Table 106). Deduction = $4,500 single / $6,500 married personal exemption (dependents $750): the 27-7-21 history (https://web.archive.org/web/20100613172817/http://www.mscode.com/free/statutes/27/007/0021.htm) shows Laws 1973 ch. 504 Sec. 3 and next Laws 1979 ch. 302 (whose amounts start with calendar year 1979), and both ACIR tables print $4,500 / $6,500. Standard deduction 15% of income, max $750 single / $1,500 joint (27-7-17 history, https://web.archive.org/web/20100613172812/http://www.mscode.com/free/statutes/27/007/0017.htm: Laws 1973 ch. 504 and next 1978 ch. 475; same in both ACIR tables), not recorded."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4500,
+        "marriedJoint": 6500
+      },
+      "percentStandardDeduction": {
+        "rate": 0.15,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 750,
+          "marriedJoint": 1500
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1976-77 ed. Vol. II, Table 106 (State Individual Income Taxes: Rates, July 1, 1976), Table 107 (personal exemptions, July 1, 1976) and Table 108 (standard deduction, July 1, 1976). 3% on the first $5,000 of net income, 4% over $5,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Deduction = $4,500 single / $6,500 married personal exemption (dependents $750); standard deduction 15% of income, max $750 single / $1,500 joint."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4500,
+        "marriedJoint": 6500
+      },
+      "source": "https://web.archive.org/web/20100613171540/http://www.mscode.com/free/statutes/27/007/0005.htm",
+      "notes": "3% on the first $5,000 of net income, 4% over $5,000. No document prints the schedule for this year; recorded under the statute-history rule: the Wayback copy of Miss. Code 27-7-5 (Mississippi Code of 1972 as amended) lists its amendments as Laws 1968 ch. 580 and next 1982 Ex. Sess. ch. 17 (whose rates apply 'for the calendar year 1983 ... and all taxable years thereafter'), and the ACIR Significant Features tables print this schedule on both sides of the gap. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). ACIR tables: July 1, 1976 (1976-77 ed. Vol. II Table 106) and July 1, 1980 (1979-80 ed. Table 82). Deduction = $4,500 single / $6,500 married personal exemption: the 27-7-21 history (https://web.archive.org/web/20100613172817/http://www.mscode.com/free/statutes/27/007/0021.htm) shows Laws 1973 ch. 504 Sec. 3 and next Laws 1979 ch. 302, whose text sets $5,250 / $8,000 'for the 1979 and 1980 calendar years'. Standard deduction not recorded: 15% of income, max $750 / $1,500 at July 1, 1976; 27-7-17 (https://web.archive.org/web/20100613172812/http://www.mscode.com/free/statutes/27/007/0017.htm) was amended by Laws 1978 ch. 475 and 1979 ch. 302 (fixed $2,300 / $3,400 by July 1, 1980) and the year each change took effect could not be determined."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4500,
+        "marriedJoint": 6500
+      },
+      "source": "https://web.archive.org/web/20100613171540/http://www.mscode.com/free/statutes/27/007/0005.htm",
+      "notes": "3% on the first $5,000 of net income, 4% over $5,000. No document prints the schedule for this year; recorded under the statute-history rule: the Wayback copy of Miss. Code 27-7-5 (Mississippi Code of 1972 as amended) lists its amendments as Laws 1968 ch. 580 and next 1982 Ex. Sess. ch. 17 (whose rates apply 'for the calendar year 1983 ... and all taxable years thereafter'), and the ACIR Significant Features tables print this schedule on both sides of the gap. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). ACIR tables: July 1, 1976 (1976-77 ed. Vol. II Table 106) and July 1, 1980 (1979-80 ed. Table 82). Deduction = $4,500 single / $6,500 married personal exemption: the 27-7-21 history (https://web.archive.org/web/20100613172817/http://www.mscode.com/free/statutes/27/007/0021.htm) shows Laws 1973 ch. 504 Sec. 3 and next Laws 1979 ch. 302, whose text sets $5,250 / $8,000 'for the 1979 and 1980 calendar years'. Standard deduction not recorded: 15% of income, max $750 / $1,500 at July 1, 1976; 27-7-17 (https://web.archive.org/web/20100613172812/http://www.mscode.com/free/statutes/27/007/0017.htm) was amended by Laws 1978 ch. 475 and 1979 ch. 302 (fixed $2,300 / $3,400 by July 1, 1980) and the year each change took effect could not be determined."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 8000
+      },
+      "source": "https://web.archive.org/web/20100613171540/http://www.mscode.com/free/statutes/27/007/0005.htm",
+      "notes": "3% on the first $5,000 of net income, 4% over $5,000. No document prints the schedule for this year; recorded under the statute-history rule: the Wayback copy of Miss. Code 27-7-5 (Mississippi Code of 1972 as amended) lists its amendments as Laws 1968 ch. 580 and next 1982 Ex. Sess. ch. 17 (whose rates apply 'for the calendar year 1983 ... and all taxable years thereafter'), and the ACIR Significant Features tables print this schedule on both sides of the gap. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). ACIR tables: July 1, 1976 (1976-77 ed. Vol. II Table 106) and July 1, 1980 (1979-80 ed. Table 82). Deduction = $5,250 single / $8,000 married personal exemption, the amounts 27-7-21 (https://web.archive.org/web/20100613172817/http://www.mscode.com/free/statutes/27/007/0021.htm, as amended by Laws 1979 ch. 302 Sec. 1) sets 'for the 1979 and 1980 calendar years' (dependents $1,500). Standard deduction not recorded: 27-7-17 (https://web.archive.org/web/20100613172812/http://www.mscode.com/free/statutes/27/007/0017.htm) was amended by Laws 1978 ch. 475 and 1979 ch. 302; ACIR prints a fixed $2,300 single / $3,400 joint at July 1, 1980, but whether that applied to 1979 could not be determined."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7550,
+        "marriedJoint": 11400
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1979-80 ed., Table 82 (State Individual Income Taxes: Rates, July 1, 1980), Table 83 (personal exemptions) and Table 84 (standard deduction). 3% on the first $5,000 of net income, 4% over $5,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Deduction = $5,250 single / $8,000 married personal exemption (dependents $1,500; Table 83) + fixed standard deduction $2,300 single / $3,400 joint ($1,700 married separate; Table 84 prints no percentage)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 12900
+      },
+      "source": "https://web.archive.org/web/20100613171540/http://www.mscode.com/free/statutes/27/007/0005.htm",
+      "notes": "3% on the first $5,000 of net income, 4% over $5,000. No document prints the schedule for this year; recorded under the statute-history rule: the Wayback copy of Miss. Code 27-7-5 (Mississippi Code of 1972 as amended) lists its amendments as Laws 1968 ch. 580 and next 1982 Ex. Sess. ch. 17 (whose rates apply 'for the calendar year 1983 ... and all taxable years thereafter'), and the ACIR Significant Features tables print this schedule on both sides of the gap. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). ACIR tables: July 1, 1980 (1979-80 ed. Table 82) and October 1, 1983 (1982-83 ed. Table 47). Deduction = $6,000 single / $9,500 married personal exemption (27-7-21, https://web.archive.org/web/20100613172817/http://www.mscode.com/free/statutes/27/007/0021.htm: $6,000 / $9,500 'for each calendar year thereafter' after 1980; next amended by Laws 1982 ch. 489, effective January 1, 1983; dependents $1,500) + standard deduction $2,300 single / $3,400 joint ($1,700 married separate): 27-7-17 (https://web.archive.org/web/20100613172812/http://www.mscode.com/free/statutes/27/007/0017.htm) was not amended between Laws 1979 ch. 302 and Laws 1985 ch. 411, ACIR prints $2,300 / $3,400 at July 1, 1980 (no percentage) and at October 1, 1983 (printed as '15%' with the same $2,300 / $3,400 maximums), and the same fixed amounts are in the section as later amended (1997 SB 2165). If the 1983 ACIR print is right the standard deduction was limited to 15% of income for low incomes."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 12900
+      },
+      "source": "https://web.archive.org/web/20100613171540/http://www.mscode.com/free/statutes/27/007/0005.htm",
+      "notes": "3% on the first $5,000 of net income, 4% over $5,000. No document prints the schedule for this year; recorded under the statute-history rule: the Wayback copy of Miss. Code 27-7-5 (Mississippi Code of 1972 as amended) lists its amendments as Laws 1968 ch. 580 and next 1982 Ex. Sess. ch. 17 (whose rates apply 'for the calendar year 1983 ... and all taxable years thereafter'), and the ACIR Significant Features tables print this schedule on both sides of the gap. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). ACIR tables: July 1, 1980 (1979-80 ed. Table 82) and October 1, 1983 (1982-83 ed. Table 47). Deduction = $6,000 single / $9,500 married personal exemption (27-7-21, https://web.archive.org/web/20100613172817/http://www.mscode.com/free/statutes/27/007/0021.htm: $6,000 / $9,500 'for each calendar year thereafter' after 1980; next amended by Laws 1982 ch. 489, effective January 1, 1983; dependents $1,500) + standard deduction $2,300 single / $3,400 joint ($1,700 married separate): 27-7-17 (https://web.archive.org/web/20100613172812/http://www.mscode.com/free/statutes/27/007/0017.htm) was not amended between Laws 1979 ch. 302 and Laws 1985 ch. 411, ACIR prints $2,300 / $3,400 at July 1, 1980 (no percentage) and at October 1, 1983 (printed as '15%' with the same $2,300 / $3,400 maximums), and the same fixed amounts are in the section as later amended (1997 SB 2165). If the 1983 ACIR print is right the standard deduction was limited to 15% of income for low incomes. The 1982 Ex. Sess. ch. 17 rates (3%/4%/5%) apply from calendar year 1983."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1999/html/HB/0600-0699/HB0674IN.htm",
+      "notes": "3% / 4% / 5% from Miss. Code 27-7-5 (rates 'for the calendar year 1983 ... and all taxable years thereafter'). Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Exemption $6,000 single / $9,500 married (27-7-21, 1981 onward) plus standard deduction $2,300 single / $3,400 joint: 27-7-17 (https://web.archive.org/web/20100613172812/http://www.mscode.com/free/statutes/27/007/0017.htm) was not amended between Laws 1979 ch. 302 and Laws 1985 ch. 411, and ACIR prints $2,300 / $3,400 at July 1, 1980 and October 1, 1983 (the latter as '15%' with these maximums, so low incomes may have been limited to 15%).",
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 12900
+      }
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1999/html/HB/0600-0699/HB0674IN.htm",
+      "notes": "3% / 4% / 5% from Miss. Code 27-7-5 (rates 'for the calendar year 1983 ... and all taxable years thereafter'). Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Exemption $6,000 single / $9,500 married (27-7-21, 1981 onward) plus standard deduction $2,300 single / $3,400 joint: 27-7-17 (https://web.archive.org/web/20100613172812/http://www.mscode.com/free/statutes/27/007/0017.htm) was not amended between Laws 1979 ch. 302 and Laws 1985 ch. 411, and ACIR prints $2,300 / $3,400 at July 1, 1980 and October 1, 1983 (the latter as '15%' with these maximums, so low incomes may have been limited to 15%).",
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 12900
+      }
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1999/html/HB/0600-0699/HB0674IN.htm",
+      "notes": "3% / 4% / 5% from Miss. Code 27-7-5 (rates 'for the calendar year 1983 ... and all taxable years thereafter'). Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Exemption $6,000 single / $9,500 married (27-7-21, 1981 onward) known, but the standard deduction amount for this year is not confirmed in an allowed source, so no deduction recorded."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1999/html/HB/0600-0699/HB0674IN.htm",
+      "notes": "3% / 4% / 5% from Miss. Code 27-7-5 (rates 'for the calendar year 1983 ... and all taxable years thereafter'). Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Exemption $6,000 single / $9,500 married (27-7-21, 1981 onward) known, but the standard deduction amount for this year is not confirmed in an allowed source, so no deduction recorded."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1999/html/HB/0600-0699/HB0674IN.htm",
+      "notes": "3% / 4% / 5% from Miss. Code 27-7-5 (rates 'for the calendar year 1983 ... and all taxable years thereafter'). Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Exemption $6,000 single / $9,500 married (27-7-21, 1981 onward) known, but the standard deduction amount for this year is not confirmed in an allowed source, so no deduction recorded."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1999/html/HB/0600-0699/HB0674IN.htm",
+      "notes": "3% / 4% / 5% from Miss. Code 27-7-5 (rates 'for the calendar year 1983 ... and all taxable years thereafter'). Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Exemption $6,000 single / $9,500 married (27-7-21, 1981 onward) known, but the standard deduction amount for this year is not confirmed in an allowed source, so no deduction recorded."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1999/html/HB/0600-0699/HB0674IN.htm",
+      "notes": "3% / 4% / 5% from Miss. Code 27-7-5 (rates 'for the calendar year 1983 ... and all taxable years thereafter'). Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Exemption $6,000 single / $9,500 married (27-7-21, 1981 onward) known, but the standard deduction amount for this year is not confirmed in an allowed source, so no deduction recorded."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1999/html/HB/0600-0699/HB0674IN.htm",
+      "notes": "3% / 4% / 5% from Miss. Code 27-7-5 (rates 'for the calendar year 1983 ... and all taxable years thereafter'). Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Exemption $6,000 single / $9,500 married (27-7-21, 1981 onward) known, but the standard deduction amount for this year is not confirmed in an allowed source, so no deduction recorded."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1999/html/HB/0600-0699/HB0674IN.htm",
+      "notes": "3% / 4% / 5% from Miss. Code 27-7-5 (rates 'for the calendar year 1983 ... and all taxable years thereafter'). Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Exemption $6,000 single / $9,500 married (27-7-21, 1981 onward) known, but the standard deduction amount for this year is not confirmed in an allowed source, so no deduction recorded."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1999/html/HB/0600-0699/HB0674IN.htm",
+      "notes": "3% / 4% / 5% from Miss. Code 27-7-5 (rates 'for the calendar year 1983 ... and all taxable years thereafter'). Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Exemption $6,000 single / $9,500 married (27-7-21, 1981 onward) known, but the standard deduction amount for this year is not confirmed in an allowed source, so no deduction recorded."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1999/html/HB/0600-0699/HB0674IN.htm",
+      "notes": "3% / 4% / 5% from Miss. Code 27-7-5 (rates 'for the calendar year 1983 ... and all taxable years thereafter'). Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Exemption $6,000 single / $9,500 married (27-7-21, 1981 onward) known, but the standard deduction amount for this year is not confirmed in an allowed source, so no deduction recorded."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1999/html/HB/0600-0699/HB0674IN.htm",
+      "notes": "3% / 4% / 5% from Miss. Code 27-7-5 (rates 'for the calendar year 1983 ... and all taxable years thereafter'). Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Exemption $6,000 single / $9,500 married (27-7-21, 1981 onward) known, but the standard deduction amount for this year is not confirmed in an allowed source, so no deduction recorded."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1999/html/HB/0600-0699/HB0674IN.htm",
+      "notes": "3% / 4% / 5% from Miss. Code 27-7-5 (rates 'for the calendar year 1983 ... and all taxable years thereafter'). Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Exemption $6,000 single / $9,500 married (27-7-21, 1981 onward) known, but the standard deduction amount for this year is not confirmed in an allowed source, so no deduction recorded."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1999/html/HB/0600-0699/HB0674IN.htm",
+      "notes": "3% / 4% / 5% from Miss. Code 27-7-5 (rates 'for the calendar year 1983 ... and all taxable years thereafter'). Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Exemption $6,000 single / $9,500 married (27-7-21, 1981 onward) known, but the standard deduction amount for this year is not confirmed in an allowed source, so no deduction recorded."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 12900
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1997/SB/2100-2199/SB2165SG.htm",
+      "notes": "Deduction = standard deduction $2,300/$3,400 + exemption $6,000/$9,500. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Rates per 27-7-5; deduction amounts per 1997 SB 2165 as enacted (still in force per later bill texts and the 2009 instructions)."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 14200
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1997/SB/2100-2199/SB2165SG.htm",
+      "notes": "Deduction = standard deduction $2,300/$4,200 + exemption $6,000/$10,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Rates per 27-7-5; deduction amounts per 1997 SB 2165 as enacted (still in force per later bill texts and the 2009 instructions)."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 15600
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1997/SB/2100-2199/SB2165SG.htm",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$11,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Rates per 27-7-5; deduction amounts per 1997 SB 2165 as enacted (still in force per later bill texts and the 2009 instructions)."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1997/SB/2100-2199/SB2165SG.htm",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Rates per 27-7-5; deduction amounts per 1997 SB 2165 as enacted (still in force per later bill texts and the 2009 instructions)."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1997/SB/2100-2199/SB2165SG.htm",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Rates per 27-7-5; deduction amounts per 1997 SB 2165 as enacted (still in force per later bill texts and the 2009 instructions)."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1997/SB/2100-2199/SB2165SG.htm",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Rates per 27-7-5; deduction amounts per 1997 SB 2165 as enacted (still in force per later bill texts and the 2009 instructions)."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1997/SB/2100-2199/SB2165SG.htm",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Rates per 27-7-5; deduction amounts per 1997 SB 2165 as enacted (still in force per later bill texts and the 2009 instructions)."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1997/SB/2100-2199/SB2165SG.htm",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Rates per 27-7-5; deduction amounts per 1997 SB 2165 as enacted (still in force per later bill texts and the 2009 instructions)."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1997/SB/2100-2199/SB2165SG.htm",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Rates per 27-7-5; deduction amounts per 1997 SB 2165 as enacted (still in force per later bill texts and the 2009 instructions)."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1997/SB/2100-2199/SB2165SG.htm",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Rates per 27-7-5; deduction amounts per 1997 SB 2165 as enacted (still in force per later bill texts and the 2009 instructions)."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1997/SB/2100-2199/SB2165SG.htm",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Rates per 27-7-5; deduction amounts per 1997 SB 2165 as enacted (still in force per later bill texts and the 2009 instructions)."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://billstatus.ls.state.ms.us/documents/1997/SB/2100-2199/SB2165SG.htm",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Rates per 27-7-5; deduction amounts per 1997 SB 2165 as enacted (still in force per later bill texts and the 2009 instructions)."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MS/2009/indiv_80100097.pdf",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled)."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MS/2010/Form80-100-10IndividualInstructions.pdf",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled)."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MS/2011/indiv_8010011i.pdf",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled)."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MS/2012/indiv_80105128.pdf",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled). Checked against the 2012 Form 80-105 (exemptions); std deduction and rates same as 2011 and 2013 instructions."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MS/2013/indiv_80100138.pdf",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled)."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MS/2014/indiv_80100141.pdf",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled)."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MS/2015/80100151.pdf",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled)."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MS/2016/80100168.pdf",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled)."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MS/2017/80100178.pdf",
+      "notes": "Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled)."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 1000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MS/2018/80100188.pdf",
+      "notes": "3% bracket being phased out: first $1,000 taxed at 0%. Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled)."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MS/2019/80100191.pdf",
+      "notes": "3% bracket being phased out: first $2,000 taxed at 0%. Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled)."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MS/2020/80100201.pdf",
+      "notes": "3% bracket being phased out: first $3,000 taxed at 0%. Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled)."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 4000,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MS/2021/80100211_0.pdf",
+      "notes": "3% bracket being phased out: first $4,000 taxed at 0%. Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled)."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MS/2022/80100221.pdf",
+      "notes": "3% bracket being phased out: first $5,000 taxed at 0%. Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled)."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 10000,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/MS/2023/80100231.pdf",
+      "notes": "0% on the first $10,000, 5% above (HB 531 of 2022). Deduction = standard deduction $2,300/$4,600 + exemption $6,000/$12,000. Same schedule for joint returns (spouses on a combined return may each use the brackets on their own income; not modelled)."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 10000,
+            "rate": 0.047
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 10000,
+            "rate": 0.047
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://www.dor.ms.gov/sites/default/files/Forms/Individual/80100241.pdf",
+      "notes": "On a joint return each spouse gets their own $10,000 zero band; one is shown here. Deduction is the $2,300 / $4,600 standard deduction plus the $6,000 / $12,000 exemption."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 10000,
+            "rate": 0.044
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 10000,
+            "rate": 0.044
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://www.dor.ms.gov/sites/default/files/Forms/Individual/80100241.pdf",
+      "notes": "On a joint return each spouse gets their own $10,000 zero band; one is shown here. Deduction is the $2,300 / $4,600 standard deduction plus the $6,000 / $12,000 exemption."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8300,
+        "marriedJoint": 16600
+      },
+      "source": "https://www.dor.ms.gov/sites/default/files/tax-forms/individual/80100241.pdf",
+      "notes": "On a joint return each spouse gets their own $10,000 zero band; one is shown here. Deduction is the $2,300 / $4,600 standard deduction plus the $6,000 / $12,000 exemption."
+    }
+  }
+}

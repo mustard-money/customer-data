@@ -1,0 +1,323 @@
+{
+  "id": "us-local-pittsburgh",
+  "kind": "local",
+  "region": "Pittsburgh",
+  "state": "PA",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 1% (ACIR Significant Features 1970-71 ed., M-57, Table 43 p. 101, rates at December 31, 1970: Pittsburgh 1.0 with footnote 8 'the school district rate is the same as the municipal rate'; footnote 7 exempts Pittsburgh from the 1% combined limit). The 1969-70 edition (M-50, Dec. 31, 1969) shows the same."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 1% (ACIR Significant Features 1972 ed., M-74, Table 99 p. 227, rates at December 31, 1971, footnotes 7 and 8)."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://books.google.com/books?id=La4pAAAAIBAJ&pg=PA16&article_id=6733,601338",
+      "notes": "Secondary source (The Pittsburgh Press, editorial 'Pete's Fiscal Feats', October 18, 1972, p. 16, via Google News Archive): Mayor Flaherty proposed to eliminate the city of Pittsburgh's one per cent wage tax next year [1973]; Pittsburghers would still have to pay the one per cent wage tax collected by the Board of Education for the city's public schools. Resident earned income tax: city 1% + Pittsburgh School District 1%, as ACIR prints for December 31, 1971. (A council plan to rebate part of the 1971 collections in 1972 was blocked by the mayor, per the same editorial.) Single secondary source."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "Resident earned income tax: Pittsburgh School District 1% only. ACIR Significant Features 1973-74 ed. (M-79), Table 150 p. 293, rates at July 1, 1973: Pittsburgh 1.0 with footnote 11 'School district rate. The Pittsburgh city income tax was repealed effective January 1, 1973.'"
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://books.google.com/books?id=fWQwAAAAIBAJ&pg=PA2&article_id=3770,1808709",
+      "notes": "Secondary source (Pittsburgh Post-Gazette, 'House Kills Plan On 2% Wage Tax', July 13, 1974, p. 2, via Google News Archive): Pittsburgh repealed its 1 per cent tax last year [1973]; the school board continues the levy (the 1 per cent wage tax the bill would have let school districts double). The Pittsburgh Press ('House Unit OKs City Tax Relief', May 7, 1975, p. 4, https://books.google.com/books?id=OewjAAAAIBAJ&pg=PA4&article_id=2391,2515943) likewise says Pittsburgh repealed its one per cent wage tax in 1973 and the city's schools still have a one per cent tax on residents; the Post-Gazette of November 22, 1975 ('Pete Will Seek 1976 Wage Tax, Water Rate Hike') reports the mayor asking City Council to restore the 1 per cent city wage tax for 1976. Resident earned income tax: Pittsburgh School District 1% only, as ACIR prints for July 1, 1973."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://books.google.com/books?id=OewjAAAAIBAJ&pg=PA4&article_id=2391,2515943",
+      "notes": "Secondary source (The Pittsburgh Press, 'House Unit OKs City Tax Relief', May 7, 1975, p. 4, via Google News Archive): city residents working in the suburbs became subject to suburban wage taxes when in 1973 Pittsburgh repealed its one per cent wage tax; the city's schools still have a one per cent tax on residents. The Post-Gazette of November 22, 1975 ('Pete Will Seek 1976 Wage Tax, Water Rate Hike', p. 1) reports the mayor asking City Council to restore the 1 per cent wage tax for 1976 (ACIR shows city 1% + school 1% at July 1, 1976). Resident earned income tax: Pittsburgh School District 1% only. Single secondary source for the school rate."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 1% (ACIR Significant Features 1976-77 ed. vol. 2, Table 116 p. 228, rates at July 1, 1976: Pittsburgh 1.0, footnote 8 'the school district rate is the same as the municipal rate')."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://books.google.com/books?id=LCYcAAAAIBAJ&pg=PA24&article_id=3422,3973576",
+      "notes": "Secondary source (The Pittsburgh Press, reader-service column 'Wage Tax Paid At Home Or Work', August 26, 1977, p. 24, via Google News Archive): the City of Pittsburgh levies a one per cent wage tax, and city residents also pay a one per cent wage tax to the school district. Resident earned income tax: city 1% + Pittsburgh School District 1% (as ACIR prints for July 1, 1976; the city rose to 1.25% from January 1979). Single secondary source."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://books.google.com/books?id=tAIOAAAAIBAJ&pg=PA1&article_id=2663,415123",
+      "notes": "Secondary source (Pittsburgh Post-Gazette, 'City Wage Tax Boost To Hit Next Paycheck', January 3, 1979, p. 1, via Google News Archive): the city wage tax increase, from 1 percent to 1.25 percent, is part of the New Year's [1979] tax package ($125 on a $10,000 wage, up from $100); the school district wage tax of 1 percent is unchanged from 1978. Resident earned income tax for 1978: city 1% + Pittsburgh School District 1%. Single secondary source."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.0225,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "Resident earned income tax: city 1.25% + Pittsburgh School District 1% (ACIR Significant Features 1979-80 ed., Table 88 p. 131, rates at October 1, 1979: Pittsburgh 1.25 with footnote 15 'the school district rate is 1 percent')."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.0225,
+      "source": "https://books.google.com/books?id=-BshAAAAIBAJ&pg=PA9&article_id=3069,380922",
+      "notes": "Secondary source (The Pittsburgh Press, 'Taxpayers Blast Proposed City School Tax Hike', December 2, 1980, p. 9, via Google News Archive): residents already pay a 1.25 percent wage tax to the City of Pittsburgh; the school board's proposed 1981 budget adds a half percent to the earned income tax, so that Pittsburghers would pay 1.5 percent on wages to the school district. The Press of November 13, 1981 ('5-Mill Cut In City School Tax Expected', p. 1, https://books.google.com/books?id=BxovAAAAIBAJ&pg=PA1&article_id=2940,7196691) says the school wage tax was 1 percent in 1980 and was raised to 1.5 percent in 1981. Resident earned income tax for 1980: city 1.25% + Pittsburgh School District 1%, matching ACIR's split at October 1, 1979."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.04,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1985-1986.pdf",
+      "notes": "Resident earned income tax 4% (ACIR Significant Features of Fiscal Federalism 1985-86 ed., Table 59 p. 89, 1985 local income tax rate for selected large cities: Pittsburgh 4%, 'generally wages'; 'rate listed is only for residents of selected city'). The table does not itemize the city 2.125% + Pittsburgh School District 1.875% that the 1987 ed. gives for 1986. The 1984 ed. (Table 56) lists only the city share for 1984 (2.625%) without the school district rate, so 1984 is not recorded."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.04,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "Resident earned income tax: city 2.125% + Pittsburgh School District 1.875% (ACIR Significant Features 1987 ed., Table 56 p. 85, rates for 1986 from CCH December 1986; note b: 'Residents of Pittsburgh pay a total of 4% on earned income')."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.04,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1988-Vol-1.pdf",
+      "notes": "Resident earned income tax: city 2.125% + Pittsburgh School District 1.875% (ACIR Significant Features 1988 ed., Table 20 p. 49, rates for 1987 from CCH October 1987; 'Residents of Pittsburgh pay 4% on earned income')."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.04,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1989-Vol-1.pdf",
+      "notes": "Resident earned income tax: city 2.125% + Pittsburgh School District 1.875% (ACIR Significant Features 1989 ed., Table 23 p. 49, rates for 1988 from CCH October 1988; 'Residents of Pittsburgh pay 4% on earned income'). The city's 1989 financial report confirms the city rate was 2 1/8% in 1988."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.035,
+      "source": "https://www.pittsburghpa.gov/files/assets/city/v/1/controller/documents/annual-comprehensive-financial-report/13392_fy_1989_annualreport.pdf",
+      "notes": "Resident earned income tax: city 1 5/8% + Pittsburgh School District 1.875%. City rate from the City of Pittsburgh 1989 Comprehensive Annual Financial Report, letter of transmittal (pp. 1-6 and 1-8): 'reduction of the Earned Income Tax from 2 1/8% to 1 5/8% was the only rate change during 1989'. The school district's 1.875% is the rate ACIR lists for 1988 (Oct. 1988) and November 1991 and is carried across 1989-1990."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.02875,
+      "source": "https://www.pittsburghpa.gov/files/assets/city/v/1/controller/documents/annual-comprehensive-financial-report/13392_fy_1989_annualreport.pdf",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 1.875%. The city's 1989 financial report (p. 1-8) states 'In 1990, the rate will further decrease to 1%', and ACIR lists the city at 1.0% from November 1991; the district's 1.875% is the rate ACIR lists for 1988 and November 1991, carried across."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.02875,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1992-Vol-1.pdf",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 1.875% (ACIR Significant Features 1992 ed., Table 24 p. 75, rates at November 1991: city 1.0, school district 1.875 'included on the same form as city tax')."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.02875,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff-1993-vol-1.pdf",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 1.875% (ACIR Significant Features 1993 ed., Table 24 p. 79, rates at November 1992: Pittsburgh 2.875, 'Pittsburgh rate includes school district income tax rate of 1.875%')."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.02875,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1994-Vol-1.pdf",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 1.875% (ACIR Significant Features 1994 ed., Table 22 p. 79, rates at November 1993: Pittsburgh 2.875 including the 1.875% school district rate)."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.02875,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1995-Vol-1.pdf",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 1.875% (ACIR Significant Features 1995 ed., Table 21 p. 72, rates at November 1994: Pittsburgh 2.875 including the 1.875% school district rate)."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.02875,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 1.875%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1995 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 3.75, i.e. city 1% + school district 1.875%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.02875,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 1.875%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1996 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 3.75, i.e. city 1% + school district 1.875%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.02875,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 1.875%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1997 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 3.75, i.e. city 1% + school district 1.875%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.02875,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 1.875%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1998 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 3.75, i.e. city 1% + school district 1.875%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.02875,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 1.875%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 1999 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 3.75, i.e. city 1% + school district 1.875%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.02875,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 1.875%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2000 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 3.75, i.e. city 1% + school district 1.875%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2001 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading. The district's rate rose from 1.875% to 2% between the 2000 and 2001 reporting years in the DCED data."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2002 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2003 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2004 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2005 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2006 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2007 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2008 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading. The 2005-2009 shift of 0.25 points of the district's rate to the city under the city's Act 47 plan left the 3% total unchanged."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2009 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading. The 2005-2009 shift of 0.25 points of the district's rate to the city under the city's Act 47 plan left the 3% total unchanged."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2010 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading. The 2005-2009 shift of 0.25 points of the district's rate to the city under the city's Act 47 plan left the 3% total unchanged."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2011 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "http://web.archive.org/web/20120908033111/http://munstatspa.dced.state.pa.us/ReportViewer.axd?R=MunicipalTaxInformation&county_id=020001&reporting_year=2012&F=E",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2% (archived PA DCED Municipal Tax Information report, Allegheny County, reporting year 2012)."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2013 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2014 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2015 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2016 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2017 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2018 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2019 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2020 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2021 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2022 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=taxes_Dyn_Excel",
+      "notes": "Resident earned income tax: city 1% + Pittsburgh School District 2%. From the PA DCED Municipal Statistics 'Municipal Tax Information' report for reporting year 2023 (Pittsburgh City, Allegheny County), which for Pittsburgh lists stated rates that are double the effective ones (municipal 2.0 and Pittsburgh S D 4.0, i.e. city 1% + school district 2%, each shared under the Act 511 rule); the archived 2012 report (city 1% + school district 2%), ACIR's November 1991-1994 tables (city 1% + district 1.875%), the city's 2007 financial report (city 1%) and DCED's 2024 EIT register (3% total) corroborate the halved reading."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=EitWithCollector_Dyn_Excel&type=O"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=EitWithCollector_Dyn_Excel&type=O"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://apps.dced.pa.gov/munstats-public/ReportInformation2.aspx?report=EitWithCollector_Dyn_Excel&type=O"
+    }
+  }
+}

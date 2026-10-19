@@ -1,0 +1,190 @@
+{
+  "id": "us-local-glendale-opt",
+  "kind": "local",
+  "region": "Glendale, CO",
+  "state": "CO",
+  "since": 2004,
+  "years": {
+    "2004": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://web.archive.org/web/20040110184623/http://www.glendale.co.us:80/departments/administration/finances/Occupational_Tax_Return.pdf",
+      "notes": "Employee occupational privilege tax of $5 per month on employees receiving $750 or more in the month for work in Glendale (city Occupational Privilege Tax Return and instructions, Wayback capture of January 10, 2004; employers match $5). The tax was enacted by Ord. 21, Series of 2003 (secs. 3.21.010 and 3.21.030: $5 per month, employee defined by at least $750 in the calendar month), adopted December 2, 2003 after the November 2003 vote; the city's January 2000 tax page said it had no occupation or head tax, so 2004 is the first full year (hence 'since')."
+    },
+    "2005": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://web.archive.org/web/20040110184512/http://www.glendale.co.us:80/departments/administration/finances/Occupational_Priv_Tax_Ordinance21.pdf",
+      "notes": "Employee occupational privilege tax of $5 per month on employees receiving at least $750 in the calendar month: Ord. 21, Series of 2003, secs. 3.21.010 and 3.21.030 (Wayback copy from the city site), as in the 2004 return; Ord. 2005-5 amended both sections, and the current code (eCode360) still gives $5 and $750. Year-specific documents not located."
+    },
+    "2006": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2007": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2008": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2009": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2010": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2011": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2012": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2013": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2014": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2015": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2016": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2017": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2018": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2019": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2020": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2021": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2022": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2023": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://ecode360.com/47868031",
+      "notes": "Glendale Municipal Code ch. 3.21 (eCode360): sec. 3.21.030 employee occupational privilege tax of $5 per month; sec. 3.21.010 defines an employee as one receiving at least $750 in the calendar month. Both sections enacted by Ord. 2003-21 and amended by Ord. 2005-5 sec. 1, with no later amendment (Ord. 2019-7 amended only sec. 3.21.050); recorded from the first full year after the 2005 ordinance. Year-specific documents not located."
+    },
+    "2024": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://www.glendale.co.us/355/Occupational-Privilege-Tax"
+    },
+    "2025": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://www.glendale.co.us/355/Occupational-Privilege-Tax"
+    },
+    "2026": {
+      "type": "fixed",
+      "amount": 5,
+      "per": "month",
+      "minimumEarnings": 750,
+      "source": "https://www.glendale.co.us/355/Occupational-Privilege-Tax"
+    }
+  }
+}

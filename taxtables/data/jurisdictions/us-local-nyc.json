@@ -1,0 +1,2806 @@
+{
+  "id": "us-local-nyc",
+  "kind": "local",
+  "region": "New York City",
+  "state": "NY",
+  "years": {
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 1000,
+            "rate": 0.014
+          },
+          {
+            "from": 3000,
+            "rate": 0.018
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.023
+          },
+          {
+            "from": 9000,
+            "rate": 0.025
+          },
+          {
+            "from": 11000,
+            "rate": 0.027
+          },
+          {
+            "from": 13000,
+            "rate": 0.029
+          },
+          {
+            "from": 15000,
+            "rate": 0.031
+          },
+          {
+            "from": 17000,
+            "rate": 0.033
+          },
+          {
+            "from": 19000,
+            "rate": 0.035
+          },
+          {
+            "from": 21000,
+            "rate": 0.038
+          },
+          {
+            "from": 23000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.043
+          }
+        ]
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m78_22i.pdf",
+      "notes": "Schedule carried back from this file's 1985 entry (the 'City of New York Resident Tax Rate Schedule' in the 1985 IT-201 instructions) on the Department of Taxation and Finance's TSB-M memoranda, which record that the temporarily increased City resident rates were extended unchanged one year at a time: TSB-M-78(22)I (January 11, 1979): Chapter 435 of the Laws of 1978 continued the current increased City rates for taxable years ending on or before December 31, 1979; TSB-M-85(13)I (Chapter 364 of the Laws of 1985 continued the current increased rates for taxable years ending on or before December 31, 1986, with the lower rates to apply from 1987). The yearly DTF legislative summaries (TSB-M-80(2)I, 81(1)I, 82(1)I, 83(1)I, 84(1)I) list no amendment of Administrative Code s. T46-102.0 (resident tax rates) other than these extensions, so the schedule in force for 1985 is the one in force for 1978. One schedule for all filers (spouses taxed separately, as for the State), applied to New York taxable income. Household credit and other credits and the City minimum income tax not modelled. No deduction recorded, as in this file's State 1978 entry (the 1978 personal exemption was not found; the standard deduction was income-based)."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 1000,
+            "rate": 0.014
+          },
+          {
+            "from": 3000,
+            "rate": 0.018
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.023
+          },
+          {
+            "from": 9000,
+            "rate": 0.025
+          },
+          {
+            "from": 11000,
+            "rate": 0.027
+          },
+          {
+            "from": 13000,
+            "rate": 0.029
+          },
+          {
+            "from": 15000,
+            "rate": 0.031
+          },
+          {
+            "from": 17000,
+            "rate": 0.033
+          },
+          {
+            "from": 19000,
+            "rate": 0.035
+          },
+          {
+            "from": 21000,
+            "rate": 0.038
+          },
+          {
+            "from": 23000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.043
+          }
+        ]
+      },
+      "deduction": {
+        "single": 700,
+        "marriedJoint": 1400
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m79_12i.pdf",
+      "notes": "Schedule carried back from this file's 1985 entry (the 'City of New York Resident Tax Rate Schedule' in the 1985 IT-201 instructions) on the Department of Taxation and Finance's TSB-M memoranda, which record that the temporarily increased City resident rates were extended unchanged one year at a time: TSB-M-79(12)I (January 4, 1980): Chapter 723 of the Laws of 1979 continued the current increased City rates for taxable years ending on or before December 31, 1980; TSB-M-85(13)I (Chapter 364 of the Laws of 1985 continued the current increased rates for taxable years ending on or before December 31, 1986, with the lower rates to apply from 1987). The yearly DTF legislative summaries (TSB-M-80(2)I, 81(1)I, 82(1)I, 83(1)I, 84(1)I) list no amendment of Administrative Code s. T46-102.0 (resident tax rates) other than these extensions, so the schedule in force for 1985 is the one in force for 1979. One schedule for all filers (spouses taxed separately, as for the State), applied to New York taxable income. Household credit and other credits and the City minimum income tax not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 1000,
+            "rate": 0.014
+          },
+          {
+            "from": 3000,
+            "rate": 0.018
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.023
+          },
+          {
+            "from": 9000,
+            "rate": 0.025
+          },
+          {
+            "from": 11000,
+            "rate": 0.027
+          },
+          {
+            "from": 13000,
+            "rate": 0.029
+          },
+          {
+            "from": 15000,
+            "rate": 0.031
+          },
+          {
+            "from": 17000,
+            "rate": 0.033
+          },
+          {
+            "from": 19000,
+            "rate": 0.035
+          },
+          {
+            "from": 21000,
+            "rate": 0.038
+          },
+          {
+            "from": 23000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.043
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m80_7i.pdf",
+      "notes": "Schedule carried back from this file's 1985 entry (the 'City of New York Resident Tax Rate Schedule' in the 1985 IT-201 instructions) on the Department of Taxation and Finance's TSB-M memoranda, which record that the temporarily increased City resident rates were extended unchanged one year at a time: TSB-M-80(7)I (November 28, 1980): Chapter 250 of the Laws of 1980 continued the current increased City rates for taxable years ending on or before December 31, 1981 (Local Law 89 of 1980 extended the Administrative Code rates, s. T46-102.0, through 1980, per the TSB-M-80(2)I legislative summary); TSB-M-85(13)I (Chapter 364 of the Laws of 1985 continued the current increased rates for taxable years ending on or before December 31, 1986, with the lower rates to apply from 1987). The yearly DTF legislative summaries (TSB-M-80(2)I, 81(1)I, 82(1)I, 83(1)I, 84(1)I) list no amendment of Administrative Code s. T46-102.0 (resident tax rates) other than these extensions, so the schedule in force for 1985 is the one in force for 1980. One schedule for all filers (spouses taxed separately, as for the State), applied to New York taxable income. Household credit and other credits and the City minimum income tax not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 1000,
+            "rate": 0.014
+          },
+          {
+            "from": 3000,
+            "rate": 0.018
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.023
+          },
+          {
+            "from": 9000,
+            "rate": 0.025
+          },
+          {
+            "from": 11000,
+            "rate": 0.027
+          },
+          {
+            "from": 13000,
+            "rate": 0.029
+          },
+          {
+            "from": 15000,
+            "rate": 0.031
+          },
+          {
+            "from": 17000,
+            "rate": 0.033
+          },
+          {
+            "from": 19000,
+            "rate": 0.035
+          },
+          {
+            "from": 21000,
+            "rate": 0.038
+          },
+          {
+            "from": 23000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.043
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m81_7i.pdf",
+      "notes": "Schedule carried back from this file's 1985 entry (the 'City of New York Resident Tax Rate Schedule' in the 1985 IT-201 instructions) on the Department of Taxation and Finance's TSB-M memoranda, which record that the temporarily increased City resident rates were extended unchanged one year at a time: TSB-M-81(7)I (August 24, 1981): Chapter 904 of the Laws of 1981 continued the current increased City rates for taxable years ending on or before December 31, 1982 (Local Law 44 of 1981 extended s. T46-102.0 through 1981, per TSB-M-81(1)I); TSB-M-85(13)I (Chapter 364 of the Laws of 1985 continued the current increased rates for taxable years ending on or before December 31, 1986, with the lower rates to apply from 1987). The yearly DTF legislative summaries (TSB-M-80(2)I, 81(1)I, 82(1)I, 83(1)I, 84(1)I) list no amendment of Administrative Code s. T46-102.0 (resident tax rates) other than these extensions, so the schedule in force for 1985 is the one in force for 1981. One schedule for all filers (spouses taxed separately, as for the State), applied to New York taxable income. Household credit and other credits and the City minimum income tax not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 1000,
+            "rate": 0.014
+          },
+          {
+            "from": 3000,
+            "rate": 0.018
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.023
+          },
+          {
+            "from": 9000,
+            "rate": 0.025
+          },
+          {
+            "from": 11000,
+            "rate": 0.027
+          },
+          {
+            "from": 13000,
+            "rate": 0.029
+          },
+          {
+            "from": 15000,
+            "rate": 0.031
+          },
+          {
+            "from": 17000,
+            "rate": 0.033
+          },
+          {
+            "from": 19000,
+            "rate": 0.035
+          },
+          {
+            "from": 21000,
+            "rate": 0.038
+          },
+          {
+            "from": 23000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.043
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m82_5i.pdf",
+      "notes": "Schedule carried back from this file's 1985 entry (the 'City of New York Resident Tax Rate Schedule' in the 1985 IT-201 instructions) on the Department of Taxation and Finance's TSB-M memoranda, which record that the temporarily increased City resident rates were extended unchanged one year at a time: TSB-M-82(5)I (November 16, 1982): Chapter 189 of the Laws of 1982 continued the current increased City rates for taxable years ending on or before December 31, 1983 (Local Law 71 of 1982 kept the increased s. T46-102.0 rates in effect through 1982, per TSB-M-82(1)I); TSB-M-85(13)I (Chapter 364 of the Laws of 1985 continued the current increased rates for taxable years ending on or before December 31, 1986, with the lower rates to apply from 1987). The yearly DTF legislative summaries (TSB-M-80(2)I, 81(1)I, 82(1)I, 83(1)I, 84(1)I) list no amendment of Administrative Code s. T46-102.0 (resident tax rates) other than these extensions, so the schedule in force for 1985 is the one in force for 1982. One schedule for all filers (spouses taxed separately, as for the State), applied to New York taxable income. Household credit and other credits and the City minimum income tax not modelled. Surcharge (Tax Law s. 1304-A, Chapter 185 of the Laws of 1982; Administrative Code s. T46-101.4, Local Law 35 of 1982; TSB-M-82(7)I Rev.): for 1982, 2.5% of the City resident tax if total New York income is over $15,000 but not over $20,000 and 5% if over $20,000; not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 1000,
+            "rate": 0.014
+          },
+          {
+            "from": 3000,
+            "rate": 0.018
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.023
+          },
+          {
+            "from": 9000,
+            "rate": 0.025
+          },
+          {
+            "from": 11000,
+            "rate": 0.027
+          },
+          {
+            "from": 13000,
+            "rate": 0.029
+          },
+          {
+            "from": 15000,
+            "rate": 0.031
+          },
+          {
+            "from": 17000,
+            "rate": 0.033
+          },
+          {
+            "from": 19000,
+            "rate": 0.035
+          },
+          {
+            "from": 21000,
+            "rate": 0.038
+          },
+          {
+            "from": 23000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.043
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m83_15i.pdf",
+      "notes": "Schedule carried back from this file's 1985 entry (the 'City of New York Resident Tax Rate Schedule' in the 1985 IT-201 instructions) on the Department of Taxation and Finance's TSB-M memoranda, which record that the temporarily increased City resident rates were extended unchanged one year at a time: TSB-M-83(15)I (August 23, 1983): Chapter 424 of the Laws of 1983 continued the current increased City rates for taxable years ending on or before December 31, 1984 (Local Law 39 of 1983 kept the increased s. T46-102.0 rates in effect through 1983, per TSB-M-83(1)I); TSB-M-85(13)I (Chapter 364 of the Laws of 1985 continued the current increased rates for taxable years ending on or before December 31, 1986, with the lower rates to apply from 1987). The yearly DTF legislative summaries (TSB-M-80(2)I, 81(1)I, 82(1)I, 83(1)I, 84(1)I) list no amendment of Administrative Code s. T46-102.0 (resident tax rates) other than these extensions, so the schedule in force for 1985 is the one in force for 1983. One schedule for all filers (spouses taxed separately, as for the State), applied to New York taxable income. Household credit and other credits and the City minimum income tax not modelled. Surcharge (Tax Law s. 1304-A, Chapter 185 of the Laws of 1982; Administrative Code s. T46-101.4; TSB-M-82(7)I Rev.): for 1983, 5% of the City resident tax if total New York income is over $15,000 but not over $20,000 and 10% if over $20,000; not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 1000,
+            "rate": 0.014
+          },
+          {
+            "from": 3000,
+            "rate": 0.018
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.023
+          },
+          {
+            "from": 9000,
+            "rate": 0.025
+          },
+          {
+            "from": 11000,
+            "rate": 0.027
+          },
+          {
+            "from": 13000,
+            "rate": 0.029
+          },
+          {
+            "from": 15000,
+            "rate": 0.031
+          },
+          {
+            "from": 17000,
+            "rate": 0.033
+          },
+          {
+            "from": 19000,
+            "rate": 0.035
+          },
+          {
+            "from": 21000,
+            "rate": 0.038
+          },
+          {
+            "from": 23000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.043
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m84_18i.pdf",
+      "notes": "Schedule carried back from this file's 1985 entry (the 'City of New York Resident Tax Rate Schedule' in the 1985 IT-201 instructions) on the Department of Taxation and Finance's TSB-M memoranda, which record that the temporarily increased City resident rates were extended unchanged one year at a time: TSB-M-84(18)I (November 8, 1984): Chapter 982 of the Laws of 1984 continued the current increased City rates for taxable years ending on or before December 31, 1985 (Local Law 34 of 1983 kept the increased s. T46-102.0 rates in effect through 1984, per TSB-M-84(1)I); TSB-M-85(13)I (Chapter 364 of the Laws of 1985 continued the current increased rates for taxable years ending on or before December 31, 1986, with the lower rates to apply from 1987). The yearly DTF legislative summaries (TSB-M-80(2)I, 81(1)I, 82(1)I, 83(1)I, 84(1)I) list no amendment of Administrative Code s. T46-102.0 (resident tax rates) other than these extensions, so the schedule in force for 1985 is the one in force for 1984. One schedule for all filers (spouses taxed separately, as for the State), applied to New York taxable income. Household credit and other credits and the City minimum income tax not modelled. Surcharge (Tax Law s. 1304-A, Chapter 185 of the Laws of 1982; Administrative Code s. T46-101.4; TSB-M-82(7)I Rev.): for 1984, 2.5% of the City resident tax if total New York income is over $15,000 but not over $20,000 and 5% if over $20,000; not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 1000,
+            "rate": 0.014
+          },
+          {
+            "from": 3000,
+            "rate": 0.018
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.023
+          },
+          {
+            "from": 9000,
+            "rate": 0.025
+          },
+          {
+            "from": 11000,
+            "rate": 0.027
+          },
+          {
+            "from": 13000,
+            "rate": 0.029
+          },
+          {
+            "from": 15000,
+            "rate": 0.031
+          },
+          {
+            "from": 17000,
+            "rate": 0.033
+          },
+          {
+            "from": 19000,
+            "rate": 0.035
+          },
+          {
+            "from": 21000,
+            "rate": 0.038
+          },
+          {
+            "from": 23000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.043
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3350,
+        "marriedJoint": 4450
+      },
+      "source": "https://www.tax.ny.gov/pdf/1985/inc/it201i_1985.pdf",
+      "notes": "One schedule for all filers (spouses taxed separately, as for the State); \"City of New York Resident Tax Rate Schedule\" on the back page of the IT-201 instructions, applied to New York taxable income. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.009
+          },
+          {
+            "from": 1000,
+            "rate": 0.014
+          },
+          {
+            "from": 3000,
+            "rate": 0.018
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7000,
+            "rate": 0.023
+          },
+          {
+            "from": 9000,
+            "rate": 0.025
+          },
+          {
+            "from": 11000,
+            "rate": 0.027
+          },
+          {
+            "from": 13000,
+            "rate": 0.029
+          },
+          {
+            "from": 15000,
+            "rate": 0.031
+          },
+          {
+            "from": 17000,
+            "rate": 0.033
+          },
+          {
+            "from": 19000,
+            "rate": 0.035
+          },
+          {
+            "from": 21000,
+            "rate": 0.038
+          },
+          {
+            "from": 23000,
+            "rate": 0.04
+          },
+          {
+            "from": 25000,
+            "rate": 0.043
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3450,
+        "marriedJoint": 4700
+      },
+      "source": "https://www.tax.ny.gov/pdf/1986/inc/it201i_1986.pdf",
+      "notes": "One schedule for all filers (spouses taxed separately, as for the State); \"City of New York Resident Tax Rate Schedule\" on the back page of the IT-201 instructions, applied to New York taxable income. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 2500,
+            "rate": 0.018
+          },
+          {
+            "from": 5000,
+            "rate": 0.022
+          },
+          {
+            "from": 9000,
+            "rate": 0.026
+          },
+          {
+            "from": 13000,
+            "rate": 0.03
+          },
+          {
+            "from": 17000,
+            "rate": 0.034
+          },
+          {
+            "from": 21000,
+            "rate": 0.037
+          },
+          {
+            "from": 25000,
+            "rate": 0.039
+          },
+          {
+            "from": 60000,
+            "rate": 0.041
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 4125,
+            "rate": 0.018
+          },
+          {
+            "from": 8250,
+            "rate": 0.022
+          },
+          {
+            "from": 14850,
+            "rate": 0.026
+          },
+          {
+            "from": 21450,
+            "rate": 0.03
+          },
+          {
+            "from": 28050,
+            "rate": 0.034
+          },
+          {
+            "from": 34650,
+            "rate": 0.037
+          },
+          {
+            "from": 41250,
+            "rate": 0.039
+          },
+          {
+            "from": 99000,
+            "rate": 0.041
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4500,
+        "marriedJoint": 7100
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m87_14i.pdf",
+      "notes": "TSB-M-87(14)I schedule for 1987 (New York City Tax Reduction Act of 1987). Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 2500,
+            "rate": 0.022
+          },
+          {
+            "from": 9000,
+            "rate": 0.027
+          },
+          {
+            "from": 15000,
+            "rate": 0.032
+          },
+          {
+            "from": 25000,
+            "rate": 0.034
+          },
+          {
+            "from": 60000,
+            "rate": 0.035
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.015
+          },
+          {
+            "from": 4500,
+            "rate": 0.022
+          },
+          {
+            "from": 16200,
+            "rate": 0.027
+          },
+          {
+            "from": 27000,
+            "rate": 0.032
+          },
+          {
+            "from": 45000,
+            "rate": 0.034
+          },
+          {
+            "from": 108000,
+            "rate": 0.035
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5000,
+        "marriedJoint": 8500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m87_14i.pdf",
+      "notes": "TSB-M-87(14)I schedule for 1988. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 8000,
+            "rate": 0.027
+          },
+          {
+            "from": 15000,
+            "rate": 0.032
+          },
+          {
+            "from": 25000,
+            "rate": 0.0335
+          },
+          {
+            "from": 60000,
+            "rate": 0.034
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 14400,
+            "rate": 0.027
+          },
+          {
+            "from": 27000,
+            "rate": 0.032
+          },
+          {
+            "from": 45000,
+            "rate": 0.0335
+          },
+          {
+            "from": 108000,
+            "rate": 0.034
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m87_14i.pdf",
+      "notes": "TSB-M-87(14)I schedule for 1989. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 8000,
+            "rate": 0.027
+          },
+          {
+            "from": 9000,
+            "rate": 0.0321
+          },
+          {
+            "from": 15000,
+            "rate": 0.0375
+          },
+          {
+            "from": 25000,
+            "rate": 0.0386
+          },
+          {
+            "from": 60000,
+            "rate": 0.0391
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.022
+          },
+          {
+            "from": 14400,
+            "rate": 0.027
+          },
+          {
+            "from": 15500,
+            "rate": 0.0321
+          },
+          {
+            "from": 27000,
+            "rate": 0.0375
+          },
+          {
+            "from": 45000,
+            "rate": 0.0386
+          },
+          {
+            "from": 108000,
+            "rate": 0.0391
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m90_5i.pdf",
+      "notes": "TSB-M-90(5)I 1990 schedule: 1989 rates frozen plus the 1990-1992 resident tax surcharge (Tax Law 1304-A), shown combined. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 8000,
+            "rate": 0.0308
+          },
+          {
+            "from": 9000,
+            "rate": 0.0366
+          },
+          {
+            "from": 15000,
+            "rate": 0.0428
+          },
+          {
+            "from": 25000,
+            "rate": 0.044
+          },
+          {
+            "from": 60000,
+            "rate": 0.0446
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 14400,
+            "rate": 0.0308
+          },
+          {
+            "from": 15500,
+            "rate": 0.0366
+          },
+          {
+            "from": 27000,
+            "rate": 0.0428
+          },
+          {
+            "from": 45000,
+            "rate": 0.044
+          },
+          {
+            "from": 108000,
+            "rate": 0.0446
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/1991/inc/1991_tax_tables.pdf",
+      "notes": "Combined schedule including the surcharge and the 14% additional tax (Tax Law 1304-B, tax years 1991-1993; TSB-M-92(1)I), i.e. the 1990 schedule x 1.14. The 1991 tax tables print only the \"$65,000 or more\" part of this schedule ($2,642 plus 4.46% single, $4,359 plus 4.46% joint over $108,000), identical to the full 1993 schedule in the 1993 tax tables; TSB-M-93(1)I says the 1991 rates were extended unchanged to 1992. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 8000,
+            "rate": 0.0308
+          },
+          {
+            "from": 9000,
+            "rate": 0.0366
+          },
+          {
+            "from": 15000,
+            "rate": 0.0428
+          },
+          {
+            "from": 25000,
+            "rate": 0.044
+          },
+          {
+            "from": 60000,
+            "rate": 0.0446
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 14400,
+            "rate": 0.0308
+          },
+          {
+            "from": 15500,
+            "rate": 0.0366
+          },
+          {
+            "from": 27000,
+            "rate": 0.0428
+          },
+          {
+            "from": 45000,
+            "rate": 0.044
+          },
+          {
+            "from": 108000,
+            "rate": 0.0446
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/1992/inc/1992_tax_tables.pdf",
+      "notes": "Combined schedule including the surcharge and the 14% additional tax (Tax Law 1304-B, tax years 1991-1993; TSB-M-92(1)I), i.e. the 1990 schedule x 1.14. The 1992 tax tables print only the \"$65,000 or more\" part of this schedule ($2,642 plus 4.46% single, $4,359 plus 4.46% joint over $108,000), identical to the full 1993 schedule in the 1993 tax tables; TSB-M-94(1)I says the 1992 rates were extended unchanged to 1993. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 8000,
+            "rate": 0.0308
+          },
+          {
+            "from": 9000,
+            "rate": 0.0366
+          },
+          {
+            "from": 15000,
+            "rate": 0.0428
+          },
+          {
+            "from": 25000,
+            "rate": 0.044
+          },
+          {
+            "from": 60000,
+            "rate": 0.0446
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 14400,
+            "rate": 0.0308
+          },
+          {
+            "from": 15500,
+            "rate": 0.0366
+          },
+          {
+            "from": 27000,
+            "rate": 0.0428
+          },
+          {
+            "from": 45000,
+            "rate": 0.044
+          },
+          {
+            "from": 108000,
+            "rate": 0.0446
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/1993/inc/1993_tax_tables.pdf",
+      "notes": "\"1993 New York City Tax Rate Schedules (includes surcharge)\", page 20 of the 1993 tax tables; equals the 1990 schedule x 1.14 (14% additional tax, Tax Law 1304-B). Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 8000,
+            "rate": 0.0308
+          },
+          {
+            "from": 9000,
+            "rate": 0.0366
+          },
+          {
+            "from": 15000,
+            "rate": 0.0428
+          },
+          {
+            "from": 25000,
+            "rate": 0.044
+          },
+          {
+            "from": 60000,
+            "rate": 0.0446
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0251
+          },
+          {
+            "from": 14400,
+            "rate": 0.0308
+          },
+          {
+            "from": 15500,
+            "rate": 0.0366
+          },
+          {
+            "from": 27000,
+            "rate": 0.0428
+          },
+          {
+            "from": 45000,
+            "rate": 0.044
+          },
+          {
+            "from": 108000,
+            "rate": 0.0446
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6000,
+        "marriedJoint": 9500
+      },
+      "source": "https://www.tax.ny.gov/pdf/1994/inc/1994_tax_tables.pdf",
+      "notes": "\"1994 New York City Tax Rate Schedules (includes surcharge)\", page 20 of the 1994 tax tables (the 14% additional tax was extended through 1995, TSB-M-95(1)I). Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0257
+          },
+          {
+            "from": 8000,
+            "rate": 0.0325
+          },
+          {
+            "from": 8400,
+            "rate": 0.0383
+          },
+          {
+            "from": 15000,
+            "rate": 0.0439
+          },
+          {
+            "from": 25000,
+            "rate": 0.044
+          },
+          {
+            "from": 60000,
+            "rate": 0.0446
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0257
+          },
+          {
+            "from": 14400,
+            "rate": 0.0383
+          },
+          {
+            "from": 27000,
+            "rate": 0.0439
+          },
+          {
+            "from": 45000,
+            "rate": 0.044
+          },
+          {
+            "from": 108000,
+            "rate": 0.0446
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6600,
+        "marriedJoint": 10800
+      },
+      "source": "https://www.tax.ny.gov/pdf/1995/inc/1995_tax_tables.pdf",
+      "notes": "\"1995 New York City Tax Rate Schedules\", page 18 of the 1995 tax tables (first year of the three-year phase-in of the 1987 Act schedules; includes surcharge and 14% additional tax). Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0296
+          },
+          {
+            "from": 8000,
+            "rate": 0.0342
+          },
+          {
+            "from": 8400,
+            "rate": 0.04
+          },
+          {
+            "from": 15000,
+            "rate": 0.0439
+          },
+          {
+            "from": 25000,
+            "rate": 0.044
+          },
+          {
+            "from": 60000,
+            "rate": 0.0446
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0296
+          },
+          {
+            "from": 14400,
+            "rate": 0.04
+          },
+          {
+            "from": 27000,
+            "rate": 0.0439
+          },
+          {
+            "from": 45000,
+            "rate": 0.044
+          },
+          {
+            "from": 108000,
+            "rate": 0.0446
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7400,
+        "marriedJoint": 12350
+      },
+      "source": "https://www.tax.ny.gov/pdf/1996/inc/it360_1i_1996.pdf",
+      "notes": "\"1996 New York City Tax Rate Schedules\" in the Form IT-360.1 instructions (the IT-201 booklet prints only a tax table plus the $65,000-and-over line, which agrees: $2,717 plus 4.46%). Includes surcharge and 14% additional tax. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0308
+          },
+          {
+            "from": 8400,
+            "rate": 0.0366
+          },
+          {
+            "from": 12000,
+            "rate": 0.0434
+          },
+          {
+            "from": 15000,
+            "rate": 0.0439
+          },
+          {
+            "from": 25000,
+            "rate": 0.044
+          },
+          {
+            "from": 50000,
+            "rate": 0.0446
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0308
+          },
+          {
+            "from": 14400,
+            "rate": 0.0366
+          },
+          {
+            "from": 21600,
+            "rate": 0.0434
+          },
+          {
+            "from": 27000,
+            "rate": 0.0439
+          },
+          {
+            "from": 45000,
+            "rate": 0.044
+          },
+          {
+            "from": 90000,
+            "rate": 0.0446
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 13000
+      },
+      "source": "https://www.tax.ny.gov/pdf/1997/inc/it360_1i_1997.pdf",
+      "notes": "\"1997 New York City Tax Rate Schedules\" in the Form IT-360.1 instructions (IT-201 booklet tax table $65,000-and-over line agrees: $2,729 plus 4.46%). Includes surcharge and 14% additional tax. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0308
+          },
+          {
+            "from": 8400,
+            "rate": 0.0366
+          },
+          {
+            "from": 12000,
+            "rate": 0.0434
+          },
+          {
+            "from": 15000,
+            "rate": 0.0439
+          },
+          {
+            "from": 25000,
+            "rate": 0.044
+          },
+          {
+            "from": 50000,
+            "rate": 0.0446
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0308
+          },
+          {
+            "from": 14400,
+            "rate": 0.0366
+          },
+          {
+            "from": 21600,
+            "rate": 0.0434
+          },
+          {
+            "from": 27000,
+            "rate": 0.0439
+          },
+          {
+            "from": 45000,
+            "rate": 0.044
+          },
+          {
+            "from": 90000,
+            "rate": 0.0446
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 13000
+      },
+      "source": "https://www.tax.ny.gov/pdf/1998/inc/it360_1i_1998.pdf",
+      "notes": "\"1998 New York City Tax Rate Schedules\" in the Form IT-360.1 instructions (IT-201 booklet tax table $65,000-and-over line agrees: $2,729 plus 4.46%). Includes surcharge and 14% additional tax. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.030495
+          },
+          {
+            "from": 12000,
+            "rate": 0.037136
+          },
+          {
+            "from": 25000,
+            "rate": 0.037706
+          },
+          {
+            "from": 50000,
+            "rate": 0.038276
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.030495
+          },
+          {
+            "from": 21600,
+            "rate": 0.037136
+          },
+          {
+            "from": 45000,
+            "rate": 0.037706
+          },
+          {
+            "from": 90000,
+            "rate": 0.038276
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 13000
+      },
+      "source": "https://www.tax.ny.gov/pdf/1999/inc/it360_1i_1999.pdf",
+      "notes": "\"1999 City of New York tax rates\" in the Form IT-360.1 instructions; first year of the 1999-2001 rate reduction, the 1990 \"Safe Streets\" surcharge expired after 1998 (TSB-M-99(3)I); includes the 14% additional tax. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03021
+          },
+          {
+            "from": 12000,
+            "rate": 0.036651
+          },
+          {
+            "from": 25000,
+            "rate": 0.037221
+          },
+          {
+            "from": 50000,
+            "rate": 0.037791
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03021
+          },
+          {
+            "from": 21600,
+            "rate": 0.036651
+          },
+          {
+            "from": 45000,
+            "rate": 0.037221
+          },
+          {
+            "from": 90000,
+            "rate": 0.037791
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 13000
+      },
+      "source": "https://www.tax.ny.gov/pdf/2000/inc/it360_1i_2000.pdf",
+      "notes": "\"2000 City of New York tax rates\" in the Form IT-360.1 instructions. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02683875
+          },
+          {
+            "from": 12000,
+            "rate": 0.0326275
+          },
+          {
+            "from": 25000,
+            "rate": 0.03315375
+          },
+          {
+            "from": 50000,
+            "rate": 0.03592
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02683875
+          },
+          {
+            "from": 21600,
+            "rate": 0.0326275
+          },
+          {
+            "from": 45000,
+            "rate": 0.03315375
+          },
+          {
+            "from": 90000,
+            "rate": 0.03592
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 13400
+      },
+      "source": "https://www.tax.ny.gov/pdf/2001/inc/it360_1i_2001.pdf",
+      "notes": "\"2001 City of New York tax rates\" in the Form IT-360.1 instructions (IT-201 tax table $65,000-and-over line agrees: $2,114 plus 3.592%). Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 12000,
+            "rate": 0.03534
+          },
+          {
+            "from": 25000,
+            "rate": 0.03591
+          },
+          {
+            "from": 50000,
+            "rate": 0.03648
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 21600,
+            "rate": 0.03534
+          },
+          {
+            "from": 45000,
+            "rate": 0.03591
+          },
+          {
+            "from": 90000,
+            "rate": 0.03648
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 14200
+      },
+      "source": "https://www.tax.ny.gov/pdf/2002/inc/it360_1i_2002.pdf",
+      "notes": "\"2002 City of New York tax rates\" in the Form IT-360.1 instructions. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 12000,
+            "rate": 0.03534
+          },
+          {
+            "from": 25000,
+            "rate": 0.03591
+          },
+          {
+            "from": 50000,
+            "rate": 0.03648
+          },
+          {
+            "from": 100000,
+            "rate": 0.0425
+          },
+          {
+            "from": 500000,
+            "rate": 0.0445
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 21600,
+            "rate": 0.03534
+          },
+          {
+            "from": 45000,
+            "rate": 0.03591
+          },
+          {
+            "from": 90000,
+            "rate": 0.03648
+          },
+          {
+            "from": 150000,
+            "rate": 0.0425
+          },
+          {
+            "from": 500000,
+            "rate": 0.0445
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 14600
+      },
+      "source": "https://www.tax.ny.gov/pdf/memos/income/m04_1i.pdf",
+      "notes": "Temporary 2003-2005 brackets (Tax Law 1304-D; TSB-M-04(1)I): second-highest rate 4.25% in 2003, 4.175% in 2004, 4.05% in 2005. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 12000,
+            "rate": 0.03534
+          },
+          {
+            "from": 25000,
+            "rate": 0.03591
+          },
+          {
+            "from": 50000,
+            "rate": 0.03648
+          },
+          {
+            "from": 100000,
+            "rate": 0.04175
+          },
+          {
+            "from": 500000,
+            "rate": 0.0445
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 21600,
+            "rate": 0.03534
+          },
+          {
+            "from": 45000,
+            "rate": 0.03591
+          },
+          {
+            "from": 90000,
+            "rate": 0.03648
+          },
+          {
+            "from": 150000,
+            "rate": 0.04175
+          },
+          {
+            "from": 500000,
+            "rate": 0.0445
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 14600
+      },
+      "source": "https://www.tax.ny.gov/pdf/2004/inc/it201i_2004.pdf",
+      "notes": "City of New York tax rate schedule, IT-201 instructions page 35 (temporary 2003-2005 brackets). Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 12000,
+            "rate": 0.03534
+          },
+          {
+            "from": 25000,
+            "rate": 0.03591
+          },
+          {
+            "from": 50000,
+            "rate": 0.03648
+          },
+          {
+            "from": 100000,
+            "rate": 0.0405
+          },
+          {
+            "from": 500000,
+            "rate": 0.0445
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 21600,
+            "rate": 0.03534
+          },
+          {
+            "from": 45000,
+            "rate": 0.03591
+          },
+          {
+            "from": 90000,
+            "rate": 0.03648
+          },
+          {
+            "from": 150000,
+            "rate": 0.0405
+          },
+          {
+            "from": 500000,
+            "rate": 0.0445
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 14600
+      },
+      "source": "https://www.tax.ny.gov/pdf/2005/inc/it150_201i_2005.pdf",
+      "notes": "City of New York tax rate schedule in the IT-150/IT-201 instructions (temporary 2003-2005 brackets). Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 12000,
+            "rate": 0.03534
+          },
+          {
+            "from": 25000,
+            "rate": 0.03591
+          },
+          {
+            "from": 50000,
+            "rate": 0.03648
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 21600,
+            "rate": 0.03534
+          },
+          {
+            "from": 45000,
+            "rate": 0.03591
+          },
+          {
+            "from": 90000,
+            "rate": 0.03648
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://www.tax.ny.gov/pdf/2006/inc/it201i_2006.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 12000,
+            "rate": 0.03534
+          },
+          {
+            "from": 25000,
+            "rate": 0.03591
+          },
+          {
+            "from": 50000,
+            "rate": 0.03648
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 21600,
+            "rate": 0.03534
+          },
+          {
+            "from": 45000,
+            "rate": 0.03591
+          },
+          {
+            "from": 90000,
+            "rate": 0.03648
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://www.tax.ny.gov/pdf/2007/inc/it201i_2007.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 12000,
+            "rate": 0.03534
+          },
+          {
+            "from": 25000,
+            "rate": 0.03591
+          },
+          {
+            "from": 50000,
+            "rate": 0.03648
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 21600,
+            "rate": 0.03534
+          },
+          {
+            "from": 45000,
+            "rate": 0.03591
+          },
+          {
+            "from": 90000,
+            "rate": 0.03648
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NY/2008/it150_201i_2008.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 12000,
+            "rate": 0.03534
+          },
+          {
+            "from": 25000,
+            "rate": 0.03591
+          },
+          {
+            "from": 50000,
+            "rate": 0.03648
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 21600,
+            "rate": 0.03534
+          },
+          {
+            "from": 45000,
+            "rate": 0.03591
+          },
+          {
+            "from": 90000,
+            "rate": 0.03648
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NY/2009/it150_201i_2009.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 12000,
+            "rate": 0.03534
+          },
+          {
+            "from": 25000,
+            "rate": 0.03591
+          },
+          {
+            "from": 50000,
+            "rate": 0.03648
+          },
+          {
+            "from": 500000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 21600,
+            "rate": 0.03534
+          },
+          {
+            "from": 45000,
+            "rate": 0.03591
+          },
+          {
+            "from": 90000,
+            "rate": 0.03648
+          },
+          {
+            "from": 500000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NY/2010/it150_201i_2010.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions (new top bracket over $500,000 from 2010, TSB-M-10(7)I). Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 12000,
+            "rate": 0.03534
+          },
+          {
+            "from": 25000,
+            "rate": 0.03591
+          },
+          {
+            "from": 50000,
+            "rate": 0.03648
+          },
+          {
+            "from": 500000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 21600,
+            "rate": 0.03534
+          },
+          {
+            "from": 45000,
+            "rate": 0.03591
+          },
+          {
+            "from": 90000,
+            "rate": 0.03648
+          },
+          {
+            "from": 500000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://www.tax.ny.gov/pdf/2011/inc/it201i_2011.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions (new top bracket over $500,000 from 2010, TSB-M-10(7)I). Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 12000,
+            "rate": 0.03534
+          },
+          {
+            "from": 25000,
+            "rate": 0.03591
+          },
+          {
+            "from": 50000,
+            "rate": 0.03648
+          },
+          {
+            "from": 500000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 21600,
+            "rate": 0.03534
+          },
+          {
+            "from": 45000,
+            "rate": 0.03591
+          },
+          {
+            "from": 90000,
+            "rate": 0.03648
+          },
+          {
+            "from": 500000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7500,
+        "marriedJoint": 15000
+      },
+      "source": "https://www.tax.ny.gov/pdf/2012/inc/it201i_2012.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions (new top bracket over $500,000 from 2010, TSB-M-10(7)I). Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 12000,
+            "rate": 0.03534
+          },
+          {
+            "from": 25000,
+            "rate": 0.03591
+          },
+          {
+            "from": 50000,
+            "rate": 0.03648
+          },
+          {
+            "from": 500000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 21600,
+            "rate": 0.03534
+          },
+          {
+            "from": 45000,
+            "rate": 0.03591
+          },
+          {
+            "from": 90000,
+            "rate": 0.03648
+          },
+          {
+            "from": 500000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7700,
+        "marriedJoint": 15400
+      },
+      "source": "https://www.tax.ny.gov/pdf/2013/inc/it201i_2013.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions (new top bracket over $500,000 from 2010, TSB-M-10(7)I). Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 12000,
+            "rate": 0.03534
+          },
+          {
+            "from": 25000,
+            "rate": 0.03591
+          },
+          {
+            "from": 50000,
+            "rate": 0.03648
+          },
+          {
+            "from": 500000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 21600,
+            "rate": 0.03534
+          },
+          {
+            "from": 45000,
+            "rate": 0.03591
+          },
+          {
+            "from": 90000,
+            "rate": 0.03648
+          },
+          {
+            "from": 500000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7800,
+        "marriedJoint": 15650
+      },
+      "source": "https://www.tax.ny.gov/pdf/2014/inc/it201i_2014.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions (new top bracket over $500,000 from 2010, TSB-M-10(7)I). Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 12000,
+            "rate": 0.03534
+          },
+          {
+            "from": 25000,
+            "rate": 0.03591
+          },
+          {
+            "from": 50000,
+            "rate": 0.03648
+          },
+          {
+            "from": 500000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 21600,
+            "rate": 0.03534
+          },
+          {
+            "from": 45000,
+            "rate": 0.03591
+          },
+          {
+            "from": 90000,
+            "rate": 0.03648
+          },
+          {
+            "from": 500000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7900,
+        "marriedJoint": 15850
+      },
+      "source": "https://www.tax.ny.gov/pdf/2015/inc/it201i_2015.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions. The printed tax at $500,000 ($19,255 single, $19,155 joint) includes a recapture of the STAR rate-reduction benefit on income below $500,000, so above $500,000 the tax is about $1,130 more than these brackets give. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 12000,
+            "rate": 0.03534
+          },
+          {
+            "from": 25000,
+            "rate": 0.03591
+          },
+          {
+            "from": 50000,
+            "rate": 0.03648
+          },
+          {
+            "from": 500000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.02907
+          },
+          {
+            "from": 21600,
+            "rate": 0.03534
+          },
+          {
+            "from": 45000,
+            "rate": 0.03591
+          },
+          {
+            "from": 90000,
+            "rate": 0.03648
+          },
+          {
+            "from": 500000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7950,
+        "marriedJoint": 15950
+      },
+      "source": "https://www.tax.ny.gov/pdf/2016/inc/it201i_2016.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions. The printed tax at $500,000 ($19,255 single, $19,155 joint) includes a recapture of the STAR rate-reduction benefit on income below $500,000, so above $500,000 the tax is about $1,130 more than these brackets give. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 12000,
+            "rate": 0.03762
+          },
+          {
+            "from": 25000,
+            "rate": 0.03819
+          },
+          {
+            "from": 50000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 21600,
+            "rate": 0.03762
+          },
+          {
+            "from": 45000,
+            "rate": 0.03819
+          },
+          {
+            "from": 90000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2017/inc/it201i_2017.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 12000,
+            "rate": 0.03762
+          },
+          {
+            "from": 25000,
+            "rate": 0.03819
+          },
+          {
+            "from": 50000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 21600,
+            "rate": 0.03762
+          },
+          {
+            "from": 45000,
+            "rate": 0.03819
+          },
+          {
+            "from": 90000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2018/inc/it201i_2018.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 12000,
+            "rate": 0.03762
+          },
+          {
+            "from": 25000,
+            "rate": 0.03819
+          },
+          {
+            "from": 50000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 21600,
+            "rate": 0.03762
+          },
+          {
+            "from": 45000,
+            "rate": 0.03819
+          },
+          {
+            "from": 90000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2019/inc/it201i_2019.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 12000,
+            "rate": 0.03762
+          },
+          {
+            "from": 25000,
+            "rate": 0.03819
+          },
+          {
+            "from": 50000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 21600,
+            "rate": 0.03762
+          },
+          {
+            "from": 45000,
+            "rate": 0.03819
+          },
+          {
+            "from": 90000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2020/inc/it201i_2020.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 12000,
+            "rate": 0.03762
+          },
+          {
+            "from": 25000,
+            "rate": 0.03819
+          },
+          {
+            "from": 50000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 21600,
+            "rate": 0.03762
+          },
+          {
+            "from": 45000,
+            "rate": 0.03819
+          },
+          {
+            "from": 90000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2021/inc/it201i_2021.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 12000,
+            "rate": 0.03762
+          },
+          {
+            "from": 25000,
+            "rate": 0.03819
+          },
+          {
+            "from": 50000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 21600,
+            "rate": 0.03762
+          },
+          {
+            "from": 45000,
+            "rate": 0.03819
+          },
+          {
+            "from": 90000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NY/2022/it201i-2022.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 12000,
+            "rate": 0.03762
+          },
+          {
+            "from": 25000,
+            "rate": 0.03819
+          },
+          {
+            "from": 50000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 21600,
+            "rate": 0.03762
+          },
+          {
+            "from": 45000,
+            "rate": 0.03819
+          },
+          {
+            "from": 90000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/NY/2023/it201i-2023.pdf",
+      "notes": "New York City tax rate schedule in the IT-201 instructions. Household credit, school tax credit and other credits not modelled. Deduction is the State deduction for the year (city taxable income = State taxable income)."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 12000,
+            "rate": 0.03762
+          },
+          {
+            "from": 25000,
+            "rate": 0.03819
+          },
+          {
+            "from": 50000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 21600,
+            "rate": 0.03762
+          },
+          {
+            "from": 45000,
+            "rate": 0.03819
+          },
+          {
+            "from": 90000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2026/inc/it2105i_2026.pdf"
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 12000,
+            "rate": 0.03762
+          },
+          {
+            "from": 25000,
+            "rate": 0.03819
+          },
+          {
+            "from": 50000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 21600,
+            "rate": 0.03762
+          },
+          {
+            "from": 45000,
+            "rate": 0.03819
+          },
+          {
+            "from": 90000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2026/inc/it2105i_2026.pdf"
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 12000,
+            "rate": 0.03762
+          },
+          {
+            "from": 25000,
+            "rate": 0.03819
+          },
+          {
+            "from": 50000,
+            "rate": 0.03876
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03078
+          },
+          {
+            "from": 21600,
+            "rate": 0.03762
+          },
+          {
+            "from": 45000,
+            "rate": 0.03819
+          },
+          {
+            "from": 90000,
+            "rate": 0.03876
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8000,
+        "marriedJoint": 16050
+      },
+      "source": "https://www.tax.ny.gov/pdf/2026/inc/it2105i_2026.pdf"
+    }
+  }
+}

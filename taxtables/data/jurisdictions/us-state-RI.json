@@ -1,0 +1,4657 @@
+{
+  "id": "us-state-RI",
+  "kind": "state",
+  "region": "Rhode Island",
+  "state": "RI",
+  "years": {
+    "1970": {
+      "type": "none",
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "No Rhode Island personal income tax before 1971."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0245
+          },
+          {
+            "from": 500,
+            "rate": 0.02625
+          },
+          {
+            "from": 1000,
+            "rate": 0.028
+          },
+          {
+            "from": 1500,
+            "rate": 0.02975
+          },
+          {
+            "from": 2000,
+            "rate": 0.03325
+          },
+          {
+            "from": 4000,
+            "rate": 0.03675
+          },
+          {
+            "from": 6000,
+            "rate": 0.042
+          },
+          {
+            "from": 8000,
+            "rate": 0.04375
+          },
+          {
+            "from": 10000,
+            "rate": 0.04725
+          },
+          {
+            "from": 12000,
+            "rate": 0.05075
+          },
+          {
+            "from": 14000,
+            "rate": 0.05425
+          },
+          {
+            "from": 16000,
+            "rate": 0.0595
+          },
+          {
+            "from": 18000,
+            "rate": 0.063
+          },
+          {
+            "from": 20000,
+            "rate": 0.0665
+          },
+          {
+            "from": 22000,
+            "rate": 0.07
+          },
+          {
+            "from": 26000,
+            "rate": 0.07875
+          },
+          {
+            "from": 32000,
+            "rate": 0.0875
+          },
+          {
+            "from": 38000,
+            "rate": 0.09625
+          },
+          {
+            "from": 44000,
+            "rate": 0.105
+          },
+          {
+            "from": 50000,
+            "rate": 0.1085
+          },
+          {
+            "from": 60000,
+            "rate": 0.112
+          },
+          {
+            "from": 70000,
+            "rate": 0.1155
+          },
+          {
+            "from": 80000,
+            "rate": 0.119
+          },
+          {
+            "from": 90000,
+            "rate": 0.12075
+          },
+          {
+            "from": 100000,
+            "rate": 0.1225
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0245
+          },
+          {
+            "from": 1000,
+            "rate": 0.02625
+          },
+          {
+            "from": 2000,
+            "rate": 0.028
+          },
+          {
+            "from": 3000,
+            "rate": 0.02975
+          },
+          {
+            "from": 4000,
+            "rate": 0.03325
+          },
+          {
+            "from": 8000,
+            "rate": 0.0385
+          },
+          {
+            "from": 12000,
+            "rate": 0.04375
+          },
+          {
+            "from": 16000,
+            "rate": 0.049
+          },
+          {
+            "from": 20000,
+            "rate": 0.056
+          },
+          {
+            "from": 24000,
+            "rate": 0.063
+          },
+          {
+            "from": 28000,
+            "rate": 0.06825
+          },
+          {
+            "from": 32000,
+            "rate": 0.0735
+          },
+          {
+            "from": 36000,
+            "rate": 0.07875
+          },
+          {
+            "from": 40000,
+            "rate": 0.084
+          },
+          {
+            "from": 44000,
+            "rate": 0.0875
+          },
+          {
+            "from": 52000,
+            "rate": 0.09275
+          },
+          {
+            "from": 64000,
+            "rate": 0.09625
+          },
+          {
+            "from": 76000,
+            "rate": 0.1015
+          },
+          {
+            "from": 88000,
+            "rate": 0.105
+          },
+          {
+            "from": 100000,
+            "rate": 0.1085
+          },
+          {
+            "from": 120000,
+            "rate": 0.112
+          },
+          {
+            "from": 140000,
+            "rate": 0.1155
+          },
+          {
+            "from": 160000,
+            "rate": 0.119
+          },
+          {
+            "from": 180000,
+            "rate": 0.12075
+          },
+          {
+            "from": 200000,
+            "rate": 0.1225
+          }
+        ]
+      },
+      "deduction": {
+        "single": 675,
+        "marriedJoint": 1350
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "17.5% of federal income tax liability: federal schedule with each rate multiplied by 17.5%. Statute: 20% of half the 1971 federal liability (Jan-Jun) plus 15% of half (Jul-Dec), i.e. 17.5% for the year. Deduction is the federal one for that year (from the federal file); federal standard deduction depended on income and is left out. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 500,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.024
+          },
+          {
+            "from": 1500,
+            "rate": 0.0255
+          },
+          {
+            "from": 2000,
+            "rate": 0.0285
+          },
+          {
+            "from": 4000,
+            "rate": 0.0315
+          },
+          {
+            "from": 6000,
+            "rate": 0.036
+          },
+          {
+            "from": 8000,
+            "rate": 0.0375
+          },
+          {
+            "from": 10000,
+            "rate": 0.0405
+          },
+          {
+            "from": 12000,
+            "rate": 0.0435
+          },
+          {
+            "from": 14000,
+            "rate": 0.0465
+          },
+          {
+            "from": 16000,
+            "rate": 0.051
+          },
+          {
+            "from": 18000,
+            "rate": 0.054
+          },
+          {
+            "from": 20000,
+            "rate": 0.057
+          },
+          {
+            "from": 22000,
+            "rate": 0.06
+          },
+          {
+            "from": 26000,
+            "rate": 0.0675
+          },
+          {
+            "from": 32000,
+            "rate": 0.075
+          },
+          {
+            "from": 38000,
+            "rate": 0.0825
+          },
+          {
+            "from": 44000,
+            "rate": 0.09
+          },
+          {
+            "from": 50000,
+            "rate": 0.093
+          },
+          {
+            "from": 60000,
+            "rate": 0.096
+          },
+          {
+            "from": 70000,
+            "rate": 0.099
+          },
+          {
+            "from": 80000,
+            "rate": 0.102
+          },
+          {
+            "from": 90000,
+            "rate": 0.1035
+          },
+          {
+            "from": 100000,
+            "rate": 0.105
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 1000,
+            "rate": 0.0225
+          },
+          {
+            "from": 2000,
+            "rate": 0.024
+          },
+          {
+            "from": 3000,
+            "rate": 0.0255
+          },
+          {
+            "from": 4000,
+            "rate": 0.0285
+          },
+          {
+            "from": 8000,
+            "rate": 0.033
+          },
+          {
+            "from": 12000,
+            "rate": 0.0375
+          },
+          {
+            "from": 16000,
+            "rate": 0.042
+          },
+          {
+            "from": 20000,
+            "rate": 0.048
+          },
+          {
+            "from": 24000,
+            "rate": 0.054
+          },
+          {
+            "from": 28000,
+            "rate": 0.0585
+          },
+          {
+            "from": 32000,
+            "rate": 0.063
+          },
+          {
+            "from": 36000,
+            "rate": 0.0675
+          },
+          {
+            "from": 40000,
+            "rate": 0.072
+          },
+          {
+            "from": 44000,
+            "rate": 0.075
+          },
+          {
+            "from": 52000,
+            "rate": 0.0795
+          },
+          {
+            "from": 64000,
+            "rate": 0.0825
+          },
+          {
+            "from": 76000,
+            "rate": 0.087
+          },
+          {
+            "from": 88000,
+            "rate": 0.09
+          },
+          {
+            "from": 100000,
+            "rate": 0.093
+          },
+          {
+            "from": 120000,
+            "rate": 0.096
+          },
+          {
+            "from": 140000,
+            "rate": 0.099
+          },
+          {
+            "from": 160000,
+            "rate": 0.102
+          },
+          {
+            "from": 180000,
+            "rate": 0.1035
+          },
+          {
+            "from": 200000,
+            "rate": 0.105
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "15% of federal income tax liability: federal schedule with each rate multiplied by 15%. Deduction is the federal one for that year (from the federal file); federal standard deduction depended on income and is left out. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 500,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.024
+          },
+          {
+            "from": 1500,
+            "rate": 0.0255
+          },
+          {
+            "from": 2000,
+            "rate": 0.0285
+          },
+          {
+            "from": 4000,
+            "rate": 0.0315
+          },
+          {
+            "from": 6000,
+            "rate": 0.036
+          },
+          {
+            "from": 8000,
+            "rate": 0.0375
+          },
+          {
+            "from": 10000,
+            "rate": 0.0405
+          },
+          {
+            "from": 12000,
+            "rate": 0.0435
+          },
+          {
+            "from": 14000,
+            "rate": 0.0465
+          },
+          {
+            "from": 16000,
+            "rate": 0.051
+          },
+          {
+            "from": 18000,
+            "rate": 0.054
+          },
+          {
+            "from": 20000,
+            "rate": 0.057
+          },
+          {
+            "from": 22000,
+            "rate": 0.06
+          },
+          {
+            "from": 26000,
+            "rate": 0.0675
+          },
+          {
+            "from": 32000,
+            "rate": 0.075
+          },
+          {
+            "from": 38000,
+            "rate": 0.0825
+          },
+          {
+            "from": 44000,
+            "rate": 0.09
+          },
+          {
+            "from": 50000,
+            "rate": 0.093
+          },
+          {
+            "from": 60000,
+            "rate": 0.096
+          },
+          {
+            "from": 70000,
+            "rate": 0.099
+          },
+          {
+            "from": 80000,
+            "rate": 0.102
+          },
+          {
+            "from": 90000,
+            "rate": 0.1035
+          },
+          {
+            "from": 100000,
+            "rate": 0.105
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 1000,
+            "rate": 0.0225
+          },
+          {
+            "from": 2000,
+            "rate": 0.024
+          },
+          {
+            "from": 3000,
+            "rate": 0.0255
+          },
+          {
+            "from": 4000,
+            "rate": 0.0285
+          },
+          {
+            "from": 8000,
+            "rate": 0.033
+          },
+          {
+            "from": 12000,
+            "rate": 0.0375
+          },
+          {
+            "from": 16000,
+            "rate": 0.042
+          },
+          {
+            "from": 20000,
+            "rate": 0.048
+          },
+          {
+            "from": 24000,
+            "rate": 0.054
+          },
+          {
+            "from": 28000,
+            "rate": 0.0585
+          },
+          {
+            "from": 32000,
+            "rate": 0.063
+          },
+          {
+            "from": 36000,
+            "rate": 0.0675
+          },
+          {
+            "from": 40000,
+            "rate": 0.072
+          },
+          {
+            "from": 44000,
+            "rate": 0.075
+          },
+          {
+            "from": 52000,
+            "rate": 0.0795
+          },
+          {
+            "from": 64000,
+            "rate": 0.0825
+          },
+          {
+            "from": 76000,
+            "rate": 0.087
+          },
+          {
+            "from": 88000,
+            "rate": 0.09
+          },
+          {
+            "from": 100000,
+            "rate": 0.093
+          },
+          {
+            "from": 120000,
+            "rate": 0.096
+          },
+          {
+            "from": 140000,
+            "rate": 0.099
+          },
+          {
+            "from": 160000,
+            "rate": 0.102
+          },
+          {
+            "from": 180000,
+            "rate": 0.1035
+          },
+          {
+            "from": 200000,
+            "rate": 0.105
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "15% of federal income tax liability: federal schedule with each rate multiplied by 15%. Deduction is the federal one for that year (from the federal file); federal standard deduction depended on income and is left out. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 500,
+            "rate": 0.0225
+          },
+          {
+            "from": 1000,
+            "rate": 0.024
+          },
+          {
+            "from": 1500,
+            "rate": 0.0255
+          },
+          {
+            "from": 2000,
+            "rate": 0.0285
+          },
+          {
+            "from": 4000,
+            "rate": 0.0315
+          },
+          {
+            "from": 6000,
+            "rate": 0.036
+          },
+          {
+            "from": 8000,
+            "rate": 0.0375
+          },
+          {
+            "from": 10000,
+            "rate": 0.0405
+          },
+          {
+            "from": 12000,
+            "rate": 0.0435
+          },
+          {
+            "from": 14000,
+            "rate": 0.0465
+          },
+          {
+            "from": 16000,
+            "rate": 0.051
+          },
+          {
+            "from": 18000,
+            "rate": 0.054
+          },
+          {
+            "from": 20000,
+            "rate": 0.057
+          },
+          {
+            "from": 22000,
+            "rate": 0.06
+          },
+          {
+            "from": 26000,
+            "rate": 0.0675
+          },
+          {
+            "from": 32000,
+            "rate": 0.075
+          },
+          {
+            "from": 38000,
+            "rate": 0.0825
+          },
+          {
+            "from": 44000,
+            "rate": 0.09
+          },
+          {
+            "from": 50000,
+            "rate": 0.093
+          },
+          {
+            "from": 60000,
+            "rate": 0.096
+          },
+          {
+            "from": 70000,
+            "rate": 0.099
+          },
+          {
+            "from": 80000,
+            "rate": 0.102
+          },
+          {
+            "from": 90000,
+            "rate": 0.1035
+          },
+          {
+            "from": 100000,
+            "rate": 0.105
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.021
+          },
+          {
+            "from": 1000,
+            "rate": 0.0225
+          },
+          {
+            "from": 2000,
+            "rate": 0.024
+          },
+          {
+            "from": 3000,
+            "rate": 0.0255
+          },
+          {
+            "from": 4000,
+            "rate": 0.0285
+          },
+          {
+            "from": 8000,
+            "rate": 0.033
+          },
+          {
+            "from": 12000,
+            "rate": 0.0375
+          },
+          {
+            "from": 16000,
+            "rate": 0.042
+          },
+          {
+            "from": 20000,
+            "rate": 0.048
+          },
+          {
+            "from": 24000,
+            "rate": 0.054
+          },
+          {
+            "from": 28000,
+            "rate": 0.0585
+          },
+          {
+            "from": 32000,
+            "rate": 0.063
+          },
+          {
+            "from": 36000,
+            "rate": 0.0675
+          },
+          {
+            "from": 40000,
+            "rate": 0.072
+          },
+          {
+            "from": 44000,
+            "rate": 0.075
+          },
+          {
+            "from": 52000,
+            "rate": 0.0795
+          },
+          {
+            "from": 64000,
+            "rate": 0.0825
+          },
+          {
+            "from": 76000,
+            "rate": 0.087
+          },
+          {
+            "from": 88000,
+            "rate": 0.09
+          },
+          {
+            "from": 100000,
+            "rate": 0.093
+          },
+          {
+            "from": 120000,
+            "rate": 0.096
+          },
+          {
+            "from": 140000,
+            "rate": 0.099
+          },
+          {
+            "from": 160000,
+            "rate": 0.102
+          },
+          {
+            "from": 180000,
+            "rate": 0.1035
+          },
+          {
+            "from": 200000,
+            "rate": 0.105
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "15% of federal income tax liability: federal schedule with each rate multiplied by 15%. Deduction is the federal one for that year (from the federal file); federal standard deduction depended on income and is left out. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0238
+          },
+          {
+            "from": 500,
+            "rate": 0.0255
+          },
+          {
+            "from": 1000,
+            "rate": 0.0272
+          },
+          {
+            "from": 1500,
+            "rate": 0.0289
+          },
+          {
+            "from": 2000,
+            "rate": 0.0323
+          },
+          {
+            "from": 4000,
+            "rate": 0.0357
+          },
+          {
+            "from": 6000,
+            "rate": 0.0408
+          },
+          {
+            "from": 8000,
+            "rate": 0.0425
+          },
+          {
+            "from": 10000,
+            "rate": 0.0459
+          },
+          {
+            "from": 12000,
+            "rate": 0.0493
+          },
+          {
+            "from": 14000,
+            "rate": 0.0527
+          },
+          {
+            "from": 16000,
+            "rate": 0.0578
+          },
+          {
+            "from": 18000,
+            "rate": 0.0612
+          },
+          {
+            "from": 20000,
+            "rate": 0.0646
+          },
+          {
+            "from": 22000,
+            "rate": 0.068
+          },
+          {
+            "from": 26000,
+            "rate": 0.0765
+          },
+          {
+            "from": 32000,
+            "rate": 0.085
+          },
+          {
+            "from": 38000,
+            "rate": 0.0935
+          },
+          {
+            "from": 44000,
+            "rate": 0.102
+          },
+          {
+            "from": 50000,
+            "rate": 0.1054
+          },
+          {
+            "from": 60000,
+            "rate": 0.1088
+          },
+          {
+            "from": 70000,
+            "rate": 0.1122
+          },
+          {
+            "from": 80000,
+            "rate": 0.1156
+          },
+          {
+            "from": 90000,
+            "rate": 0.1173
+          },
+          {
+            "from": 100000,
+            "rate": 0.119
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0238
+          },
+          {
+            "from": 1000,
+            "rate": 0.0255
+          },
+          {
+            "from": 2000,
+            "rate": 0.0272
+          },
+          {
+            "from": 3000,
+            "rate": 0.0289
+          },
+          {
+            "from": 4000,
+            "rate": 0.0323
+          },
+          {
+            "from": 8000,
+            "rate": 0.0374
+          },
+          {
+            "from": 12000,
+            "rate": 0.0425
+          },
+          {
+            "from": 16000,
+            "rate": 0.0476
+          },
+          {
+            "from": 20000,
+            "rate": 0.0544
+          },
+          {
+            "from": 24000,
+            "rate": 0.0612
+          },
+          {
+            "from": 28000,
+            "rate": 0.0663
+          },
+          {
+            "from": 32000,
+            "rate": 0.0714
+          },
+          {
+            "from": 36000,
+            "rate": 0.0765
+          },
+          {
+            "from": 40000,
+            "rate": 0.0816
+          },
+          {
+            "from": 44000,
+            "rate": 0.085
+          },
+          {
+            "from": 52000,
+            "rate": 0.0901
+          },
+          {
+            "from": 64000,
+            "rate": 0.0935
+          },
+          {
+            "from": 76000,
+            "rate": 0.0986
+          },
+          {
+            "from": 88000,
+            "rate": 0.102
+          },
+          {
+            "from": 100000,
+            "rate": 0.1054
+          },
+          {
+            "from": 120000,
+            "rate": 0.1088
+          },
+          {
+            "from": 140000,
+            "rate": 0.1122
+          },
+          {
+            "from": 160000,
+            "rate": 0.1156
+          },
+          {
+            "from": 180000,
+            "rate": 0.1173
+          },
+          {
+            "from": 200000,
+            "rate": 0.119
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "17% of federal income tax liability: federal schedule with each rate multiplied by 17%. Deduction is the federal one for that year (from the federal file); federal standard deduction depended on income and is left out. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0238
+          },
+          {
+            "from": 500,
+            "rate": 0.0255
+          },
+          {
+            "from": 1000,
+            "rate": 0.0272
+          },
+          {
+            "from": 1500,
+            "rate": 0.0289
+          },
+          {
+            "from": 2000,
+            "rate": 0.0323
+          },
+          {
+            "from": 4000,
+            "rate": 0.0357
+          },
+          {
+            "from": 6000,
+            "rate": 0.0408
+          },
+          {
+            "from": 8000,
+            "rate": 0.0425
+          },
+          {
+            "from": 10000,
+            "rate": 0.0459
+          },
+          {
+            "from": 12000,
+            "rate": 0.0493
+          },
+          {
+            "from": 14000,
+            "rate": 0.0527
+          },
+          {
+            "from": 16000,
+            "rate": 0.0578
+          },
+          {
+            "from": 18000,
+            "rate": 0.0612
+          },
+          {
+            "from": 20000,
+            "rate": 0.0646
+          },
+          {
+            "from": 22000,
+            "rate": 0.068
+          },
+          {
+            "from": 26000,
+            "rate": 0.0765
+          },
+          {
+            "from": 32000,
+            "rate": 0.085
+          },
+          {
+            "from": 38000,
+            "rate": 0.0935
+          },
+          {
+            "from": 44000,
+            "rate": 0.102
+          },
+          {
+            "from": 50000,
+            "rate": 0.1054
+          },
+          {
+            "from": 60000,
+            "rate": 0.1088
+          },
+          {
+            "from": 70000,
+            "rate": 0.1122
+          },
+          {
+            "from": 80000,
+            "rate": 0.1156
+          },
+          {
+            "from": 90000,
+            "rate": 0.1173
+          },
+          {
+            "from": 100000,
+            "rate": 0.119
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0238
+          },
+          {
+            "from": 1000,
+            "rate": 0.0255
+          },
+          {
+            "from": 2000,
+            "rate": 0.0272
+          },
+          {
+            "from": 3000,
+            "rate": 0.0289
+          },
+          {
+            "from": 4000,
+            "rate": 0.0323
+          },
+          {
+            "from": 8000,
+            "rate": 0.0374
+          },
+          {
+            "from": 12000,
+            "rate": 0.0425
+          },
+          {
+            "from": 16000,
+            "rate": 0.0476
+          },
+          {
+            "from": 20000,
+            "rate": 0.0544
+          },
+          {
+            "from": 24000,
+            "rate": 0.0612
+          },
+          {
+            "from": 28000,
+            "rate": 0.0663
+          },
+          {
+            "from": 32000,
+            "rate": 0.0714
+          },
+          {
+            "from": 36000,
+            "rate": 0.0765
+          },
+          {
+            "from": 40000,
+            "rate": 0.0816
+          },
+          {
+            "from": 44000,
+            "rate": 0.085
+          },
+          {
+            "from": 52000,
+            "rate": 0.0901
+          },
+          {
+            "from": 64000,
+            "rate": 0.0935
+          },
+          {
+            "from": 76000,
+            "rate": 0.0986
+          },
+          {
+            "from": 88000,
+            "rate": 0.102
+          },
+          {
+            "from": 100000,
+            "rate": 0.1054
+          },
+          {
+            "from": 120000,
+            "rate": 0.1088
+          },
+          {
+            "from": 140000,
+            "rate": 0.1122
+          },
+          {
+            "from": 160000,
+            "rate": 0.1156
+          },
+          {
+            "from": 180000,
+            "rate": 0.1173
+          },
+          {
+            "from": 200000,
+            "rate": 0.119
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "17% of federal income tax liability: federal schedule with each rate multiplied by 17%. Deduction is the federal one for that year (from the federal file); federal standard deduction depended on income and is left out. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2200,
+            "rate": 0.0238
+          },
+          {
+            "from": 2700,
+            "rate": 0.0255
+          },
+          {
+            "from": 3200,
+            "rate": 0.0272
+          },
+          {
+            "from": 3700,
+            "rate": 0.0289
+          },
+          {
+            "from": 4200,
+            "rate": 0.0323
+          },
+          {
+            "from": 6200,
+            "rate": 0.0357
+          },
+          {
+            "from": 8200,
+            "rate": 0.0408
+          },
+          {
+            "from": 10200,
+            "rate": 0.0425
+          },
+          {
+            "from": 12200,
+            "rate": 0.0459
+          },
+          {
+            "from": 14200,
+            "rate": 0.0493
+          },
+          {
+            "from": 16200,
+            "rate": 0.0527
+          },
+          {
+            "from": 18200,
+            "rate": 0.0578
+          },
+          {
+            "from": 20200,
+            "rate": 0.0612
+          },
+          {
+            "from": 22200,
+            "rate": 0.0646
+          },
+          {
+            "from": 24200,
+            "rate": 0.068
+          },
+          {
+            "from": 28200,
+            "rate": 0.0765
+          },
+          {
+            "from": 34200,
+            "rate": 0.085
+          },
+          {
+            "from": 40200,
+            "rate": 0.0935
+          },
+          {
+            "from": 46200,
+            "rate": 0.102
+          },
+          {
+            "from": 52200,
+            "rate": 0.1054
+          },
+          {
+            "from": 62200,
+            "rate": 0.1088
+          },
+          {
+            "from": 72200,
+            "rate": 0.1122
+          },
+          {
+            "from": 82200,
+            "rate": 0.1156
+          },
+          {
+            "from": 92200,
+            "rate": 0.1173
+          },
+          {
+            "from": 102200,
+            "rate": 0.119
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3200,
+            "rate": 0.0238
+          },
+          {
+            "from": 4200,
+            "rate": 0.0255
+          },
+          {
+            "from": 5200,
+            "rate": 0.0272
+          },
+          {
+            "from": 6200,
+            "rate": 0.0289
+          },
+          {
+            "from": 7200,
+            "rate": 0.0323
+          },
+          {
+            "from": 11200,
+            "rate": 0.0374
+          },
+          {
+            "from": 15200,
+            "rate": 0.0425
+          },
+          {
+            "from": 19200,
+            "rate": 0.0476
+          },
+          {
+            "from": 23200,
+            "rate": 0.0544
+          },
+          {
+            "from": 27200,
+            "rate": 0.0612
+          },
+          {
+            "from": 31200,
+            "rate": 0.0663
+          },
+          {
+            "from": 35200,
+            "rate": 0.0714
+          },
+          {
+            "from": 39200,
+            "rate": 0.0765
+          },
+          {
+            "from": 43200,
+            "rate": 0.0816
+          },
+          {
+            "from": 47200,
+            "rate": 0.085
+          },
+          {
+            "from": 55200,
+            "rate": 0.0901
+          },
+          {
+            "from": 67200,
+            "rate": 0.0935
+          },
+          {
+            "from": 79200,
+            "rate": 0.0986
+          },
+          {
+            "from": 91200,
+            "rate": 0.102
+          },
+          {
+            "from": 103200,
+            "rate": 0.1054
+          },
+          {
+            "from": 123200,
+            "rate": 0.1088
+          },
+          {
+            "from": 143200,
+            "rate": 0.1122
+          },
+          {
+            "from": 163200,
+            "rate": 0.1156
+          },
+          {
+            "from": 183200,
+            "rate": 0.1173
+          },
+          {
+            "from": 203200,
+            "rate": 0.119
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "17% of federal income tax liability: federal schedule with each rate multiplied by 17%. Deduction is the federal one for that year (from the federal file); federal zero bracket amount is built into the schedule. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2200,
+            "rate": 0.0266
+          },
+          {
+            "from": 2700,
+            "rate": 0.0285
+          },
+          {
+            "from": 3200,
+            "rate": 0.0304
+          },
+          {
+            "from": 3700,
+            "rate": 0.0323
+          },
+          {
+            "from": 4200,
+            "rate": 0.0361
+          },
+          {
+            "from": 6200,
+            "rate": 0.0399
+          },
+          {
+            "from": 8200,
+            "rate": 0.0456
+          },
+          {
+            "from": 10200,
+            "rate": 0.0475
+          },
+          {
+            "from": 12200,
+            "rate": 0.0513
+          },
+          {
+            "from": 14200,
+            "rate": 0.0551
+          },
+          {
+            "from": 16200,
+            "rate": 0.0589
+          },
+          {
+            "from": 18200,
+            "rate": 0.0646
+          },
+          {
+            "from": 20200,
+            "rate": 0.0684
+          },
+          {
+            "from": 22200,
+            "rate": 0.0722
+          },
+          {
+            "from": 24200,
+            "rate": 0.076
+          },
+          {
+            "from": 28200,
+            "rate": 0.0855
+          },
+          {
+            "from": 34200,
+            "rate": 0.095
+          },
+          {
+            "from": 40200,
+            "rate": 0.1045
+          },
+          {
+            "from": 46200,
+            "rate": 0.114
+          },
+          {
+            "from": 52200,
+            "rate": 0.1178
+          },
+          {
+            "from": 62200,
+            "rate": 0.1216
+          },
+          {
+            "from": 72200,
+            "rate": 0.1254
+          },
+          {
+            "from": 82200,
+            "rate": 0.1292
+          },
+          {
+            "from": 92200,
+            "rate": 0.1311
+          },
+          {
+            "from": 102200,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3200,
+            "rate": 0.0266
+          },
+          {
+            "from": 4200,
+            "rate": 0.0285
+          },
+          {
+            "from": 5200,
+            "rate": 0.0304
+          },
+          {
+            "from": 6200,
+            "rate": 0.0323
+          },
+          {
+            "from": 7200,
+            "rate": 0.0361
+          },
+          {
+            "from": 11200,
+            "rate": 0.0418
+          },
+          {
+            "from": 15200,
+            "rate": 0.0475
+          },
+          {
+            "from": 19200,
+            "rate": 0.0532
+          },
+          {
+            "from": 23200,
+            "rate": 0.0608
+          },
+          {
+            "from": 27200,
+            "rate": 0.0684
+          },
+          {
+            "from": 31200,
+            "rate": 0.0741
+          },
+          {
+            "from": 35200,
+            "rate": 0.0798
+          },
+          {
+            "from": 39200,
+            "rate": 0.0855
+          },
+          {
+            "from": 43200,
+            "rate": 0.0912
+          },
+          {
+            "from": 47200,
+            "rate": 0.095
+          },
+          {
+            "from": 55200,
+            "rate": 0.1007
+          },
+          {
+            "from": 67200,
+            "rate": 0.1045
+          },
+          {
+            "from": 79200,
+            "rate": 0.1102
+          },
+          {
+            "from": 91200,
+            "rate": 0.114
+          },
+          {
+            "from": 103200,
+            "rate": 0.1178
+          },
+          {
+            "from": 123200,
+            "rate": 0.1216
+          },
+          {
+            "from": 143200,
+            "rate": 0.1254
+          },
+          {
+            "from": 163200,
+            "rate": 0.1292
+          },
+          {
+            "from": 183200,
+            "rate": 0.1311
+          },
+          {
+            "from": 203200,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "19% of federal income tax liability: federal schedule with each rate multiplied by 19%. Deduction is the federal one for that year (from the federal file); federal zero bracket amount is built into the schedule. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.0266
+          },
+          {
+            "from": 3400,
+            "rate": 0.0304
+          },
+          {
+            "from": 4400,
+            "rate": 0.0342
+          },
+          {
+            "from": 6500,
+            "rate": 0.0361
+          },
+          {
+            "from": 8500,
+            "rate": 0.0399
+          },
+          {
+            "from": 10800,
+            "rate": 0.0456
+          },
+          {
+            "from": 12900,
+            "rate": 0.0494
+          },
+          {
+            "from": 15000,
+            "rate": 0.057
+          },
+          {
+            "from": 18200,
+            "rate": 0.0646
+          },
+          {
+            "from": 23500,
+            "rate": 0.0741
+          },
+          {
+            "from": 28800,
+            "rate": 0.0836
+          },
+          {
+            "from": 34100,
+            "rate": 0.0931
+          },
+          {
+            "from": 41500,
+            "rate": 0.1045
+          },
+          {
+            "from": 55300,
+            "rate": 0.1197
+          },
+          {
+            "from": 81800,
+            "rate": 0.1292
+          },
+          {
+            "from": 108300,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.0266
+          },
+          {
+            "from": 5500,
+            "rate": 0.0304
+          },
+          {
+            "from": 7600,
+            "rate": 0.0342
+          },
+          {
+            "from": 11900,
+            "rate": 0.0399
+          },
+          {
+            "from": 16000,
+            "rate": 0.0456
+          },
+          {
+            "from": 20200,
+            "rate": 0.0532
+          },
+          {
+            "from": 24600,
+            "rate": 0.0608
+          },
+          {
+            "from": 29900,
+            "rate": 0.0703
+          },
+          {
+            "from": 35200,
+            "rate": 0.0817
+          },
+          {
+            "from": 45800,
+            "rate": 0.0931
+          },
+          {
+            "from": 60000,
+            "rate": 0.1026
+          },
+          {
+            "from": 85600,
+            "rate": 0.1121
+          },
+          {
+            "from": 109400,
+            "rate": 0.1216
+          },
+          {
+            "from": 162400,
+            "rate": 0.1292
+          },
+          {
+            "from": 215400,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "19% of federal income tax liability: federal schedule with each rate multiplied by 19%. Deduction is the federal one for that year (from the federal file); federal zero bracket amount is built into the schedule. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.0266
+          },
+          {
+            "from": 3400,
+            "rate": 0.0304
+          },
+          {
+            "from": 4400,
+            "rate": 0.0342
+          },
+          {
+            "from": 6500,
+            "rate": 0.0361
+          },
+          {
+            "from": 8500,
+            "rate": 0.0399
+          },
+          {
+            "from": 10800,
+            "rate": 0.0456
+          },
+          {
+            "from": 12900,
+            "rate": 0.0494
+          },
+          {
+            "from": 15000,
+            "rate": 0.057
+          },
+          {
+            "from": 18200,
+            "rate": 0.0646
+          },
+          {
+            "from": 23500,
+            "rate": 0.0741
+          },
+          {
+            "from": 28800,
+            "rate": 0.0836
+          },
+          {
+            "from": 34100,
+            "rate": 0.0931
+          },
+          {
+            "from": 41500,
+            "rate": 0.1045
+          },
+          {
+            "from": 55300,
+            "rate": 0.1197
+          },
+          {
+            "from": 81800,
+            "rate": 0.1292
+          },
+          {
+            "from": 108300,
+            "rate": 0.133
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.0266
+          },
+          {
+            "from": 5500,
+            "rate": 0.0304
+          },
+          {
+            "from": 7600,
+            "rate": 0.0342
+          },
+          {
+            "from": 11900,
+            "rate": 0.0399
+          },
+          {
+            "from": 16000,
+            "rate": 0.0456
+          },
+          {
+            "from": 20200,
+            "rate": 0.0532
+          },
+          {
+            "from": 24600,
+            "rate": 0.0608
+          },
+          {
+            "from": 29900,
+            "rate": 0.0703
+          },
+          {
+            "from": 35200,
+            "rate": 0.0817
+          },
+          {
+            "from": 45800,
+            "rate": 0.0931
+          },
+          {
+            "from": 60000,
+            "rate": 0.1026
+          },
+          {
+            "from": 85600,
+            "rate": 0.1121
+          },
+          {
+            "from": 109400,
+            "rate": 0.1216
+          },
+          {
+            "from": 162400,
+            "rate": 0.1292
+          },
+          {
+            "from": 215400,
+            "rate": 0.133
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "19% of federal income tax liability: federal schedule with each rate multiplied by 19%. Deduction is the federal one for that year (from the federal file); federal zero bracket amount is built into the schedule. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.026936
+          },
+          {
+            "from": 3400,
+            "rate": 0.030784
+          },
+          {
+            "from": 4400,
+            "rate": 0.034632
+          },
+          {
+            "from": 6500,
+            "rate": 0.036556
+          },
+          {
+            "from": 8500,
+            "rate": 0.040404
+          },
+          {
+            "from": 10800,
+            "rate": 0.046176
+          },
+          {
+            "from": 12900,
+            "rate": 0.050024
+          },
+          {
+            "from": 15000,
+            "rate": 0.05772
+          },
+          {
+            "from": 18200,
+            "rate": 0.065416
+          },
+          {
+            "from": 23500,
+            "rate": 0.075036
+          },
+          {
+            "from": 28800,
+            "rate": 0.084656
+          },
+          {
+            "from": 34100,
+            "rate": 0.094276
+          },
+          {
+            "from": 41500,
+            "rate": 0.10582
+          },
+          {
+            "from": 55300,
+            "rate": 0.121212
+          },
+          {
+            "from": 81800,
+            "rate": 0.130832
+          },
+          {
+            "from": 108300,
+            "rate": 0.13468
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.026936
+          },
+          {
+            "from": 5500,
+            "rate": 0.030784
+          },
+          {
+            "from": 7600,
+            "rate": 0.034632
+          },
+          {
+            "from": 11900,
+            "rate": 0.040404
+          },
+          {
+            "from": 16000,
+            "rate": 0.046176
+          },
+          {
+            "from": 20200,
+            "rate": 0.053872
+          },
+          {
+            "from": 24600,
+            "rate": 0.061568
+          },
+          {
+            "from": 29900,
+            "rate": 0.071188
+          },
+          {
+            "from": 35200,
+            "rate": 0.082732
+          },
+          {
+            "from": 45800,
+            "rate": 0.094276
+          },
+          {
+            "from": 60000,
+            "rate": 0.103896
+          },
+          {
+            "from": 85600,
+            "rate": 0.113516
+          },
+          {
+            "from": 109400,
+            "rate": 0.123136
+          },
+          {
+            "from": 162400,
+            "rate": 0.130832
+          },
+          {
+            "from": 215400,
+            "rate": 0.13468
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "19.24% of federal income tax liability: federal schedule with each rate multiplied by 19.24%. Deduction is the federal one for that year (from the federal file); federal zero bracket amount is built into the schedule. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.02628
+          },
+          {
+            "from": 3400,
+            "rate": 0.03066
+          },
+          {
+            "from": 4400,
+            "rate": 0.03504
+          },
+          {
+            "from": 6500,
+            "rate": 0.03723
+          },
+          {
+            "from": 8500,
+            "rate": 0.04161
+          },
+          {
+            "from": 10800,
+            "rate": 0.04818
+          },
+          {
+            "from": 12900,
+            "rate": 0.05037
+          },
+          {
+            "from": 15000,
+            "rate": 0.05913
+          },
+          {
+            "from": 18200,
+            "rate": 0.06789
+          },
+          {
+            "from": 23500,
+            "rate": 0.07665
+          },
+          {
+            "from": 28800,
+            "rate": 0.0876
+          },
+          {
+            "from": 34100,
+            "rate": 0.09636
+          },
+          {
+            "from": 41500,
+            "rate": 0.1095
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.02628
+          },
+          {
+            "from": 5500,
+            "rate": 0.03066
+          },
+          {
+            "from": 7600,
+            "rate": 0.03504
+          },
+          {
+            "from": 11900,
+            "rate": 0.04161
+          },
+          {
+            "from": 16000,
+            "rate": 0.04818
+          },
+          {
+            "from": 20200,
+            "rate": 0.05475
+          },
+          {
+            "from": 24600,
+            "rate": 0.06351
+          },
+          {
+            "from": 29900,
+            "rate": 0.07227
+          },
+          {
+            "from": 35200,
+            "rate": 0.08541
+          },
+          {
+            "from": 45800,
+            "rate": 0.09636
+          },
+          {
+            "from": 60000,
+            "rate": 0.10731
+          },
+          {
+            "from": 85600,
+            "rate": 0.1095
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "21.9% of federal income tax liability: federal schedule with each rate multiplied by 21.9%. Deduction is the federal one for that year (from the federal file); federal zero bracket amount is built into the schedule. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.029425
+          },
+          {
+            "from": 3400,
+            "rate": 0.034775
+          },
+          {
+            "from": 4400,
+            "rate": 0.040125
+          },
+          {
+            "from": 8500,
+            "rate": 0.045475
+          },
+          {
+            "from": 10800,
+            "rate": 0.050825
+          },
+          {
+            "from": 12900,
+            "rate": 0.056175
+          },
+          {
+            "from": 15000,
+            "rate": 0.0642
+          },
+          {
+            "from": 18200,
+            "rate": 0.0749
+          },
+          {
+            "from": 23500,
+            "rate": 0.0856
+          },
+          {
+            "from": 28800,
+            "rate": 0.0963
+          },
+          {
+            "from": 34100,
+            "rate": 0.107
+          },
+          {
+            "from": 41500,
+            "rate": 0.120375
+          },
+          {
+            "from": 55300,
+            "rate": 0.13375
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.029425
+          },
+          {
+            "from": 5500,
+            "rate": 0.034775
+          },
+          {
+            "from": 7600,
+            "rate": 0.040125
+          },
+          {
+            "from": 11900,
+            "rate": 0.045475
+          },
+          {
+            "from": 16000,
+            "rate": 0.050825
+          },
+          {
+            "from": 20200,
+            "rate": 0.061525
+          },
+          {
+            "from": 24600,
+            "rate": 0.06955
+          },
+          {
+            "from": 29900,
+            "rate": 0.08025
+          },
+          {
+            "from": 35200,
+            "rate": 0.093625
+          },
+          {
+            "from": 45800,
+            "rate": 0.107
+          },
+          {
+            "from": 60000,
+            "rate": 0.1177
+          },
+          {
+            "from": 85600,
+            "rate": 0.1284
+          },
+          {
+            "from": 109400,
+            "rate": 0.13375
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "26.75% of federal income tax liability: federal schedule with each rate multiplied by 26.75%. Statutory effective rate for the year (rate changed mid-year). Deduction is the federal one for that year (from the federal file); federal zero bracket amount is built into the schedule. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.02805
+          },
+          {
+            "from": 3400,
+            "rate": 0.0306
+          },
+          {
+            "from": 4400,
+            "rate": 0.0357
+          },
+          {
+            "from": 6500,
+            "rate": 0.03825
+          },
+          {
+            "from": 8500,
+            "rate": 0.0408
+          },
+          {
+            "from": 10800,
+            "rate": 0.0459
+          },
+          {
+            "from": 12900,
+            "rate": 0.051
+          },
+          {
+            "from": 15000,
+            "rate": 0.05865
+          },
+          {
+            "from": 18200,
+            "rate": 0.0663
+          },
+          {
+            "from": 23500,
+            "rate": 0.0765
+          },
+          {
+            "from": 28800,
+            "rate": 0.0867
+          },
+          {
+            "from": 34100,
+            "rate": 0.0969
+          },
+          {
+            "from": 41500,
+            "rate": 0.1071
+          },
+          {
+            "from": 55300,
+            "rate": 0.1224
+          },
+          {
+            "from": 81800,
+            "rate": 0.1275
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.02805
+          },
+          {
+            "from": 5500,
+            "rate": 0.0306
+          },
+          {
+            "from": 7600,
+            "rate": 0.0357
+          },
+          {
+            "from": 11900,
+            "rate": 0.0408
+          },
+          {
+            "from": 16000,
+            "rate": 0.0459
+          },
+          {
+            "from": 20200,
+            "rate": 0.0561
+          },
+          {
+            "from": 24600,
+            "rate": 0.06375
+          },
+          {
+            "from": 29900,
+            "rate": 0.0714
+          },
+          {
+            "from": 35200,
+            "rate": 0.08415
+          },
+          {
+            "from": 45800,
+            "rate": 0.0969
+          },
+          {
+            "from": 60000,
+            "rate": 0.1071
+          },
+          {
+            "from": 85600,
+            "rate": 0.11475
+          },
+          {
+            "from": 109400,
+            "rate": 0.12495
+          },
+          {
+            "from": 162400,
+            "rate": 0.1275
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "25.5% of federal income tax liability: federal schedule with each rate multiplied by 25.5%. Statutory effective rate for the year (rate changed mid-year). Deduction is the federal one for that year (from the federal file); federal zero bracket amount is built into the schedule. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2390,
+            "rate": 0.025465
+          },
+          {
+            "from": 3540,
+            "rate": 0.02778
+          },
+          {
+            "from": 4580,
+            "rate": 0.03241
+          },
+          {
+            "from": 6760,
+            "rate": 0.034725
+          },
+          {
+            "from": 8850,
+            "rate": 0.03704
+          },
+          {
+            "from": 11240,
+            "rate": 0.04167
+          },
+          {
+            "from": 13430,
+            "rate": 0.0463
+          },
+          {
+            "from": 15610,
+            "rate": 0.053245
+          },
+          {
+            "from": 18940,
+            "rate": 0.06019
+          },
+          {
+            "from": 24460,
+            "rate": 0.06945
+          },
+          {
+            "from": 29970,
+            "rate": 0.07871
+          },
+          {
+            "from": 35490,
+            "rate": 0.08797
+          },
+          {
+            "from": 43190,
+            "rate": 0.09723
+          },
+          {
+            "from": 57550,
+            "rate": 0.11112
+          },
+          {
+            "from": 85130,
+            "rate": 0.11575
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3540,
+            "rate": 0.025465
+          },
+          {
+            "from": 5720,
+            "rate": 0.02778
+          },
+          {
+            "from": 7910,
+            "rate": 0.03241
+          },
+          {
+            "from": 12390,
+            "rate": 0.03704
+          },
+          {
+            "from": 16650,
+            "rate": 0.04167
+          },
+          {
+            "from": 21020,
+            "rate": 0.05093
+          },
+          {
+            "from": 25600,
+            "rate": 0.057875
+          },
+          {
+            "from": 31120,
+            "rate": 0.06482
+          },
+          {
+            "from": 36630,
+            "rate": 0.076395
+          },
+          {
+            "from": 47670,
+            "rate": 0.08797
+          },
+          {
+            "from": 62450,
+            "rate": 0.09723
+          },
+          {
+            "from": 89090,
+            "rate": 0.104175
+          },
+          {
+            "from": 113860,
+            "rate": 0.113435
+          },
+          {
+            "from": 169020,
+            "rate": 0.11575
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1040,
+        "marriedJoint": 2080
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "23.15% of federal income tax liability: federal schedule with each rate multiplied by 23.15%. Statutory effective rate for the year (rate changed mid-year). Deduction is the federal one for that year (from the federal file); federal zero bracket amount is built into the schedule. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2480,
+            "rate": 0.024431
+          },
+          {
+            "from": 3670,
+            "rate": 0.026652
+          },
+          {
+            "from": 4750,
+            "rate": 0.031094
+          },
+          {
+            "from": 7010,
+            "rate": 0.033315
+          },
+          {
+            "from": 9170,
+            "rate": 0.035536
+          },
+          {
+            "from": 11650,
+            "rate": 0.039978
+          },
+          {
+            "from": 13920,
+            "rate": 0.04442
+          },
+          {
+            "from": 16190,
+            "rate": 0.051083
+          },
+          {
+            "from": 19640,
+            "rate": 0.057746
+          },
+          {
+            "from": 25360,
+            "rate": 0.06663
+          },
+          {
+            "from": 31080,
+            "rate": 0.075514
+          },
+          {
+            "from": 36800,
+            "rate": 0.084398
+          },
+          {
+            "from": 44780,
+            "rate": 0.093282
+          },
+          {
+            "from": 59670,
+            "rate": 0.106608
+          },
+          {
+            "from": 88270,
+            "rate": 0.11105
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3670,
+            "rate": 0.024431
+          },
+          {
+            "from": 5940,
+            "rate": 0.026652
+          },
+          {
+            "from": 8200,
+            "rate": 0.031094
+          },
+          {
+            "from": 12840,
+            "rate": 0.035536
+          },
+          {
+            "from": 17270,
+            "rate": 0.039978
+          },
+          {
+            "from": 21800,
+            "rate": 0.048862
+          },
+          {
+            "from": 26550,
+            "rate": 0.055525
+          },
+          {
+            "from": 32270,
+            "rate": 0.062188
+          },
+          {
+            "from": 37980,
+            "rate": 0.073293
+          },
+          {
+            "from": 49420,
+            "rate": 0.084398
+          },
+          {
+            "from": 64750,
+            "rate": 0.093282
+          },
+          {
+            "from": 92370,
+            "rate": 0.099945
+          },
+          {
+            "from": 118050,
+            "rate": 0.108829
+          },
+          {
+            "from": 175250,
+            "rate": 0.11105
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1080,
+        "marriedJoint": 2160
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "22.21% of federal income tax liability: federal schedule with each rate multiplied by 22.21%. Deduction is the federal one for that year (from the federal file); federal zero bracket amount is built into the schedule. Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025806
+          },
+          {
+            "from": 1800,
+            "rate": 0.03519
+          },
+          {
+            "from": 16800,
+            "rate": 0.065688
+          },
+          {
+            "from": 27000,
+            "rate": 0.08211
+          },
+          {
+            "from": 54000,
+            "rate": 0.090321
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.025806
+          },
+          {
+            "from": 3000,
+            "rate": 0.03519
+          },
+          {
+            "from": 28000,
+            "rate": 0.065688
+          },
+          {
+            "from": 45000,
+            "rate": 0.08211
+          },
+          {
+            "from": 90000,
+            "rate": 0.090321
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4440,
+        "marriedJoint": 7560
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "23.46% of federal income tax liability: federal schedule with each rate multiplied by 23.46%. Statutory effective rate for the year (rate changed mid-year). Deduction is the federal one for that year (from the federal file). Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03444
+          },
+          {
+            "from": 17850,
+            "rate": 0.064288
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03444
+          },
+          {
+            "from": 29750,
+            "rate": 0.064288
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4950,
+        "marriedJoint": 8900
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "22.96% of federal income tax liability: federal schedule with each rate multiplied by 22.96%. Deduction is the federal one for that year (from the federal file). Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03444
+          },
+          {
+            "from": 18550,
+            "rate": 0.064288
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03444
+          },
+          {
+            "from": 30950,
+            "rate": 0.064288
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5100,
+        "marriedJoint": 9200
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "22.96% of federal income tax liability: federal schedule with each rate multiplied by 22.96%. Deduction is the federal one for that year (from the federal file). Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03444
+          },
+          {
+            "from": 19450,
+            "rate": 0.064288
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03444
+          },
+          {
+            "from": 32450,
+            "rate": 0.064288
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5300,
+        "marriedJoint": 9550
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "22.96% of federal income tax liability: federal schedule with each rate multiplied by 22.96%. Deduction is the federal one for that year (from the federal file). Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04125
+          },
+          {
+            "from": 20350,
+            "rate": 0.077
+          },
+          {
+            "from": 49300,
+            "rate": 0.08525
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04125
+          },
+          {
+            "from": 34000,
+            "rate": 0.077
+          },
+          {
+            "from": 82150,
+            "rate": 0.08525
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5550,
+        "marriedJoint": 10000
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "27.5% of federal income tax liability: federal schedule with each rate multiplied by 27.5%. Deduction is the federal one for that year (from the federal file). Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04125
+          },
+          {
+            "from": 21450,
+            "rate": 0.077
+          },
+          {
+            "from": 51900,
+            "rate": 0.08525
+          },
+          {
+            "from": 62405,
+            "rate": 0.092225
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04125
+          },
+          {
+            "from": 35800,
+            "rate": 0.077
+          },
+          {
+            "from": 70193,
+            "rate": 0.0833
+          },
+          {
+            "from": 86500,
+            "rate": 0.092225
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5900,
+        "marriedJoint": 10600
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "27.5% of federal tax, and an effective 29.75% on federal tax above $15,000 (federal taxable income about $62,405 single / $70,193 joint). Deduction is the federal one for that year (from the federal file). Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04125
+          },
+          {
+            "from": 22100,
+            "rate": 0.077
+          },
+          {
+            "from": 53500,
+            "rate": 0.08525
+          },
+          {
+            "from": 62832,
+            "rate": 0.0992
+          },
+          {
+            "from": 115000,
+            "rate": 0.09918
+          },
+          {
+            "from": 250000,
+            "rate": 0.099198
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04125
+          },
+          {
+            "from": 36900,
+            "rate": 0.077
+          },
+          {
+            "from": 70704,
+            "rate": 0.0896
+          },
+          {
+            "from": 89150,
+            "rate": 0.0992
+          },
+          {
+            "from": 140000,
+            "rate": 0.1152
+          },
+          {
+            "from": 140001,
+            "rate": 0.09918
+          },
+          {
+            "from": 249999,
+            "rate": 0.09018
+          },
+          {
+            "from": 250000,
+            "rate": 0.099198
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6050,
+        "marriedJoint": 10900
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "1993 statutory schedules applied to federal tax: 27.5% up to $15,000 of federal tax, 32% to $31,172 ($35,929 joint), 27.55% to $79,772 ($75,528 joint), 25.05% above; converted to taxable-income brackets with the 1993 federal schedule. Deduction is the federal one for that year (from the federal file). Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04125
+          },
+          {
+            "from": 22750,
+            "rate": 0.077
+          },
+          {
+            "from": 55100,
+            "rate": 0.08525
+          },
+          {
+            "from": 115000,
+            "rate": 0.099
+          },
+          {
+            "from": 250000,
+            "rate": 0.1089
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04125
+          },
+          {
+            "from": 38000,
+            "rate": 0.077
+          },
+          {
+            "from": 91850,
+            "rate": 0.08525
+          },
+          {
+            "from": 140000,
+            "rate": 0.099
+          },
+          {
+            "from": 250000,
+            "rate": 0.1089
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6250,
+        "marriedJoint": 11250
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "27.5% of federal income tax liability: federal schedule with each rate multiplied by 27.5%. Deduction is the federal one for that year (from the federal file). Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04125
+          },
+          {
+            "from": 23350,
+            "rate": 0.077
+          },
+          {
+            "from": 56550,
+            "rate": 0.08525
+          },
+          {
+            "from": 117950,
+            "rate": 0.099
+          },
+          {
+            "from": 256500,
+            "rate": 0.1089
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04125
+          },
+          {
+            "from": 39000,
+            "rate": 0.077
+          },
+          {
+            "from": 94250,
+            "rate": 0.08525
+          },
+          {
+            "from": 143600,
+            "rate": 0.099
+          },
+          {
+            "from": 256500,
+            "rate": 0.1089
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6400,
+        "marriedJoint": 11550
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "27.5% of federal income tax liability: federal schedule with each rate multiplied by 27.5%. Deduction is the federal one for that year (from the federal file). Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04125
+          },
+          {
+            "from": 24000,
+            "rate": 0.077
+          },
+          {
+            "from": 58150,
+            "rate": 0.08525
+          },
+          {
+            "from": 121300,
+            "rate": 0.099
+          },
+          {
+            "from": 263750,
+            "rate": 0.1089
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04125
+          },
+          {
+            "from": 40100,
+            "rate": 0.077
+          },
+          {
+            "from": 96900,
+            "rate": 0.08525
+          },
+          {
+            "from": 147700,
+            "rate": 0.099
+          },
+          {
+            "from": 263750,
+            "rate": 0.1089
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6550,
+        "marriedJoint": 11800
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "27.5% of federal income tax liability: federal schedule with each rate multiplied by 27.5%. Deduction is the federal one for that year (from the federal file). Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04125
+          },
+          {
+            "from": 24650,
+            "rate": 0.077
+          },
+          {
+            "from": 59750,
+            "rate": 0.08525
+          },
+          {
+            "from": 124650,
+            "rate": 0.099
+          },
+          {
+            "from": 271050,
+            "rate": 0.1089
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04125
+          },
+          {
+            "from": 41200,
+            "rate": 0.077
+          },
+          {
+            "from": 99600,
+            "rate": 0.08525
+          },
+          {
+            "from": 151750,
+            "rate": 0.099
+          },
+          {
+            "from": 271050,
+            "rate": 0.1089
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6800,
+        "marriedJoint": 12200
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "27.5% of federal income tax liability: federal schedule with each rate multiplied by 27.5%. Deduction is the federal one for that year (from the federal file). Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0405
+          },
+          {
+            "from": 25350,
+            "rate": 0.0756
+          },
+          {
+            "from": 61400,
+            "rate": 0.0837
+          },
+          {
+            "from": 128100,
+            "rate": 0.0972
+          },
+          {
+            "from": 278450,
+            "rate": 0.10692
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0405
+          },
+          {
+            "from": 42350,
+            "rate": 0.0756
+          },
+          {
+            "from": 102300,
+            "rate": 0.0837
+          },
+          {
+            "from": 155950,
+            "rate": 0.0972
+          },
+          {
+            "from": 278450,
+            "rate": 0.10692
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6950,
+        "marriedJoint": 12500
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "27% of federal income tax liability: federal schedule with each rate multiplied by 27%. Deduction is the federal one for that year (from the federal file). Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03975
+          },
+          {
+            "from": 25750,
+            "rate": 0.0742
+          },
+          {
+            "from": 62450,
+            "rate": 0.08215
+          },
+          {
+            "from": 130250,
+            "rate": 0.0954
+          },
+          {
+            "from": 283150,
+            "rate": 0.10494
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03975
+          },
+          {
+            "from": 43050,
+            "rate": 0.0742
+          },
+          {
+            "from": 104050,
+            "rate": 0.08215
+          },
+          {
+            "from": 158550,
+            "rate": 0.0954
+          },
+          {
+            "from": 283150,
+            "rate": 0.10494
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7050,
+        "marriedJoint": 12700
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "26.5% of federal income tax liability: federal schedule with each rate multiplied by 26.5%. Deduction is the federal one for that year (from the federal file). Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.039
+          },
+          {
+            "from": 26250,
+            "rate": 0.0728
+          },
+          {
+            "from": 63550,
+            "rate": 0.0806
+          },
+          {
+            "from": 132600,
+            "rate": 0.0936
+          },
+          {
+            "from": 288350,
+            "rate": 0.10296
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.039
+          },
+          {
+            "from": 43850,
+            "rate": 0.0728
+          },
+          {
+            "from": 105950,
+            "rate": 0.0806
+          },
+          {
+            "from": 161450,
+            "rate": 0.0936
+          },
+          {
+            "from": 288350,
+            "rate": 0.10296
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7200,
+        "marriedJoint": 12950
+      },
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30/44-I/44-30-2.htm",
+      "notes": "26% of federal income tax liability: federal schedule with each rate multiplied by 26%. Deduction is the federal one for that year (from the federal file). Federal credits, surtaxes and phase-outs not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03825
+          },
+          {
+            "from": 27050,
+            "rate": 0.0714
+          },
+          {
+            "from": 65550,
+            "rate": 0.07905
+          },
+          {
+            "from": 136750,
+            "rate": 0.0918
+          },
+          {
+            "from": 297350,
+            "rate": 0.10098
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.03825
+          },
+          {
+            "from": 45200,
+            "rate": 0.0714
+          },
+          {
+            "from": 109250,
+            "rate": 0.07905
+          },
+          {
+            "from": 166500,
+            "rate": 0.0918
+          },
+          {
+            "from": 297350,
+            "rate": 0.10098
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7450,
+        "marriedJoint": 13400
+      },
+      "source": "https://tax.ri.gov/form/2001/pers/01sched.pdf",
+      "notes": "RI tax rate schedule (25.5% of pre-2001 federal rates applied to RI brackets). Deduction is the federal standard deduction plus exemptions (RI-1040 used the federal amounts)."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 27950,
+            "rate": 0.07
+          },
+          {
+            "from": 67700,
+            "rate": 0.0775
+          },
+          {
+            "from": 141250,
+            "rate": 0.09
+          },
+          {
+            "from": 307050,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 46700,
+            "rate": 0.07
+          },
+          {
+            "from": 112850,
+            "rate": 0.0775
+          },
+          {
+            "from": 171950,
+            "rate": 0.09
+          },
+          {
+            "from": 307050,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7700,
+        "marriedJoint": 13850
+      },
+      "source": "https://tax.ri.gov/form/2002/pers/02sched.pdf",
+      "notes": "RI tax rate schedule (25% of pre-2001 federal rates applied to RI brackets). Deduction is the federal standard deduction plus exemptions (RI-1040 used the federal amounts)."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 28400,
+            "rate": 0.07
+          },
+          {
+            "from": 68800,
+            "rate": 0.0775
+          },
+          {
+            "from": 143500,
+            "rate": 0.09
+          },
+          {
+            "from": 311950,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 47450,
+            "rate": 0.07
+          },
+          {
+            "from": 114650,
+            "rate": 0.0775
+          },
+          {
+            "from": 174700,
+            "rate": 0.09
+          },
+          {
+            "from": 311950,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7800,
+        "marriedJoint": 14050
+      },
+      "source": "https://tax.ri.gov/form/2003/pers/03sched.pdf",
+      "notes": "RI tax rate schedule (25% of pre-2001 federal rates applied to RI brackets). Deduction is the RI standard deduction ($4,750 / $7,950) plus $3,050 per exemption; exemptions phase out at high income (not modelled)."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 29050,
+            "rate": 0.07
+          },
+          {
+            "from": 70350,
+            "rate": 0.0775
+          },
+          {
+            "from": 146750,
+            "rate": 0.09
+          },
+          {
+            "from": 319100,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 48500,
+            "rate": 0.07
+          },
+          {
+            "from": 117250,
+            "rate": 0.0775
+          },
+          {
+            "from": 178650,
+            "rate": 0.09
+          },
+          {
+            "from": 319100,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7950,
+        "marriedJoint": 14350
+      },
+      "source": "https://tax.ri.gov/form/2004/pers/1040b.pdf",
+      "notes": "RI tax rate schedule (25% of pre-2001 federal rates applied to RI brackets). Deduction is the RI standard deduction ($4,850 / $8,150) plus $3,100 per exemption; exemptions phase out at high income (not modelled)."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 29700,
+            "rate": 0.07
+          },
+          {
+            "from": 71950,
+            "rate": 0.0775
+          },
+          {
+            "from": 150150,
+            "rate": 0.09
+          },
+          {
+            "from": 326450,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 49650,
+            "rate": 0.07
+          },
+          {
+            "from": 119950,
+            "rate": 0.0775
+          },
+          {
+            "from": 182800,
+            "rate": 0.09
+          },
+          {
+            "from": 326450,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8200,
+        "marriedJoint": 14700
+      },
+      "source": "https://tax.ri.gov/form/2005/pers/05sched.pdf",
+      "notes": "RI tax rate schedule (25% of pre-2001 federal rates applied to RI brackets). Deduction is the RI standard deduction ($5,000 / $8,300) plus $3,200 per exemption; exemptions phase out at high income (not modelled)."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 30650,
+            "rate": 0.07
+          },
+          {
+            "from": 74200,
+            "rate": 0.0775
+          },
+          {
+            "from": 154800,
+            "rate": 0.09
+          },
+          {
+            "from": 336550,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 51200,
+            "rate": 0.07
+          },
+          {
+            "from": 123700,
+            "rate": 0.0775
+          },
+          {
+            "from": 188450,
+            "rate": 0.09
+          },
+          {
+            "from": 336550,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8450,
+        "marriedJoint": 15200
+      },
+      "source": "https://tax.ri.gov/forms/2006/pers/06taxratesch.pdf",
+      "notes": "RI tax rate schedule (25% of pre-2001 federal rates applied to RI brackets). Deduction is the RI standard deduction ($5,150 / $8,600) plus $3,300 per exemption; exemptions phase out at high income (not modelled). Optional alternative flat tax on AGI not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 31850,
+            "rate": 0.07
+          },
+          {
+            "from": 77100,
+            "rate": 0.0775
+          },
+          {
+            "from": 160850,
+            "rate": 0.09
+          },
+          {
+            "from": 349700,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 53150,
+            "rate": 0.07
+          },
+          {
+            "from": 128500,
+            "rate": 0.0775
+          },
+          {
+            "from": 195850,
+            "rate": 0.09
+          },
+          {
+            "from": 349700,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8750,
+        "marriedJoint": 15700
+      },
+      "source": "https://tax.ri.gov/forms/2007/pers/Tax%20Rate%20Sch.pdf",
+      "notes": "RI tax rate schedule (25% of pre-2001 federal rates applied to RI brackets). Deduction is the RI standard deduction ($5,350 / $8,900) plus $3,400 per exemption; exemptions phase out at high income (not modelled). Optional alternative flat tax on AGI not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 32550,
+            "rate": 0.07
+          },
+          {
+            "from": 78850,
+            "rate": 0.0775
+          },
+          {
+            "from": 164550,
+            "rate": 0.09
+          },
+          {
+            "from": 357700,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 54400,
+            "rate": 0.07
+          },
+          {
+            "from": 131450,
+            "rate": 0.0775
+          },
+          {
+            "from": 200300,
+            "rate": 0.09
+          },
+          {
+            "from": 357700,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8950,
+        "marriedJoint": 16100
+      },
+      "source": "https://tax.ri.gov/forms/2008/Personal/2008%20Tax%20Computation%20Worksheet.pdf",
+      "notes": "RI tax rate schedule (25% of pre-2001 federal rates applied to RI brackets). Deduction is the RI standard deduction ($5,450 / $9,100) plus $3,500 per exemption; exemptions phase out at high income (not modelled). Optional alternative flat tax on AGI not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 33950,
+            "rate": 0.07
+          },
+          {
+            "from": 82250,
+            "rate": 0.0775
+          },
+          {
+            "from": 171550,
+            "rate": 0.09
+          },
+          {
+            "from": 372950,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 56700,
+            "rate": 0.07
+          },
+          {
+            "from": 137050,
+            "rate": 0.0775
+          },
+          {
+            "from": 208850,
+            "rate": 0.09
+          },
+          {
+            "from": 372950,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 16800
+      },
+      "source": "https://tax.ri.gov/forms/2009/Income/2009%20Tax%20Computation%20Worksheet.pdf",
+      "notes": "RI tax rate schedule (25% of pre-2001 federal rates applied to RI brackets). Deduction is the RI standard deduction ($5,700 / $9,500) plus $3,650 per exemption; exemptions phase out at high income (not modelled). Optional alternative flat tax on AGI not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 34000,
+            "rate": 0.07
+          },
+          {
+            "from": 82400,
+            "rate": 0.0775
+          },
+          {
+            "from": 171850,
+            "rate": 0.09
+          },
+          {
+            "from": 373650,
+            "rate": 0.099
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 56800,
+            "rate": 0.07
+          },
+          {
+            "from": 137300,
+            "rate": 0.0775
+          },
+          {
+            "from": 209250,
+            "rate": 0.09
+          },
+          {
+            "from": 373650,
+            "rate": 0.099
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 16850
+      },
+      "source": "https://tax.ri.gov/forms/2010/Income/2010%20Tax%20Computation%20Worksheet.pdf",
+      "notes": "RI tax rate schedule (25% of pre-2001 federal rates applied to RI brackets). Deduction is the RI standard deduction ($5,700 / $9,550) plus $3,650 per exemption; exemptions phase out at high income (not modelled). Optional alternative flat tax on AGI not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 55000,
+            "rate": 0.0475
+          },
+          {
+            "from": 125000,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 55000,
+            "rate": 0.0475
+          },
+          {
+            "from": 125000,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/RI/2011/2011%20Tax%20Rate%20and%20Worksheets.pdf",
+      "notes": "One schedule for all filing statuses. The standard deduction ($7,500 single / $15,000 joint) and $3,500 per-exemption amount phase out at higher incomes and are left out."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 57150,
+            "rate": 0.0475
+          },
+          {
+            "from": 129900,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 57150,
+            "rate": 0.0475
+          },
+          {
+            "from": 129900,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://tax.ri.gov/forms/2012/Income/2012%20Tax%20Rate%20and%20Worksheets.pdf",
+      "notes": "One schedule for all filing statuses. The standard deduction ($7,800 single / $15,600 joint) and $3,650 per-exemption amount phase out at higher incomes and are left out."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 58600,
+            "rate": 0.0475
+          },
+          {
+            "from": 133250,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 58600,
+            "rate": 0.0475
+          },
+          {
+            "from": 133250,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/RI/2013/2013%20Tax%20Rate%20and%20Worksheets.pdf",
+      "notes": "One schedule for all filing statuses. The standard deduction ($8,000 single / $16,000 joint) and $3,750 per-exemption amount phase out at higher incomes and are left out."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 59600,
+            "rate": 0.0475
+          },
+          {
+            "from": 135500,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 59600,
+            "rate": 0.0475
+          },
+          {
+            "from": 135500,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/RI/2014/2014%20Tax%20Rate%20and%20Worksheets.pdf",
+      "notes": "One schedule for all filing statuses. The standard deduction ($8,100 single / $16,250 joint) and $3,800 per-exemption amount phase out at higher incomes and are left out."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 60550,
+            "rate": 0.0475
+          },
+          {
+            "from": 137650,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 60550,
+            "rate": 0.0475
+          },
+          {
+            "from": 137650,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/RI/2015/2015%20Tax%20Rate%20and%20Worksheets.pdf",
+      "notes": "One schedule for all filing statuses. The standard deduction ($8,275 single / $16,550 joint) and $3,850 per-exemption amount phase out at higher incomes and are left out."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 60850,
+            "rate": 0.0475
+          },
+          {
+            "from": 138300,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 60850,
+            "rate": 0.0475
+          },
+          {
+            "from": 138300,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/RI/2016/2016%20Tax%20Rate%20and%20Worksheets.pdf",
+      "notes": "One schedule for all filing statuses. The standard deduction ($8,300 single / $16,600 joint) and $3,900 per-exemption amount phase out at higher incomes and are left out."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 61300,
+            "rate": 0.0475
+          },
+          {
+            "from": 139400,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 61300,
+            "rate": 0.0475
+          },
+          {
+            "from": 139400,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/RI/2017/2017%20Tax%20Rate%20and%20Worksheets.pdf",
+      "notes": "One schedule for all filing statuses. The standard deduction ($8,375 single / $16,750 joint) and $3,900 per-exemption amount phase out at higher incomes and are left out."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 62550,
+            "rate": 0.0475
+          },
+          {
+            "from": 142150,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 62550,
+            "rate": 0.0475
+          },
+          {
+            "from": 142150,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/RI/2018/2018%20Tax%20Rate%20and%20Worksheets_bklt.pdf",
+      "notes": "One schedule for all filing statuses. The standard deduction ($8,525 single / $17,050 joint) and $4,000 per-exemption amount phase out at higher incomes and are left out."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 64050,
+            "rate": 0.0475
+          },
+          {
+            "from": 145600,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 64050,
+            "rate": 0.0475
+          },
+          {
+            "from": 145600,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/RI/2019/2019%20Tax%20Rate%20and%20Worksheets.pdf",
+      "notes": "One schedule for all filing statuses. The standard deduction ($8,750 single / $17,500 joint) and $4,100 per-exemption amount phase out at higher incomes and are left out."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 65250,
+            "rate": 0.0475
+          },
+          {
+            "from": 148350,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 65250,
+            "rate": 0.0475
+          },
+          {
+            "from": 148350,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/RI/2020/2020%20Tax%20Rate%20and%20Worksheets.pdf",
+      "notes": "One schedule for all filing statuses. The standard deduction ($8,900 single / $17,800 joint) and $4,150 per-exemption amount phase out at higher incomes and are left out."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 66200,
+            "rate": 0.0475
+          },
+          {
+            "from": 150550,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 66200,
+            "rate": 0.0475
+          },
+          {
+            "from": 150550,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/RI/2021/2021-tax-rate-and-worksheets.pdf",
+      "notes": "One schedule for all filing statuses. The standard deduction ($9,050 single / $18,100 joint) and $4,250 per-exemption amount phase out at higher incomes and are left out."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 68200,
+            "rate": 0.0475
+          },
+          {
+            "from": 155050,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 68200,
+            "rate": 0.0475
+          },
+          {
+            "from": 155050,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/RI/2022/2022%201040R%20Instructions_v4_w.pdf",
+      "notes": "One schedule for all filing statuses. The standard deduction ($9,300 single / $18,600 joint) and $4,350 per-exemption amount phase out at higher incomes and are left out."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 73450,
+            "rate": 0.0475
+          },
+          {
+            "from": 166950,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 73450,
+            "rate": 0.0475
+          },
+          {
+            "from": 166950,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/RI/2023/2023%20Tax%20Rate%20and%20Worksheets.pdf",
+      "notes": "One schedule for all filing statuses. The standard deduction ($10,000 single / $20,050 joint) and $4,700 per-exemption amount phase out at higher incomes and are left out."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 77450,
+            "rate": 0.0475
+          },
+          {
+            "from": 176050,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 77450,
+            "rate": 0.0475
+          },
+          {
+            "from": 176050,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://tax.ri.gov/sites/g/files/xkgbur541/files/2024-12/2024%20Tax%20Rate%20and%20Worksheets.pdf",
+      "notes": "The standard deduction and exemptions phase out at higher incomes."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 79900,
+            "rate": 0.0475
+          },
+          {
+            "from": 181650,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 79900,
+            "rate": 0.0475
+          },
+          {
+            "from": 181650,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://tax.ri.gov/sites/g/files/xkgbur541/files/2025-10/2025%20Tax%20Rate%20and%20Worksheets_d.pdf",
+      "notes": "The standard deduction and exemptions phase out above $254,250 AGI."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 82050,
+            "rate": 0.0475
+          },
+          {
+            "from": 186450,
+            "rate": 0.0599
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0375
+          },
+          {
+            "from": 82050,
+            "rate": 0.0475
+          },
+          {
+            "from": 186450,
+            "rate": 0.0599
+          }
+        ]
+      },
+      "source": "https://tax.ri.gov/sites/g/files/xkgbur541/files/2025-11/ADV_2025_22_Inflation_Adjustments.pdf",
+      "notes": "The standard deduction and exemptions phase out above $261,000 AGI. The new high-income surtax starts in 2027."
+    }
+  }
+}

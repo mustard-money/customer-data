@@ -1,0 +1,538 @@
+{
+  "id": "us-state-IL",
+  "kind": "state",
+  "region": "Illinois",
+  "state": "IL",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Temporary 3% rate from Jan 1 1983 to Jun 30 1984 (handbook history). Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.027486,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "3% Jan 1-Jun 30 1984, 2.5% after (handbook history); rate is the day-weighted blend for a calendar year under the statute's proration, computed here, not printed on a form. Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.025,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.027521,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "2.5% before Jul 1 1989, 3% after (35 ILCS 5/201(b)(2)); rate is the day-weighted calendar-year blend, computed here, not printed on a form. Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://cgfa.ilga.gov/commission/lru/2023TaxHandbook.pdf",
+      "notes": "Flat rate on net income after a $1,000 per person exemption (35 ILCS 5/204; $1,000 basic amount until 1998). Rate history from the Illinois Tax Handbook for Legislators; no pre-1997 IL-1040 available to check."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/1997/ind/il-1040.pdf",
+      "notes": "Deduction is the $1,000 per person exemption."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 1300,
+        "marriedJoint": 2600
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/1998/ind/il-1040.pdf",
+      "notes": "Deduction is the $1,300 per person exemption."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 1650,
+        "marriedJoint": 3300
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/1999/ind/il-1040.pdf",
+      "notes": "Deduction is the $1,650 per person exemption."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2000/ind/il-1040.pdf",
+      "notes": "Deduction is the $2,000 per person exemption."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2001/ind/il-1040.pdf",
+      "notes": "Deduction is the $2,000 per person exemption."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2002/ind/il-1040.pdf",
+      "notes": "Deduction is the $2,000 per person exemption."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2003/ind/il-1040.pdf",
+      "notes": "Deduction is the $2,000 per person exemption."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2004/ind/il-1040.pdf",
+      "notes": "Deduction is the $2,000 per person exemption."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2005/ind/il-1040.pdf",
+      "notes": "Deduction is the $2,000 per person exemption."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2006/ind/il-1040.pdf",
+      "notes": "Deduction is the $2,000 per person exemption."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2007/individual/il-1040.pdf",
+      "notes": "Deduction is the $2,000 per person exemption."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2008/individual/il-1040.pdf",
+      "notes": "Deduction is the $2,000 per person exemption."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2009/individual/il-1040.pdf",
+      "notes": "Deduction is the $2,000 per person exemption."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.03,
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2010/individual/il-1040.pdf",
+      "notes": "Deduction is the $2,000 per person exemption."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 2000,
+        "marriedJoint": 4000
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2011/individual/il-1040.pdf",
+      "notes": "Deduction is the $2,000 per person exemption."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 2050,
+        "marriedJoint": 4100
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2012/individual/il-1040.pdf",
+      "notes": "Deduction is the $2,050 per person exemption."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 2100,
+        "marriedJoint": 4200
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2013/individual/il-1040.pdf",
+      "notes": "Deduction is the $2,100 per person exemption."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.05,
+      "deduction": {
+        "single": 2125,
+        "marriedJoint": 4250
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2014/individual/il-1040.pdf",
+      "notes": "Deduction is the $2,125 per person exemption."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.0375,
+      "deduction": {
+        "single": 2150,
+        "marriedJoint": 4300
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2015/individual/il-1040.pdf",
+      "notes": "Deduction is the $2,150 per person exemption."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.0375,
+      "deduction": {
+        "single": 2175,
+        "marriedJoint": 4350
+      },
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2016/individual/il-1040.pdf",
+      "notes": "Deduction is the $2,175 per person exemption."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.043549,
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2017/individual/il-1040.pdf",
+      "notes": "Blended rate printed on IL-1040 (3.75% to Jun 30, 4.95% after). The $2,175 per person exemption is lost entirely above $250k / $500k AGI, so it is left out."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.0495,
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2018/individual/il-1040.pdf",
+      "notes": "The $2,225 per person exemption is lost entirely above $250k / $500k AGI, so it is left out."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.0495,
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2019/individual/il-1040.pdf",
+      "notes": "The $2,275 per person exemption is lost entirely above $250k / $500k AGI, so it is left out."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.0495,
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2020/individual/il-1040.pdf",
+      "notes": "The $2,325 per person exemption is lost entirely above $250k / $500k AGI, so it is left out."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.0495,
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2021/individual/il-1040.pdf",
+      "notes": "The $2,375 per person exemption is lost entirely above $250k / $500k AGI, so it is left out."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.0495,
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2022/individual/il-1040.pdf",
+      "notes": "The $2,425 per person exemption is lost entirely above $250k / $500k AGI, so it is left out."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.0495,
+      "source": "https://taxarchive.illinois.gov/content/dam/soi/en/web/taxarchive/forms/income-tax/2023/individual/il-1040.pdf",
+      "notes": "The $2,425 per person exemption is lost entirely above $250k / $500k AGI, so it is left out."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.0495,
+      "source": "https://tax.illinois.gov/research/taxrates/income.html",
+      "notes": "The $2,775 per person exemption is lost entirely above $250k / $500k AGI."
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.0495,
+      "source": "https://tax.illinois.gov/research/taxrates/income.html",
+      "notes": "The $2,850 per person exemption is lost entirely above $250k / $500k AGI."
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.0495,
+      "source": "https://tax.illinois.gov/questionsandanswers/answer.851.html",
+      "notes": "The $2,925 per person exemption is lost entirely above $250k / $500k AGI."
+    }
+  }
+}

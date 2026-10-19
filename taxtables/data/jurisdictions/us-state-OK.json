@@ -1,0 +1,4079 @@
+{
+  "id": "us-state-OK",
+  "kind": "state",
+  "region": "Oklahoma",
+  "state": "OK",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 1500,
+            "rate": 0.02
+          },
+          {
+            "from": 3000,
+            "rate": 0.03
+          },
+          {
+            "from": 4500,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.01
+          },
+          {
+            "from": 3000,
+            "rate": 0.02
+          },
+          {
+            "from": 6000,
+            "rate": 0.03
+          },
+          {
+            "from": 9000,
+            "rate": 0.04
+          },
+          {
+            "from": 12000,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "Pre-1971 schedule (the Oklahoma Income Tax Act of 1971 applies only to years after Dec 31, 1970). ACIR Significant Features of Fiscal Federalism 1970-71 ed. (report M-57), Table 36 (pp. 79-80), rates as of December 31, 1970, i.e. the law for tax year 1970 as it ended; the 1969 edition (M-50, Table 40, December 31, 1969) prints the same schedule. Single schedule 1% on the first $1,500 to 6% over $7,500; joint brackets are double the single ones (ACIR note: the income classes shown are for individuals and heads of households, twice as large for joint returns). Federal income tax paid was deductible in computing net income (ACIR 'Federal tax deductible'); not modelled. Deduction is the $1,000 per-person exemption only (Table 37, p. 83; $500 per dependent); the standard deduction (10% of income, $1,000 maximum single or joint, $500 married filing separately; Table 38, p. 85) depends on income and is left out as in later years."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $750 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the schedule in force in July 1976 under the Oklahoma Income Tax Act of 1971 (applicable to years after Dec 31, 1970); 68 O.S. 2355 was not amended between 1971 and Laws 1977, c. 53 (eff. Jan 1, 1979), so the same schedule applied to 1971. Joint brackets are double the single ones (ACIR note)."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $750 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the schedule in force in July 1976 under the Oklahoma Income Tax Act of 1971 (applicable to years after Dec 31, 1970); 68 O.S. 2355 was not amended between 1971 and Laws 1977, c. 53 (eff. Jan 1, 1979), so the same schedule applied to 1972. Joint brackets are double the single ones (ACIR note)."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $750 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the schedule in force in July 1976 under the Oklahoma Income Tax Act of 1971 (applicable to years after Dec 31, 1970); 68 O.S. 2355 was not amended between 1971 and Laws 1977, c. 53 (eff. Jan 1, 1979), so the same schedule applied to 1973. Joint brackets are double the single ones (ACIR note)."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $750 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the schedule in force in July 1976 under the Oklahoma Income Tax Act of 1971 (applicable to years after Dec 31, 1970); 68 O.S. 2355 was not amended between 1971 and Laws 1977, c. 53 (eff. Jan 1, 1979), so the same schedule applied to 1974. Joint brackets are double the single ones (ACIR note)."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $750 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the schedule in force in July 1976 under the Oklahoma Income Tax Act of 1971 (applicable to years after Dec 31, 1970); 68 O.S. 2355 was not amended between 1971 and Laws 1977, c. 53 (eff. Jan 1, 1979), so the same schedule applied to 1975. Joint brackets are double the single ones (ACIR note)."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $750 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the schedule in force in July 1976 under the Oklahoma Income Tax Act of 1971 (applicable to years after Dec 31, 1970); 68 O.S. 2355 was not amended between 1971 and Laws 1977, c. 53 (eff. Jan 1, 1979), so the same schedule applied to 1976. Joint brackets are double the single ones (ACIR note)."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $750 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the schedule in force in July 1976 under the Oklahoma Income Tax Act of 1971 (applicable to years after Dec 31, 1970); 68 O.S. 2355 was not amended between 1971 and Laws 1977, c. 53 (eff. Jan 1, 1979), so the same schedule applied to 1977. Joint brackets are double the single ones (ACIR note)."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $750 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 106 (rates, July 1, 1976) shows the schedule in force in July 1976 under the Oklahoma Income Tax Act of 1971 (applicable to years after Dec 31, 1970); 68 O.S. 2355 was not amended between 1971 and Laws 1977, c. 53 (eff. Jan 1, 1979), so the same schedule applied to 1978. Joint brackets are double the single ones (ACIR note)."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $750 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 82 (rates, July 1, 1980); joint brackets are double the single ones (ACIR note). The ACIR tables for 1976 and 1983 show the same schedule."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $750 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 82 (rates, July 1, 1980); joint brackets are double the single ones (ACIR note). The ACIR tables for 1976 and 1983 show the same schedule."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 750,
+        "marriedJoint": 1500
+      },
+      "source": "https://archive.org/details/micro_IA40706913_0239/page/n7",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Oklahoma Tax Commission Annual Report, fiscal year ended June 30, 1982 (Internet Archive state-documents microfiche, PDF page index 7, 'Review of 1981-82 taxes and collections'): Method I 'Single: from 1/2 of 1% of the first $1,000 of taxable income and graduated up to 6% of income over $7,500. Married: from 1/2 of 1% of the first $2,000 ... up to 6% of income over $15,000'; head of household uses married rates; 'Personal exemption: $750 each. Effective with 1982 returns payable in 1983, the personal exemption is $1,000.' So the $750 exemption applied to 1981 returns (filed during FY1981-82); the FY1980-81 report (micro_IA40706909_0384, page n7) states the same schedule and $750. Deduction is the $750 per-person exemption only; the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. Bracket steps are those printed in the 1980 and 1983 ACIR tables (this file's 1980 and 1983 entries); the FY1981-FY1984 Tax Commission reports all describe the same 1/2%-6% over $7,500 schedule and 68 O.S. 2355 was not amended between Laws 1980, c. 288 and Laws 1985, c. 179/200."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://archive.org/details/micro_IA40706913_0239/page/n7",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Oklahoma Tax Commission Annual Report, fiscal year ended June 30, 1982 (Internet Archive state-documents microfiche, PDF page index 7, 'Review of 1981-82 taxes and collections'): Method I 'Single: from 1/2 of 1% of the first $1,000 of taxable income and graduated up to 6% of income over $7,500. Married: from 1/2 of 1% of the first $2,000 ... up to 6% of income over $15,000'; head of household uses married rates; 'Personal exemption: $750 each. Effective with 1982 returns payable in 1983, the personal exemption is $1,000.' So the $1,000 exemption applied to 1982 returns; the FY1982-83 report (micro_IA40706916_0411, page n6) states the same schedule and 'Personal exemption: $1,000 each', as does the ACIR 1982-83 ed. (this file's 1983 entry). Deduction is the $1,000 per-person exemption only; the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. Bracket steps are those printed in the 1980 and 1983 ACIR tables (this file's 1980 and 1983 entries); the FY1981-FY1984 Tax Commission reports all describe the same 1/2%-6% over $7,500 schedule and 68 O.S. 2355 was not amended between Laws 1980, c. 288 and Laws 1985, c. 179/200."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1982-1983.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $1,000 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 48 (rates for 1983) lists the joint schedule and gives the single schedule as 1/2% on the first $1,000 to 6% over $7,500; the single brackets are those of the 1980 and 1986 ACIR tables (68 O.S. 2355 was not amended between Laws 1980, c. 288 and Laws 1985, c. 179/200, nor between then and Laws 1988, c. 204)."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1984.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $1,000 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 53 (rates for 1984) lists the joint schedule and gives the single schedule as 1/2% on the first $1,000 to 6% over $7,500; the single brackets are those of the 1980 and 1986 ACIR tables (68 O.S. 2355 was not amended between Laws 1980, c. 288 and Laws 1985, c. 179/200, nor between then and Laws 1988, c. 204)."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1985-1986.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $1,000 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 56 (rates for 1985) lists the joint schedule and gives the single schedule as 1/2% on the first $1,000 to 6% over $7,500; the single brackets are those of the 1980 and 1986 ACIR tables (68 O.S. 2355 was not amended between Laws 1980, c. 288 and Laws 1985, c. 179/200, nor between then and Laws 1988, c. 204)."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $1,000 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 51 (rates for tax year 1986); joint brackets are double the single ones (ACIR note)."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1988-Vol-1.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $1,000 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 16 (rates for tax year 1987); joint brackets are double the single ones (ACIR note)."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1989-Vol-1.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $1,000 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 19 (rates for tax year 1988); joint brackets are double the single ones (ACIR note)."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 6250,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 10000,
+            "rate": 0.04
+          },
+          {
+            "from": 12500,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1990-Vol-1.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 17%; not modelled. Deduction is the $1,000 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 19 (rates for tax year 1989); joint brackets are double the single ones (ACIR note)."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1991-Vol-1.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 22 (rates for tax year 1990) (top rate 7%). Brackets per 68 O.S. 2355 as amended by Laws 1989, 1st Ex. Sess., c. 2 (operative Jan 1, 1990), whose text as published by OSCN in 2001 applies them to all taxable years beginning after Dec 31, 1989 (6% on the $2,300 above $7,700, i.e. to $10,000)."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1992-Vol-1.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 22 (rates, 1991) (top rate 7%). Brackets per 68 O.S. 2355 as amended by Laws 1989, 1st Ex. Sess., c. 2 (operative Jan 1, 1990), whose text as published by OSCN in 2001 applies them to all taxable years beginning after Dec 31, 1989 (6% on the $2,300 above $7,700, i.e. to $10,000); the ACIR table misprints the end of the 6% bracket as $9,950."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff-1993-vol-1.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 22 (rates, 1992) (top rate 7%). Brackets per 68 O.S. 2355 as amended by Laws 1989, 1st Ex. Sess., c. 2 (operative Jan 1, 1990), whose text as published by OSCN in 2001 applies them to all taxable years beginning after Dec 31, 1989 (6% on the $2,300 above $7,700, i.e. to $10,000); the ACIR table misprints the end of the 6% bracket as $9,950."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1994-Vol-1.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 20 (rates, 1993) (top rate 7%). Brackets per 68 O.S. 2355 as amended by Laws 1989, 1st Ex. Sess., c. 2 (operative Jan 1, 1990), whose text as published by OSCN in 2001 applies them to all taxable years beginning after Dec 31, 1989 (6% on the $2,300 above $7,700, i.e. to $10,000); the ACIR table misprints the end of the 6% bracket as $9,950."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1995-Vol-1.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. ACIR Significant Features of Fiscal Federalism, Table 19 (rates, 1994) (top rate 7%). Brackets per 68 O.S. 2355 as amended by Laws 1989, 1st Ex. Sess., c. 2 (operative Jan 1, 1990), whose text as published by OSCN in 2001 applies them to all taxable years beginning after Dec 31, 1989 (6% on the $2,300 above $7,700, i.e. to $10,000); the ACIR table misprints the end of the 6% bracket as $9,950."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://web.archive.org/web/20010528030742/http://www.oscn.net:80/applications/oscn/deliverdocument.asp?citeid=92565&date=5/5/80",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. Wayback copy of 68 O.S. 2355 (OSCN, 2001 text) applying these brackets to all taxable years beginning after Dec 31, 1989; 68 O.S. 2355 was not amended between Laws 1992, c. 311 and Laws 1998, c. 427 (eff. Jan 1, 1999), so the 7% top rate shown in the 1997 packet and the ACIR 1990-94 tables applied."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://web.archive.org/web/19980623003920/http://www.oktax.state.ok.us:80/oktax/forms/511tabls.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only (ACIR); the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. Wayback copy of the 1996 Form 511 tax tables; brackets checked against Tax Table 1 ($1,395 single / $1,035 joint at $25,000 taxable income, then 7%) and the 1997 packet's statutory schedule."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/1997/511-Pkt-1997.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only; the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/1998/511-Pkt-1998.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only; the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.0675
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/1999/511-Pkt-1999.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only; the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.0675
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2000/511-Pkt-2000.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only; the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.0675
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2001/511-Pkt-2001.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only; the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2002/511-Pkt-2002.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only; the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2003/511-Pkt-2003.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only; the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.0665
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.0665
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2004/511-Pkt-2004.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only; the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 6200,
+            "rate": 0.05
+          },
+          {
+            "from": 7700,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.0665
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.0665
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2005/511-Pkt-2005.pdf",
+      "notes": "Method 1 schedule (taxpayer not deducting federal income tax). Method 2 let taxpayers deduct federal income tax and use a steeper schedule up to 10%; not modelled. Deduction is the $1,000 per-person exemption only; the standard deduction (15% of Oklahoma AGI, $1,000 min / $2,000 max; MFS $500-$1,000) depends on income and is left out. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          },
+          {
+            "from": 8700,
+            "rate": 0.06
+          },
+          {
+            "from": 10500,
+            "rate": 0.0625
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.06
+          },
+          {
+            "from": 21000,
+            "rate": 0.0625
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3000,
+        "marriedJoint": 5000
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2006/511-Pkt-2006.pdf",
+      "notes": "Deduction is the $2,000 / $3,000 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet. 2006 single top bracket starts at $10,500 (joint $21,000), per the tax table."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          },
+          {
+            "from": 8700,
+            "rate": 0.0565
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.0565
+          }
+        ]
+      },
+      "deduction": {
+        "single": 3750,
+        "marriedJoint": 7500
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2007/511-Pkt-2007.pdf",
+      "notes": "Deduction is the $2,750 / $5,500 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          },
+          {
+            "from": 8700,
+            "rate": 0.055
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.055
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4250,
+        "marriedJoint": 8500
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2008/511-Pkt-2008.pdf",
+      "notes": "Deduction is the $3,250 / $6,500 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          },
+          {
+            "from": 8700,
+            "rate": 0.055
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.055
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5250,
+        "marriedJoint": 10500
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2009/511-Pkt-2009.pdf",
+      "notes": "Deduction is the $4,250 / $8,500 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          },
+          {
+            "from": 8700,
+            "rate": 0.055
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.055
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6700,
+        "marriedJoint": 13400
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2010/511-Pkt-2010.pdf",
+      "notes": "Deduction is the $5,700 / $11,400 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          },
+          {
+            "from": 8700,
+            "rate": 0.055
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.055
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6800,
+        "marriedJoint": 13600
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2011/511-Pkt-2011.pdf",
+      "notes": "Deduction is the $5,800 / $11,600 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          },
+          {
+            "from": 8700,
+            "rate": 0.0525
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.0525
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6950,
+        "marriedJoint": 13900
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2012/511-Pkt-2012.pdf",
+      "notes": "Deduction is the $5,950 / $11,900 standard deduction plus the $1,000 per-person exemption. Brackets checked against the 2012 packet's $100,000+ tax worksheet (tax-table text unreadable)."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          },
+          {
+            "from": 8700,
+            "rate": 0.0525
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.0525
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7100,
+        "marriedJoint": 14200
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2013/511-Pkt-2013.pdf",
+      "notes": "Deduction is the $6,100 / $12,200 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          },
+          {
+            "from": 8700,
+            "rate": 0.0525
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.0525
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7200,
+        "marriedJoint": 14400
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2014/511-Pkt-2014.pdf",
+      "notes": "Deduction is the $6,200 / $12,400 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          },
+          {
+            "from": 8700,
+            "rate": 0.0525
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          },
+          {
+            "from": 15000,
+            "rate": 0.0525
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7300,
+        "marriedJoint": 14600
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2015/511-Pkt-2015.pdf",
+      "notes": "Deduction is the $6,300 / $12,600 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7300,
+        "marriedJoint": 14600
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2016/511-Pkt-2016.pdf",
+      "notes": "Deduction is the $6,300 / $12,600 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7350,
+        "marriedJoint": 14700
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2017/511-Pkt-2017.pdf",
+      "notes": "Deduction is the $6,350 / $12,700 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7350,
+        "marriedJoint": 14700
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2018/511-Pkt-2018.pdf",
+      "notes": "Deduction is the $6,350 / $12,700 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7350,
+        "marriedJoint": 14700
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2019/511-Pkt-2019.pdf",
+      "notes": "Deduction is the $6,350 / $12,700 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7350,
+        "marriedJoint": 14700
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2020/511-Pkt-2020.pdf",
+      "notes": "Deduction is the $6,350 / $12,700 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 1000,
+            "rate": 0.01
+          },
+          {
+            "from": 2500,
+            "rate": 0.02
+          },
+          {
+            "from": 3750,
+            "rate": 0.03
+          },
+          {
+            "from": 4900,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.005
+          },
+          {
+            "from": 2000,
+            "rate": 0.01
+          },
+          {
+            "from": 5000,
+            "rate": 0.02
+          },
+          {
+            "from": 7500,
+            "rate": 0.03
+          },
+          {
+            "from": 9800,
+            "rate": 0.04
+          },
+          {
+            "from": 12200,
+            "rate": 0.05
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7350,
+        "marriedJoint": 14700
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2021/511-Pkt-2021.pdf",
+      "notes": "Deduction is the $6,350 / $12,700 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0025
+          },
+          {
+            "from": 1000,
+            "rate": 0.0075
+          },
+          {
+            "from": 2500,
+            "rate": 0.0175
+          },
+          {
+            "from": 3750,
+            "rate": 0.0275
+          },
+          {
+            "from": 4900,
+            "rate": 0.0375
+          },
+          {
+            "from": 7200,
+            "rate": 0.0475
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0025
+          },
+          {
+            "from": 2000,
+            "rate": 0.0075
+          },
+          {
+            "from": 5000,
+            "rate": 0.0175
+          },
+          {
+            "from": 7500,
+            "rate": 0.0275
+          },
+          {
+            "from": 9800,
+            "rate": 0.0375
+          },
+          {
+            "from": 12200,
+            "rate": 0.0475
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7350,
+        "marriedJoint": 14700
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2022/511-Pkt-2022.pdf",
+      "notes": "Deduction is the $6,350 / $12,700 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0025
+          },
+          {
+            "from": 1000,
+            "rate": 0.0075
+          },
+          {
+            "from": 2500,
+            "rate": 0.0175
+          },
+          {
+            "from": 3750,
+            "rate": 0.0275
+          },
+          {
+            "from": 4900,
+            "rate": 0.0375
+          },
+          {
+            "from": 7200,
+            "rate": 0.0475
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0025
+          },
+          {
+            "from": 2000,
+            "rate": 0.0075
+          },
+          {
+            "from": 5000,
+            "rate": 0.0175
+          },
+          {
+            "from": 7500,
+            "rate": 0.0275
+          },
+          {
+            "from": 9800,
+            "rate": 0.0375
+          },
+          {
+            "from": 12200,
+            "rate": 0.0475
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7350,
+        "marriedJoint": 14700
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2023/511-Pkt-2023.pdf",
+      "notes": "Deduction is the $6,350 / $12,700 standard deduction plus the $1,000 per-person exemption. Brackets derived from the statutory schedule and checked against the official tax table in the packet."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0025
+          },
+          {
+            "from": 1000,
+            "rate": 0.0075
+          },
+          {
+            "from": 2500,
+            "rate": 0.0175
+          },
+          {
+            "from": 3750,
+            "rate": 0.0275
+          },
+          {
+            "from": 4900,
+            "rate": 0.0375
+          },
+          {
+            "from": 7200,
+            "rate": 0.0475
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0025
+          },
+          {
+            "from": 2000,
+            "rate": 0.0075
+          },
+          {
+            "from": 5000,
+            "rate": 0.0175
+          },
+          {
+            "from": 7500,
+            "rate": 0.0275
+          },
+          {
+            "from": 9800,
+            "rate": 0.0375
+          },
+          {
+            "from": 14400,
+            "rate": 0.0475
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7350,
+        "marriedJoint": 14700
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/past-year/2024/511-Pkt-2024.pdf",
+      "notes": "Deduction is the $6,350 / $12,700 standard deduction plus the $1,000 per person exemption. Joint brackets are double the single ones, per the official tax table."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0025
+          },
+          {
+            "from": 1000,
+            "rate": 0.0075
+          },
+          {
+            "from": 2500,
+            "rate": 0.0175
+          },
+          {
+            "from": 3750,
+            "rate": 0.0275
+          },
+          {
+            "from": 4900,
+            "rate": 0.0375
+          },
+          {
+            "from": 7200,
+            "rate": 0.0475
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0025
+          },
+          {
+            "from": 2000,
+            "rate": 0.0075
+          },
+          {
+            "from": 5000,
+            "rate": 0.0175
+          },
+          {
+            "from": 7500,
+            "rate": 0.0275
+          },
+          {
+            "from": 9800,
+            "rate": 0.0375
+          },
+          {
+            "from": 14400,
+            "rate": 0.0475
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7350,
+        "marriedJoint": 14700
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/current/511-Pkt.pdf",
+      "notes": "Deduction is the $6,350 / $12,700 standard deduction plus the $1,000 per person exemption. Joint brackets are double the single ones, per the official tax table."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3750,
+            "rate": 0.025
+          },
+          {
+            "from": 4900,
+            "rate": 0.035
+          },
+          {
+            "from": 7200,
+            "rate": 0.045
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 7500,
+            "rate": 0.025
+          },
+          {
+            "from": 9800,
+            "rate": 0.035
+          },
+          {
+            "from": 14400,
+            "rate": 0.045
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7350,
+        "marriedJoint": 14700
+      },
+      "source": "https://oklahoma.gov/content/dam/ok/en/tax/documents/resources/publications/legislation/2025LegislativeUpdate.pdf",
+      "notes": "Deduction is the $6,350 / $12,700 standard deduction plus the $1,000 per person exemption."
+    }
+  }
+}

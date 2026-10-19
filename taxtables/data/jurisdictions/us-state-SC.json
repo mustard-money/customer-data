@@ -1,0 +1,2187 @@
+{
+  "id": "us-state-SC",
+  "kind": "state",
+  "region": "South Carolina",
+  "state": "SC",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://library.unt.edu/gpo/acir/Reports/information/M-57.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1970-71 ed. (M-57), Table 36 (State Individual Income Taxes: Rates, December 31, 1970; PDF p. 91), Table 37 (personal exemptions, December 31, 1970; p. 97) and Table 38 (standard deduction and optional tax table, December 31, 1970; p. 99); the table describes the law in force at the end of tax year 1970. 2%-7% on $2,000 steps of net income after personal exemption; same brackets for all filing statuses; the same schedule is printed in the 1969 edition (December 31, 1969) and in the 1976 edition (July 1, 1976). Federal income tax deductible, limited to $500 per taxpayer (not modelled). Deduction = $800 single / $1,600 married personal exemption; standard deduction 10% of income, max $500 single / $1,000 joint (not recorded). Exemption for persons 65+ with low income not modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://library.unt.edu/gpo/acir/Reports/information/M-74.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1971-72 ed. (M-74), Table 91 (State Individual Income Taxes: Rates, December 31, 1971; PDF p. 221/223), Table 92 (personal exemptions, December 31, 1971; p. 226) and Table 93 (standard deduction and optional tax table, December 31, 1971; p. 228); the table describes the law in force at the end of tax year 1971. 2%-7% on $2,000 steps of net income after personal exemption; same brackets for all filing statuses; the same schedule is printed in the 1969 edition (December 31, 1969) and in the 1976 edition (July 1, 1976). Federal income tax deductible, limited to $500 per taxpayer (not modelled). Deduction = $800 single / $1,600 married personal exemption; standard deduction 10% of income, max $500 single / $1,000 joint (not recorded). Exemption for persons 65+ with low income not modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dc.statelibrary.sc.gov/server/api/core/bitstreams/30ed57a7-bd59-4df8-9a3c-f5922f7e169c/content",
+      "notes": "Statutory 2%-7% schedule on $2,000 steps of net income after personal exemption. No document prints the schedule for 1972; recorded under the statute-history rule: the ACIR Significant Features tables for December 31, 1971 (M-74 Table 91) and July 1, 1973 (M-79 Table 141) print the same schedule and exemptions, and the subject index ('Taxation - Income tax') and the 'Code sections amended' lists of the Acts and Joint Resolutions of South Carolina for the 1971 and 1972 sessions (SC State Library scan of the 1972 volume, index pp. 4379 and 4382) list no act amending the income tax rate section or the personal exemption amounts (the 1972 income tax acts concern casualty losses, interest allocation, deductions for taxes paid and an optional tax table for adjusted gross income under $5,000, Act 1192 of 1972, p. 2360). Same brackets for all filing statuses. Federal income tax deductible, limited to $500 per taxpayer (not modelled). Deduction = $800 single / $1,600 married personal exemption (unchanged in every document on either side of the gap); standard deduction 10% of income, max $500 single / $1,000 joint (not recorded)."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://library.unt.edu/gpo/acir/Reports/information/M-79.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1973-74 ed. (M-79), Table 141 (State Individual Income Taxes: Rates, July 1, 1973; PDF p. 283/286), Table 142 (personal exemptions, July 1, 1973; p. 289) and Table 143 (standard deduction and optional tax table, July 1, 1973; p. 291); the table describes the law in force during tax year 1973 (the same schedule is printed as of December 31, 1971 and July 1, 1976). 2%-7% on $2,000 steps of net income after personal exemption; same brackets for all filing statuses; the same schedule is printed in the 1969 edition (December 31, 1969) and in the 1976 edition (July 1, 1976). Federal income tax deductible, limited to $500 per taxpayer (not modelled). Deduction = $800 single / $1,600 married personal exemption; standard deduction 10% of income, max $500 single / $1,000 joint (not recorded). Exemption for persons 65+ with low income not modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dc.statelibrary.sc.gov/server/api/core/bitstreams/cc77602d-0427-41d4-9161-573dbf5066be/content",
+      "notes": "Statutory 2%-7% schedule on $2,000 steps of net income after personal exemption. No document prints the schedule for 1974; recorded under the statute-history rule: the ACIR Significant Features tables for July 1, 1973 (M-79 Table 141) and July 1, 1976 (1976-77 ed. Vol. II Table 106) print the same schedule and exemptions, and the subject index ('Taxation - Income tax') and the 'Code sections amended' lists of the Acts and Joint Resolutions of South Carolina for the 1973 and 1974 sessions (SC State Library scan of the 1974 volume, index pp. 3838 and 3840) list no act amending the income tax rate section or the personal exemption amounts (1973-74 income tax acts: deductions for renovations for the handicapped and dependent care, a $1,200 pension exclusion for persons over 65, group term life insurance, distribution to counties). Same brackets for all filing statuses. Federal income tax deductible, limited to $500 per taxpayer (not modelled). Deduction = $800 single / $1,600 married personal exemption (unchanged in every document on either side of the gap); standard deduction 10% of income, max $500 single / $1,000 joint (not recorded)."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dc.statelibrary.sc.gov/server/api/core/bitstreams/dc6476b4-7ff9-4ab3-95de-82f254584f53/content",
+      "notes": "Statutory 2%-7% schedule on $2,000 steps of net income after personal exemption. No document prints the schedule for 1975; recorded under the statute-history rule: the ACIR Significant Features tables for July 1, 1973 (M-79 Table 141) and July 1, 1976 (1976-77 ed. Vol. II Table 106) print the same schedule and exemptions, and the subject index ('Taxation - Income tax') and the 'Code sections amended' lists of the Acts and Joint Resolutions of South Carolina for the 1974 session (1974 volume, index p. 3840) and the 1975 session (SC State Library scan of the 1975 volume, index p. 1432) list no act amending the income tax rate section or the personal exemption amounts (1975 income tax acts: ERISA conformity, self-employed retirement deduction, short-form changes). Same brackets for all filing statuses. Federal income tax deductible, limited to $500 per taxpayer (not modelled). Deduction = $800 single / $1,600 married personal exemption (unchanged in every document on either side of the gap); standard deduction 10% of income, max $500 single / $1,000 joint (not recorded)."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1976-77 ed. Vol. II, Table 106 (State Individual Income Taxes: Rates, July 1, 1976), Table 107 (personal exemptions, July 1, 1976) and Table 108 (standard deduction, July 1, 1976). 2%-7% on $2,000 steps of net income after personal exemption. Same brackets for all filing statuses. Federal income tax deductible, limited to $500 per taxpayer (not modelled). Deduction = $800 single / $1,600 married personal exemption; standard deduction 10% of income, max $500 single / $1,000 joint. Exemption for persons 65+ with low income not modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dc.statelibrary.sc.gov/server/api/core/bitstreams/17c70329-18c0-4867-bf07-dc451afde648/content",
+      "notes": "Statutory 2%-7% schedule on $2,000 steps of net income after personal exemption (S.C. Code 1976, 12-7-210). No document prints the schedule for 1977; recorded under the statute-history rule: the ACIR Significant Features tables for July 1, 1976 (1976-77 ed. Vol. II Table 106) and July 1, 1980 (1979-80 ed. Table 82) print the same schedule and exemptions, and the subject index ('Taxation - Income tax') and the 'Code sections amended' lists of the Acts and Joint Resolutions of South Carolina for the 1976 session (1976 volume, index p. 2962) and the 1977 session (SC State Library scan of the 1977 volume, index p. 1267) list no act amending 12-7-210 or the personal exemption amounts (1977 income tax acts: adjusted gross income defined, capital asset holding period, corporate distributions, apportionment of patent and copyright income). Same brackets for all filing statuses. Federal income tax deductible, limited to $500 per taxpayer (not modelled). Deduction = $800 single / $1,600 married personal exemption (unchanged in every document on either side of the gap); standard deduction 10% of income, max $500 single / $1,000 joint (not recorded)."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dc.statelibrary.sc.gov/server/api/core/bitstreams/56d3ea46-2f26-4719-a82f-fac0587fa415/content",
+      "notes": "Statutory 2%-7% schedule on $2,000 steps of net income after personal exemption (S.C. Code 1976, 12-7-210). No document prints the schedule for 1978; recorded under the statute-history rule: the ACIR Significant Features tables for July 1, 1976 (1976-77 ed. Vol. II Table 106) and July 1, 1980 (1979-80 ed. Table 82) print the same schedule and exemptions, and the subject index ('Taxation - Income tax') and the 'Code sections amended' lists of the Acts and Joint Resolutions of South Carolina for the 1977 and 1978 sessions (SC State Library scan of the 1978 volume, index pp. 2747-2748) list no act amending 12-7-210 or the personal exemption amounts (1978 income tax acts: alimony deduction, household-member disability payments, farmers' cooperatives, distribution to counties). Same brackets for all filing statuses. Federal income tax deductible, limited to $500 per taxpayer (not modelled). Deduction = $800 single / $1,600 married personal exemption (unchanged in every document on either side of the gap); standard deduction 10% of income, max $500 single / $1,000 joint (not recorded)."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dc.statelibrary.sc.gov/server/api/core/bitstreams/82db586a-6252-4845-bd62-36b6d156be13/content",
+      "notes": "Statutory 2%-7% schedule on $2,000 steps of net income after personal exemption (S.C. Code 1976, 12-7-210). No document prints the schedule for 1979; recorded under the statute-history rule: the ACIR Significant Features tables for July 1, 1976 (1976-77 ed. Vol. II Table 106) and July 1, 1980 (1979-80 ed. Table 82) print the same schedule and exemptions, and the subject index ('Taxation - Income tax') and the 'Code sections amended' lists of the Acts and Joint Resolutions of South Carolina for the 1978 session (1978 volume, index p. 2748) and the 1979 session (SC State Library scan of the 1979 volume, index p. 1104; 'Code sections of 1976 amended' list pp. 1058-1061) list no act amending 12-7-210 or the personal exemption amounts (1979 income tax acts: employee trust income, depreciation conformity, nonresident deductions, net operating losses, retirement income). Same brackets for all filing statuses. Federal income tax deductible, limited to $500 per taxpayer (not modelled). Deduction = $800 single / $1,600 married personal exemption (unchanged in every document on either side of the gap); standard deduction 10% of income, max $500 single / $1,000 joint (not recorded)."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 500,
+          "marriedJoint": 1000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1979-80 ed., Table 82 (State Individual Income Taxes: Rates, July 1, 1980), Table 83 (personal exemptions) and Table 84 (standard deduction). Same 2%-7% schedule. Same brackets for all filing statuses. Federal income tax deductible, limited to $500 per taxpayer (not modelled). Deduction = $800 / $1,600 personal exemption; standard deduction 10% of income, max $500 single / $1,000 joint (Table 84 fn 11: standard deduction indexed to the CPI for tax years after 1981)."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dc.statelibrary.sc.gov/server/api/core/bitstreams/d429071d-08ef-4d38-a5c0-5770c52be9a6/content",
+      "notes": "Statutory 2%-7% schedule on $2,000 steps of net income after personal exemption (S.C. Code 1976, 12-7-210). No document prints the schedule for 1981; recorded under the statute-history rule: the ACIR Significant Features tables for July 1, 1980 (1979-80 ed. Table 82) and December 1983 (1982-83 ed. Table 48, which notes that bracket indexing begins in January 1984) print the same schedule and exemptions, and the subject index ('Taxation - Income tax') and the 'Code sections amended' lists of the Acts and Joint Resolutions of South Carolina for the 1980 session (1980 volume, index p. 2611) and the 1981 session (SC State Library scan of the 1981 volume, index pp. 1947-1948; 'Code sections of 1976' lists pp. 1902-1908) list no act amending 12-7-210 or the personal exemption amounts. Act 517 of 1980 Part II Sec. 23 (pp. 2212-2213) provided for annual inflation adjustment of the dollar amounts in 12-7-210, 12-7-310 and 12-7-710 but only for taxable years beginning after December 31, 1981 (later postponed), so 1981 brackets are the statutory amounts. Act 69 of 1981 (p. 101) added an optional tax table (12-7-211) for adjusted gross income up to $20,000 and raised the maximum standard deduction from $500 to $1,000. Same brackets for all filing statuses. Federal income tax deductible, limited to $500 per taxpayer (not modelled). Deduction = $800 single / $1,600 married personal exemption (unchanged in every document on either side of the gap); standard deduction 10% of income, max $1,000 single / $2,000 joint from 1981 (not recorded)."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "source": "https://dc.statelibrary.sc.gov/server/api/core/bitstreams/802a81ec-354f-45c8-8630-2f36011647f0/content",
+      "notes": "Statutory 2%-7% schedule on $2,000 steps of net income after personal exemption (S.C. Code 1976, 12-7-210). No document prints the schedule for 1982; recorded under the statute-history rule: the ACIR Significant Features tables for July 1, 1980 (1979-80 ed. Table 82) and December 1983 (1982-83 ed. Table 48, which notes that bracket indexing begins in January 1984) print the same schedule and exemptions, and the subject index ('Taxation - Income tax') and the 'Code sections amended' lists of the Acts and Joint Resolutions of South Carolina for the 1981 session (1981 volume, index pp. 1947-1948) and the 1982 session (SC State Library scan of the 1982 volume Part 3, index p. 3696; 'Code sections of 1976 amended' lists pp. 3607-3621, 1982 session entries p. 3615) list no act amending 12-7-210 or the personal exemption amounts. The inflation indexing of 12-7-210, 12-7-310 and 12-7-710 enacted by Act 517 of 1980 Part II Sec. 23 for taxable years after 1981 was postponed by Act 466 of 1982 Part II Sec. 22 (p. 3321) to taxable years beginning after December 31, 1982, so 1982 brackets are the statutory amounts; Act 463 of 1982 (p. 2601) re-enacted the optional tax table (12-7-211) and amended the standard deduction section (12-7-710). Same brackets for all filing statuses. Federal income tax deductible, limited to $500 per taxpayer (not modelled). Deduction = $800 single / $1,600 married personal exemption (unchanged in every document on either side of the gap); standard deduction 10% of income, max $1,000 single / $2,000 joint (ACIR 1983 Table 47; not recorded)."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2000,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 800,
+        "marriedJoint": 1600
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1000,
+          "marriedJoint": 2000
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1982-1983.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1982-83 ed., Table 48 (State Individual Income Tax Rates for 1983, as of December 1983) and Table 47 (summary of exemptions and standard deductions, as of October 1, 1983). Statutory 2%-7% schedule; the table notes that bracket indexing begins in January 1984. Same brackets for all filing statuses. Federal income tax deductible, limited to $500 per taxpayer (not modelled). Deduction = $800 / $1,600 personal exemption; standard deduction 10% of income, max $1,000 single / $2,000 joint (Table 47)."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.02
+          },
+          {
+            "from": 2019,
+            "rate": 0.03
+          },
+          {
+            "from": 4037,
+            "rate": 0.04
+          },
+          {
+            "from": 6056,
+            "rate": 0.05
+          },
+          {
+            "from": 8074,
+            "rate": 0.06
+          },
+          {
+            "from": 10093,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 807,
+        "marriedJoint": 1614
+      },
+      "percentStandardDeduction": {
+        "rate": 0.1,
+        "minimum": {
+          "single": 0,
+          "marriedJoint": 0
+        },
+        "maximum": {
+          "single": 1009,
+          "marriedJoint": 2018
+        }
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1984.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1984 ed., Table 53 (State Individual Income Tax Rates for 1984, as of December 1984) and Table 52 (summary of exemptions and standard deductions, November 1984). Brackets, exemptions and standard deduction indexed from January 1984, as printed. Same brackets for all filing statuses. Federal income tax deductible, limited to $500 per taxpayer (not modelled). Deduction = $807 / $1,614 personal exemption; standard deduction 10% of income, max $1,009 / $2,018 (Table 52)."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2390,
+            "rate": 0.02
+          },
+          {
+            "from": 4410,
+            "rate": 0.03
+          },
+          {
+            "from": 6430,
+            "rate": 0.04
+          },
+          {
+            "from": 8450,
+            "rate": 0.05
+          },
+          {
+            "from": 10470,
+            "rate": 0.06
+          },
+          {
+            "from": 12490,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3540,
+            "rate": 0.02
+          },
+          {
+            "from": 5560,
+            "rate": 0.03
+          },
+          {
+            "from": 7580,
+            "rate": 0.04
+          },
+          {
+            "from": 9600,
+            "rate": 0.05
+          },
+          {
+            "from": 11620,
+            "rate": 0.06
+          },
+          {
+            "from": 13640,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1040,
+        "marriedJoint": 2080
+      },
+      "source": "https://archive.org/details/micro_IA40706923_0021",
+      "notes": "71st Annual Report of the South Carolina Tax Commission, 1985 (microfilm scan on archive.org), Legislative Summary 1985, House Bill 2640, Section 8 (printed p. 108, read from the page image): for 1985 the personal exemption is indexed from $1,000 to $1,040, the zero bracket amount from $2,300 to $2,390 (single) and $3,400 to $3,540 (joint), and the width of each tax bracket from $2,000 to $2,020, effective January 1, 1985. Modelled like the 1986 entry: no tax up to the zero bracket amount, then 2% to 7% in $2,020 brackets; the deduction is the personal exemption (one single, two joint). The 1986 report (micro_IA40706926_0121) says the brackets revert to the $2,000 width for 1986. Retirement income exclusion ($2,100 for 1985) and credits not modelled."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2300,
+            "rate": 0.02
+          },
+          {
+            "from": 4300,
+            "rate": 0.03
+          },
+          {
+            "from": 6300,
+            "rate": 0.04
+          },
+          {
+            "from": 8300,
+            "rate": 0.05
+          },
+          {
+            "from": 10300,
+            "rate": 0.06
+          },
+          {
+            "from": 12300,
+            "rate": 0.07
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3400,
+            "rate": 0.02
+          },
+          {
+            "from": 5400,
+            "rate": 0.03
+          },
+          {
+            "from": 7400,
+            "rate": 0.04
+          },
+          {
+            "from": 9400,
+            "rate": 0.05
+          },
+          {
+            "from": 11400,
+            "rate": 0.06
+          },
+          {
+            "from": 13600,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 1080,
+        "marriedJoint": 2160
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff1987.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1987 ed., Table 51 (State Individual Income Tax Rates for Tax Year 1986, compiled October 1986; rates for single individuals or married filing separately) and Table 50 (summary of exemptions and standard deductions, tax year 1986). Single schedule as printed (first $2,300 no tax, then 2%-7%); the joint schedule (no tax to $3,400, then 2%-7% up to 7% over $13,600) is the one printed in full in the 1985-86 ed. Table 56 (October 1985), whose end points match the joint range stated in the 1986 table. Indexing was repealed and the brackets reverted to the statutory amounts. Table 50 says personal exemptions and standard deduction are the same as federal, so deduction = federal personal exemptions for 1986 ($1,080 / $2,160) and the zero bracket is built into the schedule (as in the federal 1977-86 schedules). Federal income tax deductible, limited to $500 (not modelled)."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4440,
+        "marriedJoint": 7560
+      },
+      "source": "https://dc.statelibrary.sc.gov/server/api/core/bitstreams/1d311e30-133c-4237-b01c-1a1a1007a126/content",
+      "notes": "Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Brackets from Act 170 of 1987 Sec. 25(B) (S.C. Code 12-7-210), effective for tax years after 1986; 2% bracket deleted. Two-wage-earner credit not modelled."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 4000,
+            "rate": 0.04
+          },
+          {
+            "from": 6000,
+            "rate": 0.05
+          },
+          {
+            "from": 8000,
+            "rate": 0.06
+          },
+          {
+            "from": 10000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 4950,
+        "marriedJoint": 8900
+      },
+      "source": "https://dc.statelibrary.sc.gov/server/api/core/bitstreams/1d311e30-133c-4237-b01c-1a1a1007a126/content",
+      "notes": "Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Brackets from Act 170 of 1987 Sec. 25(B) (S.C. Code 12-7-210), effective for tax years after 1986; 2% bracket deleted. No bracket indexing in force for 1988 (Act 540 of 1986 reverted brackets to statute after 1985; Act 189 of 1989 began indexing in 1989) - inferred, not checked against a 1988 form. Two-wage-earner credit not modelled."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.03
+          },
+          {
+            "from": 4020,
+            "rate": 0.04
+          },
+          {
+            "from": 6030,
+            "rate": 0.05
+          },
+          {
+            "from": 8040,
+            "rate": 0.06
+          },
+          {
+            "from": 10050,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5100,
+        "marriedJoint": 9200
+      },
+      "source": "https://archive.org/details/micro_IA40706936_0117",
+      "notes": "Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal 1989: $3,100 + $2,000 single, $5,200 + $4,000 joint). Same brackets for all filing statuses. South Carolina Tax Commission Annual Report 1988-89 (microfilm scan on archive.org), legislative summary: Act 189 of 1989 (adds S.C. Code 12-7-215, for tax years beginning after 1988) indexes the brackets annually by half the CPI change, limited to 0.5% in 1989, 1% in 1990, 2% in 1991 and 4% after 1991; and the rate on the first $2,000 of taxable income is reduced from 3% to 2.75% only from 1990. So 1989 keeps the 1988 rates (Act 170 of 1987: 3% to $4,000, then 4% to 7% in $2,000 brackets) with the brackets widened 0.5%: $4,020, $6,030, $8,040, $10,050. Consistent with 1990 ($2,030 brackets, Information Letter #90-35: $2,000 x 1.005 x 1.01). Two-wage-earner credit not modelled."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0275
+          },
+          {
+            "from": 2030,
+            "rate": 0.03
+          },
+          {
+            "from": 4060,
+            "rate": 0.04
+          },
+          {
+            "from": 6090,
+            "rate": 0.05
+          },
+          {
+            "from": 8120,
+            "rate": 0.06
+          },
+          {
+            "from": 10150,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5300,
+        "marriedJoint": 9550
+      },
+      "source": "https://dor.sc.gov/resources-site/lawandpolicy/Advisory%20Opinions/IL90-35.pdf",
+      "notes": "Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Indexed brackets for 1990 per SC Information Letter #90-35 (2.75% first bracket). Two-wage-earner credit not modelled."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2070,
+            "rate": 0.03
+          },
+          {
+            "from": 4140,
+            "rate": 0.04
+          },
+          {
+            "from": 6210,
+            "rate": 0.05
+          },
+          {
+            "from": 8280,
+            "rate": 0.06
+          },
+          {
+            "from": 10350,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5550,
+        "marriedJoint": 10000
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1992-Vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1992 ed. Vol. 1, Table 22 (State Individual Income Taxes: Rates, 1991, compiled October 1991; rates for single individuals or married filing separately) and Table 18 (summary of exemptions and standard deductions, as of October 1991). Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Indexed brackets for 1991 as printed (first $2,070 2.5%, $2,071-$4,140 3%, $4,141-$6,210 4%, $6,211-$8,280 5%, $8,281-$10,350 6%, over $10,350 7%; the table prints the equivalent \"rate less $X\" form). Two-wage-earner credit not modelled."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2120,
+            "rate": 0.03
+          },
+          {
+            "from": 4240,
+            "rate": 0.04
+          },
+          {
+            "from": 6360,
+            "rate": 0.05
+          },
+          {
+            "from": 8480,
+            "rate": 0.06
+          },
+          {
+            "from": 10600,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 5900,
+        "marriedJoint": 10600
+      },
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff-1993-vol-1.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1993 ed. Vol. 1, Table 22 (State Individual Income Taxes: Rates, 1992, compiled October 1992; rates for single individuals or married filing separately) and Table 18 (summary of exemptions and standard deductions, as of November 1992). Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses (\"applies to all filing statuses\"). Indexed brackets for 1992 as printed. Two-wage-earner credit not modelled."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2160,
+            "rate": 0.03
+          },
+          {
+            "from": 4320,
+            "rate": 0.04
+          },
+          {
+            "from": 6480,
+            "rate": 0.05
+          },
+          {
+            "from": 8640,
+            "rate": 0.06
+          },
+          {
+            "from": 10800,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6050,
+        "marriedJoint": 10900
+      },
+      "source": "https://dor.sc.gov/resources-site/lawandpolicy/Advisory%20Opinions/IL93-29.pdf",
+      "notes": "Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Indexed brackets for 1993 per SC Information Letter #93-29. Two-wage-earner credit not modelled."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2190,
+            "rate": 0.03
+          },
+          {
+            "from": 4380,
+            "rate": 0.04
+          },
+          {
+            "from": 6570,
+            "rate": 0.05
+          },
+          {
+            "from": 8760,
+            "rate": 0.06
+          },
+          {
+            "from": 10950,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6250,
+        "marriedJoint": 11250
+      },
+      "source": "https://dor.sc.gov/resources-site/lawandpolicy/Advisory%20Opinions/IL94-33.pdf",
+      "notes": "Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Indexed brackets for 1994 per SC Information Letter #94-33 (revises the 1994 brackets first given in IL #93-29); same brackets in SC DOR 1993-94 annual report. Two-wage-earner credit not modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2220,
+            "rate": 0.03
+          },
+          {
+            "from": 4440,
+            "rate": 0.04
+          },
+          {
+            "from": 6660,
+            "rate": 0.05
+          },
+          {
+            "from": 8880,
+            "rate": 0.06
+          },
+          {
+            "from": 11100,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6400,
+        "marriedJoint": 11550
+      },
+      "source": "https://www.scstatehouse.gov/code/t12c006.php",
+      "notes": "Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Statutory brackets of S.C. Code 12-6-510(A) (1995 Act 76, tax years after 1994); SC Revenue and Fiscal Affairs Office (rfa.sc.gov/media/7606) confirms the 7% bracket began at $11,100 in 1995. Two-wage-earner credit not modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2250,
+            "rate": 0.03
+          },
+          {
+            "from": 4500,
+            "rate": 0.04
+          },
+          {
+            "from": 6750,
+            "rate": 0.05
+          },
+          {
+            "from": 9000,
+            "rate": 0.06
+          },
+          {
+            "from": 11250,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6550,
+        "marriedJoint": 11800
+      },
+      "source": "https://dc.statelibrary.sc.gov/server/api/core/bitstreams/d05f3d44-173b-4230-ba7f-99412a4ccb32/content",
+      "notes": "Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. 1996 brackets from SC Department of Revenue 1995-96 Annual Report (tax rate table). Two-wage-earner credit not modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2280,
+            "rate": 0.03
+          },
+          {
+            "from": 4560,
+            "rate": 0.04
+          },
+          {
+            "from": 6840,
+            "rate": 0.05
+          },
+          {
+            "from": 9120,
+            "rate": 0.06
+          },
+          {
+            "from": 11400,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6800,
+        "marriedJoint": 12200
+      },
+      "source": "https://web.archive.org/web/20070222180012/http://www.sctax.org/NR/rdonlyres/7D356E85-BE0F-4AE4-8620-13B902B325CD/0/sc1040es.pdf",
+      "notes": "1997 brackets from the SC Department of Revenue's 1997 SC1040ES estimated-tax instructions ('1997 Tax Computation Schedule': $0-2,280 2.5%, 2,280-4,560 3%, 4,560-6,840 4%, 6,840-9,120 5%, 9,120-11,400 6%, over 11,400 7% less $331; the second row's upper limit is misprinted as 4,580, the next row starts at 4,560). Checked against the 1997 SC tax table (https://web.archive.org/web/20070222184341/http://www.sctax.org/NR/rdonlyres/0E1C5585-6512-4743-99E4-E920E1A0CC16/0/sctt97.pdf): rate schedule 7% minus $331 matches and sampled rows in every bracket agree. The Federation of Tax Administrators' table for tax year 1997 prints the same range, $2,280-$11,400. Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2310,
+            "rate": 0.03
+          },
+          {
+            "from": 4620,
+            "rate": 0.04
+          },
+          {
+            "from": 6930,
+            "rate": 0.05
+          },
+          {
+            "from": 9240,
+            "rate": 0.06
+          },
+          {
+            "from": 11550,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 6950,
+        "marriedJoint": 12500
+      },
+      "source": "https://web.archive.org/web/20070222184156/http://www.sctax.org/NR/rdonlyres/FD60DE27-4A49-4F17-84B7-7084FCD8F1D3/0/sc1040es.pdf",
+      "notes": "1998 brackets from the SC Department of Revenue's 1998 SC1040ES estimated-tax instructions (Rev. 9/97), '1998 Tax Computation Schedule': $0-2,310 2.5%, 2,310-4,620 3%, 4,620-6,930 4%, 6,930-9,240 5%, 9,240-11,550 6%, over 11,550 7% less $334. The 1998 SC tax table was not found online to cross-check (the estimated-tax schedules for 1997 and 1999-2005 all match their years' tax tables). The Federation of Tax Administrators' table for tax year 1998 prints $2,280-$11,400 (the 1997 brackets) and its tax-year 2000 and 2001 tables print $2,310-$11,550; both lag. Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2340,
+            "rate": 0.03
+          },
+          {
+            "from": 4680,
+            "rate": 0.04
+          },
+          {
+            "from": 7020,
+            "rate": 0.05
+          },
+          {
+            "from": 9360,
+            "rate": 0.06
+          },
+          {
+            "from": 11700,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7050,
+        "marriedJoint": 12700
+      },
+      "source": "https://web.archive.org/web/20070222190345/http://www.sctax.org/NR/rdonlyres/625F9600-E8D6-4740-8F15-D116D4B75E91/0/sc1040es.pdf",
+      "notes": "1999 brackets from the SC Department of Revenue's 1999 SC1040ES estimated-tax worksheet tax computation schedule ($2,340, 4,680, 7,020, 9,360, 11,700). Checked against the 1999 SC tax table (https://web.archive.org/web/20051126154950/http://www.sctax.org/NR/rdonlyres/43AEA211-7C37-4C01-90C5-A089DA3C6BED/0/sc1040taxtables_92199.pdf): rate schedule 7% minus $339 matches and these brackets reproduce every row of the table (computed with the schedule's whole-dollar subtraction constants). Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2360,
+            "rate": 0.03
+          },
+          {
+            "from": 4720,
+            "rate": 0.04
+          },
+          {
+            "from": 7080,
+            "rate": 0.05
+          },
+          {
+            "from": 9440,
+            "rate": 0.06
+          },
+          {
+            "from": 11800,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7200,
+        "marriedJoint": 12950
+      },
+      "source": "https://web.archive.org/web/20070222182235/http://www.sctax.org/NR/rdonlyres/28E9C6AB-07A9-4B1B-96B1-0BADBC5A8BD7/0/sc1040es_72699.pdf",
+      "notes": "2000 brackets from the SC Department of Revenue's 2000 SC1040ES estimated-tax worksheet tax computation schedule ($2,360, 4,720, 7,080, 9,440, 11,800). Checked against the 2000 SC tax table (https://web.archive.org/web/20070222151707/http://www.sctax.org/NR/rdonlyres/D578587F-A24F-4FD8-A7CB-01564BA8537A/0/sc1040tt_91100.pdf): rate schedule 7% minus $342 matches and these brackets reproduce every row. The Federation of Tax Administrators' table for tax year 2000 prints $2,310-$11,550 (the 1998 brackets) and was not used. Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2400,
+            "rate": 0.03
+          },
+          {
+            "from": 4800,
+            "rate": 0.04
+          },
+          {
+            "from": 7200,
+            "rate": 0.05
+          },
+          {
+            "from": 9600,
+            "rate": 0.06
+          },
+          {
+            "from": 12000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7450,
+        "marriedJoint": 13400
+      },
+      "source": "https://web.archive.org/web/20030225040708/http://www.sctax.org:80/DOR/Tax+Information/Individual+Income/Tax+Rates/rates.htm",
+      "notes": "2001 brackets from the SC Department of Revenue's 'South Carolina Individual Income Tax Rates for 2001' page ($0-2,400 2.5%, to 4,800 3%, to 7,200 4%, to 9,600 5%, to 12,000 6%, over 12,000 7%); the 2001 SC1040ES worksheet (https://web.archive.org/web/20070222151728/http://www.sctax.org/NR/rdonlyres/88801D4D-7A8C-4883-8A2B-26B1FDEAA5FB/0/sc1040es_1401.pdf) prints the same schedule. Checked against the 2001 SC tax table (https://web.archive.org/web/20070222155939/http://www.sctax.org/NR/rdonlyres/CDDC7F92-E73C-453E-8B62-773B0CCC7BE3/0/sc1040taxtables_2001.pdf): 7% minus $348 matches and every row agrees. Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2440,
+            "rate": 0.03
+          },
+          {
+            "from": 4880,
+            "rate": 0.04
+          },
+          {
+            "from": 7320,
+            "rate": 0.05
+          },
+          {
+            "from": 9760,
+            "rate": 0.06
+          },
+          {
+            "from": 12200,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7700,
+        "marriedJoint": 13850
+      },
+      "source": "https://web.archive.org/web/20070222160152/http://www.sctax.org/NR/rdonlyres/CBC91062-D9AB-488D-A025-0859F64D7E51/0/sc1040es_9401.pdf",
+      "notes": "2002 brackets from the SC Department of Revenue's 2002 SC1040ES estimated-tax worksheet tax computation schedule ($2,440, 4,880, 7,320, 9,760, 12,200). Checked against the 2002 SC tax table (https://web.archive.org/web/20040414175216/http://www.sctax.org/NR/rdonlyres/B9941BEF-2929-4461-A750-9F2F9B893DF5/0/sc1040tt.pdf): rate schedule 7% minus $354 matches and these brackets reproduce every row. The Federation of Tax Administrators' table for tax year 2002 prints $2,400-$12,000 (the 2001 brackets) and was not used. Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2460,
+            "rate": 0.03
+          },
+          {
+            "from": 4920,
+            "rate": 0.04
+          },
+          {
+            "from": 7380,
+            "rate": 0.05
+          },
+          {
+            "from": 9840,
+            "rate": 0.06
+          },
+          {
+            "from": 12300,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7800,
+        "marriedJoint": 15600
+      },
+      "source": "https://web.archive.org/web/20051226103713/http://www.sctax.org/NR/rdonlyres/88FA7FA6-A8FB-4049-8D49-88ADC1CFC1E7/0/sc1040es.pdf",
+      "notes": "2003 brackets from the SC Department of Revenue's 2003 SC1040ES estimated-tax worksheet tax computation schedule ($2,460, 4,920, 7,380, 9,840, 12,300); the DOR's 2002-2003 Annual Report ('Comparison of State Individual Income Taxes, Tax Year 2003') prints the same range, $2,460-$12,300. Checked against the 2003 SC tax table in the 2003 SC1040 booklet (https://web.archive.org/web/20070222144827/http://www.sctax.org/NR/rdonlyres/73FC0651-EBBF-46FB-B180-2624C973FB27/0/IITBook2003.pdf): rate schedule 7% minus $357 matches and these brackets reproduce the table. Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2500,
+            "rate": 0.03
+          },
+          {
+            "from": 5000,
+            "rate": 0.04
+          },
+          {
+            "from": 7500,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.06
+          },
+          {
+            "from": 12500,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 7950,
+        "marriedJoint": 15900
+      },
+      "source": "https://web.archive.org/web/20051228224627/http://www.sctax.org/NR/rdonlyres/E29FDFBA-EFE7-4D63-B705-6DDB9EE47E7D/0/sc1040es.pdf",
+      "notes": "2004 brackets from the SC Department of Revenue's 2004 SC1040ES estimated-tax worksheet tax computation schedule ($2,500, 5,000, 7,500, 10,000, 12,500). Checked against the 2004 SC tax table (https://web.archive.org/web/20050816134421/http://www.sctax.org/NR/rdonlyres/9B0B7B5D-6A78-4D33-8324-54D286A6EA7A/0/sc1040tt.pdf): rate schedule 7% minus $362 matches and these brackets reproduce every row (whole-dollar subtraction constants). The Federation of Tax Administrators' table for tax year 2004 prints $2,400-$12,300 and was not used. Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2530,
+            "rate": 0.03
+          },
+          {
+            "from": 5060,
+            "rate": 0.04
+          },
+          {
+            "from": 7590,
+            "rate": 0.05
+          },
+          {
+            "from": 10120,
+            "rate": 0.06
+          },
+          {
+            "from": 12650,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8200,
+        "marriedJoint": 16400
+      },
+      "source": "https://dc.statelibrary.sc.gov/server/api/core/bitstreams/6dcc234a-7507-40f4-8f81-3f060a644bcc/content",
+      "notes": "Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. TY2005 brackets from SC Board of Economic Advisors 'State Individual Income Tax Comparisons for Tax Year 2005' (SC page: std deduction 5,000/10,000, exemption 3,200, from the 2005 forms). 44% capital gains deduction, retirement deductions, child-under-6 deduction and two-wage-earner credit not modelled."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.025
+          },
+          {
+            "from": 2570,
+            "rate": 0.03
+          },
+          {
+            "from": 5140,
+            "rate": 0.04
+          },
+          {
+            "from": 7710,
+            "rate": 0.05
+          },
+          {
+            "from": 10280,
+            "rate": 0.06
+          },
+          {
+            "from": 12850,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8450,
+        "marriedJoint": 16900
+      },
+      "source": "https://files.taxfoundation.org/20190311152852/State-Individual-Income-Tax-Rates-2000-2014.xlsx",
+      "notes": "Secondary source (Tax Foundation, State Individual Income Tax Rates as of January 1, 2007, sheet '2007' of the State Individual Income Tax Rates 2000-2014 workbook): South Carolina row prints 2.5% > $0, 3% > $2,570, 4% > $5,140, 5% > $7,710, 6% > $10,280, 7% > $12,850 with the 2006 federal standard deduction ($5,150 / $10,300) and exemption ($3,300), which dates the indexed brackets to tax year 2006 (the workbook's January tables print the previous tax year's indexed brackets for South Carolina; its 2008 sheet says so in footnote (r)). The Federation of Tax Administrators' table for tax year 2006 prints the same range, $2,570-$12,850. The 0% bottom rate began in 2007 (S.C. Code 12-6-515), so 2.5% applies. Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2630,
+            "rate": 0.03
+          },
+          {
+            "from": 5260,
+            "rate": 0.04
+          },
+          {
+            "from": 7890,
+            "rate": 0.05
+          },
+          {
+            "from": 10520,
+            "rate": 0.06
+          },
+          {
+            "from": 13150,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8750,
+        "marriedJoint": 17500
+      },
+      "source": "https://files.taxfoundation.org/20190311152852/State-Individual-Income-Tax-Rates-2000-2014.xlsx",
+      "notes": "Secondary source (Tax Foundation, State Individual Income Tax Rates as of January 1, 2008, sheet '2008' of the State Individual Income Tax Rates 2000-2014 workbook): South Carolina row prints 3% > $2,630, 4% > $5,260, 5% > $7,890, 6% > $10,520, 7% > $13,150, and footnote (r) says the bracket levels shown for the inflation-indexing states are for tax year 2007; recorded for 2007 on that statement. The table still prints 2.5% on the first bracket, but S.C. Code 12-6-515 (2007 Act No. 115, taxable years beginning after 2006) reduced the lowest bracket's rate to 0%, so 0% is recorded. Single source: FTA's table for tax year 2007 (as of January 1, 2007) prints the 2006 range $2,570-$12,850 and no SC form for 2007 is online to check against. The figures differ from 2005 ($2,530 first bracket) and 2008 ($2,670). Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2670,
+            "rate": 0.03
+          },
+          {
+            "from": 5340,
+            "rate": 0.04
+          },
+          {
+            "from": 8010,
+            "rate": 0.05
+          },
+          {
+            "from": 10680,
+            "rate": 0.06
+          },
+          {
+            "from": 13350,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 8950,
+        "marriedJoint": 17900
+      },
+      "source": "https://files.taxfoundation.org/20190311152852/State-Individual-Income-Tax-Rates-2000-2014.xlsx",
+      "notes": "Secondary source (Tax Foundation, State Individual Income Tax Rates as of July 1, 2009, sheet '2009' of the State Individual Income Tax Rates 2000-2014 workbook): South Carolina row prints 0% > $0, 3% > $2,670, 4% > $5,340, 5% > $8,010, 6% > $10,680, 7% > $13,350, and footnote (n) says the Idaho, Montana and South Carolina brackets listed apply to tax year 2008. The Federation of Tax Administrators' table 'for tax year 2008 -- as of January 1, 2008' (https://web.archive.org/web/20080607033003/http://www.taxadmin.org/FTA/rate/ind_inc.html) agrees: rates 0-7.0%, 6 brackets, lowest $2,670, highest $13,350 (intermediate edges not printed there), and SC DOR's 2007-08 annual report reprints the same FTA row. Bottom bracket 0% from 2007 (S.C. Code 12-6-515). Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2740,
+            "rate": 0.03
+          },
+          {
+            "from": 5480,
+            "rate": 0.04
+          },
+          {
+            "from": 8220,
+            "rate": 0.05
+          },
+          {
+            "from": 10960,
+            "rate": 0.06
+          },
+          {
+            "from": 13700,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/SC/2009/IITBook.pdf",
+      "notes": "Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Bottom bracket 0% from 2007 (S.C. Code 12-6-515, 2007 Act 115). Bracket edges from SC Board of Economic Advisors TY2009 table (dc.statelibrary.sc.gov item a823afd3); checked against the 2009 SC1040 booklet: rate schedule 7% minus $466 matches, and the tax table is consistent. Two-wage-earner credit not modelled."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2740,
+            "rate": 0.03
+          },
+          {
+            "from": 5480,
+            "rate": 0.04
+          },
+          {
+            "from": 8220,
+            "rate": 0.05
+          },
+          {
+            "from": 10960,
+            "rate": 0.06
+          },
+          {
+            "from": 13700,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9350,
+        "marriedJoint": 18700
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/SC/2010/IITPacket_2010.pdf",
+      "notes": "Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. UNCERTAIN: no published bracket list found; the 2010 tax table and rate schedule (7% minus $466) are the same as 2009's, so 2009 brackets are used (brackets apparently not indexed for 2010). Two-wage-earner credit not modelled."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2760,
+            "rate": 0.03
+          },
+          {
+            "from": 5520,
+            "rate": 0.04
+          },
+          {
+            "from": 8280,
+            "rate": 0.05
+          },
+          {
+            "from": 11040,
+            "rate": 0.06
+          },
+          {
+            "from": 13800,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9500,
+        "marriedJoint": 19000
+      },
+      "source": "https://dc.statelibrary.sc.gov/server/api/core/bitstreams/7cb20223-2810-4b3e-92c9-fd35ebb1d0ea/content",
+      "notes": "Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. TY2011 brackets from SC Board of Economic Advisors 'State Individual Income Tax Comparisons for 2009 and Computed Tax Liabilities for 2011'; consistent with the 2011 SC1040TT tax table (rate schedule 7% minus $470). Two-wage-earner credit not modelled."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2800,
+            "rate": 0.03
+          },
+          {
+            "from": 5600,
+            "rate": 0.04
+          },
+          {
+            "from": 8400,
+            "rate": 0.05
+          },
+          {
+            "from": 11200,
+            "rate": 0.06
+          },
+          {
+            "from": 14000,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 9750,
+        "marriedJoint": 19500
+      },
+      "source": "https://files.taxfoundation.org/20190311152852/State-Individual-Income-Tax-Rates-2000-2014.xlsx",
+      "notes": "Secondary source (Tax Foundation, State Individual Income Tax Rates as of July 1, 2012, sheet '2012' of the State Individual Income Tax Rates 2000-2014 workbook): South Carolina single and couple schedules print 0% > $0, 3% > $2,800, 4% > $5,600, 5% > $8,400, 6% > $11,200, 7% > $14,000 (sources given as the state form and the 2012 SC1040-ES). FTA's table 'for tax year 2012 -- as of January 1, 2012' (https://web.archive.org/web/20120510161521/http://www.taxadmin.org/fta/rate/ind_inc.pdf) agrees on the range ($2,800-$14,000, 0-7%). Checked against the 2012 SC1040 booklet (https://taxsim.nber.org/historical_state_tax_forms/SC/2012/IIT_PACKET_WEB_10312012.pdf): rate schedule 7% minus $476 matches, and these brackets reproduce every row of its tax table. Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2850,
+            "rate": 0.03
+          },
+          {
+            "from": 5700,
+            "rate": 0.04
+          },
+          {
+            "from": 8550,
+            "rate": 0.05
+          },
+          {
+            "from": 11400,
+            "rate": 0.06
+          },
+          {
+            "from": 14250,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10000,
+        "marriedJoint": 20000
+      },
+      "source": "https://files.taxfoundation.org/20190311152852/State-Individual-Income-Tax-Rates-2000-2014.xlsx",
+      "notes": "Secondary source (Tax Foundation, State Individual Income Tax Rates as of January 1, 2013, sheet '2013' of the State Individual Income Tax Rates 2000-2014 workbook): South Carolina single and couple schedules print 0% > $0, 3% > $2,850, 4% > $5,700, 5% > $8,550, 6% > $11,400, 7% > $14,250. FTA's table 'for tax year 2013 -- as of January 1, 2013' (https://web.archive.org/web/20130816103619/http://www.taxadmin.org/fta/rate/ind_inc.pdf) agrees on the range ($2,850-$14,250). Checked against the 2013 SC1040 booklet (https://taxsim.nber.org/historical_state_tax_forms/SC/2013/IITWebPacket_09042013_Final.pdf): rate schedule 7% minus $485 matches, and these brackets reproduce every row of its tax table. Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2880,
+            "rate": 0.03
+          },
+          {
+            "from": 5760,
+            "rate": 0.04
+          },
+          {
+            "from": 8640,
+            "rate": 0.05
+          },
+          {
+            "from": 11520,
+            "rate": 0.06
+          },
+          {
+            "from": 14400,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10150,
+        "marriedJoint": 20300
+      },
+      "source": "https://scstatehouse.gov/CommitteeInfo/HouseTaxPolicyReviewCommittee/September132016Meeting/State%20Individual%20Income%20Tax%20Comparisons%20(RFA)%209-13-16%20(002).pdf",
+      "notes": "Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. TY2014 brackets from the SC Revenue and Fiscal Affairs Office 'State Individual Income Tax Comparisons' presentation to the House Tax Policy Review Committee (Sept. 13, 2016; tax liability calculation table for tax year 2014); consistent with the 2014 SC1040 rate schedule (7% minus $490). Two-wage-earner credit not modelled."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2910,
+            "rate": 0.03
+          },
+          {
+            "from": 5820,
+            "rate": 0.04
+          },
+          {
+            "from": 8730,
+            "rate": 0.05
+          },
+          {
+            "from": 11640,
+            "rate": 0.06
+          },
+          {
+            "from": 14550,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10300,
+        "marriedJoint": 20600
+      },
+      "source": "https://web.archive.org/web/20150112001139/http://www.sctax.org:80/forms/individual-income/sc1040es-2015-form",
+      "notes": "2015 brackets from the SC Department of Revenue's 2015 SC1040ES estimated-tax worksheet tax computation schedule: $0-2,910 0%, 2,910-5,820 3%, 5,820-8,730 4%, 8,730-11,640 5%, 11,640-14,550 6%, over 14,550 7% less $495. Checked against the 2015 SC1040TT tax table (https://taxsim.nber.org/historical_state_tax_forms/SC/2015/SC1040TT_06152015.pdf): rate schedule 7% minus $495 matches and these brackets reproduce every row. The Tax Foundation's 2015 table (repeating the 2014 brackets) does not match and was not used. Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2920,
+            "rate": 0.03
+          },
+          {
+            "from": 5840,
+            "rate": 0.04
+          },
+          {
+            "from": 8760,
+            "rate": 0.05
+          },
+          {
+            "from": 11680,
+            "rate": 0.06
+          },
+          {
+            "from": 14600,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10350,
+        "marriedJoint": 20700
+      },
+      "source": "https://files.taxfoundation.org/legacy/docs/State%20Individual%20Income%20Tax%202016.xlsx",
+      "notes": "Secondary source (Tax Foundation, State Individual Income Tax Rates and Brackets for 2016, Fiscal Fact No. 500 data workbook): South Carolina single and joint schedules print 0% > $0, 3% > $2,920, 4% > $5,840, 5% > $8,760, 6% > $11,680, 7% > $14,600. Single source; checked against the 2016 SC1040 booklet (https://taxsim.nber.org/historical_state_tax_forms/SC/2016/IITPack_2016.pdf): rate schedule 7% minus $496 matches, and these brackets reproduce every row of its tax table (the Tax Foundation's 2015 table, which repeats the 2014 brackets, does not match the 2015 tax table and was not used). Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2930,
+            "rate": 0.03
+          },
+          {
+            "from": 5860,
+            "rate": 0.04
+          },
+          {
+            "from": 8790,
+            "rate": 0.05
+          },
+          {
+            "from": 11720,
+            "rate": 0.06
+          },
+          {
+            "from": 14650,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 10400,
+        "marriedJoint": 20800
+      },
+      "source": "https://files.taxfoundation.org/20171208132955/State-Individual-Income-Tax-Rates-Brackets-2017-UPDATE-2.xlsx",
+      "notes": "Secondary source (Tax Foundation, State Individual Income Tax Rates and Brackets for 2017, Fiscal Fact No. 544 data workbook, Dec. 2017 update): South Carolina single and joint schedules print 0% > $0, 3% > $2,930, 4% > $5,860, 5% > $8,790, 6% > $11,720, 7% > $14,650; the Tax Foundation's 2018 workbook repeats them on its '2017' sheet. Single source; checked against the 2017 SC1040TT tax table (https://taxsim.nber.org/historical_state_tax_forms/SC/2017/SC1040TT_2017.pdf): these brackets reproduce every row (33 rows where the exact tax ends in 50 cents are printed rounded down), including $6,498 on $99,900-$100,000; the booklet's rate schedule constant ($499) is $1 more than these brackets give ($498.10). Starts from federal taxable income, so deduction = federal standard deduction + personal exemptions for the year (federal amounts). Same brackets for all filing statuses. Two-wage-earner credit and other SC deductions not modelled."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 2970,
+            "rate": 0.03
+          },
+          {
+            "from": 5940,
+            "rate": 0.04
+          },
+          {
+            "from": 8910,
+            "rate": 0.05
+          },
+          {
+            "from": 11880,
+            "rate": 0.06
+          },
+          {
+            "from": 14860,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12000,
+        "marriedJoint": 24000
+      },
+      "source": "https://files.taxfoundation.org/20180926170326/State-Individual-Income-Tax-Rates1.xlsx",
+      "notes": "Secondary source (Tax Foundation, State Individual Income Tax Rates and Brackets for 2018, Fiscal Fact No. 576 data workbook, '2018' sheet): South Carolina single and joint schedules print 3% > $2,970, 4% > $5,940, 5% > $8,910, 6% > $11,880, 7% > $14,860 (income below $2,970 untaxed, the 0% bracket of S.C. Code 12-6-515). Single source; checked against the 2018 SC1040 booklet (https://taxsim.nber.org/historical_state_tax_forms/SC/2018/IITPacket_2018.pdf): rate schedule 7% minus $505 matches, and these brackets reproduce every row of its tax table (9 rows where the exact tax ends in 50 cents are printed rounded down). Starts from federal taxable income: deduction = federal standard deduction (no federal personal exemption after 2017). Same brackets for all filing statuses. SC dependent exemption, two-wage-earner credit and other SC deductions not modelled."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3030,
+            "rate": 0.03
+          },
+          {
+            "from": 6060,
+            "rate": 0.04
+          },
+          {
+            "from": 9090,
+            "rate": 0.05
+          },
+          {
+            "from": 12120,
+            "rate": 0.06
+          },
+          {
+            "from": 15160,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12200,
+        "marriedJoint": 24400
+      },
+      "source": "https://dor.sc.gov/forms-site/Forms/SC4972_2019.pdf",
+      "notes": "SC Department of Revenue Form SC4972 (Tax on Lump-Sum Distributions), 2019, '2019 South Carolina Tax Rate Schedule': $0 below $3,030; 3% of the amount less $91 from $3,030; 4% less $152 from $6,060; 5% less $242 from $9,090; 6% less $364 from $12,120; 7% less $515 from $15,160. The constants are consistent with these bracket edges (each equals the tax at the edge under the lower rate, to the dollar). Same brackets for all filing statuses. Starts from federal taxable income: deduction = the 2019 federal standard deduction ($12,200 single, $24,400 joint), as in this file's 2018 and 2020 entries. SC dependent exemption and other SC deductions not modelled."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3070,
+            "rate": 0.03
+          },
+          {
+            "from": 6150,
+            "rate": 0.04
+          },
+          {
+            "from": 9230,
+            "rate": 0.05
+          },
+          {
+            "from": 12310,
+            "rate": 0.06
+          },
+          {
+            "from": 15400,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12400,
+        "marriedJoint": 24800
+      },
+      "source": "https://rfa.sc.gov/sites/default/files/2021-06/State%20IIT%20Comparisons%20-%20Updated%20June%2014%2C%202021.pdf",
+      "notes": "Starts from federal taxable income: deduction = federal standard deduction (no federal personal exemption after 2017). Same brackets for all filing statuses. Brackets from SC Revenue and Fiscal Affairs Office (taken from 2020 SC forms); consistent with the 2020 SC1040TT tax table (7% minus $523). SC dependent exemption and other SC deductions not modelled."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3110,
+            "rate": 0.03
+          },
+          {
+            "from": 6220,
+            "rate": 0.04
+          },
+          {
+            "from": 9330,
+            "rate": 0.05
+          },
+          {
+            "from": 12440,
+            "rate": 0.06
+          },
+          {
+            "from": 15560,
+            "rate": 0.07
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12550,
+        "marriedJoint": 25100
+      },
+      "source": "https://rfa.sc.gov/media/10771",
+      "notes": "Starts from federal taxable income: deduction = federal standard deduction. Same brackets for all filing statuses. Brackets from SC Revenue and Fiscal Affairs Office H.4216 analysis (Tax Year 2021 table); consistent with the 2021 SC1040TT tax table (7% minus $529). SC dependent exemption not modelled."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3200,
+            "rate": 0.03
+          },
+          {
+            "from": 16040,
+            "rate": 0.065
+          }
+        ]
+      },
+      "deduction": {
+        "single": 12950,
+        "marriedJoint": 25900
+      },
+      "source": "https://www.scstatehouse.gov/code/t12c006.php",
+      "notes": "Starts from federal taxable income: deduction = federal standard deduction. Same brackets for all filing statuses. 2022 Act 228 (S.C. Code 12-6-510(B)) collapsed six brackets to three for TY2022: 0% to $3,200, 3% to $16,040, top rate 6.5% for 2022. DOR's 2022 rate schedule (6.5% minus $658) implies the 6.5% band starts at about $16,057 due to rounding. SC dependent exemption not modelled."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0
+          },
+          {
+            "from": 3330,
+            "rate": 0.03
+          },
+          {
+            "from": 16680,
+            "rate": 0.064
+          }
+        ]
+      },
+      "deduction": {
+        "single": 13850,
+        "marriedJoint": 27700
+      },
+      "source": "https://rfa.sc.gov/media/9281",
+      "notes": "Starts from federal taxable income: deduction = federal standard deduction. Same brackets for all filing statuses. TY2023 brackets from SC Revenue and Fiscal Affairs Office (Sept 2023): 0% to $3,330, 3% to $16,680, 6.4% above. NOTE: the DOR 2023 SC1040TT rate schedule (6.4% minus $670) and tax table imply the 6.4% band starts near $16,770, not $16,680; unresolved. SC dependent exemption not modelled."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3460,
+            "rate": 0.03
+          },
+          {
+            "from": 17330,
+            "rate": 0.062
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3460,
+            "rate": 0.03
+          },
+          {
+            "from": 17330,
+            "rate": 0.062
+          }
+        ]
+      },
+      "deduction": {
+        "single": 14600,
+        "marriedJoint": 29200
+      },
+      "source": "https://dor.sc.gov/sites/dor/files/forms/SC1040TT_2024.pdf",
+      "notes": "Starts from federal taxable income. Bracket edges are derived from the official tax table."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3560,
+            "rate": 0.03
+          },
+          {
+            "from": 17830,
+            "rate": 0.06
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 3560,
+            "rate": 0.03
+          },
+          {
+            "from": 17830,
+            "rate": 0.06
+          }
+        ]
+      },
+      "deduction": {
+        "single": 15000,
+        "marriedJoint": 30000
+      },
+      "source": "https://dor.sc.gov/sites/dor/files/forms/SC1040TT_2025.pdf",
+      "notes": "Starts from federal taxable income, but South Carolina conforms to the IRC only as of December 2024, so the One Big Beautiful Bill Act increase is added back ($750 / $1,500), leaving $15,000 / $30,000 (SCDOR Information Letter #26-4). Bracket edges are derived from the official tax table."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0199
+          },
+          {
+            "from": 30000,
+            "rate": 0.0521
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0199
+          },
+          {
+            "from": 30000,
+            "rate": 0.0521
+          }
+        ]
+      },
+      "source": "https://dor.sc.gov/news/information-about-h-4216",
+      "notes": "H.4216 (Act 110 of 2026) replaced the old 0% / 3% / 6% schedule from tax year 2026. The new SC Income Adjusted Deduction ($15,000 / $30,000) phases out with income."
+    }
+  }
+}

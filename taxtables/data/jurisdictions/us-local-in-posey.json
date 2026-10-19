@@ -1,0 +1,209 @@
+{
+  "id": "us-local-in-posey",
+  "kind": "local",
+  "region": "Posey County, IN",
+  "state": "IN",
+  "since": 2006,
+  "years": {
+    "2006": {
+      "type": "flat",
+      "rate": 0.001,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://forms.in.gov/Download.aspx?id=2967",
+      "notes": "Resident rate is the combined CAGIT or COIT plus CEDIT rate as printed in the DOR county tax rate chart for the year; the components are not modelled separately. Deduction is the $1,000 per person exemption."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.00225,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://forms.in.gov/Download.aspx?id=2968",
+      "notes": "Resident rate is the combined CAGIT or COIT plus CEDIT rate as printed in the DOR county tax rate chart for the year; the components are not modelled separately. Deduction is the $1,000 per person exemption."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.00325,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2008-county-tax-rates-and-codes.pdf",
+      "notes": "Resident rate is the combined CAGIT or COIT plus CEDIT rate as printed in the DOR county tax rate chart for the year; the components are not modelled separately. Deduction is the $1,000 per person exemption."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.0055,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2009-county-tax-rates-and-codes.pdf",
+      "notes": "Resident rate is the combined CAGIT or COIT plus CEDIT rate as printed in the DOR county tax rate chart for the year; the components are not modelled separately. Deduction is the $1,000 per person exemption."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.01,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2010-county-tax-rates-and-codes.pdf",
+      "notes": "Resident rate is the combined CAGIT or COIT plus CEDIT rate as printed in the DOR county tax rate chart for the year; the components are not modelled separately. Deduction is the $1,000 per person exemption."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.01,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2011-county-tax-rates-and-codes.pdf",
+      "notes": "Resident rate is the combined CAGIT or COIT plus CEDIT rate as printed in the DOR county tax rate chart for the year; the components are not modelled separately. Deduction is the $1,000 per person exemption."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.01,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2012-county-tax-rates-and-codes.pdf",
+      "notes": "Resident rate is the combined CAGIT or COIT plus CEDIT rate as printed in the DOR county tax rate chart for the year; the components are not modelled separately. Deduction is the $1,000 per person exemption."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.01,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2013-county-tax-rates-and-codes.pdf",
+      "notes": "Resident rate is the combined CAGIT or COIT plus CEDIT rate as printed in the DOR county tax rate chart for the year; the components are not modelled separately. Deduction is the $1,000 per person exemption."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.01,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2014-county-tax-rates-and-codes.pdf",
+      "notes": "Resident rate is the combined CAGIT or COIT plus CEDIT rate as printed in the DOR county tax rate chart for the year; the components are not modelled separately. Deduction is the $1,000 per person exemption."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.01,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2015-county-tax-rates-and-codes.pdf",
+      "notes": "Resident rate is the combined CAGIT or COIT plus CEDIT rate as printed in the DOR county tax rate chart for the year; the components are not modelled separately. Deduction is the $1,000 per person exemption."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.010625,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2016-county-tax-rates-and-codes.pdf",
+      "notes": "Resident rate is the combined CAGIT or COIT plus CEDIT rate as printed in the DOR county tax rate chart for the year; the components are not modelled separately. Deduction is the $1,000 per person exemption."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.0125,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2017-county-tax-rates-and-codes.pdf"
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.0125,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2018-county-tax-rates-and-codes.pdf"
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.0125,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2019-county-tax-rates-and-codes.pdf"
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.0125,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2020-county-tax-rates-and-codes.pdf"
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.0125,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2021-county-tax-rates-and-codes.pdf"
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.0125,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2022-county-tax-rates-and-codes.pdf"
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.0125,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/2023-county-tax-rates-and-codes.pdf"
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.0145,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://forms.in.gov/Download.aspx?id=16337"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.0145,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://forms.in.gov/Download.aspx?id=16902"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.0145,
+      "deduction": {
+        "single": 1000,
+        "marriedJoint": 2000
+      },
+      "source": "https://www.in.gov/dor/files/dn01.pdf"
+    }
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "id": "us-local-philadelphia",
+  "kind": "local",
+  "region": "Philadelphia",
+  "state": "PA",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3% all year (non-resident rate 3%)."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.0315625,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3% January-June and 3.3125% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3% / 3.3125%."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.033125,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.3125% all year (non-resident rate 3.3125%)."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.033125,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.3125% all year (non-resident rate 3.3125%)."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.033125,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.3125% all year (non-resident rate 3.3125%)."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.033125,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.3125% all year (non-resident rate 3.3125%)."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.038125,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.3125% January-June and 4.3125% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.3125% / 4.3125%."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.043125,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.3125% all year (non-resident rate 4.3125%)."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.043125,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.3125% all year (non-resident rate 4.3125%)."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.043125,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.3125% all year (non-resident rate 4.3125%)."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.043125,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.3125% all year (non-resident rate 4.3125%)."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.043125,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.3125% all year (non-resident rate 4.3125%)."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.043125,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.3125% all year (non-resident rate 4.3125%)."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.0463625,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.3125% January-June and 4.96% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 4.3125% / 4.3125%."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.0496,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.96% all year (non-resident rate 4.3125%)."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.0496,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.96% all year (non-resident rate 4.3125%)."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.0496,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.96% all year (non-resident rate 4.3125%)."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.0496,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.96% all year (non-resident rate 4.3125%)."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.0496,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.96% all year (non-resident rate 4.3125%)."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.0496,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.96% all year (non-resident rate 4.3125%)."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.0496,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.96% all year (non-resident rate 4.3125%)."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.0496,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.96% all year (non-resident rate 4.3125%)."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.0496,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.96% all year (non-resident rate 4.3125%)."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.0496,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.96% all year (non-resident rate 4.3125%)."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.0496,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.96% all year (non-resident rate 4.3125%)."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.0496,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.96% all year (non-resident rate 4.3125%)."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.0485,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.86% January-June and 4.84% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 4.2256% / 4.2082%."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.04815,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.84% January-June and 4.79% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 4.2082% / 4.1647%."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.0473845,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.79% January-June and 4.6869% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 4.1647% / 4.075%."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.046502,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.6869% January-June and 4.6135% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 4.075% / 4.0112%."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.045885,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.6135% January-June and 4.5635% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 4.0112% / 3.9672%."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.04551,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.5635% January-June and 4.5385% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.9672% / 3.9462%."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.0451925,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.5385% January-June and 4.5% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.9462% / 3.9127%."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.0448125,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.5% January-June and 4.4625% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.9127% / 3.8801%."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.044625,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.4625% all year (non-resident rate 3.8801%)."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.04331,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.331% all year (non-resident rate 3.8197%)."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.04301,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.301% all year (non-resident rate 3.7716%)."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.0426,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.26% all year (non-resident rate 3.7557%)."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.040995,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 4.219% January-June and 3.98% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.7242% / 3.5392%."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.039298,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.93% January-June and 3.9296% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.5% / 3.4997%."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.039288,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.9296% January-June and 3.928% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.4997% / 3.4985%."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.03928,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.928% all year (non-resident rate 3.4985%)."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.03928,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.928% all year (non-resident rate 3.4985%)."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.03926,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.928% January-June and 3.924% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.4985% / 3.495%."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.03922,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.924% January-June and 3.92% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.495% / 3.4915%."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.039151,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.92% January-June and 3.9102% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.4915% / 3.4828%."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.039053,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.9102% January-June and 3.9004% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.4828% / 3.4741%."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.0389555,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.9004% January-June and 3.8907% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.4741% / 3.4654%."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.038858,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.8907% January-June and 3.8809% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.4654% / 3.4567%."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.0387605,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.8809% January-June and 3.8712% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.4567% / 3.4481%."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.038712,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.8712% January-June and 3.8712% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.4481% / 3.5019%."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.038555,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.8712% January-June and 3.8398% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.5019% / 3.4481%."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.038149,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.8398% January-June and 3.79% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.4481% / 3.44%."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.0377,
+      "source": "https://www.phila.gov/departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history/",
+      "notes": "Resident wage tax 3.79% January-June and 3.75% from July 1 (the rate changes mid-year), recorded as the simple average as the 2024-2026 entries are. Non-resident rate 3.44% / 3.44%."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.0375,
+      "source": "https://www.phila.gov/services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/wage-tax-employers/"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.03745,
+      "source": "https://www.phila.gov/services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/wage-tax-employers/"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.037375,
+      "source": "https://www.phila.gov/services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/wage-tax-employers/"
+    }
+  }
+}

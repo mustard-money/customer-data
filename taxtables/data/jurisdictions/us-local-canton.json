@@ -1,0 +1,329 @@
+{
+  "id": "us-local-canton",
+  "kind": "local",
+  "region": "Canton",
+  "state": "OH",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "1.5% resident rate as of December 31, 1970, from the ACIR Significant Features of Fiscal Federalism 1971 edition, Table 43 (p. 101), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "1.5% resident rate as of December 31, 1971, from the ACIR Significant Features of Fiscal Federalism 1972 edition, Table 99 (p. 227), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/canton/latest/canton_oh/0-0-0-4354",
+      "notes": "Canton Codified Ordinances § 181.14(d)-(e) (Allocation of funds; American Legal Publishing) narrates the rate history: increases from 1% to 1.3% effective September 1, 1968, to 1.4% effective January 1, 1969 and to 1.5% effective January 1, 1970 (Ord. 200-68, passed by voters 6-20-68), then from 1.5% to 1.9% effective October 1, 1981 and from 1.9% to 2% effective October 1, 1982 (Ord. 239-84, passed 12-17-84); § 181.03 levies 2.0% on and after October 1, 1982. So 1.5% applied from January 1, 1970 until October 1, 1981, including all of 1972; the ACIR Significant Features of Fiscal Federalism editions print 1.5% at December 31, 1970 and 1971, July 1, 1973, July 1, 1976 and October 1, 1979. No document for 1972 itself."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "1.5% resident rate as of July 1, 1973, from the ACIR Significant Features of Fiscal Federalism 1973-74 edition, Table 150 (p. 293), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/canton/latest/canton_oh/0-0-0-4354",
+      "notes": "Canton Codified Ordinances § 181.14(d)-(e) (Allocation of funds; American Legal Publishing) narrates the rate history: increases from 1% to 1.3% effective September 1, 1968, to 1.4% effective January 1, 1969 and to 1.5% effective January 1, 1970 (Ord. 200-68, passed by voters 6-20-68), then from 1.5% to 1.9% effective October 1, 1981 and from 1.9% to 2% effective October 1, 1982 (Ord. 239-84, passed 12-17-84); § 181.03 levies 2.0% on and after October 1, 1982. So 1.5% applied from January 1, 1970 until October 1, 1981, including all of 1974; the ACIR Significant Features of Fiscal Federalism editions print 1.5% at December 31, 1970 and 1971, July 1, 1973, July 1, 1976 and October 1, 1979. No document for 1974 itself."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/canton/latest/canton_oh/0-0-0-4354",
+      "notes": "Canton Codified Ordinances § 181.14(d)-(e) (Allocation of funds; American Legal Publishing) narrates the rate history: increases from 1% to 1.3% effective September 1, 1968, to 1.4% effective January 1, 1969 and to 1.5% effective January 1, 1970 (Ord. 200-68, passed by voters 6-20-68), then from 1.5% to 1.9% effective October 1, 1981 and from 1.9% to 2% effective October 1, 1982 (Ord. 239-84, passed 12-17-84); § 181.03 levies 2.0% on and after October 1, 1982. So 1.5% applied from January 1, 1970 until October 1, 1981, including all of 1975; the ACIR Significant Features of Fiscal Federalism editions print 1.5% at December 31, 1970 and 1971, July 1, 1973, July 1, 1976 and October 1, 1979. No document for 1975 itself."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "1.5% resident rate as of July 1, 1976, from the ACIR Significant Features of Fiscal Federalism 1976-77 edition vol. 2, Table 116 (p. 227), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/canton/latest/canton_oh/0-0-0-4354",
+      "notes": "Canton Codified Ordinances § 181.14(d)-(e) (Allocation of funds; American Legal Publishing) narrates the rate history: increases from 1% to 1.3% effective September 1, 1968, to 1.4% effective January 1, 1969 and to 1.5% effective January 1, 1970 (Ord. 200-68, passed by voters 6-20-68), then from 1.5% to 1.9% effective October 1, 1981 and from 1.9% to 2% effective October 1, 1982 (Ord. 239-84, passed 12-17-84); § 181.03 levies 2.0% on and after October 1, 1982. So 1.5% applied from January 1, 1970 until October 1, 1981, including all of 1977; the ACIR Significant Features of Fiscal Federalism editions print 1.5% at December 31, 1970 and 1971, July 1, 1973, July 1, 1976 and October 1, 1979. No document for 1977 itself."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/canton/latest/canton_oh/0-0-0-4354",
+      "notes": "Canton Codified Ordinances § 181.14(d)-(e) (Allocation of funds; American Legal Publishing) narrates the rate history: increases from 1% to 1.3% effective September 1, 1968, to 1.4% effective January 1, 1969 and to 1.5% effective January 1, 1970 (Ord. 200-68, passed by voters 6-20-68), then from 1.5% to 1.9% effective October 1, 1981 and from 1.9% to 2% effective October 1, 1982 (Ord. 239-84, passed 12-17-84); § 181.03 levies 2.0% on and after October 1, 1982. So 1.5% applied from January 1, 1970 until October 1, 1981, including all of 1978; the ACIR Significant Features of Fiscal Federalism editions print 1.5% at December 31, 1970 and 1971, July 1, 1973, July 1, 1976 and October 1, 1979. No document for 1978 itself."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "1.5% resident rate as of October 1, 1979, from the ACIR Significant Features of Fiscal Federalism 1979-80 edition, Table 88 (p. 131), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://codelibrary.amlegal.com/codes/canton/latest/canton_oh/0-0-0-4354",
+      "notes": "Canton Codified Ordinances § 181.14(d)-(e) (Allocation of funds; American Legal Publishing) narrates the rate history: increases from 1% to 1.3% effective September 1, 1968, to 1.4% effective January 1, 1969 and to 1.5% effective January 1, 1970 (Ord. 200-68, passed by voters 6-20-68), then from 1.5% to 1.9% effective October 1, 1981 and from 1.9% to 2% effective October 1, 1982 (Ord. 239-84, passed 12-17-84); § 181.03 levies 2.0% on and after October 1, 1982. So 1.5% applied from January 1, 1970 until October 1, 1981, including all of 1980; the ACIR Significant Features of Fiscal Federalism editions print 1.5% at December 31, 1970 and 1971, July 1, 1973, July 1, 1976 and October 1, 1979. No document for 1980 itself."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.019,
+      "source": "https://codelibrary.amlegal.com/codes/canton/latest/canton_oh/0-0-0-4354",
+      "notes": "Canton Codified Ordinances § 181.14(d)-(e) (Allocation of funds; American Legal Publishing) narrates the rate history: increases from 1% to 1.3% effective September 1, 1968, to 1.4% effective January 1, 1969 and to 1.5% effective January 1, 1970 (Ord. 200-68, passed by voters 6-20-68), then from 1.5% to 1.9% effective October 1, 1981 and from 1.9% to 2% effective October 1, 1982 (Ord. 239-84, passed 12-17-84); § 181.03 levies 2.0% on and after October 1, 1982. 1.5% through September 30, 1981 and 1.9% from October 1, 1981; recorded at the year-end rate, as for the other Ohio cities."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://codelibrary.amlegal.com/codes/canton/latest/canton_oh/0-0-0-4354",
+      "notes": "Canton Codified Ordinances § 181.14(d)-(e) (Allocation of funds; American Legal Publishing) narrates the rate history: increases from 1% to 1.3% effective September 1, 1968, to 1.4% effective January 1, 1969 and to 1.5% effective January 1, 1970 (Ord. 200-68, passed by voters 6-20-68), then from 1.5% to 1.9% effective October 1, 1981 and from 1.9% to 2% effective October 1, 1982 (Ord. 239-84, passed 12-17-84); § 181.03 levies 2.0% on and after October 1, 1982. 1.9% through September 30, 1982 and 2% from October 1, 1982; recorded at the year-end rate, as for the other Ohio cities. The Department of Taxation's LG-11 table prints 2% for 1983. The city's 2017 Popular Annual Financial Report (cantonohio.gov/ArchiveCenter/ViewFile/Item/93, p. 17) says 'City voters approved a tax increase in 1984 to 2%'; § 181.14(e) itself dates from Ord. 239-84 (December 1984) but states the October 1, 1981 and October 1, 1982 effective dates, so the 1984 vote is read as confirming the levy rather than starting it."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "http://web.archive.org/web/20061005125912/http://tax.ohio.gov/divisions/tax_analysis/tax_data_series/local_government_funds/lg11/documents/LG11CY83.WK1",
+      "notes": "2% for Canton from the Ohio Department of Taxation's Table LG-11 No. 14 (1985) (March 29, 1985), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1983' (Lotus 1-2-3 file LG11CY83.WK1 from the Department's tax data series, Wayback Machine copy of tax.ohio.gov, 2006); the file's footnote (a) text on the rate column is not preserved; the other years' footnote (a) reads 'Rate in effect as of December 31' or 'Rate in effect at end of' the year. Canton Codified Ordinances § 181.03 states 2.0% on and after October 1, 1982; the city's 2017 Popular Annual Financial Report (cantonohio.gov/ArchiveCenter/ViewFile/Item/93, p. 17) says 'City voters approved a tax increase in 1984 to 2%'."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "http://web.archive.org/web/20020525100252/http://www.state.oh.us/tax/ftp/lg11cy84.wk1",
+      "notes": "2.0% from the Ohio Department of Taxation's Table LG-11 No. 3 (January 15, 1986), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1984' (Lotus 1-2-3 file lg11cy84.wk1 from the Department's FTP directory, Wayback Machine copy; the file's footnote (a) text on the rate column is not preserved, the 1988 and 1997 files' footnote (a) reads 'Rate in effect as of December 31'). Canton Codified Ordinances § 181.03 states 2.0% on and after October 1, 1982. The city's 2017 Popular Annual Financial Report (cantonohio.gov/ArchiveCenter/ViewFile/Item/93, p. 17) says 'City voters approved a tax increase in 1984 to 2%'."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "http://web.archive.org/web/20061005125502/http://tax.ohio.gov/divisions/tax_analysis/tax_data_series/local_government_funds/lg11/documents/LG11CY85.WK1",
+      "notes": "2% for Canton from the Ohio Department of Taxation's Table LG-11 No. 4 (1987) (January 14, 1987), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1985' (Lotus 1-2-3 file LG11CY85.WK1 from the Department's tax data series, Wayback Machine copy of tax.ohio.gov, 2006); footnote (a) reads '(a)  Rate in effect at end of 1985.'. Canton Codified Ordinances § 181.03 states 2.0% on and after October 1, 1982; the city's 2017 Popular Annual Financial Report (cantonohio.gov/ArchiveCenter/ViewFile/Item/93, p. 17) says 'City voters approved a tax increase in 1984 to 2%'."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "http://web.archive.org/web/20061005125919/http://tax.ohio.gov/divisions/tax_analysis/tax_data_series/local_government_funds/lg11/documents/LG11CY86.WK1",
+      "notes": "2% for Canton from the Ohio Department of Taxation's Table LG-11 No. 69 (1987) (December 16, 1987), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1986' (Lotus 1-2-3 file LG11CY86.WK1 from the Department's tax data series, Wayback Machine copy of tax.ohio.gov, 2006); footnote (a) reads '(a)  Rate in effect at end of 1986.'. Canton Codified Ordinances § 181.03 states 2.0% on and after October 1, 1982; the city's 2017 Popular Annual Financial Report (cantonohio.gov/ArchiveCenter/ViewFile/Item/93, p. 17) says 'City voters approved a tax increase in 1984 to 2%'."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "http://web.archive.org/web/20061005125748/http://tax.ohio.gov/divisions/tax_analysis/tax_data_series/local_government_funds/lg11/documents/LG11CY87.WK1",
+      "notes": "2% for Canton from the Ohio Department of Taxation's Table LG-11 No. 65 (1988) (December 2, 1988), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1987' (Lotus 1-2-3 file LG11CY87.WK1 from the Department's tax data series, Wayback Machine copy of tax.ohio.gov, 2006); footnote (a) reads '(a)  Rate in effect at end of 1987'. Canton Codified Ordinances § 181.03 states 2.0% on and after October 1, 1982; the city's 2017 Popular Annual Financial Report (cantonohio.gov/ArchiveCenter/ViewFile/Item/93, p. 17) says 'City voters approved a tax increase in 1984 to 2%'."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "http://web.archive.org/web/20020429224405/http://www.state.oh.us/tax/ftp/lg11cy88.wk1",
+      "notes": "2.0% 'rate in effect as of December 31, 1988' from the Ohio Department of Taxation's Table LG-11 No. 53 (December 7, 1989), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1988' (Lotus 1-2-3 file lg11cy88.wk1 from the Department's FTP directory, Wayback Machine copy). The city's 2017 Popular Annual Financial Report (cantonohio.gov/ArchiveCenter/ViewFile/Item/93, p. 17) says 'City voters approved a tax increase in 1984 to 2%'."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "http://web.archive.org/web/20061005125337/http://tax.ohio.gov/divisions/tax_analysis/tax_data_series/local_government_funds/lg11/documents/LG11CY89.WK1",
+      "notes": "2% for Canton from the Ohio Department of Taxation's Table LG-11 No. 54 (1990) (September 06, 1990), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1989' (Lotus 1-2-3 file LG11CY89.WK1 from the Department's tax data series, Wayback Machine copy of tax.ohio.gov, 2006); footnote (a) reads '(a) Rate in effect as of December 31, 1989.'. Canton Codified Ordinances § 181.03 states 2.0% on and after October 1, 1982; the city's 2017 Popular Annual Financial Report (cantonohio.gov/ArchiveCenter/ViewFile/Item/93, p. 17) says 'City voters approved a tax increase in 1984 to 2%'."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "http://web.archive.org/web/20061005125630/http://tax.ohio.gov/divisions/tax_analysis/tax_data_series/local_government_funds/lg11/documents/LG11CY90.WK1",
+      "notes": "2% for Canton from the Ohio Department of Taxation's Table LG-11 No. 53 (1991) (September 09, 1991), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1990' (Lotus 1-2-3 file LG11CY90.WK1 from the Department's tax data series, Wayback Machine copy of tax.ohio.gov, 2006); footnote (a) reads '(a) Rate in effect as of December 31, 1990.'. Canton Codified Ordinances § 181.03 states 2.0% on and after October 1, 1982; the city's 2017 Popular Annual Financial Report (cantonohio.gov/ArchiveCenter/ViewFile/Item/93, p. 17) says 'City voters approved a tax increase in 1984 to 2%'."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "http://web.archive.org/web/20061005125838/http://tax.ohio.gov/divisions/tax_analysis/tax_data_series/local_government_funds/lg11/documents/LG11CY91.WK1",
+      "notes": "2% for Canton from the Ohio Department of Taxation's Table LG-11 No. 45 (1992) (September 21, 1992), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1991' (Lotus 1-2-3 file LG11CY91.WK1 from the Department's tax data series, Wayback Machine copy of tax.ohio.gov, 2006); footnote (a) reads '(a) Rate in effect as of December 31, 1991.'. Canton Codified Ordinances § 181.03 states 2.0% on and after October 1, 1982; the city's 2017 Popular Annual Financial Report (cantonohio.gov/ArchiveCenter/ViewFile/Item/93, p. 17) says 'City voters approved a tax increase in 1984 to 2%'."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/sfff-1993-vol-1.pdf",
+      "notes": "2.0% resident rate as of November 1992, from the ACIR Significant Features of Fiscal Federalism 1993 edition vol. 1, Table 24 (p. 79), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1994-Vol-1.pdf",
+      "notes": "2.0% resident rate as of November 1993, from the ACIR Significant Features of Fiscal Federalism 1994 edition vol. 1, Table 22 (p. 79), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1995-Vol-1.pdf",
+      "notes": "2.0% resident rate as of November 1994, from the ACIR Significant Features of Fiscal Federalism 1995 edition vol. 1, Table 21 (p. 72), 'Local income taxes: rates' table. The Ohio Department of Taxation's LG-11 tables (used from 2000) start in 2000; the rate in effect at December 31 is not separately confirmed."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "http://web.archive.org/web/20061005125805/http://tax.ohio.gov/divisions/tax_analysis/tax_data_series/local_government_funds/lg11/documents/LG11CY95.WK1",
+      "notes": "2% for Canton from the Ohio Department of Taxation's Table LG-11 No. 56 (1996) (October 10, 1996), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1995' (Lotus 1-2-3 file LG11CY95.WK1 from the Department's tax data series, Wayback Machine copy of tax.ohio.gov, 2006); footnote (a) reads '(a) Rate in effect as of December 31, 1995.'. Canton Codified Ordinances § 181.03 states 2.0% on and after October 1, 1982; the city's 2017 Popular Annual Financial Report (cantonohio.gov/ArchiveCenter/ViewFile/Item/93, p. 17) says 'City voters approved a tax increase in 1984 to 2%'."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "http://web.archive.org/web/20061005125327/http://tax.ohio.gov/divisions/tax_analysis/tax_data_series/local_government_funds/lg11/documents/LG11CY96.WK1",
+      "notes": "2% for Canton from the Ohio Department of Taxation's Table LG-11 No. 62 (1997) (August 12, 1997), 'Municipal income taxes: tax rates and amounts collected, by municipality, calendar year 1996' (Lotus 1-2-3 file LG11CY96.WK1 from the Department's tax data series, Wayback Machine copy of tax.ohio.gov, 2006); footnote (a) reads '(a) Rate in effect as of December 31, 1996'. Canton Codified Ordinances § 181.03 states 2.0% on and after October 1, 1982; the city's 2017 Popular Annual Financial Report (cantonohio.gov/ArchiveCenter/ViewFile/Item/93, p. 17) says 'City voters approved a tax increase in 1984 to 2%'."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://ohioauditor.gov/AuditSearch/Reports/2007/City_of_Canton_06-Stark.pdf",
+      "notes": "2.00% for 1997 as listed in the City of Canton FY2006 Comprehensive Annual Financial Report (Ohio Auditor of State copy), statistical table 'Income Tax Revenue Base and Collections, Last Ten Years' (p. S7), which gives the tax rate for each year 1997-2006 as 2.00%."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://ohioauditor.gov/AuditSearch/Reports/2007/City_of_Canton_06-Stark.pdf",
+      "notes": "2.00% for 1998 as listed in the City of Canton FY2006 Comprehensive Annual Financial Report (Ohio Auditor of State copy), statistical table 'Income Tax Revenue Base and Collections, Last Ten Years' (p. S7), which gives the tax rate for each year 1997-2006 as 2.00%."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://ohioauditor.gov/AuditSearch/Reports/2007/City_of_Canton_06-Stark.pdf",
+      "notes": "2.00% for 1999 as listed in the City of Canton FY2006 Comprehensive Annual Financial Report (Ohio Auditor of State copy), statistical table 'Income Tax Revenue Base and Collections, Last Ten Years' (p. S7), which gives the tax rate for each year 1997-2006 as 2.00%."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy00.pdf"
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy01.pdf"
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy02.pdf"
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy03.pdf"
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy04.pdf"
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy05.pdf"
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy06.pdf"
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy07.pdf"
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy08.pdf"
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy09.pdf"
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy10.pdf"
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy11.pdf"
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy12.pdf"
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy13.pdf"
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy14.pdf"
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy15.pdf"
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy16.pdf"
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy17.pdf"
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/tax_analysis/tax_data_series/local_government_funds/lg11/lg11cy18.pdf",
+      "notes": "2.0% through June 30, 2018; 2.5% from July 1, 2018 (city FAQ). Rate as listed in the Ohio Department of Taxation Table LG-11 (rate in effect at December 31)."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://cantonohio.gov/FAQ.aspx?QID=249",
+      "notes": "2.5% since the July 1, 2018 rate increase."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://cantonohio.gov/FAQ.aspx?QID=249",
+      "notes": "2.5% since the July 1, 2018 rate increase."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://cantonohio.gov/FAQ.aspx?QID=249",
+      "notes": "2.5% since the July 1, 2018 rate increase."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://cantonohio.gov/FAQ.aspx?QID=249",
+      "notes": "2.5% since the July 1, 2018 rate increase."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://cantonohio.gov/FAQ.aspx?QID=249",
+      "notes": "2.5% since the July 1, 2018 rate increase."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://cantonohio.gov/FAQ.aspx?QID=249"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://cantonohio.gov/FAQ.aspx?QID=249"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://cantonohio.gov/FAQ.aspx?QID=249"
+    }
+  }
+}

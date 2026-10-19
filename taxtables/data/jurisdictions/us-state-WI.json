@@ -1,0 +1,2607 @@
+{
+  "id": "us-state-WI",
+  "kind": "state",
+  "region": "Wisconsin",
+  "state": "WI",
+  "years": {
+    "1970": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.027000000000000003
+          },
+          {
+            "from": 1000,
+            "rate": 0.029500000000000002
+          },
+          {
+            "from": 2000,
+            "rate": 0.032
+          },
+          {
+            "from": 3000,
+            "rate": 0.042
+          },
+          {
+            "from": 4000,
+            "rate": 0.047
+          },
+          {
+            "from": 5000,
+            "rate": 0.052000000000000005
+          },
+          {
+            "from": 6000,
+            "rate": 0.057
+          },
+          {
+            "from": 7000,
+            "rate": 0.067
+          },
+          {
+            "from": 8000,
+            "rate": 0.07200000000000001
+          },
+          {
+            "from": 9000,
+            "rate": 0.077
+          },
+          {
+            "from": 10000,
+            "rate": 0.08199999999999999
+          },
+          {
+            "from": 11000,
+            "rate": 0.087
+          },
+          {
+            "from": 12000,
+            "rate": 0.092
+          },
+          {
+            "from": 13000,
+            "rate": 0.09699999999999999
+          },
+          {
+            "from": 14000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "LFB Table 10 column 1966-70. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemptions were tax credits ($10 / $20); standard deduction was a percentage of income with a min/max, so no deduction modelled."
+    },
+    "1971": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.027999999999999997
+          },
+          {
+            "from": 1000,
+            "rate": 0.031
+          },
+          {
+            "from": 2000,
+            "rate": 0.033
+          },
+          {
+            "from": 3000,
+            "rate": 0.043
+          },
+          {
+            "from": 4000,
+            "rate": 0.049
+          },
+          {
+            "from": 5000,
+            "rate": 0.054000000000000006
+          },
+          {
+            "from": 6000,
+            "rate": 0.059000000000000004
+          },
+          {
+            "from": 7000,
+            "rate": 0.069
+          },
+          {
+            "from": 8000,
+            "rate": 0.075
+          },
+          {
+            "from": 9000,
+            "rate": 0.08
+          },
+          {
+            "from": 10000,
+            "rate": 0.085
+          },
+          {
+            "from": 11000,
+            "rate": 0.09
+          },
+          {
+            "from": 12000,
+            "rate": 0.095
+          },
+          {
+            "from": 13000,
+            "rate": 0.1
+          },
+          {
+            "from": 14000,
+            "rate": 0.10400000000000001
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "LFB Table 10 column 1971. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemptions were tax credits ($12 / $24); standard deduction was a percentage of income with a min/max, so no deduction modelled."
+    },
+    "1972": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 1000,
+            "rate": 0.034
+          },
+          {
+            "from": 2000,
+            "rate": 0.036000000000000004
+          },
+          {
+            "from": 3000,
+            "rate": 0.048
+          },
+          {
+            "from": 4000,
+            "rate": 0.054000000000000006
+          },
+          {
+            "from": 5000,
+            "rate": 0.059000000000000004
+          },
+          {
+            "from": 6000,
+            "rate": 0.065
+          },
+          {
+            "from": 7000,
+            "rate": 0.076
+          },
+          {
+            "from": 8000,
+            "rate": 0.08199999999999999
+          },
+          {
+            "from": 9000,
+            "rate": 0.08800000000000001
+          },
+          {
+            "from": 10000,
+            "rate": 0.09300000000000001
+          },
+          {
+            "from": 11000,
+            "rate": 0.099
+          },
+          {
+            "from": 12000,
+            "rate": 0.105
+          },
+          {
+            "from": 13000,
+            "rate": 0.111
+          },
+          {
+            "from": 14000,
+            "rate": 0.114
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "LFB Table 10 column 1972-78. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemptions were tax credits ($15 single / $30 married in 1972-73); standard deduction was a percentage of income with a min/max, so no deduction modelled."
+    },
+    "1973": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 1000,
+            "rate": 0.034
+          },
+          {
+            "from": 2000,
+            "rate": 0.036000000000000004
+          },
+          {
+            "from": 3000,
+            "rate": 0.048
+          },
+          {
+            "from": 4000,
+            "rate": 0.054000000000000006
+          },
+          {
+            "from": 5000,
+            "rate": 0.059000000000000004
+          },
+          {
+            "from": 6000,
+            "rate": 0.065
+          },
+          {
+            "from": 7000,
+            "rate": 0.076
+          },
+          {
+            "from": 8000,
+            "rate": 0.08199999999999999
+          },
+          {
+            "from": 9000,
+            "rate": 0.08800000000000001
+          },
+          {
+            "from": 10000,
+            "rate": 0.09300000000000001
+          },
+          {
+            "from": 11000,
+            "rate": 0.099
+          },
+          {
+            "from": 12000,
+            "rate": 0.105
+          },
+          {
+            "from": 13000,
+            "rate": 0.111
+          },
+          {
+            "from": 14000,
+            "rate": 0.114
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "LFB Table 10 column 1972-78. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemptions were tax credits ($15 single / $30 married in 1972-73); standard deduction was a percentage of income with a min/max, so no deduction modelled."
+    },
+    "1974": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 1000,
+            "rate": 0.034
+          },
+          {
+            "from": 2000,
+            "rate": 0.036000000000000004
+          },
+          {
+            "from": 3000,
+            "rate": 0.048
+          },
+          {
+            "from": 4000,
+            "rate": 0.054000000000000006
+          },
+          {
+            "from": 5000,
+            "rate": 0.059000000000000004
+          },
+          {
+            "from": 6000,
+            "rate": 0.065
+          },
+          {
+            "from": 7000,
+            "rate": 0.076
+          },
+          {
+            "from": 8000,
+            "rate": 0.08199999999999999
+          },
+          {
+            "from": 9000,
+            "rate": 0.08800000000000001
+          },
+          {
+            "from": 10000,
+            "rate": 0.09300000000000001
+          },
+          {
+            "from": 11000,
+            "rate": 0.099
+          },
+          {
+            "from": 12000,
+            "rate": 0.105
+          },
+          {
+            "from": 13000,
+            "rate": 0.111
+          },
+          {
+            "from": 14000,
+            "rate": 0.114
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "LFB Table 10 column 1972-78. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemptions were tax credits ($20 single / $40 married); standard deduction was a percentage of income with a min/max, so no deduction modelled."
+    },
+    "1975": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 1000,
+            "rate": 0.034
+          },
+          {
+            "from": 2000,
+            "rate": 0.036000000000000004
+          },
+          {
+            "from": 3000,
+            "rate": 0.048
+          },
+          {
+            "from": 4000,
+            "rate": 0.054000000000000006
+          },
+          {
+            "from": 5000,
+            "rate": 0.059000000000000004
+          },
+          {
+            "from": 6000,
+            "rate": 0.065
+          },
+          {
+            "from": 7000,
+            "rate": 0.076
+          },
+          {
+            "from": 8000,
+            "rate": 0.08199999999999999
+          },
+          {
+            "from": 9000,
+            "rate": 0.08800000000000001
+          },
+          {
+            "from": 10000,
+            "rate": 0.09300000000000001
+          },
+          {
+            "from": 11000,
+            "rate": 0.099
+          },
+          {
+            "from": 12000,
+            "rate": 0.105
+          },
+          {
+            "from": 13000,
+            "rate": 0.111
+          },
+          {
+            "from": 14000,
+            "rate": 0.114
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "LFB Table 10 column 1972-78. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemptions were tax credits ($20 single / $40 married); standard deduction was a percentage of income with a min/max, so no deduction modelled."
+    },
+    "1976": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 1000,
+            "rate": 0.034
+          },
+          {
+            "from": 2000,
+            "rate": 0.036000000000000004
+          },
+          {
+            "from": 3000,
+            "rate": 0.048
+          },
+          {
+            "from": 4000,
+            "rate": 0.054000000000000006
+          },
+          {
+            "from": 5000,
+            "rate": 0.059000000000000004
+          },
+          {
+            "from": 6000,
+            "rate": 0.065
+          },
+          {
+            "from": 7000,
+            "rate": 0.076
+          },
+          {
+            "from": 8000,
+            "rate": 0.08199999999999999
+          },
+          {
+            "from": 9000,
+            "rate": 0.08800000000000001
+          },
+          {
+            "from": 10000,
+            "rate": 0.09300000000000001
+          },
+          {
+            "from": 11000,
+            "rate": 0.099
+          },
+          {
+            "from": 12000,
+            "rate": 0.105
+          },
+          {
+            "from": 13000,
+            "rate": 0.111
+          },
+          {
+            "from": 14000,
+            "rate": 0.114
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "LFB Table 10 column 1972-78. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemptions were tax credits ($20 single / $40 married); standard deduction was a percentage of income with a min/max, so no deduction modelled."
+    },
+    "1977": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 1000,
+            "rate": 0.034
+          },
+          {
+            "from": 2000,
+            "rate": 0.036000000000000004
+          },
+          {
+            "from": 3000,
+            "rate": 0.048
+          },
+          {
+            "from": 4000,
+            "rate": 0.054000000000000006
+          },
+          {
+            "from": 5000,
+            "rate": 0.059000000000000004
+          },
+          {
+            "from": 6000,
+            "rate": 0.065
+          },
+          {
+            "from": 7000,
+            "rate": 0.076
+          },
+          {
+            "from": 8000,
+            "rate": 0.08199999999999999
+          },
+          {
+            "from": 9000,
+            "rate": 0.08800000000000001
+          },
+          {
+            "from": 10000,
+            "rate": 0.09300000000000001
+          },
+          {
+            "from": 11000,
+            "rate": 0.099
+          },
+          {
+            "from": 12000,
+            "rate": 0.105
+          },
+          {
+            "from": 13000,
+            "rate": 0.111
+          },
+          {
+            "from": 14000,
+            "rate": 0.114
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "LFB Table 10 column 1972-78. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemptions were tax credits ($20 single / $40 married); standard deduction was a percentage of income with a min/max, so no deduction modelled."
+    },
+    "1978": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.031
+          },
+          {
+            "from": 1000,
+            "rate": 0.034
+          },
+          {
+            "from": 2000,
+            "rate": 0.036000000000000004
+          },
+          {
+            "from": 3000,
+            "rate": 0.048
+          },
+          {
+            "from": 4000,
+            "rate": 0.054000000000000006
+          },
+          {
+            "from": 5000,
+            "rate": 0.059000000000000004
+          },
+          {
+            "from": 6000,
+            "rate": 0.065
+          },
+          {
+            "from": 7000,
+            "rate": 0.076
+          },
+          {
+            "from": 8000,
+            "rate": 0.08199999999999999
+          },
+          {
+            "from": 9000,
+            "rate": 0.08800000000000001
+          },
+          {
+            "from": 10000,
+            "rate": 0.09300000000000001
+          },
+          {
+            "from": 11000,
+            "rate": 0.099
+          },
+          {
+            "from": 12000,
+            "rate": 0.105
+          },
+          {
+            "from": 13000,
+            "rate": 0.111
+          },
+          {
+            "from": 14000,
+            "rate": 0.114
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "LFB Table 10 column 1972-78. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemptions were tax credits ($20 single / $40 married); standard deduction was a percentage of income with a min/max, so no deduction modelled."
+    },
+    "1979": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.034
+          },
+          {
+            "from": 3000,
+            "rate": 0.052
+          },
+          {
+            "from": 6000,
+            "rate": 0.07
+          },
+          {
+            "from": 9000,
+            "rate": 0.082
+          },
+          {
+            "from": 12000,
+            "rate": 0.087
+          },
+          {
+            "from": 15000,
+            "rate": 0.091
+          },
+          {
+            "from": 20000,
+            "rate": 0.095
+          },
+          {
+            "from": 40000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Brackets indexed 1980-82, frozen 1983-85. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemption credits $20 single / $40 married; standard deduction/low-income allowance was formula based, so no deduction modelled."
+    },
+    "1980": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.034
+          },
+          {
+            "from": 3300,
+            "rate": 0.052
+          },
+          {
+            "from": 6600,
+            "rate": 0.07
+          },
+          {
+            "from": 9900,
+            "rate": 0.082
+          },
+          {
+            "from": 13200,
+            "rate": 0.087
+          },
+          {
+            "from": 16500,
+            "rate": 0.091
+          },
+          {
+            "from": 22000,
+            "rate": 0.095
+          },
+          {
+            "from": 44000,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Brackets indexed 1980-82, frozen 1983-85. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemption credits $20 single / $40 married; standard deduction/low-income allowance was formula based, so no deduction modelled."
+    },
+    "1981": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.034
+          },
+          {
+            "from": 3600,
+            "rate": 0.052
+          },
+          {
+            "from": 7200,
+            "rate": 0.07
+          },
+          {
+            "from": 10900,
+            "rate": 0.082
+          },
+          {
+            "from": 14500,
+            "rate": 0.087
+          },
+          {
+            "from": 18100,
+            "rate": 0.091
+          },
+          {
+            "from": 24100,
+            "rate": 0.095
+          },
+          {
+            "from": 48200,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Brackets indexed 1980-82, frozen 1983-85. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemption credits $20 single / $40 married; standard deduction/low-income allowance was formula based, so no deduction modelled."
+    },
+    "1982": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.034
+          },
+          {
+            "from": 3900,
+            "rate": 0.052
+          },
+          {
+            "from": 7700,
+            "rate": 0.07
+          },
+          {
+            "from": 11700,
+            "rate": 0.082
+          },
+          {
+            "from": 15500,
+            "rate": 0.087
+          },
+          {
+            "from": 19400,
+            "rate": 0.091
+          },
+          {
+            "from": 25800,
+            "rate": 0.095
+          },
+          {
+            "from": 51600,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Brackets indexed 1980-82, frozen 1983-85. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemption credits $20 single / $40 married; standard deduction/low-income allowance was formula based, so no deduction modelled."
+    },
+    "1983": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.034
+          },
+          {
+            "from": 3900,
+            "rate": 0.052
+          },
+          {
+            "from": 7700,
+            "rate": 0.07
+          },
+          {
+            "from": 11700,
+            "rate": 0.082
+          },
+          {
+            "from": 15500,
+            "rate": 0.087
+          },
+          {
+            "from": 19400,
+            "rate": 0.091
+          },
+          {
+            "from": 25800,
+            "rate": 0.095
+          },
+          {
+            "from": 51600,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Brackets indexed 1980-82, frozen 1983-85. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemption credits $20 single / $40 married; standard deduction/low-income allowance was formula based, so no deduction modelled. Plus a 10% surtax on 1983 tax liability (not modelled)."
+    },
+    "1984": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.034
+          },
+          {
+            "from": 3900,
+            "rate": 0.052
+          },
+          {
+            "from": 7700,
+            "rate": 0.07
+          },
+          {
+            "from": 11700,
+            "rate": 0.082
+          },
+          {
+            "from": 15500,
+            "rate": 0.087
+          },
+          {
+            "from": 19400,
+            "rate": 0.091
+          },
+          {
+            "from": 25800,
+            "rate": 0.095
+          },
+          {
+            "from": 51600,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Brackets indexed 1980-82, frozen 1983-85. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemption credits $20 single / $40 married; standard deduction/low-income allowance was formula based, so no deduction modelled."
+    },
+    "1985": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.034
+          },
+          {
+            "from": 3900,
+            "rate": 0.052
+          },
+          {
+            "from": 7700,
+            "rate": 0.07
+          },
+          {
+            "from": 11700,
+            "rate": 0.082
+          },
+          {
+            "from": 15500,
+            "rate": 0.087
+          },
+          {
+            "from": 19400,
+            "rate": 0.091
+          },
+          {
+            "from": 25800,
+            "rate": 0.095
+          },
+          {
+            "from": 51600,
+            "rate": 0.1
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Brackets indexed 1980-82, frozen 1983-85. Single schedule applied to each individual (joint-return brackets began 1986). Personal exemption credits $20 single / $40 married; standard deduction/low-income allowance was formula based, so no deduction modelled."
+    },
+    "1986": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 7500,
+            "rate": 0.066
+          },
+          {
+            "from": 15000,
+            "rate": 0.075
+          },
+          {
+            "from": 30000,
+            "rate": 0.079
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.05
+          },
+          {
+            "from": 10000,
+            "rate": 0.066
+          },
+          {
+            "from": 20000,
+            "rate": 0.075
+          },
+          {
+            "from": 40000,
+            "rate": 0.079
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Personal exemption credit replaced by $50 dependent / $25 senior credits only. Sliding-scale standard deduction phases out with income, so no deduction modelled."
+    },
+    "1987": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 7500,
+            "rate": 0.0655
+          },
+          {
+            "from": 15000,
+            "rate": 0.0693
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 10000,
+            "rate": 0.0655
+          },
+          {
+            "from": 20000,
+            "rate": 0.0693
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "No personal exemption (dependent/senior credits only). Sliding-scale standard deduction phases out with income, so no deduction modelled."
+    },
+    "1988": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 7500,
+            "rate": 0.0655
+          },
+          {
+            "from": 15000,
+            "rate": 0.0693
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 10000,
+            "rate": 0.0655
+          },
+          {
+            "from": 20000,
+            "rate": 0.0693
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "No personal exemption (dependent/senior credits only). Sliding-scale standard deduction phases out with income, so no deduction modelled."
+    },
+    "1989": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 7500,
+            "rate": 0.0655
+          },
+          {
+            "from": 15000,
+            "rate": 0.0693
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 10000,
+            "rate": 0.0655
+          },
+          {
+            "from": 20000,
+            "rate": 0.0693
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "No personal exemption (dependent/senior credits only). Sliding-scale standard deduction phases out with income, so no deduction modelled."
+    },
+    "1990": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 7500,
+            "rate": 0.0655
+          },
+          {
+            "from": 15000,
+            "rate": 0.0693
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 10000,
+            "rate": 0.0655
+          },
+          {
+            "from": 20000,
+            "rate": 0.0693
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "No personal exemption (dependent/senior credits only). Sliding-scale standard deduction phases out with income, so no deduction modelled."
+    },
+    "1991": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 7500,
+            "rate": 0.0655
+          },
+          {
+            "from": 15000,
+            "rate": 0.0693
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 10000,
+            "rate": 0.0655
+          },
+          {
+            "from": 20000,
+            "rate": 0.0693
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "No personal exemption (dependent/senior credits only). Sliding-scale standard deduction phases out with income, so no deduction modelled."
+    },
+    "1992": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 7500,
+            "rate": 0.0655
+          },
+          {
+            "from": 15000,
+            "rate": 0.0693
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 10000,
+            "rate": 0.0655
+          },
+          {
+            "from": 20000,
+            "rate": 0.0693
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "No personal exemption (dependent/senior credits only). Sliding-scale standard deduction phases out with income, so no deduction modelled."
+    },
+    "1993": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 7500,
+            "rate": 0.0655
+          },
+          {
+            "from": 15000,
+            "rate": 0.0693
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 10000,
+            "rate": 0.0655
+          },
+          {
+            "from": 20000,
+            "rate": 0.0693
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "No personal exemption (dependent/senior credits only). Sliding-scale standard deduction phases out with income, so no deduction modelled."
+    },
+    "1994": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 7500,
+            "rate": 0.0655
+          },
+          {
+            "from": 15000,
+            "rate": 0.0693
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 10000,
+            "rate": 0.0655
+          },
+          {
+            "from": 20000,
+            "rate": 0.0693
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "No personal exemption (dependent/senior credits only). Sliding-scale standard deduction phases out with income, so no deduction modelled."
+    },
+    "1995": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 7500,
+            "rate": 0.0655
+          },
+          {
+            "from": 15000,
+            "rate": 0.0693
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 10000,
+            "rate": 0.0655
+          },
+          {
+            "from": 20000,
+            "rate": 0.0693
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/1995/statutes/statutes/71/I/06",
+      "notes": "Rates and brackets per Wis. Stat. 71.06 (1995). No personal exemption (dependent/senior credits only). Sliding-scale standard deduction phases out with income, so no deduction modelled."
+    },
+    "1996": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 7500,
+            "rate": 0.0655
+          },
+          {
+            "from": 15000,
+            "rate": 0.0693
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 10000,
+            "rate": 0.0655
+          },
+          {
+            "from": 20000,
+            "rate": 0.0693
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "No personal exemption (dependent/senior credits only). Sliding-scale standard deduction phases out with income, so no deduction modelled."
+    },
+    "1997": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 7500,
+            "rate": 0.0655
+          },
+          {
+            "from": 15000,
+            "rate": 0.0693
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.049
+          },
+          {
+            "from": 10000,
+            "rate": 0.0655
+          },
+          {
+            "from": 20000,
+            "rate": 0.0693
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "No personal exemption (dependent/senior credits only). Sliding-scale standard deduction phases out with income, so no deduction modelled."
+    },
+    "1998": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0477
+          },
+          {
+            "from": 7500,
+            "rate": 0.0637
+          },
+          {
+            "from": 15000,
+            "rate": 0.0677
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0477
+          },
+          {
+            "from": 10000,
+            "rate": 0.0637
+          },
+          {
+            "from": 20000,
+            "rate": 0.0677
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/1997/statutes/statutes/71/I/06",
+      "notes": "Rates per Wis. Stat. 71.06(1m)/(2)(c) (1997); matches LFB Table 10. No personal exemption (dependent/senior credits only). Sliding-scale standard deduction phases out with income, so no deduction modelled."
+    },
+    "1999": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0477
+          },
+          {
+            "from": 7620,
+            "rate": 0.0637
+          },
+          {
+            "from": 15240,
+            "rate": 0.0677
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0477
+          },
+          {
+            "from": 10160,
+            "rate": 0.0637
+          },
+          {
+            "from": 20320,
+            "rate": 0.0677
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Brackets indexed from 1999. No personal exemption (dependent/senior credits only). Sliding-scale standard deduction phases out with income, so no deduction modelled."
+    },
+    "2000": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0473
+          },
+          {
+            "from": 7790,
+            "rate": 0.0633
+          },
+          {
+            "from": 15590,
+            "rate": 0.0655
+          },
+          {
+            "from": 116890,
+            "rate": 0.0675
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0473
+          },
+          {
+            "from": 10390,
+            "rate": 0.0633
+          },
+          {
+            "from": 20780,
+            "rate": 0.0655
+          },
+          {
+            "from": 155850,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $600 per person exemption is left out with it (as in 2024)."
+    },
+    "2001": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 8060,
+            "rate": 0.0615
+          },
+          {
+            "from": 16130,
+            "rate": 0.065
+          },
+          {
+            "from": 116330,
+            "rate": 0.0675
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 10750,
+            "rate": 0.0615
+          },
+          {
+            "from": 21500,
+            "rate": 0.065
+          },
+          {
+            "from": 155100,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2002": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 8280,
+            "rate": 0.0615
+          },
+          {
+            "from": 16560,
+            "rate": 0.065
+          },
+          {
+            "from": 124200,
+            "rate": 0.0675
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 11040,
+            "rate": 0.0615
+          },
+          {
+            "from": 22080,
+            "rate": 0.065
+          },
+          {
+            "from": 165600,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2003": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 8430,
+            "rate": 0.0615
+          },
+          {
+            "from": 16860,
+            "rate": 0.065
+          },
+          {
+            "from": 126420,
+            "rate": 0.0675
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 11240,
+            "rate": 0.0615
+          },
+          {
+            "from": 22480,
+            "rate": 0.065
+          },
+          {
+            "from": 168560,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2004": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 8610,
+            "rate": 0.0615
+          },
+          {
+            "from": 17220,
+            "rate": 0.065
+          },
+          {
+            "from": 129150,
+            "rate": 0.0675
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 11480,
+            "rate": 0.0615
+          },
+          {
+            "from": 22960,
+            "rate": 0.065
+          },
+          {
+            "from": 172200,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2005": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 8840,
+            "rate": 0.0615
+          },
+          {
+            "from": 17680,
+            "rate": 0.065
+          },
+          {
+            "from": 132580,
+            "rate": 0.0675
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 11780,
+            "rate": 0.0615
+          },
+          {
+            "from": 23570,
+            "rate": 0.065
+          },
+          {
+            "from": 176770,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2006": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 9160,
+            "rate": 0.0615
+          },
+          {
+            "from": 18320,
+            "rate": 0.065
+          },
+          {
+            "from": 137410,
+            "rate": 0.0675
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 12210,
+            "rate": 0.0615
+          },
+          {
+            "from": 24430,
+            "rate": 0.065
+          },
+          {
+            "from": 183210,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2007": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 9510,
+            "rate": 0.0615
+          },
+          {
+            "from": 19020,
+            "rate": 0.065
+          },
+          {
+            "from": 142650,
+            "rate": 0.0675
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 12680,
+            "rate": 0.0615
+          },
+          {
+            "from": 25360,
+            "rate": 0.065
+          },
+          {
+            "from": 190210,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2008": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 9700,
+            "rate": 0.0615
+          },
+          {
+            "from": 19400,
+            "rate": 0.065
+          },
+          {
+            "from": 145460,
+            "rate": 0.0675
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 12930,
+            "rate": 0.0615
+          },
+          {
+            "from": 25860,
+            "rate": 0.065
+          },
+          {
+            "from": 193950,
+            "rate": 0.0675
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2009": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 10220,
+            "rate": 0.0615
+          },
+          {
+            "from": 20440,
+            "rate": 0.065
+          },
+          {
+            "from": 153280,
+            "rate": 0.0675
+          },
+          {
+            "from": 225000,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 13620,
+            "rate": 0.0615
+          },
+          {
+            "from": 27250,
+            "rate": 0.065
+          },
+          {
+            "from": 204370,
+            "rate": 0.0675
+          },
+          {
+            "from": 300000,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2010": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 10070,
+            "rate": 0.0615
+          },
+          {
+            "from": 20130,
+            "rate": 0.065
+          },
+          {
+            "from": 151000,
+            "rate": 0.0675
+          },
+          {
+            "from": 221660,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 13420,
+            "rate": 0.0615
+          },
+          {
+            "from": 26850,
+            "rate": 0.065
+          },
+          {
+            "from": 201340,
+            "rate": 0.0675
+          },
+          {
+            "from": 295550,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2011": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 10180,
+            "rate": 0.0615
+          },
+          {
+            "from": 20360,
+            "rate": 0.065
+          },
+          {
+            "from": 152740,
+            "rate": 0.0675
+          },
+          {
+            "from": 224210,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 13580,
+            "rate": 0.0615
+          },
+          {
+            "from": 27150,
+            "rate": 0.065
+          },
+          {
+            "from": 203650,
+            "rate": 0.0675
+          },
+          {
+            "from": 298940,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2012": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 10570,
+            "rate": 0.0615
+          },
+          {
+            "from": 21130,
+            "rate": 0.065
+          },
+          {
+            "from": 158500,
+            "rate": 0.0675
+          },
+          {
+            "from": 232660,
+            "rate": 0.0775
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.046
+          },
+          {
+            "from": 14090,
+            "rate": 0.0615
+          },
+          {
+            "from": 28180,
+            "rate": 0.065
+          },
+          {
+            "from": 211330,
+            "rate": 0.0675
+          },
+          {
+            "from": 310210,
+            "rate": 0.0775
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2013": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.044
+          },
+          {
+            "from": 10750,
+            "rate": 0.0584
+          },
+          {
+            "from": 21490,
+            "rate": 0.0627
+          },
+          {
+            "from": 236600,
+            "rate": 0.0765
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.044
+          },
+          {
+            "from": 14330,
+            "rate": 0.0584
+          },
+          {
+            "from": 28650,
+            "rate": 0.0627
+          },
+          {
+            "from": 315460,
+            "rate": 0.0765
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/WI/2013/Form1_inst.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024). Checked against the form instructions' tax computation worksheet."
+    },
+    "2014": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 10910,
+            "rate": 0.0584
+          },
+          {
+            "from": 21820,
+            "rate": 0.0627
+          },
+          {
+            "from": 240190,
+            "rate": 0.0765
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 14540,
+            "rate": 0.0584
+          },
+          {
+            "from": 29090,
+            "rate": 0.0627
+          },
+          {
+            "from": 320250,
+            "rate": 0.0765
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2015": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 11090,
+            "rate": 0.0584
+          },
+          {
+            "from": 22190,
+            "rate": 0.0627
+          },
+          {
+            "from": 244270,
+            "rate": 0.0765
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 14790,
+            "rate": 0.0584
+          },
+          {
+            "from": 29580,
+            "rate": 0.0627
+          },
+          {
+            "from": 325700,
+            "rate": 0.0765
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2016": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 11120,
+            "rate": 0.0584
+          },
+          {
+            "from": 22230,
+            "rate": 0.0627
+          },
+          {
+            "from": 244750,
+            "rate": 0.0765
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 14820,
+            "rate": 0.0584
+          },
+          {
+            "from": 29640,
+            "rate": 0.0627
+          },
+          {
+            "from": 326330,
+            "rate": 0.0765
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2017": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 11230,
+            "rate": 0.0584
+          },
+          {
+            "from": 22470,
+            "rate": 0.0627
+          },
+          {
+            "from": 247350,
+            "rate": 0.0765
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 14980,
+            "rate": 0.0584
+          },
+          {
+            "from": 29960,
+            "rate": 0.0627
+          },
+          {
+            "from": 329810,
+            "rate": 0.0765
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2018": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 11450,
+            "rate": 0.0584
+          },
+          {
+            "from": 22900,
+            "rate": 0.0627
+          },
+          {
+            "from": 252150,
+            "rate": 0.0765
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.04
+          },
+          {
+            "from": 15270,
+            "rate": 0.0584
+          },
+          {
+            "from": 30540,
+            "rate": 0.0627
+          },
+          {
+            "from": 336200,
+            "rate": 0.0765
+          }
+        ]
+      },
+      "source": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2025/0002_individual_income_tax_informational_paper_2.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024)."
+    },
+    "2019": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0386
+          },
+          {
+            "from": 11760,
+            "rate": 0.0504
+          },
+          {
+            "from": 23520,
+            "rate": 0.0627
+          },
+          {
+            "from": 258950,
+            "rate": 0.0765
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0386
+          },
+          {
+            "from": 15680,
+            "rate": 0.0504
+          },
+          {
+            "from": 31360,
+            "rate": 0.0627
+          },
+          {
+            "from": 345270,
+            "rate": 0.0765
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/WI/2019/2019-Form1-Inst.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024). Checked against the form instructions' tax computation worksheet."
+    },
+    "2020": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0354
+          },
+          {
+            "from": 11970,
+            "rate": 0.0465
+          },
+          {
+            "from": 23930,
+            "rate": 0.0627
+          },
+          {
+            "from": 263480,
+            "rate": 0.0765
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0354
+          },
+          {
+            "from": 15960,
+            "rate": 0.0465
+          },
+          {
+            "from": 31910,
+            "rate": 0.0627
+          },
+          {
+            "from": 351310,
+            "rate": 0.0765
+          }
+        ]
+      },
+      "source": "https://www.revenue.wi.gov/TaxForms2020/2020-Form1-Inst.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024). Checked against the form instructions' tax computation worksheet."
+    },
+    "2021": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0354
+          },
+          {
+            "from": 12120,
+            "rate": 0.0465
+          },
+          {
+            "from": 24250,
+            "rate": 0.053
+          },
+          {
+            "from": 266930,
+            "rate": 0.0765
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0354
+          },
+          {
+            "from": 16160,
+            "rate": 0.0465
+          },
+          {
+            "from": 32330,
+            "rate": 0.053
+          },
+          {
+            "from": 355910,
+            "rate": 0.0765
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/WI/2021/2021-Form1-Inst.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024). Checked against the form instructions' tax computation worksheet."
+    },
+    "2022": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.0354
+          },
+          {
+            "from": 12760,
+            "rate": 0.0465
+          },
+          {
+            "from": 25520,
+            "rate": 0.053
+          },
+          {
+            "from": 280950,
+            "rate": 0.0765
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.0354
+          },
+          {
+            "from": 17010,
+            "rate": 0.0465
+          },
+          {
+            "from": 34030,
+            "rate": 0.053
+          },
+          {
+            "from": 374600,
+            "rate": 0.0765
+          }
+        ]
+      },
+      "source": "https://www.revenue.wi.gov/TaxForms2022/2022-Form1-Inst.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024). Checked against the form instructions' tax computation worksheet."
+    },
+    "2023": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 13810,
+            "rate": 0.044
+          },
+          {
+            "from": 27630,
+            "rate": 0.053
+          },
+          {
+            "from": 304170,
+            "rate": 0.0765
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 18420,
+            "rate": 0.044
+          },
+          {
+            "from": 36840,
+            "rate": 0.053
+          },
+          {
+            "from": 405550,
+            "rate": 0.0765
+          }
+        ]
+      },
+      "source": "https://taxsim.nber.org/historical_state_tax_forms/WI/2023/2023-Form1-Inst.pdf",
+      "notes": "Sliding-scale standard deduction phases out with income, so no deduction modelled. The $700 per person exemption is left out with it (as in 2024). Checked against the form instructions' tax computation worksheet."
+    },
+    "2024": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 14320,
+            "rate": 0.044
+          },
+          {
+            "from": 28640,
+            "rate": 0.053
+          },
+          {
+            "from": 315310,
+            "rate": 0.0765
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 19090,
+            "rate": 0.044
+          },
+          {
+            "from": 38190,
+            "rate": 0.053
+          },
+          {
+            "from": 420420,
+            "rate": 0.0765
+          }
+        ]
+      },
+      "source": "https://www.revenue.wi.gov/TaxForms2024/2024-Form1-Inst.pdf",
+      "notes": "The standard deduction (up to $13,230 / $24,490) phases out with income; the $700 per person exemption is left out with it."
+    },
+    "2025": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 14680,
+            "rate": 0.044
+          },
+          {
+            "from": 50480,
+            "rate": 0.053
+          },
+          {
+            "from": 323290,
+            "rate": 0.0765
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 19580,
+            "rate": 0.044
+          },
+          {
+            "from": 67300,
+            "rate": 0.053
+          },
+          {
+            "from": 431060,
+            "rate": 0.0765
+          }
+        ]
+      },
+      "source": "https://www.revenue.wi.gov/TaxForms2025/2025-Form1-Inst.pdf",
+      "notes": "The 4.4% bracket was widened for 2025. The standard deduction (up to $13,560 / $25,110) phases out with income; the $700 per person exemption is left out with it."
+    },
+    "2026": {
+      "type": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 15110,
+            "rate": 0.044
+          },
+          {
+            "from": 51950,
+            "rate": 0.053
+          },
+          {
+            "from": 332720,
+            "rate": 0.0765
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0.035
+          },
+          {
+            "from": 20150,
+            "rate": 0.044
+          },
+          {
+            "from": 69260,
+            "rate": 0.053
+          },
+          {
+            "from": 443630,
+            "rate": 0.0765
+          }
+        ]
+      },
+      "source": "https://www.revenue.wi.gov/TaxForms2026/2026-Form1-ES-Inst.pdf",
+      "notes": "The standard deduction ($13,960 / $25,840) phases out with income; the $700 per person exemption is left out with it."
+    }
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "id": "us-local-grand-rapids",
+  "kind": "local",
+  "region": "Grand Rapids",
+  "state": "MI",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1987-1988/billanalysis/House/pdf/1987-HLA-0709-A.pdf",
+      "notes": "Tax adopted 1967 (HFA 2007 table). Statutory 1% rate; Grand Rapids was still at 1% in December 1988 when it sought authority to raise it (House analysis of SB 709)."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1995-1996/billanalysis/Senate/pdf/1995-SFA-4587-A.pdf",
+      "notes": "Senate Fiscal Agency (Nov. 1995): only Detroit, Highland Park and Saginaw levied more than the 1%/0.5% rates."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1995-1996/billanalysis/Senate/pdf/1995-SFA-4587-A.pdf",
+      "notes": "Senate Fiscal Agency (Nov. 1995): only Detroit, Highland Park and Saginaw levied more than the 1%/0.5% rates."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1995-1996/billanalysis/Senate/pdf/1995-SFA-4587-A.pdf",
+      "notes": "Senate Fiscal Agency (Nov. 1995): only Detroit, Highland Park and Saginaw levied more than the 1%/0.5% rates."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1995-1996/billanalysis/Senate/pdf/1995-SFA-4587-A.pdf",
+      "notes": "Senate Fiscal Agency (Nov. 1995): only Detroit, Highland Park and Saginaw levied more than the 1%/0.5% rates."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1995-1996/billanalysis/Senate/pdf/1995-SFA-4587-A.pdf",
+      "notes": "Senate Fiscal Agency (Nov. 1995): only Detroit, Highland Park and Saginaw levied more than the 1%/0.5% rates."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1995-1996/billanalysis/Senate/pdf/1995-SFA-4587-A.pdf",
+      "notes": "Senate Fiscal Agency (Nov. 1995): only Detroit, Highland Park and Saginaw levied more than the 1%/0.5% rates."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.01,
+      "source": "https://www.legislature.mi.gov/documents/1995-1996/billanalysis/Senate/pdf/1995-SFA-4587-A.pdf",
+      "notes": "Senate Fiscal Agency (Nov. 1995): only Detroit, Highland Park and Saginaw levied more than the 1%/0.5% rates."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.013,
+      "source": "https://www.grandrapidsmi.gov/media/grib2uyl/city-of-grand-rapids-fy-23-acfr_print_1.pdf",
+      "notes": "1.3% on residents and corporations, 0.65% on nonresidents: the city's FY2023 Annual Comprehensive Financial Report (statistical section, 'Segmented Data on Local Income Tax Filers, Rates and Liability', p. 148) states that the rates applicable through June 30, 2010 (1.3% / 0.65%) were established by the city's electorate in 1995; City Code sec. 1.591 (Ord. No. 94-47, 12-13-94, under MCL 141.503c) is the ordinance, and the House Fiscal Agency table (2007) and the city's income tax guide confirm 1.3% in 2007-June 2010. Whether the 1995 increase took effect July 1, 1995 or January 1, 1996 is not documented; the 1995 row keeps the 1% the Senate Fiscal Agency reported in November 1995."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.013,
+      "source": "https://www.grandrapidsmi.gov/media/grib2uyl/city-of-grand-rapids-fy-23-acfr_print_1.pdf",
+      "notes": "1.3% on residents and corporations, 0.65% on nonresidents: the city's FY2023 Annual Comprehensive Financial Report (statistical section, 'Segmented Data on Local Income Tax Filers, Rates and Liability', p. 148) states that the rates applicable through June 30, 2010 (1.3% / 0.65%) were established by the city's electorate in 1995; City Code sec. 1.591 (Ord. No. 94-47, 12-13-94, under MCL 141.503c) is the ordinance, and the House Fiscal Agency table (2007) and the city's income tax guide confirm 1.3% in 2007-June 2010. Whether the 1995 increase took effect July 1, 1995 or January 1, 1996 is not documented; the 1995 row keeps the 1% the Senate Fiscal Agency reported in November 1995."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.013,
+      "source": "https://www.grandrapidsmi.gov/media/grib2uyl/city-of-grand-rapids-fy-23-acfr_print_1.pdf",
+      "notes": "1.3% on residents and corporations, 0.65% on nonresidents: the city's FY2023 Annual Comprehensive Financial Report (statistical section, 'Segmented Data on Local Income Tax Filers, Rates and Liability', p. 148) states that the rates applicable through June 30, 2010 (1.3% / 0.65%) were established by the city's electorate in 1995; City Code sec. 1.591 (Ord. No. 94-47, 12-13-94, under MCL 141.503c) is the ordinance, and the House Fiscal Agency table (2007) and the city's income tax guide confirm 1.3% in 2007-June 2010. Whether the 1995 increase took effect July 1, 1995 or January 1, 1996 is not documented; the 1995 row keeps the 1% the Senate Fiscal Agency reported in November 1995."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.013,
+      "source": "https://www.grandrapidsmi.gov/media/grib2uyl/city-of-grand-rapids-fy-23-acfr_print_1.pdf",
+      "notes": "1.3% on residents and corporations, 0.65% on nonresidents: the city's FY2023 Annual Comprehensive Financial Report (statistical section, 'Segmented Data on Local Income Tax Filers, Rates and Liability', p. 148) states that the rates applicable through June 30, 2010 (1.3% / 0.65%) were established by the city's electorate in 1995; City Code sec. 1.591 (Ord. No. 94-47, 12-13-94, under MCL 141.503c) is the ordinance, and the House Fiscal Agency table (2007) and the city's income tax guide confirm 1.3% in 2007-June 2010. Whether the 1995 increase took effect July 1, 1995 or January 1, 1996 is not documented; the 1995 row keeps the 1% the Senate Fiscal Agency reported in November 1995."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.013,
+      "source": "https://www.grandrapidsmi.gov/media/grib2uyl/city-of-grand-rapids-fy-23-acfr_print_1.pdf",
+      "notes": "1.3% on residents and corporations, 0.65% on nonresidents: the city's FY2023 Annual Comprehensive Financial Report (statistical section, 'Segmented Data on Local Income Tax Filers, Rates and Liability', p. 148) states that the rates applicable through June 30, 2010 (1.3% / 0.65%) were established by the city's electorate in 1995; City Code sec. 1.591 (Ord. No. 94-47, 12-13-94, under MCL 141.503c) is the ordinance, and the House Fiscal Agency table (2007) and the city's income tax guide confirm 1.3% in 2007-June 2010. Whether the 1995 increase took effect July 1, 1995 or January 1, 1996 is not documented; the 1995 row keeps the 1% the Senate Fiscal Agency reported in November 1995."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.013,
+      "source": "https://www.grandrapidsmi.gov/media/grib2uyl/city-of-grand-rapids-fy-23-acfr_print_1.pdf",
+      "notes": "1.3% on residents and corporations, 0.65% on nonresidents: the city's FY2023 Annual Comprehensive Financial Report (statistical section, 'Segmented Data on Local Income Tax Filers, Rates and Liability', p. 148) states that the rates applicable through June 30, 2010 (1.3% / 0.65%) were established by the city's electorate in 1995; City Code sec. 1.591 (Ord. No. 94-47, 12-13-94, under MCL 141.503c) is the ordinance, and the House Fiscal Agency table (2007) and the city's income tax guide confirm 1.3% in 2007-June 2010. Whether the 1995 increase took effect July 1, 1995 or January 1, 1996 is not documented; the 1995 row keeps the 1% the Senate Fiscal Agency reported in November 1995."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.013,
+      "source": "https://www.grandrapidsmi.gov/media/grib2uyl/city-of-grand-rapids-fy-23-acfr_print_1.pdf",
+      "notes": "1.3% on residents and corporations, 0.65% on nonresidents: the city's FY2023 Annual Comprehensive Financial Report (statistical section, 'Segmented Data on Local Income Tax Filers, Rates and Liability', p. 148) states that the rates applicable through June 30, 2010 (1.3% / 0.65%) were established by the city's electorate in 1995; City Code sec. 1.591 (Ord. No. 94-47, 12-13-94, under MCL 141.503c) is the ordinance, and the House Fiscal Agency table (2007) and the city's income tax guide confirm 1.3% in 2007-June 2010. Whether the 1995 increase took effect July 1, 1995 or January 1, 1996 is not documented; the 1995 row keeps the 1% the Senate Fiscal Agency reported in November 1995."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.013,
+      "source": "https://www.grandrapidsmi.gov/media/grib2uyl/city-of-grand-rapids-fy-23-acfr_print_1.pdf",
+      "notes": "1.3% on residents and corporations, 0.65% on nonresidents: the city's FY2023 Annual Comprehensive Financial Report (statistical section, 'Segmented Data on Local Income Tax Filers, Rates and Liability', p. 148) states that the rates applicable through June 30, 2010 (1.3% / 0.65%) were established by the city's electorate in 1995; City Code sec. 1.591 (Ord. No. 94-47, 12-13-94, under MCL 141.503c) is the ordinance, and the House Fiscal Agency table (2007) and the city's income tax guide confirm 1.3% in 2007-June 2010. Whether the 1995 increase took effect July 1, 1995 or January 1, 1996 is not documented; the 1995 row keeps the 1% the Senate Fiscal Agency reported in November 1995."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.013,
+      "source": "https://www.grandrapidsmi.gov/media/grib2uyl/city-of-grand-rapids-fy-23-acfr_print_1.pdf",
+      "notes": "1.3% on residents and corporations, 0.65% on nonresidents: the city's FY2023 Annual Comprehensive Financial Report (statistical section, 'Segmented Data on Local Income Tax Filers, Rates and Liability', p. 148) states that the rates applicable through June 30, 2010 (1.3% / 0.65%) were established by the city's electorate in 1995; City Code sec. 1.591 (Ord. No. 94-47, 12-13-94, under MCL 141.503c) is the ordinance, and the House Fiscal Agency table (2007) and the city's income tax guide confirm 1.3% in 2007-June 2010. Whether the 1995 increase took effect July 1, 1995 or January 1, 1996 is not documented; the 1995 row keeps the 1% the Senate Fiscal Agency reported in November 1995."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.013,
+      "source": "https://www.grandrapidsmi.gov/media/grib2uyl/city-of-grand-rapids-fy-23-acfr_print_1.pdf",
+      "notes": "1.3% on residents and corporations, 0.65% on nonresidents: the city's FY2023 Annual Comprehensive Financial Report (statistical section, 'Segmented Data on Local Income Tax Filers, Rates and Liability', p. 148) states that the rates applicable through June 30, 2010 (1.3% / 0.65%) were established by the city's electorate in 1995; City Code sec. 1.591 (Ord. No. 94-47, 12-13-94, under MCL 141.503c) is the ordinance, and the House Fiscal Agency table (2007) and the city's income tax guide confirm 1.3% in 2007-June 2010. Whether the 1995 increase took effect July 1, 1995 or January 1, 1996 is not documented; the 1995 row keeps the 1% the Senate Fiscal Agency reported in November 1995."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.013,
+      "source": "https://www.grandrapidsmi.gov/media/grib2uyl/city-of-grand-rapids-fy-23-acfr_print_1.pdf",
+      "notes": "1.3% on residents and corporations, 0.65% on nonresidents: the city's FY2023 Annual Comprehensive Financial Report (statistical section, 'Segmented Data on Local Income Tax Filers, Rates and Liability', p. 148) states that the rates applicable through June 30, 2010 (1.3% / 0.65%) were established by the city's electorate in 1995; City Code sec. 1.591 (Ord. No. 94-47, 12-13-94, under MCL 141.503c) is the ordinance, and the House Fiscal Agency table (2007) and the city's income tax guide confirm 1.3% in 2007-June 2010. Whether the 1995 increase took effect July 1, 1995 or January 1, 1996 is not documented; the 1995 row keeps the 1% the Senate Fiscal Agency reported in November 1995."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.013,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-4120-1.pdf",
+      "notes": "1.3% residents / 0.65% nonresidents (House Fiscal Agency table, 2007)."
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.013,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.3% residents / 0.65% nonresidents before July 1, 2010 (city guide); 1.3% also in 2007 per the House Fiscal Agency table."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.013,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.3% residents / 0.65% nonresidents before July 1, 2010 (city guide); 1.3% also in 2007 per the House Fiscal Agency table."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.3% through June 30, 2010; 1.5% residents / 0.75% nonresidents from July 1, 2010 (voter-approved May 4, 2010). Recorded at the year-end rate."
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.5% residents / 0.75% nonresidents since July 1, 2010 (city guide)."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.5% residents / 0.75% nonresidents since July 1, 2010 (city guide)."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.5% residents / 0.75% nonresidents since July 1, 2010 (city guide)."
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.5% residents / 0.75% nonresidents since July 1, 2010 (city guide)."
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.5% residents / 0.75% nonresidents since July 1, 2010 (city guide)."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.5% residents / 0.75% nonresidents since July 1, 2010 (city guide)."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.5% residents / 0.75% nonresidents since July 1, 2010 (city guide)."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.5% residents / 0.75% nonresidents since July 1, 2010 (city guide)."
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.5% residents / 0.75% nonresidents since July 1, 2010 (city guide)."
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.5% residents / 0.75% nonresidents since July 1, 2010 (city guide)."
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.5% residents / 0.75% nonresidents since July 1, 2010 (city guide)."
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.5% residents / 0.75% nonresidents since July 1, 2010 (city guide)."
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/",
+      "notes": "1.5% residents / 0.75% nonresidents since July 1, 2010 (city guide)."
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.015,
+      "source": "https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/individual-taxpayers/income-tax-guide-for-individuals/"
+    }
+  }
+}

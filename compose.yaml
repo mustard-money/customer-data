@@ -1,0 +1,22 @@
+# Optional: for people with the docker compose plugin. The Makefile's `make db`
+# does the same with plain `docker run` and does not depend on this file.
+services:
+  postgres:
+    image: postgres:17
+    container_name: mustard-postgres
+    environment:
+      POSTGRES_USER: mustard
+      POSTGRES_PASSWORD: mustard
+      POSTGRES_DB: mustard
+    ports:
+      - "5432:5432"
+    volumes:
+      - mustard-postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-h", "127.0.0.1", "-U", "mustard", "-d", "mustard"]
+      interval: 2s
+      retries: 30
+
+volumes:
+  mustard-postgres-data:
+    name: mustard-postgres-data

@@ -1,0 +1,337 @@
+{
+  "id": "us-local-detroit",
+  "kind": "local",
+  "region": "Detroit",
+  "state": "MI",
+  "years": {
+    "1970": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "2% on residents and 1% on nonresidents: ACIR Significant Features of Fiscal Federalism 1970-71 ed. (M-57), Table 43 (pp. 100-102), rates at December 31, 1970; footnote 5: the resident rate was increased from 1% to 2% effective October 1, 1968. The 1969-70 edition (M-50, Table 47, Dec. 31, 1969) lists the same 2%."
+    },
+    "1971": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "2% on residents and 1% on nonresidents: ACIR Significant Features 1972 ed. (M-74), Table 99 (pp. 226-228), rates at December 31, 1971, footnote 5 (2% effective October 1, 1968)."
+    },
+    "1972": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/detroit/codes/code_of_ordinances?nodeId=CICOCH44--49_CH44TA_ARTIICIINTA_DIV1GE_S44-2-8IMTEN",
+      "notes": "2% on residents (1% on nonresidents), the rate in force from October 1, 1968 until the 3% rate took effect July 1, 1981 (Detroit City Code sec. 44-2-8 history: Ord. No. 460-H, eff. 7-1-1981, was the next rate ordinance; MCL 141.503 capped Detroit at 2% from PA 307 of 1968 until PA 60 of 1981). No ACIR edition prints this year; the editions on either side (Dec. 31, 1971 and July 1, 1973) both list Detroit at 2.0%, so the rate is carried across."
+    },
+    "1973": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "2% on residents and 1% on nonresidents: ACIR Significant Features 1973-74 ed. (M-79), Table 150 (pp. 291-294), rates at July 1, 1973, footnote 4."
+    },
+    "1974": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/detroit/codes/code_of_ordinances?nodeId=CICOCH44--49_CH44TA_ARTIICIINTA_DIV1GE_S44-2-8IMTEN",
+      "notes": "2% on residents (1% on nonresidents), the rate in force from October 1, 1968 until the 3% rate took effect July 1, 1981 (Detroit City Code sec. 44-2-8 history: Ord. No. 460-H, eff. 7-1-1981, was the next rate ordinance; MCL 141.503 capped Detroit at 2% from PA 307 of 1968 until PA 60 of 1981). No ACIR edition prints this year; the editions on either side (July 1, 1973 and July 1, 1976) both list Detroit at 2.0%, so the rate is carried across."
+    },
+    "1975": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/detroit/codes/code_of_ordinances?nodeId=CICOCH44--49_CH44TA_ARTIICIINTA_DIV1GE_S44-2-8IMTEN",
+      "notes": "2% on residents (1% on nonresidents), the rate in force from October 1, 1968 until the 3% rate took effect July 1, 1981 (Detroit City Code sec. 44-2-8 history: Ord. No. 460-H, eff. 7-1-1981, was the next rate ordinance; MCL 141.503 capped Detroit at 2% from PA 307 of 1968 until PA 60 of 1981). No ACIR edition prints this year; the editions on either side (July 1, 1973 and July 1, 1976) both list Detroit at 2.0%, so the rate is carried across."
+    },
+    "1976": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "2% on residents and 1% on nonresidents: ACIR Significant Features 1976-77 ed. vol. 2, Table 116 (pp. 225-228), rates at July 1, 1976, footnote 5."
+    },
+    "1977": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/detroit/codes/code_of_ordinances?nodeId=CICOCH44--49_CH44TA_ARTIICIINTA_DIV1GE_S44-2-8IMTEN",
+      "notes": "2% on residents (1% on nonresidents), the rate in force from October 1, 1968 until the 3% rate took effect July 1, 1981 (Detroit City Code sec. 44-2-8 history: Ord. No. 460-H, eff. 7-1-1981, was the next rate ordinance; MCL 141.503 capped Detroit at 2% from PA 307 of 1968 until PA 60 of 1981). No ACIR edition prints this year; the editions on either side (July 1, 1976 and Oct. 1, 1979) both list Detroit at 2.0%, so the rate is carried across."
+    },
+    "1978": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/detroit/codes/code_of_ordinances?nodeId=CICOCH44--49_CH44TA_ARTIICIINTA_DIV1GE_S44-2-8IMTEN",
+      "notes": "2% on residents (1% on nonresidents), the rate in force from October 1, 1968 until the 3% rate took effect July 1, 1981 (Detroit City Code sec. 44-2-8 history: Ord. No. 460-H, eff. 7-1-1981, was the next rate ordinance; MCL 141.503 capped Detroit at 2% from PA 307 of 1968 until PA 60 of 1981). No ACIR edition prints this year; the editions on either side (July 1, 1976 and Oct. 1, 1979) both list Detroit at 2.0%, so the rate is carried across."
+    },
+    "1979": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "2% on residents and 1% on nonresidents: ACIR Significant Features 1979-80 ed., Table 87 (p. 126; Michigan cities 1.0% 'except for Detroit where the rate is 2.0 percent') and Table 88 footnote 9, rates at October 1, 1979."
+    },
+    "1980": {
+      "type": "flat",
+      "rate": 0.02,
+      "source": "https://library.municode.com/mi/detroit/codes/code_of_ordinances?nodeId=CICOCH44--49_CH44TA_ARTIICIINTA_DIV1GE_S44-2-8IMTEN",
+      "notes": "2% on residents (1% on nonresidents): the ACIR 1979-80 edition lists Detroit at 2.0% at October 1, 1979 and the City Code sec. 44-2-8 history shows the next rate ordinance, Ord. No. 460-H (3% residents / 1.5% nonresidents), took effect July 1, 1981; MCL 141.503 capped the rate at 2% until PA 60 of 1981. 1981 itself (2% to June 30, 3% from July 1) is not recorded: how the city treated the split year is not documented."
+    },
+    "1981": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://library.municode.com/mi/detroit/codes/code_of_ordinances?nodeId=CICOCH44--49_CH44TA_ARTIICIINTA_DIV1GE_S44-2-8IMTEN",
+      "notes": "2% on residents (1% on nonresidents) through June 30, 1981; 3% on residents and 1.5% on nonresidents from July 1, 1981 (approved by city voters June 23, 1981 under PA 60 and 61 of 1981; Detroit City Code sec. 44-2-8 history: Ord. No. 460-H, eff. 7-1-1981; sec. 44-2-16 withholding at the new rate from July 1, 1981; the ACIR Significant Features of Fiscal Federalism 1981-82 edition, M-135, Table 31 note 12, lists Detroit at 3% for residents at December 31, 1982). No document states how the city treated the split calendar year (unlike 1999-2003, when it set blended calendar-year rates), so 1981 is recorded at the year-end rate, following the convention of the other Michigan files for mid-year changes (Saginaw 1989, Grand Rapids 2010)."
+    },
+    "1982": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981), in effect from July 1, 1981 (Detroit City Code sec. 44-2-8 history: Ord. No. 460-H, eff. 7-1-1981) until July 1, 1999 (House Fiscal Agency analysis of HB 5105). 1981 (2% to June 30, 3% from July 1) is not recorded: the city's treatment of the split year is not documented."
+    },
+    "1983": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1984": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1985": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1986": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1987": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1988": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1989": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1990": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1991": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1992": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1993": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1994": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1995": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1996": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1997": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1998": {
+      "type": "flat",
+      "rate": 0.03,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "3% on residents and 1.5% on nonresidents, approved by city voters on June 23, 1981 (PA 60 and 61 of 1981) and in effect until July 1, 1999 (House Fiscal Agency analysis of HB 5105). The rate for 1981 itself and earlier years is not documented here."
+    },
+    "1999": {
+      "type": "flat",
+      "rate": 0.0295,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-3.pdf",
+      "notes": "PA 500 of 1998 cut the resident rate from 3% to 2.9% on July 1, 1999; the city set a single blended rate of 2.95% for calendar 1999 (House Fiscal Agency analysis of HB 5105)."
+    },
+    "2000": {
+      "type": "flat",
+      "rate": 0.0285,
+      "source": "https://www.legislature.mi.gov/documents/2003-2004/billanalysis/House/pdf/2003-HFA-4658-X3.pdf",
+      "notes": "Blended calendar-year rate: MCL 141.503(2)(b) reduced the resident rate 0.1 point each July 1 (2.9% from July 1999, 2.8% from July 2000, ... 2.5% from July 2003, as the HFA fiscal table for HB 4658 shows 2.50% for FY 2003-04), and the city combined the two half-year rates into one calendar-year rate."
+    },
+    "2001": {
+      "type": "flat",
+      "rate": 0.0275,
+      "source": "https://www.legislature.mi.gov/documents/2003-2004/billanalysis/House/pdf/2003-HFA-4658-X3.pdf",
+      "notes": "Blended calendar-year rate (2.8% to June 30, 2.7% from July 1); see 2000 note."
+    },
+    "2002": {
+      "type": "flat",
+      "rate": 0.0265,
+      "source": "https://www.legislature.mi.gov/documents/2003-2004/billanalysis/House/pdf/2003-HFA-4658-X3.pdf",
+      "notes": "Blended calendar-year rate (2.7% to June 30, 2.6% from July 1); see 2000 note."
+    },
+    "2003": {
+      "type": "flat",
+      "rate": 0.0255,
+      "source": "https://www.legislature.mi.gov/documents/2003-2004/billanalysis/House/pdf/2003-HFA-4658-X3.pdf",
+      "notes": "Blended calendar-year rate (2.6% to June 30, 2.5% from July 1, 2003); see 2000 note."
+    },
+    "2004": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "Scheduled reductions suspended; 2.5% residents / 1.25% nonresidents since 2004 (House Fiscal Agency analysis of HB 5105, 2007)."
+    },
+    "2005": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "Scheduled reductions suspended; 2.5% residents / 1.25% nonresidents since 2004 (House Fiscal Agency analysis of HB 5105, 2007)."
+    },
+    "2006": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://www.legislature.mi.gov/documents/2007-2008/billanalysis/House/pdf/2007-HLA-5105-8.pdf",
+      "notes": "Scheduled reductions suspended; 2.5% residents / 1.25% nonresidents since 2004 (House Fiscal Agency analysis of HB 5105, 2007)."
+    },
+    "2007": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://training.detroitmi.gov/sites/training.detroitmi/files/2018-05/d1040r07.pdf"
+    },
+    "2008": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://www.legislature.mi.gov/documents/2009-2010/billanalysis/House/pdf/2009-HLA-6557-1.pdf",
+      "notes": "PA 209 of 2007 kept the 2007 rate (2.5% / 1.25%) in place for 2008 and 2009."
+    },
+    "2009": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://www.legislature.mi.gov/documents/2009-2010/billanalysis/House/pdf/2009-HLA-6557-1.pdf",
+      "notes": "PA 209 of 2007 kept the 2007 rate (2.5% / 1.25%) in place for 2008 and 2009."
+    },
+    "2010": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://training.detroitmi.gov/sites/training.detroitmi/files/2018-05/d-1040r_resident_booklet_2010.pdf"
+    },
+    "2011": {
+      "type": "flat",
+      "rate": 0.025,
+      "source": "https://training.detroitmi.gov/sites/training.detroitmi/files/2018-05/d-1040l_12_inst.pdf",
+      "notes": "2.5% through June 30, 2012 per the 2012 instructions (2.45% blended rate for 2012); the 2011 return itself was not located."
+    },
+    "2012": {
+      "type": "flat",
+      "rate": 0.0245,
+      "source": "https://training.detroitmi.gov/sites/training.detroitmi/files/2018-05/d-1040r12_inst.pdf",
+      "notes": "2.5% through June 30, 2012 and 2.4% from July 1, 2012; the city set a blended 2.45% (1.225% nonresidents) for 2012."
+    },
+    "2013": {
+      "type": "flat",
+      "rate": 0.024,
+      "source": "https://training.detroitmi.gov/sites/training.detroitmi/files/2018-05/d-1040r13_inst.pdf"
+    },
+    "2014": {
+      "type": "flat",
+      "rate": 0.024,
+      "source": "https://training.detroitmi.gov/sites/training.detroitmi/files/2018-05/d-1040l_14.pdf"
+    },
+    "2015": {
+      "type": "flat",
+      "rate": 0.024,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-503",
+      "notes": "Statutory maximum of 2.4% residents / 1.2% nonresidents from January 1, 2013 (MCL 141.503(2)(d)); the city levied 2.4% in 2013-2014 and 2018-2023 per its returns. Returns for 2015-2017 were not located."
+    },
+    "2016": {
+      "type": "flat",
+      "rate": 0.024,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-503",
+      "notes": "Statutory maximum of 2.4% residents / 1.2% nonresidents from January 1, 2013 (MCL 141.503(2)(d)); the city levied 2.4% in 2013-2014 and 2018-2023 per its returns. Returns for 2015-2017 were not located."
+    },
+    "2017": {
+      "type": "flat",
+      "rate": 0.024,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-141-503",
+      "notes": "Statutory maximum of 2.4% residents / 1.2% nonresidents from January 1, 2013 (MCL 141.503(2)(d)); the city levied 2.4% in 2013-2014 and 2018-2023 per its returns. Returns for 2015-2017 were not located."
+    },
+    "2018": {
+      "type": "flat",
+      "rate": 0.024,
+      "source": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/City-IIT/TY2018/5118_ty2018.pdf"
+    },
+    "2019": {
+      "type": "flat",
+      "rate": 0.024,
+      "source": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/City-IIT/TY2019/5118_ty2019.pdf"
+    },
+    "2020": {
+      "type": "flat",
+      "rate": 0.024,
+      "source": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/City-IIT/TY2020/5118_ty2020.pdf"
+    },
+    "2021": {
+      "type": "flat",
+      "rate": 0.024,
+      "source": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/City-IIT/TY2021/5118.pdf"
+    },
+    "2022": {
+      "type": "flat",
+      "rate": 0.024,
+      "source": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/City-IIT/TY2022/5118.pdf"
+    },
+    "2023": {
+      "type": "flat",
+      "rate": 0.024,
+      "source": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/City-IIT/TY2023/5118.pdf"
+    },
+    "2024": {
+      "type": "flat",
+      "rate": 0.024,
+      "source": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/City-Withholding/TY2026/5469_ty2026.pdf"
+    },
+    "2025": {
+      "type": "flat",
+      "rate": 0.024,
+      "source": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/City-Withholding/TY2026/5469_ty2026.pdf"
+    },
+    "2026": {
+      "type": "flat",
+      "rate": 0.024,
+      "source": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/City-Withholding/TY2026/5469_ty2026.pdf"
+    }
+  }
+}

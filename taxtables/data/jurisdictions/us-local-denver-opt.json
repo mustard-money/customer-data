@@ -1,0 +1,462 @@
+{
+  "id": "us-local-denver-opt",
+  "kind": "local",
+  "region": "Denver",
+  "state": "CO",
+  "since": 1969,
+  "years": {
+    "1970": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/M-57.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1970-71 ed. (M-57), Table 43 note (p. 102, rates at December 31, 1970): Denver Employee Occupational Privilege Tax of $2 per employee per month, applying only to employees earning at least $250 per month. The city's Tax Guide Topic 61 (Wayback capture of December 7, 2000) says the OPT was enacted in 1969 at $2 each for the employee and business taxes and that the employee rate rose to $5.75 effective November 1, 1988 (hence 'since' 1969)."
+    },
+    "1971": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-74.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1972 ed. (M-74), Table 99 note (p. 228, rates at December 31, 1971): Denver Employee Occupational Privilege Tax of $2 per employee per month, applying only to employees earning at least $250 per month."
+    },
+    "1972": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "Carried between the ACIR 1972 (M-74, December 31, 1971) and 1973-74 (M-79, July 1, 1973) editions, which both give $2 per month on employees earning at least $250 in the month; no document for this year was located."
+    },
+    "1973": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.library.unt.edu/gpo/ACIR/Reports/information/m-79.pdf",
+      "notes": "ACIR Significant Features of Fiscal Federalism 1973-74 ed. (M-79), Table 150 note (p. 294, rates at July 1, 1973): Denver Employee Occupational Privilege Tax of $2 per employee per month, applying only to employees earning at least $250 per month."
+    },
+    "1974": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Carried between the ACIR 1973-74 (M-79, July 1, 1973) and 1976-77 editions, which both give $2 per month on employees earning at least $250 in the month; no document for this year was located."
+    },
+    "1975": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "Carried between the ACIR 1973-74 (M-79, July 1, 1973) and 1976-77 editions, which both give $2 per month on employees earning at least $250 in the month; no document for this year was located."
+    },
+    "1976": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1976-1977-V2.pdf",
+      "notes": "ACIR Significant Features 1976-77 ed. vol. II, Table 116 note (rates as of July 1, 1976): Denver Employee Occupational Privilege Tax of $2 per employee per month, applying only to employees earning at least $250 per month."
+    },
+    "1977": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "Carried between the ACIR 1976-77 and 1979-80 editions, which both give $2 per month on employees earning at least $250 in the month; no document for this year was located."
+    },
+    "1978": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "Carried between the ACIR 1976-77 and 1979-80 editions, which both give $2 per month on employees earning at least $250 in the month; no document for this year was located."
+    },
+    "1979": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.library.unt.edu/gpo/ACIR/SFFF/SFFF-1979-1980.pdf",
+      "notes": "ACIR Significant Features 1979-80 ed., Table 88 note (rates as of October 1, 1979): Denver Employee Occupational Privilege Tax of $2 per employee per month, applying only to employees earning at least $250 per month."
+    },
+    "1980": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://static.case.law/f-supp/573/cases/0686-01.json",
+      "notes": "Carried between the ACIR 1979-80 edition (October 1, 1979) and the 1983 code quoted in United States v. City and County of Denver, 573 F. Supp. 686 (D. Colo. 1983), both $2 per month on employees earning at least $250 in the month. The history notes of former DRMC secs. 53-240 (definition of employee, with the threshold) and 53-241 (levy) list no amendment between the 1950 Code and Ord. No. 619-88 of October 11, 1988 (Ord. Nos. 537-83, 664-85 and 782-87 amended only sec. 53-238, the purpose section; Municode CodeBank version of March 2020). No document for this year was located."
+    },
+    "1981": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://static.case.law/f-supp/573/cases/0686-01.json",
+      "notes": "Carried between the ACIR 1979-80 edition (October 1, 1979) and the 1983 code quoted in United States v. City and County of Denver, 573 F. Supp. 686 (D. Colo. 1983), both $2 per month on employees earning at least $250 in the month. The history notes of former DRMC secs. 53-240 (definition of employee, with the threshold) and 53-241 (levy) list no amendment between the 1950 Code and Ord. No. 619-88 of October 11, 1988 (Ord. Nos. 537-83, 664-85 and 782-87 amended only sec. 53-238, the purpose section; Municode CodeBank version of March 2020). No document for this year was located."
+    },
+    "1982": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://static.case.law/f-supp/573/cases/0686-01.json",
+      "notes": "Carried between the ACIR 1979-80 edition (October 1, 1979) and the 1983 code quoted in United States v. City and County of Denver, 573 F. Supp. 686 (D. Colo. 1983), both $2 per month on employees earning at least $250 in the month. The history notes of former DRMC secs. 53-240 (definition of employee, with the threshold) and 53-241 (levy) list no amendment between the 1950 Code and Ord. No. 619-88 of October 11, 1988 (Ord. Nos. 537-83, 664-85 and 782-87 amended only sec. 53-238, the purpose section; Municode CodeBank version of March 2020). No document for this year was located."
+    },
+    "1983": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://static.case.law/f-supp/573/cases/0686-01.json",
+      "notes": "Employee occupational privilege tax of $2.00 per month (Denver Rev. Municipal Code sec. 53-241 (1983)) on each employee receiving no less than $250.00 in the calendar month (sec. 53-240(1)), as quoted in United States v. City and County of Denver, 573 F. Supp. 686 (D. Colo., November 3, 1983), via the Caselaw Access Project."
+    },
+    "1984": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC secs. 53-241 ($2.00 per month) and 53-240(1) (employee: no less than $250.00 in the calendar month) as quoted for 1983 in United States v. City and County of Denver, 573 F. Supp. 686 (D. Colo. 1983). The history notes of former DRMC secs. 53-240 (definition of employee, with the threshold) and 53-241 (levy) list no amendment between the 1950 Code and Ord. No. 619-88 of October 11, 1988 (Ord. Nos. 537-83, 664-85 and 782-87 amended only sec. 53-238, the purpose section; Municode CodeBank version of March 2020). The city's Tax Guide Topic 61 (Wayback capture of December 7, 2000) dates the employee rate's rise to $5.75 to November 1, 1988. No document for this year was located."
+    },
+    "1985": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC secs. 53-241 ($2.00 per month) and 53-240(1) (employee: no less than $250.00 in the calendar month) as quoted for 1983 in United States v. City and County of Denver, 573 F. Supp. 686 (D. Colo. 1983). The history notes of former DRMC secs. 53-240 (definition of employee, with the threshold) and 53-241 (levy) list no amendment between the 1950 Code and Ord. No. 619-88 of October 11, 1988 (Ord. Nos. 537-83, 664-85 and 782-87 amended only sec. 53-238, the purpose section; Municode CodeBank version of March 2020). The city's Tax Guide Topic 61 (Wayback capture of December 7, 2000) dates the employee rate's rise to $5.75 to November 1, 1988. No document for this year was located."
+    },
+    "1986": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC secs. 53-241 ($2.00 per month) and 53-240(1) (employee: no less than $250.00 in the calendar month) as quoted for 1983 in United States v. City and County of Denver, 573 F. Supp. 686 (D. Colo. 1983). The history notes of former DRMC secs. 53-240 (definition of employee, with the threshold) and 53-241 (levy) list no amendment between the 1950 Code and Ord. No. 619-88 of October 11, 1988 (Ord. Nos. 537-83, 664-85 and 782-87 amended only sec. 53-238, the purpose section; Municode CodeBank version of March 2020). The city's Tax Guide Topic 61 (Wayback capture of December 7, 2000) dates the employee rate's rise to $5.75 to November 1, 1988. No document for this year was located."
+    },
+    "1987": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC secs. 53-241 ($2.00 per month) and 53-240(1) (employee: no less than $250.00 in the calendar month) as quoted for 1983 in United States v. City and County of Denver, 573 F. Supp. 686 (D. Colo. 1983). The history notes of former DRMC secs. 53-240 (definition of employee, with the threshold) and 53-241 (levy) list no amendment between the 1950 Code and Ord. No. 619-88 of October 11, 1988 (Ord. Nos. 537-83, 664-85 and 782-87 amended only sec. 53-238, the purpose section; Municode CodeBank version of March 2020). The city's Tax Guide Topic 61 (Wayback capture of December 7, 2000) dates the employee rate's rise to $5.75 to November 1, 1988. No document for this year was located."
+    },
+    "1988": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Year-end rate: Ord. No. 619-88 of October 11, 1988 amended former DRMC secs. 53-240 (threshold $500 in the month) and 53-241 ($5.75 per month), and the city's Tax Guide Topic 61 (Wayback capture of December 7, 2000) gives November 1, 1988 as the effective date of the $5.75 employee rate; the $500 threshold is taken to have come in with it. Before then in 1988: $2 per month on employees earning at least $250 (see 1983-1987)."
+    },
+    "1989": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "1990": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "1991": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "1992": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "1993": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "1994": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "1995": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "1996": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "1997": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "1998": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "1999": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2000": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2001": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2002": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2003": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2004": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2005": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2006": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2007": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2008": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2009": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2010": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2011": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2012": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2013": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2014": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2015": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2016": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2017": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2018": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2019": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2020": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://library.municode.com/co/denver/codes/code_of_ordinances/359333?nodeId=TITIIREMUCO_CH53TAMIRE_ARTVEMOCPRTA_DIV1GE_S53-241TALE",
+      "notes": "Former DRMC sec. 53-241 (Municode CodeBank version of March 2020, before the article was re-enacted by Ord. 1305-20): employee OPT $5.75 per month, with \"employee\" (sec. 53-240) one receiving at least $500 in the calendar month; both amended by Ord. No. 619-88 of October 11, 1988. The only later amendment of sec. 53-241, Ord. 775-07 sec. 137 (December 2007, one of secs. 135-160 of that ordinance), is read as the 2007 renaming of the manager of revenue as manager of finance, and Ord. 34-12 sec. 23 (2012) amended sec. 53-240 with the $500 unchanged in the 2020 text; neither ordinance was read. Year-specific documents not located."
+    },
+    "2021": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://www.denvergov.org/files/assets/public/v/2/finance/documents/treasury/tax-guides/taxguidetopic61_occupationalprivilegetaxes.pdf",
+      "notes": "Employee OPT $5.75 per month when compensation in Denver is at least $500 in the month (Tax Guide Topic 61, revised 1/2021)."
+    },
+    "2022": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://www.denvergov.org/files/assets/public/v/2/finance/documents/treasury/tax-guides/taxguidetopic61_occupationalprivilegetaxes.pdf",
+      "notes": "Employee OPT $5.75 per month when compensation in Denver is at least $500 in the month (Tax Guide Topic 61, revised 1/2021)."
+    },
+    "2023": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://www.denvergov.org/files/assets/public/v/2/finance/documents/treasury/tax-guides/taxguidetopic61_occupationalprivilegetaxes.pdf",
+      "notes": "Employee OPT $5.75 per month when compensation in Denver is at least $500 in the month (Tax Guide Topic 61, revised 1/2021)."
+    },
+    "2024": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://www.denvergov.org/files/assets/public/v/2/finance/documents/treasury/tax-guides/taxguidetopic61_occupationalprivilegetaxes.pdf"
+    },
+    "2025": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://www.denvergov.org/files/assets/public/v/2/finance/documents/treasury/tax-guides/taxguidetopic61_occupationalprivilegetaxes.pdf"
+    },
+    "2026": {
+      "type": "fixed",
+      "amount": 5.75,
+      "per": "month",
+      "minimumEarnings": 500,
+      "source": "https://www.denvergov.org/files/assets/public/v/2/finance/documents/treasury/tax-guides/taxguidetopic61_occupationalprivilegetaxes.pdf"
+    }
+  }
+}

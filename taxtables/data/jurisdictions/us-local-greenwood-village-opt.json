@@ -1,0 +1,230 @@
+{
+  "id": "us-local-greenwood-village-opt",
+  "kind": "local",
+  "region": "Greenwood Village, CO",
+  "state": "CO",
+  "since": 1980,
+  "years": {
+    "1999": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/19990421080049/http://www.greenwoodvillage.com:80/finance/bro2.html",
+      "notes": "Employee occupational privilege tax $2.00 per month when the employee earns $250.00 or more in a calendar month (employers pay a matching $2.00); the brochure says the tax has existed since January 1, 1980 (city tax brochure, Wayback capture of April 21, 1999). Amounts before 1999 are not documented."
+    },
+    "2000": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20030425213216/http://www.greenwoodvillage.com:80/finance/occupationaltax.pdf",
+      "notes": "Carried between the city's tax brochure (Wayback capture of April 21, 1999) and its OPT return form (Wayback capture of April 25, 2003), both $2.00 per month on employees earning $250 or more in the month; no document for this year was located."
+    },
+    "2001": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20030425213216/http://www.greenwoodvillage.com:80/finance/occupationaltax.pdf",
+      "notes": "Carried between the city's tax brochure (Wayback capture of April 21, 1999) and its OPT return form (Wayback capture of April 25, 2003), both $2.00 per month on employees earning $250 or more in the month; no document for this year was located."
+    },
+    "2002": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20030425213216/http://www.greenwoodvillage.com:80/finance/occupationaltax.pdf",
+      "notes": "Carried between the city's tax brochure (Wayback capture of April 21, 1999) and its OPT return form (Wayback capture of April 25, 2003), both $2.00 per month on employees earning $250 or more in the month; no document for this year was located."
+    },
+    "2003": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20030425213216/http://www.greenwoodvillage.com:80/finance/occupationaltax.pdf",
+      "notes": "City occupational privilege tax return form (Wayback capture of April 25, 2003): $2.00 for each employee who earned a minimum of $250.00 per month working in the city, plus the employer's matching $2.00."
+    },
+    "2004": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20060318073537/http://www.greenwoodvillage.com/documents/Finance%20Office/2005%20Annual%20Operating%20&%20Capital%20Budget/summaries.pdf",
+      "notes": "Carried between the city's OPT return form (Wayback capture of April 25, 2003) and its 2005 budget, both $2.00 per month on employees earning $250 or more in the month; no document for this year was located."
+    },
+    "2005": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20060318073537/http://www.greenwoodvillage.com/documents/Finance%20Office/2005%20Annual%20Operating%20&%20Capital%20Budget/summaries.pdf",
+      "notes": "2005 Annual Operating & Capital Budget, revenue summaries: the employee must earn $250 or more in a calendar month and is taxed $2.00 per month; employers match it (Wayback capture of March 18, 2006)."
+    },
+    "2006": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://web.archive.org/web/20060318051539/http://www.greenwoodvillage.com/documents/Finance%20Office/Taxes/opt.pdf",
+      "notes": "City occupational privilege tax return form (Wayback capture of March 18, 2006): $2.00 for each employee who earned a minimum of $250.00 per month working in the city, plus the employer's matching $2.00."
+    },
+    "2007": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Carried between the city's OPT return form (Wayback capture of March 18, 2006) and Municipal Code secs. 4-7-20 and 4-7-40 as re-enacted by Ord. 32 of 2011 from prior code 3.12.020 and 3.12.040, both $2.00 per month on employees earning $250 or more in the month; no document for this year was located."
+    },
+    "2008": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Carried between the city's OPT return form (Wayback capture of March 18, 2006) and Municipal Code secs. 4-7-20 and 4-7-40 as re-enacted by Ord. 32 of 2011 from prior code 3.12.020 and 3.12.040, both $2.00 per month on employees earning $250 or more in the month; no document for this year was located."
+    },
+    "2009": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Carried between the city's OPT return form (Wayback capture of March 18, 2006) and Municipal Code secs. 4-7-20 and 4-7-40 as re-enacted by Ord. 32 of 2011 from prior code 3.12.020 and 3.12.040, both $2.00 per month on employees earning $250 or more in the month; no document for this year was located."
+    },
+    "2010": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Carried between the city's OPT return form (Wayback capture of March 18, 2006) and Municipal Code secs. 4-7-20 and 4-7-40 as re-enacted by Ord. 32 of 2011 from prior code 3.12.020 and 3.12.040, both $2.00 per month on employees earning $250 or more in the month; no document for this year was located."
+    },
+    "2011": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Carried between the city's OPT return form (Wayback capture of March 18, 2006) and Municipal Code secs. 4-7-20 and 4-7-40 as re-enacted by Ord. 32 of 2011 from prior code 3.12.020 and 3.12.040, both $2.00 per month on employees earning $250 or more in the month; no document for this year was located."
+    },
+    "2012": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Municipal Code sec. 4-7-40 (employee OPT $2 per month) and sec. 4-7-20 (employee: at least $250 in a calendar month), each carried from prior code 3.12.040/3.12.020 and re-enacted by Ord. 32 sec. 1 of 2011 with no later amendment; recorded from the first full year after that ordinance. The city's OPT page says the tax began January 1, 1980 (hence \"since\"); the amounts before 2011 are not documented. Year-specific documents not located."
+    },
+    "2013": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Municipal Code sec. 4-7-40 (employee OPT $2 per month) and sec. 4-7-20 (employee: at least $250 in a calendar month), each carried from prior code 3.12.040/3.12.020 and re-enacted by Ord. 32 sec. 1 of 2011 with no later amendment; recorded from the first full year after that ordinance. The city's OPT page says the tax began January 1, 1980 (hence \"since\"); the amounts before 2011 are not documented. Year-specific documents not located."
+    },
+    "2014": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Municipal Code sec. 4-7-40 (employee OPT $2 per month) and sec. 4-7-20 (employee: at least $250 in a calendar month), each carried from prior code 3.12.040/3.12.020 and re-enacted by Ord. 32 sec. 1 of 2011 with no later amendment; recorded from the first full year after that ordinance. The city's OPT page says the tax began January 1, 1980 (hence \"since\"); the amounts before 2011 are not documented. Year-specific documents not located."
+    },
+    "2015": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Municipal Code sec. 4-7-40 (employee OPT $2 per month) and sec. 4-7-20 (employee: at least $250 in a calendar month), each carried from prior code 3.12.040/3.12.020 and re-enacted by Ord. 32 sec. 1 of 2011 with no later amendment; recorded from the first full year after that ordinance. The city's OPT page says the tax began January 1, 1980 (hence \"since\"); the amounts before 2011 are not documented. Year-specific documents not located."
+    },
+    "2016": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Municipal Code sec. 4-7-40 (employee OPT $2 per month) and sec. 4-7-20 (employee: at least $250 in a calendar month), each carried from prior code 3.12.040/3.12.020 and re-enacted by Ord. 32 sec. 1 of 2011 with no later amendment; recorded from the first full year after that ordinance. The city's OPT page says the tax began January 1, 1980 (hence \"since\"); the amounts before 2011 are not documented. Year-specific documents not located."
+    },
+    "2017": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Municipal Code sec. 4-7-40 (employee OPT $2 per month) and sec. 4-7-20 (employee: at least $250 in a calendar month), each carried from prior code 3.12.040/3.12.020 and re-enacted by Ord. 32 sec. 1 of 2011 with no later amendment; recorded from the first full year after that ordinance. The city's OPT page says the tax began January 1, 1980 (hence \"since\"); the amounts before 2011 are not documented. Year-specific documents not located."
+    },
+    "2018": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Municipal Code sec. 4-7-40 (employee OPT $2 per month) and sec. 4-7-20 (employee: at least $250 in a calendar month), each carried from prior code 3.12.040/3.12.020 and re-enacted by Ord. 32 sec. 1 of 2011 with no later amendment; recorded from the first full year after that ordinance. The city's OPT page says the tax began January 1, 1980 (hence \"since\"); the amounts before 2011 are not documented. Year-specific documents not located."
+    },
+    "2019": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Municipal Code sec. 4-7-40 (employee OPT $2 per month) and sec. 4-7-20 (employee: at least $250 in a calendar month), each carried from prior code 3.12.040/3.12.020 and re-enacted by Ord. 32 sec. 1 of 2011 with no later amendment; recorded from the first full year after that ordinance. The city's OPT page says the tax began January 1, 1980 (hence \"since\"); the amounts before 2011 are not documented. Year-specific documents not located."
+    },
+    "2020": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Municipal Code sec. 4-7-40 (employee OPT $2 per month) and sec. 4-7-20 (employee: at least $250 in a calendar month), each carried from prior code 3.12.040/3.12.020 and re-enacted by Ord. 32 sec. 1 of 2011 with no later amendment; recorded from the first full year after that ordinance. The city's OPT page says the tax began January 1, 1980 (hence \"since\"); the amounts before 2011 are not documented. Year-specific documents not located."
+    },
+    "2021": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Municipal Code sec. 4-7-40 (employee OPT $2 per month) and sec. 4-7-20 (employee: at least $250 in a calendar month), each carried from prior code 3.12.040/3.12.020 and re-enacted by Ord. 32 sec. 1 of 2011 with no later amendment; recorded from the first full year after that ordinance. The city's OPT page says the tax began January 1, 1980 (hence \"since\"); the amounts before 2011 are not documented. Year-specific documents not located."
+    },
+    "2022": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Municipal Code sec. 4-7-40 (employee OPT $2 per month) and sec. 4-7-20 (employee: at least $250 in a calendar month), each carried from prior code 3.12.040/3.12.020 and re-enacted by Ord. 32 sec. 1 of 2011 with no later amendment; recorded from the first full year after that ordinance. The city's OPT page says the tax began January 1, 1980 (hence \"since\"); the amounts before 2011 are not documented. Year-specific documents not located."
+    },
+    "2023": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://library.municode.com/co/greenwood_village/codes/municipal_code?nodeId=CH4REFI_ART7EMOCPRTA",
+      "notes": "Municipal Code sec. 4-7-40 (employee OPT $2 per month) and sec. 4-7-20 (employee: at least $250 in a calendar month), each carried from prior code 3.12.040/3.12.020 and re-enacted by Ord. 32 sec. 1 of 2011 with no later amendment; recorded from the first full year after that ordinance. The city's OPT page says the tax began January 1, 1980 (hence \"since\"); the amounts before 2011 are not documented. Year-specific documents not located."
+    },
+    "2024": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.greenwoodvillage.com/1220/Occupational-Privilege-Tax-OPT"
+    },
+    "2025": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.greenwoodvillage.com/1220/Occupational-Privilege-Tax-OPT"
+    },
+    "2026": {
+      "type": "fixed",
+      "amount": 2,
+      "per": "month",
+      "minimumEarnings": 250,
+      "source": "https://www.greenwoodvillage.com/1220/Occupational-Privilege-Tax-OPT"
+    }
+  }
+}

@@ -1,0 +1,971 @@
+{
+  "years": {
+    "1970": {
+      "method": "exclusion",
+      "excludedShare": 0.5,
+      "alternativeRate": 0.25,
+      "alternativeLimit": {
+        "single": 50000,
+        "marriedJoint": 50000
+      },
+      "alternativeExcessRate": 0.295,
+      "source": "https://www.jct.gov/getattachment/89bb713c-bb3f-4a1d-a987-425856365722/s-16-70-2406.pdf",
+      "notes": "JCT General Explanation of the Tax Reform Act of 1969 (JCS-16-70) pp. 15, 166-167: half of net long-term gain is included in income; the 25% alternative rate stays for the first $50,000 of long-term gain, and the maximum rate on gain above $50,000 is 29.5% in 1970 (excluding the 1970 income tax surcharge, not modelled). Cross-checked against Form 1040 instructions 1970 (https://www.irs.gov/pub/irs-prior/i1040--1970.pdf): 50% of capital gain distributions is taxable; alternative tax computed on Schedule D. The $50,000 applies to individuals generally (married filing separately $25,000, not verified here, not modelled). Add-on minimum tax on the excluded half not modelled. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1971": {
+      "method": "exclusion",
+      "excludedShare": 0.5,
+      "alternativeRate": 0.25,
+      "alternativeLimit": {
+        "single": 50000,
+        "marriedJoint": 50000
+      },
+      "alternativeExcessRate": 0.325,
+      "source": "https://www.jct.gov/getattachment/89bb713c-bb3f-4a1d-a987-425856365722/s-16-70-2406.pdf",
+      "notes": "JCS-16-70 pp. 15, 167: 25% alternative rate on the first $50,000 of net long-term gain; maximum rate on gain above $50,000 is 32.5% in 1971. Cross-checked against Form 1040 instructions 1971 (https://www.irs.gov/pub/irs-prior/i1040--1971.pdf): 50% of capital gain distributions taxable; alternative tax on Schedule D. Minimum tax and maximum tax on earned income not modelled. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1972": {
+      "method": "exclusion",
+      "excludedShare": 0.5,
+      "alternativeRate": 0.25,
+      "alternativeLimit": {
+        "single": 50000,
+        "marriedJoint": 50000
+      },
+      "source": "https://www.jct.gov/getattachment/89bb713c-bb3f-4a1d-a987-425856365722/s-16-70-2406.pdf",
+      "notes": "JCS-16-70 p. 167: from 1972 the 25% alternative rate applies only to the first $50,000 of net long-term gain; gain above that gets the regular 50% deduction (top effective rate 35%, half of 70%). Rule unchanged until the Revenue Act of 1978 (JCS-7-79 prior-law description: 50% deduction, partial alternative tax of 25% on the first $50,000). Cross-checked against Form 1040 instructions 1972 (https://www.irs.gov/pub/irs-prior/i1040--1972.pdf): 50% of capital gain distributions taxable; alternative tax still computed on Schedule D. Minimum tax on preferences and maximum tax on earned income not modelled. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1973": {
+      "method": "exclusion",
+      "excludedShare": 0.5,
+      "alternativeRate": 0.25,
+      "alternativeLimit": {
+        "single": 50000,
+        "marriedJoint": 50000
+      },
+      "source": "https://www.jct.gov/getattachment/89bb713c-bb3f-4a1d-a987-425856365722/s-16-70-2406.pdf",
+      "notes": "JCS-16-70 p. 167: from 1972 the 25% alternative rate applies only to the first $50,000 of net long-term gain; gain above that gets the regular 50% deduction (top effective rate 35%, half of 70%). Rule unchanged until the Revenue Act of 1978 (JCS-7-79 prior-law description: 50% deduction, partial alternative tax of 25% on the first $50,000). Cross-checked against Form 1040 instructions 1973 (https://www.irs.gov/pub/irs-prior/i1040--1973.pdf): 50% of capital gain distributions taxable; alternative tax still computed on Schedule D. Minimum tax on preferences and maximum tax on earned income not modelled. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1974": {
+      "method": "exclusion",
+      "excludedShare": 0.5,
+      "alternativeRate": 0.25,
+      "alternativeLimit": {
+        "single": 50000,
+        "marriedJoint": 50000
+      },
+      "source": "https://www.jct.gov/getattachment/89bb713c-bb3f-4a1d-a987-425856365722/s-16-70-2406.pdf",
+      "notes": "JCS-16-70 p. 167: from 1972 the 25% alternative rate applies only to the first $50,000 of net long-term gain; gain above that gets the regular 50% deduction (top effective rate 35%, half of 70%). Rule unchanged until the Revenue Act of 1978 (JCS-7-79 prior-law description: 50% deduction, partial alternative tax of 25% on the first $50,000). Cross-checked against Form 1040 instructions 1974 (https://www.irs.gov/pub/irs-prior/i1040--1974.pdf): 50% of capital gain distributions taxable; alternative tax still computed on Schedule D. Minimum tax on preferences and maximum tax on earned income not modelled. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1975": {
+      "method": "exclusion",
+      "excludedShare": 0.5,
+      "alternativeRate": 0.25,
+      "alternativeLimit": {
+        "single": 50000,
+        "marriedJoint": 50000
+      },
+      "source": "https://www.jct.gov/getattachment/89bb713c-bb3f-4a1d-a987-425856365722/s-16-70-2406.pdf",
+      "notes": "JCS-16-70 p. 167: from 1972 the 25% alternative rate applies only to the first $50,000 of net long-term gain; gain above that gets the regular 50% deduction (top effective rate 35%, half of 70%). Rule unchanged until the Revenue Act of 1978 (JCS-7-79 prior-law description: 50% deduction, partial alternative tax of 25% on the first $50,000). Cross-checked against Form 1040 instructions 1975 (https://www.irs.gov/pub/irs-prior/i1040--1975.pdf): 50% of capital gain distributions taxable; alternative tax still computed on Schedule D. Minimum tax on preferences and maximum tax on earned income not modelled. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1976": {
+      "method": "exclusion",
+      "excludedShare": 0.5,
+      "alternativeRate": 0.25,
+      "alternativeLimit": {
+        "single": 50000,
+        "marriedJoint": 50000
+      },
+      "source": "https://www.jct.gov/getattachment/89bb713c-bb3f-4a1d-a987-425856365722/s-16-70-2406.pdf",
+      "notes": "JCS-16-70 p. 167: from 1972 the 25% alternative rate applies only to the first $50,000 of net long-term gain; gain above that gets the regular 50% deduction (top effective rate 35%, half of 70%). Rule unchanged until the Revenue Act of 1978 (JCS-7-79 prior-law description: 50% deduction, partial alternative tax of 25% on the first $50,000). Cross-checked against Form 1040 instructions 1976 (https://www.irs.gov/pub/irs-prior/i1040--1976.pdf): 50% of capital gain distributions taxable; alternative tax still computed on Schedule D. Minimum tax on preferences and maximum tax on earned income not modelled. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1977": {
+      "method": "exclusion",
+      "excludedShare": 0.5,
+      "alternativeRate": 0.25,
+      "alternativeLimit": {
+        "single": 50000,
+        "marriedJoint": 50000
+      },
+      "source": "https://www.jct.gov/getattachment/89bb713c-bb3f-4a1d-a987-425856365722/s-16-70-2406.pdf",
+      "notes": "JCS-16-70 p. 167: from 1972 the 25% alternative rate applies only to the first $50,000 of net long-term gain; gain above that gets the regular 50% deduction (top effective rate 35%, half of 70%). Rule unchanged until the Revenue Act of 1978 (JCS-7-79 prior-law description: 50% deduction, partial alternative tax of 25% on the first $50,000). Cross-checked against Form 1040 instructions 1977 (https://www.irs.gov/pub/irs-prior/i1040--1977.pdf): 50% of capital gain distributions taxable; alternative tax still computed on Schedule D. Minimum tax on preferences and maximum tax on earned income not modelled. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1978": {
+      "method": "exclusion",
+      "excludedShare": 0.5,
+      "alternativeRate": 0.25,
+      "alternativeLimit": {
+        "single": 50000,
+        "marriedJoint": 50000
+      },
+      "source": "https://www.jct.gov/getattachment/39bea12f-bcf4-478b-9c02-d15552014bed/jcs-7-79-4156.pdf",
+      "notes": "JCT General Explanation of the Revenue Act of 1978 (JCS-7-79) pp. 251-254: prior law 50% deduction plus partial 25% alternative tax on the first $50,000; the Act raises the deduction to 60% for sales after October 31, 1978 (Nov-Dec 1978 sales: 60% exclusion, not modelled; rule covering most of the year used) and repeals the alternative tax after 1978. Form 1040 instructions 1978 (https://www.irs.gov/pub/irs-prior/i1040--1978.pdf) p. 3 confirm the Nov. 1, 1978 change and that the alternative tax applies for 1978. Treasury OTA table lists max rate 39.875/33.85 for 1978. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1979": {
+      "method": "exclusion",
+      "excludedShare": 0.6,
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1979.pdf",
+      "notes": "Form 1040 instructions 1979: 40% of capital gain distributions is taxable (60% excluded); 'No Alternative Tax Computation' (expired Dec 31, 1978). Matches JCS-7-79 (60% deduction, alternative tax repealed). The 60% deduction is a preference for the new alternative minimum tax (not modelled). Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1980": {
+      "method": "exclusion",
+      "excludedShare": 0.6,
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1980.pdf",
+      "notes": "Schedule D 1980 Part III: capital gain deduction is 60% of the net long-term gain (smaller of lines 18/19); no alternative tax part. AMT not modelled. Treasury OTA table max rate 28% (70% x 40%). Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1981": {
+      "method": "exclusion",
+      "excludedShare": 0.6,
+      "alternativeRate": 0.2,
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1981.pdf",
+      "notes": "Schedule D 1981: 60% deduction (line 21); Part IV 'Computation of Alternative Tax' for net gain from sales after June 9, 1981 (ERTA): tax on taxable income less 40% of that gain, plus 20% of that gain, with no dollar limit (so no alternativeLimit). Sales before June 10 (the smaller part of the year) got only the 60% deduction at rates up to 70% (28% effective). Treasury OTA table: max rate 28%/20% in 1981. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1982": {
+      "method": "exclusion",
+      "excludedShare": 0.6,
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1982.pdf",
+      "notes": "Schedule D 1982 Part III: deduction of 60% of the net long-term gain; no alternative tax computation. With the 50% top rate the maximum effective rate is 20% (Treasury OTA table, https://home.treasury.gov/system/files/131/Taxes-Paid-on-Capital-Gains-for-Returns-with-Positive-Net-Capital-Gains-12202016.pdf, lists 20.00 for 1982). AMT not modelled. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1983": {
+      "method": "exclusion",
+      "excludedShare": 0.6,
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1983.pdf",
+      "notes": "Schedule D 1983 Part III: deduction of 60% of the net long-term gain; no alternative tax computation. With the 50% top rate the maximum effective rate is 20% (Treasury OTA table, https://home.treasury.gov/system/files/131/Taxes-Paid-on-Capital-Gains-for-Returns-with-Positive-Net-Capital-Gains-12202016.pdf, lists 20.00 for 1983). AMT not modelled. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1984": {
+      "method": "exclusion",
+      "excludedShare": 0.6,
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1984.pdf",
+      "notes": "Schedule D 1984 Part III: deduction of 60% of the net long-term gain; no alternative tax computation. With the 50% top rate the maximum effective rate is 20% (Treasury OTA table, https://home.treasury.gov/system/files/131/Taxes-Paid-on-Capital-Gains-for-Returns-with-Positive-Net-Capital-Gains-12202016.pdf, lists 20.00 for 1984). AMT not modelled. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1985": {
+      "method": "exclusion",
+      "excludedShare": 0.6,
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1985.pdf",
+      "notes": "Schedule D 1985 Part III: deduction of 60% of the net long-term gain; no alternative tax computation. With the 50% top rate the maximum effective rate is 20% (Treasury OTA table, https://home.treasury.gov/system/files/131/Taxes-Paid-on-Capital-Gains-for-Returns-with-Positive-Net-Capital-Gains-12202016.pdf, lists 20.00 for 1985). AMT not modelled. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1986": {
+      "method": "exclusion",
+      "excludedShare": 0.6,
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1986.pdf",
+      "notes": "Schedule D 1986 Part III: deduction of 60% of the net long-term gain; no alternative tax computation. With the 50% top rate the maximum effective rate is 20% (Treasury OTA table, https://home.treasury.gov/system/files/131/Taxes-Paid-on-Capital-Gains-for-Returns-with-Positive-Net-Capital-Gains-12202016.pdf, lists 20.00 for 1986). AMT not modelled. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1987": {
+      "method": "maxRate",
+      "maxRate": 0.28,
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1987.pdf",
+      "notes": "Tax Reform Act of 1986 transition year: the exclusion is gone; Schedule D 1987 Part IV 'Alternative Tax Computation' taxes the net capital gain (smaller of net LTCG or net gain) at 28% while ordinary rates go to 38.5%. Treasury OTA table: max rate 28% for 1987."
+    },
+    "1988": {
+      "method": "ordinary",
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1988.pdf",
+      "notes": "Schedule D 1988 has no alternative tax or maximum-rate computation (Part III only reports the net gain on Form 1040); gains are taxed as ordinary income, including the 33% 'bubble' rate printed in the 1988 Form 1040 tax rate schedules (https://www.irs.gov/pub/irs-prior/i1040--1988.pdf; note that us-federal.json records only the statutory 15%/28% rates). Treasury OTA table shows 28% (the top statutory rate) for 1988."
+    },
+    "1989": {
+      "method": "ordinary",
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1989.pdf",
+      "notes": "Schedule D 1989 has no alternative tax or maximum-rate computation (Part III only reports the net gain on Form 1040); gains are taxed as ordinary income, including the 33% 'bubble' rate printed in the 1989 Form 1040 tax rate schedules (https://www.irs.gov/pub/irs-prior/i1040--1989.pdf; note that us-federal.json records only the statutory 15%/28% rates). Treasury OTA table shows 28% (the top statutory rate) for 1989."
+    },
+    "1990": {
+      "method": "ordinary",
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1990.pdf",
+      "notes": "Schedule D 1990 has no alternative tax or maximum-rate computation (Part III only reports the net gain on Form 1040); gains are taxed as ordinary income, including the 33% 'bubble' rate printed in the 1990 Form 1040 tax rate schedules (https://www.irs.gov/pub/irs-prior/i1040--1990.pdf; note that us-federal.json records only the statutory 15%/28% rates). Treasury OTA table shows 28% (the top statutory rate) for 1990."
+    },
+    "1991": {
+      "method": "maxRate",
+      "maxRate": 0.28,
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1991.pdf",
+      "notes": "Schedule D 1991 Part IV 'Tax Computation Using Maximum Capital Gains Rate': net capital gain above the 28% bracket taxed at 28% while the top ordinary rate is 31% (OBRA 1990). Treasury OTA table: statutory maximum 28% starting 1991. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1992": {
+      "method": "maxRate",
+      "maxRate": 0.28,
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1992.pdf",
+      "notes": "Schedule D 1992 Part IV 'Tax Computation Using Maximum Capital Gains Rate': net capital gain above the 28% bracket taxed at 28% while the top ordinary rate is 31% (OBRA 1990). Treasury OTA table: statutory maximum 28% starting 1991. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1993": {
+      "method": "maxRate",
+      "maxRate": 0.28,
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1993.pdf",
+      "notes": "Form 1040 instructions 1993 (Schedule D instructions, Part III line 18): 'The maximum tax rate on net capital gain ... is 28%'; Schedule D Tax Worksheet multiplies the gain by 28%. Ordinary rates up to 39.6% (OBRA 1993). Gain elected as investment income (Form 4952) excluded; not modelled. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1994": {
+      "method": "maxRate",
+      "maxRate": 0.28,
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1994.pdf",
+      "notes": "Form 1040 instructions 1994: Capital Gain Tax Worksheet (line 38) taxes the net capital gain above the 28% bracket at 28%. Treasury OTA table: 28% statutory maximum 1991-1997. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1995": {
+      "method": "maxRate",
+      "maxRate": 0.28,
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1995.pdf",
+      "notes": "Form 1040 instructions 1995: Capital Gain Tax Worksheet (line 38) taxes the net capital gain above the 28% bracket at 28%. Treasury OTA table: 28% statutory maximum 1991-1997. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1996": {
+      "method": "maxRate",
+      "maxRate": 0.28,
+      "source": "https://www.irs.gov/pub/irs-prior/i1040--1996.pdf",
+      "notes": "Form 1040 instructions 1996: Capital Gain Tax Worksheet (line 38) taxes the net capital gain above the 28% bracket at 28%. Treasury OTA table: 28% statutory maximum 1991-1997. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1997": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0.1,
+          "from": 0
+        },
+        {
+          "rate": 0.2,
+          "fromOrdinaryRate": 0.28
+        }
+      ],
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1997.pdf",
+      "notes": "Schedule D 1997 Part IV: 10% on gain within the 15% bracket, 20% above; the worksheet threshold $24,650 single / $41,200 MFJ equals the start of the 28% ordinary bracket in us-federal.json. Ignored: 28% rate on collectibles and section 1202 gain, 25% unrecaptured section 1250 gain. Taxpayer Relief Act of 1997: the 10%/20% rates apply to sales after May 6, 1997 (most of the year); earlier 1997 sales, and gain on assets held 1-18 months sold after July 28, 1997, stayed at the 28% maximum. Treasury OTA table: 29.19/21.19 for 1997. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1998": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0.1,
+          "from": 0
+        },
+        {
+          "rate": 0.2,
+          "fromOrdinaryRate": 0.28
+        }
+      ],
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1998.pdf",
+      "notes": "Schedule D 1998 Part IV: 10% on gain within the 15% bracket, 20% above; the worksheet threshold $25,350 single / $42,350 MFJ equals the start of the 28% ordinary bracket in us-federal.json. Ignored: 28% rate on collectibles and section 1202 gain, 25% unrecaptured section 1250 gain. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "1999": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0.1,
+          "from": 0
+        },
+        {
+          "rate": 0.2,
+          "fromOrdinaryRate": 0.28
+        }
+      ],
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--1999.pdf",
+      "notes": "Schedule D 1999 Part IV: 10% on gain within the 15% bracket, 20% above; the worksheet threshold $25,750 single / $43,050 MFJ equals the start of the 28% ordinary bracket in us-federal.json. Ignored: 28% rate on collectibles and section 1202 gain, 25% unrecaptured section 1250 gain. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "2000": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0.1,
+          "from": 0
+        },
+        {
+          "rate": 0.2,
+          "fromOrdinaryRate": 0.28
+        }
+      ],
+      "source": "https://www.irs.gov/pub/irs-prior/f1040sd--2000.pdf",
+      "notes": "Schedule D 2000 Part IV: 10% on gain within the 15% bracket, 20% above; the worksheet threshold $26,250 single / $43,850 MFJ equals the start of the 28% ordinary bracket in us-federal.json. Ignored: 28% rate on collectibles and section 1202 gain, 25% unrecaptured section 1250 gain. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "2001": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0.1,
+          "from": 0
+        },
+        {
+          "rate": 0.2,
+          "fromOrdinaryRate": 0.275
+        }
+      ],
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2001.pdf",
+      "notes": "Schedule D instructions 2001 tax worksheet: 10% on gain within the 15% bracket (threshold $27,050 single / $45,200 MFJ, = start of the 27.5% bracket), 20% above. Ignored: 8% rate for 5-year gain, 28% collectibles, 25% unrecaptured section 1250 gain. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "2002": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0.1,
+          "from": 0
+        },
+        {
+          "rate": 0.2,
+          "fromOrdinaryRate": 0.27
+        }
+      ],
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2002.pdf",
+      "notes": "Schedule D instructions 2002 tax worksheet: 10% on gain within the 15% bracket (threshold $27,950 single / $46,700 MFJ, = start of the 27% bracket), 20% above. Ignored: 8% rate for 5-year gain, 28% collectibles, 25% unrecaptured section 1250 gain. Dividends were ordinary income (only the small dividend exclusion, ignored)."
+    },
+    "2003": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0.05,
+          "from": 0
+        },
+        {
+          "rate": 0.15,
+          "fromOrdinaryRate": 0.25
+        }
+      ],
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2003.pdf",
+      "notes": "Schedule D instructions 2003, Qualified Dividends and Capital Gain Tax Worksheet: 5% on net LTCG plus qualified dividends while taxable income is within $28,400 single / $56,800 MFJ (= start of the 25% ordinary bracket), 15% above. JGTRRA 2003: 5%/15% apply to sales after May 5, 2003 (most of the year) and to qualified dividends for all of 2003; earlier 2003 sales kept the 10%/20% rates (and 8% for 5-year gain). Treasury OTA table: 21.05/16.05 for 2003. Qualified dividends taxed at these rates from 2003. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain."
+    },
+    "2004": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0.05,
+          "from": 0
+        },
+        {
+          "rate": 0.15,
+          "fromOrdinaryRate": 0.25
+        }
+      ],
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2004.pdf",
+      "notes": "Schedule D instructions 2004, Qualified Dividends and Capital Gain Tax Worksheet: 5% on net LTCG plus qualified dividends while taxable income is within $29,050 single / $58,100 MFJ (= start of the 25% ordinary bracket), 15% above. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain."
+    },
+    "2005": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0.05,
+          "from": 0
+        },
+        {
+          "rate": 0.15,
+          "fromOrdinaryRate": 0.25
+        }
+      ],
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2005.pdf",
+      "notes": "Schedule D instructions 2005, Qualified Dividends and Capital Gain Tax Worksheet: 5% on net LTCG plus qualified dividends while taxable income is within $29,700 single / $59,400 MFJ (= start of the 25% ordinary bracket), 15% above. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain."
+    },
+    "2006": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0.05,
+          "from": 0
+        },
+        {
+          "rate": 0.15,
+          "fromOrdinaryRate": 0.25
+        }
+      ],
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2006.pdf",
+      "notes": "Schedule D instructions 2006, Qualified Dividends and Capital Gain Tax Worksheet: 5% on net LTCG plus qualified dividends while taxable income is within $30,650 single / $61,300 MFJ (= start of the 25% ordinary bracket), 15% above. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain."
+    },
+    "2007": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0.05,
+          "from": 0
+        },
+        {
+          "rate": 0.15,
+          "fromOrdinaryRate": 0.25
+        }
+      ],
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2007.pdf",
+      "notes": "Schedule D instructions 2007, Qualified Dividends and Capital Gain Tax Worksheet: 5% on net LTCG plus qualified dividends while taxable income is within $31,850 single / $63,700 MFJ (= start of the 25% ordinary bracket), 15% above. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain."
+    },
+    "2008": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0,
+          "from": 0
+        },
+        {
+          "rate": 0.15,
+          "fromOrdinaryRate": 0.25
+        }
+      ],
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2008.pdf",
+      "notes": "Schedule D instructions 2008, Qualified Dividends and Capital Gain Tax Worksheet: 0% on net LTCG plus qualified dividends while taxable income is within $32,550 single / $65,100 MFJ (= start of the 25% ordinary bracket), 15% above. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain."
+    },
+    "2009": {
+      "method": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 33950,
+            "rate": 0.15
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 67900,
+            "rate": 0.15
+          }
+        ]
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2009.pdf",
+      "notes": "Schedule D instructions 2009, Qualified Dividends and Capital Gain Tax Worksheet: 0% on net LTCG plus qualified dividends while taxable income is within $33,950 single / $67,900 MFJ (= start of the 25% ordinary bracket), 15% above. Given as dollar schedules instead of tiers because the 2009 marriedJoint schedule in us-federal.json has the 25% bracket starting at $137,050 (that is the 28% bracket start; the MFJ 25% bracket starts at $67,900), so fromOrdinaryRate 0.25 would be wrong for MFJ. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain."
+    },
+    "2010": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0,
+          "from": 0
+        },
+        {
+          "rate": 0.15,
+          "fromOrdinaryRate": 0.25
+        }
+      ],
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2010.pdf",
+      "notes": "Schedule D instructions 2010, Qualified Dividends and Capital Gain Tax Worksheet: 0% on net LTCG plus qualified dividends while taxable income is within $34,000 single / $68,000 MFJ (= start of the 25% ordinary bracket), 15% above. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain."
+    },
+    "2011": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0,
+          "from": 0
+        },
+        {
+          "rate": 0.15,
+          "fromOrdinaryRate": 0.25
+        }
+      ],
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2011.pdf",
+      "notes": "Schedule D instructions 2011, Qualified Dividends and Capital Gain Tax Worksheet: 0% on net LTCG plus qualified dividends while taxable income is within $34,500 single / $69,000 MFJ (= start of the 25% ordinary bracket), 15% above. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain."
+    },
+    "2012": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0,
+          "from": 0
+        },
+        {
+          "rate": 0.15,
+          "fromOrdinaryRate": 0.25
+        }
+      ],
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2012.pdf",
+      "notes": "Schedule D instructions 2012, Qualified Dividends and Capital Gain Tax Worksheet: 0% on net LTCG plus qualified dividends while taxable income is within $35,350 single / $70,700 MFJ (= start of the 25% ordinary bracket), 15% above. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain."
+    },
+    "2013": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0,
+          "from": 0
+        },
+        {
+          "rate": 0.15,
+          "fromOrdinaryRate": 0.25
+        },
+        {
+          "rate": 0.2,
+          "fromOrdinaryRate": 0.396
+        }
+      ],
+      "netInvestmentIncomeTax": {
+        "rate": 0.038,
+        "threshold": {
+          "single": 200000,
+          "marriedJoint": 250000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2013.pdf",
+      "notes": "Schedule D instructions 2013, Qualified Dividends and Capital Gain Tax Worksheet: 0% on net LTCG plus qualified dividends while taxable income is within $36,250 single / $72,500 MFJ (= start of the 25% ordinary bracket), 15% above, 20% from $400,000 single / $450,000 MFJ (= start of the 39.6% bracket; ATRA 2012). Tax-Calculator CG_brk1/CG_brk2 agree. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain. NIIT (IRC 1411): 3.8% of the lesser of net investment income or MAGI over $200,000 single / $250,000 MFJ, not indexed (Form 8960 instructions, https://www.irs.gov/pub/irs-prior/i8960--2013.pdf and current i8960; Tax-Calculator NIIT_thd/NIIT_rt agree)."
+    },
+    "2014": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0,
+          "from": 0
+        },
+        {
+          "rate": 0.15,
+          "fromOrdinaryRate": 0.25
+        },
+        {
+          "rate": 0.2,
+          "fromOrdinaryRate": 0.396
+        }
+      ],
+      "netInvestmentIncomeTax": {
+        "rate": 0.038,
+        "threshold": {
+          "single": 200000,
+          "marriedJoint": 250000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2014.pdf",
+      "notes": "Schedule D instructions 2014, Qualified Dividends and Capital Gain Tax Worksheet: 0% on net LTCG plus qualified dividends while taxable income is within $36,900 single / $73,800 MFJ (= start of the 25% ordinary bracket), 15% above, 20% from $406,750 single / $457,600 MFJ (= start of the 39.6% bracket; ATRA 2012). Tax-Calculator CG_brk1/CG_brk2 agree. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain. NIIT (IRC 1411): 3.8% of the lesser of net investment income or MAGI over $200,000 single / $250,000 MFJ, not indexed (Form 8960 instructions, https://www.irs.gov/pub/irs-prior/i8960--2013.pdf and current i8960; Tax-Calculator NIIT_thd/NIIT_rt agree)."
+    },
+    "2015": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0,
+          "from": 0
+        },
+        {
+          "rate": 0.15,
+          "fromOrdinaryRate": 0.25
+        },
+        {
+          "rate": 0.2,
+          "fromOrdinaryRate": 0.396
+        }
+      ],
+      "netInvestmentIncomeTax": {
+        "rate": 0.038,
+        "threshold": {
+          "single": 200000,
+          "marriedJoint": 250000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2015.pdf",
+      "notes": "Schedule D instructions 2015, Qualified Dividends and Capital Gain Tax Worksheet: 0% on net LTCG plus qualified dividends while taxable income is within $37,450 single / $74,900 MFJ (= start of the 25% ordinary bracket), 15% above, 20% from $413,200 single / $464,850 MFJ (= start of the 39.6% bracket; ATRA 2012). Tax-Calculator CG_brk1/CG_brk2 agree. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain. NIIT (IRC 1411): 3.8% of the lesser of net investment income or MAGI over $200,000 single / $250,000 MFJ, not indexed (Form 8960 instructions, https://www.irs.gov/pub/irs-prior/i8960--2013.pdf and current i8960; Tax-Calculator NIIT_thd/NIIT_rt agree)."
+    },
+    "2016": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0,
+          "from": 0
+        },
+        {
+          "rate": 0.15,
+          "fromOrdinaryRate": 0.25
+        },
+        {
+          "rate": 0.2,
+          "fromOrdinaryRate": 0.396
+        }
+      ],
+      "netInvestmentIncomeTax": {
+        "rate": 0.038,
+        "threshold": {
+          "single": 200000,
+          "marriedJoint": 250000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2016.pdf",
+      "notes": "Schedule D instructions 2016, Qualified Dividends and Capital Gain Tax Worksheet: 0% on net LTCG plus qualified dividends while taxable income is within $37,650 single / $75,300 MFJ (= start of the 25% ordinary bracket), 15% above, 20% from $415,050 single / $466,950 MFJ (= start of the 39.6% bracket; ATRA 2012). Tax-Calculator CG_brk1/CG_brk2 agree. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain. NIIT (IRC 1411): 3.8% of the lesser of net investment income or MAGI over $200,000 single / $250,000 MFJ, not indexed (Form 8960 instructions, https://www.irs.gov/pub/irs-prior/i8960--2013.pdf and current i8960; Tax-Calculator NIIT_thd/NIIT_rt agree)."
+    },
+    "2017": {
+      "method": "brackets",
+      "tiers": [
+        {
+          "rate": 0,
+          "from": 0
+        },
+        {
+          "rate": 0.15,
+          "fromOrdinaryRate": 0.25
+        },
+        {
+          "rate": 0.2,
+          "fromOrdinaryRate": 0.396
+        }
+      ],
+      "netInvestmentIncomeTax": {
+        "rate": 0.038,
+        "threshold": {
+          "single": 200000,
+          "marriedJoint": 250000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2017.pdf",
+      "notes": "Schedule D instructions 2017, Qualified Dividends and Capital Gain Tax Worksheet: 0% on net LTCG plus qualified dividends while taxable income is within $37,950 single / $75,900 MFJ (= start of the 25% ordinary bracket), 15% above, 20% from $418,400 single / $470,700 MFJ (= start of the 39.6% bracket; ATRA 2012). Tax-Calculator CG_brk1/CG_brk2 agree. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain. NIIT (IRC 1411): 3.8% of the lesser of net investment income or MAGI over $200,000 single / $250,000 MFJ, not indexed (Form 8960 instructions, https://www.irs.gov/pub/irs-prior/i8960--2013.pdf and current i8960; Tax-Calculator NIIT_thd/NIIT_rt agree)."
+    },
+    "2018": {
+      "method": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 38600,
+            "rate": 0.15
+          },
+          {
+            "from": 425800,
+            "rate": 0.2
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 77200,
+            "rate": 0.15
+          },
+          {
+            "from": 479000,
+            "rate": 0.2
+          }
+        ]
+      },
+      "netInvestmentIncomeTax": {
+        "rate": 0.038,
+        "threshold": {
+          "single": 200000,
+          "marriedJoint": 250000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-drop/rp-18-57.pdf",
+      "notes": "P.L. 115-97 sec. 1(j)(5)(B) statutory 2018 amounts, as restated in Rev. Proc. 2018-57 section 2.01: maximum zero rate amount $77,200 MFJ (half, $38,600, for other individuals), maximum 15% rate amount $479,000 MFJ / $425,800 single. Amounts are taxable income; 0% up to the zero rate amount, 15% up to the 15% rate amount, 20% above. Tax-Calculator CG_brk1/CG_brk2 agree. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain. NIIT (IRC 1411): 3.8% of the lesser of net investment income or MAGI over $200,000 single / $250,000 MFJ, not indexed (Form 8960 instructions, https://www.irs.gov/pub/irs-prior/i8960--2013.pdf and current i8960; Tax-Calculator NIIT_thd/NIIT_rt agree)."
+    },
+    "2019": {
+      "method": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 39375,
+            "rate": 0.15
+          },
+          {
+            "from": 434550,
+            "rate": 0.2
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 78750,
+            "rate": 0.15
+          },
+          {
+            "from": 488850,
+            "rate": 0.2
+          }
+        ]
+      },
+      "netInvestmentIncomeTax": {
+        "rate": 0.038,
+        "threshold": {
+          "single": 200000,
+          "marriedJoint": 250000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-drop/rp-18-57.pdf",
+      "notes": "Rev. Proc. 2018-57 section .03 (Maximum Capital Gains Rate) for taxable years beginning in 2019: maximum zero rate amount and maximum 15% rate amount. Amounts are taxable income; 0% up to the zero rate amount, 15% up to the 15% rate amount, 20% above. Tax-Calculator CG_brk1/CG_brk2 agree. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain. NIIT (IRC 1411): 3.8% of the lesser of net investment income or MAGI over $200,000 single / $250,000 MFJ, not indexed (Form 8960 instructions, https://www.irs.gov/pub/irs-prior/i8960--2013.pdf and current i8960; Tax-Calculator NIIT_thd/NIIT_rt agree)."
+    },
+    "2020": {
+      "method": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 40000,
+            "rate": 0.15
+          },
+          {
+            "from": 441450,
+            "rate": 0.2
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 80000,
+            "rate": 0.15
+          },
+          {
+            "from": 496600,
+            "rate": 0.2
+          }
+        ]
+      },
+      "netInvestmentIncomeTax": {
+        "rate": 0.038,
+        "threshold": {
+          "single": 200000,
+          "marriedJoint": 250000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-drop/rp-19-44.pdf",
+      "notes": "Rev. Proc. 2019-44 section .03 (Maximum Capital Gains Rate) for taxable years beginning in 2020: maximum zero rate amount and maximum 15% rate amount. Amounts are taxable income; 0% up to the zero rate amount, 15% up to the 15% rate amount, 20% above. Tax-Calculator CG_brk1/CG_brk2 agree. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain. NIIT (IRC 1411): 3.8% of the lesser of net investment income or MAGI over $200,000 single / $250,000 MFJ, not indexed (Form 8960 instructions, https://www.irs.gov/pub/irs-prior/i8960--2013.pdf and current i8960; Tax-Calculator NIIT_thd/NIIT_rt agree)."
+    },
+    "2021": {
+      "method": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 40400,
+            "rate": 0.15
+          },
+          {
+            "from": 445850,
+            "rate": 0.2
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 80800,
+            "rate": 0.15
+          },
+          {
+            "from": 501600,
+            "rate": 0.2
+          }
+        ]
+      },
+      "netInvestmentIncomeTax": {
+        "rate": 0.038,
+        "threshold": {
+          "single": 200000,
+          "marriedJoint": 250000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-drop/rp-20-45.pdf",
+      "notes": "Rev. Proc. 2020-45 section .03 (Maximum Capital Gains Rate) for taxable years beginning in 2021: maximum zero rate amount and maximum 15% rate amount. Amounts are taxable income; 0% up to the zero rate amount, 15% up to the 15% rate amount, 20% above. Tax-Calculator CG_brk1/CG_brk2 agree. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain. NIIT (IRC 1411): 3.8% of the lesser of net investment income or MAGI over $200,000 single / $250,000 MFJ, not indexed (Form 8960 instructions, https://www.irs.gov/pub/irs-prior/i8960--2013.pdf and current i8960; Tax-Calculator NIIT_thd/NIIT_rt agree)."
+    },
+    "2022": {
+      "method": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 41675,
+            "rate": 0.15
+          },
+          {
+            "from": 459750,
+            "rate": 0.2
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 83350,
+            "rate": 0.15
+          },
+          {
+            "from": 517200,
+            "rate": 0.2
+          }
+        ]
+      },
+      "netInvestmentIncomeTax": {
+        "rate": 0.038,
+        "threshold": {
+          "single": 200000,
+          "marriedJoint": 250000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-drop/rp-21-45.pdf",
+      "notes": "Rev. Proc. 2021-45 section .03 (Maximum Capital Gains Rate) for taxable years beginning in 2022: maximum zero rate amount and maximum 15% rate amount. Amounts are taxable income; 0% up to the zero rate amount, 15% up to the 15% rate amount, 20% above. Tax-Calculator CG_brk1/CG_brk2 agree. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain. NIIT (IRC 1411): 3.8% of the lesser of net investment income or MAGI over $200,000 single / $250,000 MFJ, not indexed (Form 8960 instructions, https://www.irs.gov/pub/irs-prior/i8960--2013.pdf and current i8960; Tax-Calculator NIIT_thd/NIIT_rt agree)."
+    },
+    "2023": {
+      "method": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 44625,
+            "rate": 0.15
+          },
+          {
+            "from": 492300,
+            "rate": 0.2
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 89250,
+            "rate": 0.15
+          },
+          {
+            "from": 553850,
+            "rate": 0.2
+          }
+        ]
+      },
+      "netInvestmentIncomeTax": {
+        "rate": 0.038,
+        "threshold": {
+          "single": 200000,
+          "marriedJoint": 250000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-drop/rp-22-38.pdf",
+      "notes": "Rev. Proc. 2022-38 section .03 (Maximum Capital Gains Rate) for taxable years beginning in 2023: maximum zero rate amount and maximum 15% rate amount. Amounts are taxable income; 0% up to the zero rate amount, 15% up to the 15% rate amount, 20% above. Tax-Calculator CG_brk1/CG_brk2 agree. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain. NIIT (IRC 1411): 3.8% of the lesser of net investment income or MAGI over $200,000 single / $250,000 MFJ, not indexed (Form 8960 instructions, https://www.irs.gov/pub/irs-prior/i8960--2013.pdf and current i8960; Tax-Calculator NIIT_thd/NIIT_rt agree)."
+    },
+    "2024": {
+      "method": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 47025,
+            "rate": 0.15
+          },
+          {
+            "from": 518900,
+            "rate": 0.2
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 94050,
+            "rate": 0.15
+          },
+          {
+            "from": 583750,
+            "rate": 0.2
+          }
+        ]
+      },
+      "netInvestmentIncomeTax": {
+        "rate": 0.038,
+        "threshold": {
+          "single": 200000,
+          "marriedJoint": 250000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-drop/rp-23-34.pdf",
+      "notes": "Rev. Proc. 2023-34 section .03 (Maximum Capital Gains Rate) for taxable years beginning in 2024: maximum zero rate amount and maximum 15% rate amount. Amounts are taxable income; 0% up to the zero rate amount, 15% up to the 15% rate amount, 20% above. Tax-Calculator CG_brk1/CG_brk2 agree. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain. NIIT (IRC 1411): 3.8% of the lesser of net investment income or MAGI over $200,000 single / $250,000 MFJ, not indexed (Form 8960 instructions, https://www.irs.gov/pub/irs-prior/i8960--2013.pdf and current i8960; Tax-Calculator NIIT_thd/NIIT_rt agree)."
+    },
+    "2025": {
+      "method": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 48350,
+            "rate": 0.15
+          },
+          {
+            "from": 533400,
+            "rate": 0.2
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 96700,
+            "rate": 0.15
+          },
+          {
+            "from": 600050,
+            "rate": 0.2
+          }
+        ]
+      },
+      "netInvestmentIncomeTax": {
+        "rate": 0.038,
+        "threshold": {
+          "single": 200000,
+          "marriedJoint": 250000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-drop/rp-24-40.pdf",
+      "notes": "Rev. Proc. 2024-40 section .03 (Maximum Capital Gains Rate) for taxable years beginning in 2025: maximum zero rate amount and maximum 15% rate amount. Amounts are taxable income; 0% up to the zero rate amount, 15% up to the 15% rate amount, 20% above. Tax-Calculator CG_brk1/CG_brk2 agree. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain. NIIT (IRC 1411): 3.8% of the lesser of net investment income or MAGI over $200,000 single / $250,000 MFJ, not indexed (Form 8960 instructions, https://www.irs.gov/pub/irs-prior/i8960--2013.pdf and current i8960; Tax-Calculator NIIT_thd/NIIT_rt agree)."
+    },
+    "2026": {
+      "method": "brackets",
+      "schedules": {
+        "single": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 49450,
+            "rate": 0.15
+          },
+          {
+            "from": 545500,
+            "rate": 0.2
+          }
+        ],
+        "marriedJoint": [
+          {
+            "from": 0,
+            "rate": 0
+          },
+          {
+            "from": 98900,
+            "rate": 0.15
+          },
+          {
+            "from": 613700,
+            "rate": 0.2
+          }
+        ]
+      },
+      "netInvestmentIncomeTax": {
+        "rate": 0.038,
+        "threshold": {
+          "single": 200000,
+          "marriedJoint": 250000
+        }
+      },
+      "source": "https://www.irs.gov/pub/irs-drop/rp-25-32.pdf",
+      "notes": "Rev. Proc. 2025-32 section .03 (Maximum Capital Gains Rate) for taxable years beginning in 2026: maximum zero rate amount and maximum 15% rate amount. Issued after P.L. 119-21 (OBBBA), which made the TCJA dollar thresholds permanent. Amounts are taxable income; 0% up to the zero rate amount, 15% up to the 15% rate amount, 20% above. Tax-Calculator CG_brk1/CG_brk2 agree. Ignored: 28% collectibles/section 1202 gain, 25% unrecaptured section 1250 gain. NIIT (IRC 1411): 3.8% of the lesser of net investment income or MAGI over $200,000 single / $250,000 MFJ, not indexed (Form 8960 instructions, https://www.irs.gov/pub/irs-prior/i8960--2013.pdf and current i8960; Tax-Calculator NIIT_thd/NIIT_rt agree)."
+    }
+  }
+}
